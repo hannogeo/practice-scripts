@@ -1,0 +1,662 @@
+[
+  {
+    "native": "تونس",
+    "latin": "Tunis",
+    "country": "Tunisia"
+  },
+  {
+    "native": "صفاقس",
+    "latin": "Sfax",
+    "country": "Tunisia"
+  },
+  {
+    "native": "سوسة",
+    "latin": "Sousse",
+    "country": "Tunisia"
+  },
+  {
+    "native": "القيروان",
+    "latin": "Kairouan",
+    "country": "Tunisia"
+  },
+  {
+    "native": "باجة",
+    "latin": "Beja",
+    "country": "Tunisia"
+  },
+  {
+    "native": "قابس",
+    "latin": "Gabes",
+    "country": "Tunisia"
+  },
+  {
+    "native": "بنزرت",
+    "latin": "Bizerte",
+    "country": "Tunisia"
+  },
+  {
+    "native": "نابل",
+    "latin": "Nabeul",
+    "country": "Tunisia"
+  },
+  {
+    "native": "مدنين",
+    "latin": "Medenine",
+    "country": "Tunisia"
+  },
+  {
+    "native": "تطاوين",
+    "latin": "Tataouine",
+    "country": "Tunisia"
+  },
+  {
+    "native": "قفصة",
+    "latin": "Gafsa",
+    "country": "Tunisia"
+  },
+  {
+    "native": "توزر",
+    "latin": "Tozeur",
+    "country": "Tunisia"
+  },
+  {
+    "native": "الكاف",
+    "latin": "El Kef",
+    "country": "Tunisia"
+  },
+  {
+    "native": "سليانة",
+    "latin": "Siliana",
+    "country": "Tunisia"
+  },
+  {
+    "native": "زغوان",
+    "latin": "Zaghouan",
+    "country": "Tunisia"
+  },
+  {
+    "native": "منوبة",
+    "latin": "Manouba",
+    "country": "Tunisia"
+  },
+  {
+    "native": "أريانة",
+    "latin": "Ariana",
+    "country": "Tunisia"
+  },
+  {
+    "native": "بن عروس",
+    "latin": "Ben Arous",
+    "country": "Tunisia"
+  },
+  {
+    "native": "المهدية",
+    "latin": "Mahdia",
+    "country": "Tunisia"
+  },
+  {
+    "native": "المنستير",
+    "latin": "Monastir",
+    "country": "Tunisia"
+  },
+  {
+    "native": "الحمامات",
+    "latin": "Hammamet",
+    "country": "Tunisia"
+  },
+  {
+    "native": "طبرقة",
+    "latin": "Tabarka",
+    "country": "Tunisia"
+  },
+  {
+    "native": "جربة",
+    "latin": "Djerba",
+    "country": "Tunisia"
+  },
+  {
+    "native": "بنقردان",
+    "latin": "Ben Gardane",
+    "country": "Tunisia"
+  },
+  {
+    "native": "قبلي",
+    "latin": "Kebili",
+    "country": "Tunisia"
+  },
+  {
+    "native": "مدنين",
+    "latin": "Medenine",
+    "country": "Tunisia"
+  },
+  {
+    "native": "قصر قفصة",
+    "latin": "Ksar Gafsa",
+    "country": "Tunisia"
+  },
+  {
+    "native": "متلوي",
+    "latin": "Metlaoui",
+    "country": "Tunisia"
+  },
+  {
+    "native": "الرديف",
+    "latin": "Redeyef",
+    "country": "Tunisia"
+  },
+  {
+    "native": "المطوية",
+    "latin": "Matmata",
+    "country": "Tunisia"
+  },
+  {
+    "native": "شنني",
+    "latin": "Chenini",
+    "country": "Tunisia"
+  },
+  {
+    "native": "دوز",
+    "latin": "Douz",
+    "country": "Tunisia"
+  },
+  {
+    "native": "نفطة",
+    "latin": "Nefta",
+    "country": "Tunisia"
+  },
+  {
+    "native": "حامة الجريد",
+    "latin": "El Hamma",
+    "country": "Tunisia"
+  },
+  {
+    "native": "المكنين",
+    "latin": "Mokinine",
+    "country": "Tunisia"
+  },
+  {
+    "native": "مساكن",
+    "latin": "M\\u0027saken",
+    "country": "Tunisia"
+  },
+  {
+    "native": "أكودة",
+    "latin": "Akouda",
+    "country": "Tunisia"
+  },
+  {
+    "native": "حمام سوسة",
+    "latin": "Hammam Sousse",
+    "country": "Tunisia"
+  },
+  {
+    "native": "القلعة",
+    "latin": "Kalâa Kebira",
+    "country": "Tunisia"
+  },
+  {
+    "native": "القلعة الصغرى",
+    "latin": "Kalâa Seghira",
+    "country": "Tunisia"
+  },
+  {
+    "native": "السيالة",
+    "latin": "Sayada",
+    "country": "Tunisia"
+  },
+  {
+    "native": "لمطة",
+    "latin": "Lamta",
+    "country": "Tunisia"
+  },
+  {
+    "native": "بني حسان",
+    "latin": "Bni Hassan",
+    "country": "Tunisia"
+  },
+  {
+    "native": "قربة",
+    "latin": "Korba",
+    "country": "Tunisia"
+  },
+  {
+    "native": "منزل بوزلفة",
+    "latin": "Menzel Bouzelfa",
+    "country": "Tunisia"
+  },
+  {
+    "native": "حلق الوادي",
+    "latin": "La Goulette",
+    "country": "Tunisia"
+  },
+  {
+    "native": "المرسى",
+    "latin": "La Marsa",
+    "country": "Tunisia"
+  },
+  {
+    "native": "قرطاج",
+    "latin": "Carthage",
+    "country": "Tunisia"
+  },
+  {
+    "native": "عمان",
+    "latin": "Amman",
+    "country": "Jordan"
+  },
+  {
+    "native": "إربد",
+    "latin": "Irbid",
+    "country": "Jordan"
+  },
+  {
+    "native": "الزرقاء",
+    "latin": "Zarqa",
+    "country": "Jordan"
+  },
+  {
+    "native": "البلقاء",
+    "latin": "Balqa",
+    "country": "Jordan"
+  },
+  {
+    "native": "الكرك",
+    "latin": "Karak",
+    "country": "Jordan"
+  },
+  {
+    "native": "العقبة",
+    "latin": "Aqaba",
+    "country": "Jordan"
+  },
+  {
+    "native": "مادبا",
+    "latin": "Madaba",
+    "country": "Jordan"
+  },
+  {
+    "native": "جرش",
+    "latin": "Jerash",
+    "country": "Jordan"
+  },
+  {
+    "native": "عجلون",
+    "latin": "Ajloun",
+    "country": "Jordan"
+  },
+  {
+    "native": "معان",
+    "latin": "Ma'an",
+    "country": "Jordan"
+  },
+  {
+    "native": "الطفيلة",
+    "latin": "Tafileh",
+    "country": "Jordan"
+  },
+  {
+    "native": "مفرق",
+    "latin": "Mafraq",
+    "country": "Jordan"
+  },
+  {
+    "native": "السلط",
+    "latin": "Salt",
+    "country": "Jordan"
+  },
+  {
+    "native": "الرصيفة",
+    "latin": "Russeifa",
+    "country": "Jordan"
+  },
+  {
+    "native": "وادي السير",
+    "latin": "Wadi Al Seer",
+    "country": "Jordan"
+  },
+  {
+    "native": "سحاب",
+    "latin": "Sahab",
+    "country": "Jordan"
+  },
+  {
+    "native": "الحصن",
+    "latin": "Al Husn",
+    "country": "Jordan"
+  },
+  {
+    "native": "الرمثا",
+    "latin": "Ramtha",
+    "country": "Jordan"
+  },
+  {
+    "native": "الصريح",
+    "latin": "Sarih",
+    "country": "Jordan"
+  },
+  {
+    "native": "مؤتة",
+    "latin": "Mu'tah",
+    "country": "Jordan"
+  },
+  {
+    "native": "الدوحة",
+    "latin": "Doha",
+    "country": "Qatar"
+  },
+  {
+    "native": "الريان",
+    "latin": "Al Rayyan",
+    "country": "Qatar"
+  },
+  {
+    "native": "الوكرة",
+    "latin": "Al Wakrah",
+    "country": "Qatar"
+  },
+  {
+    "native": "الخور",
+    "latin": "Al Khor",
+    "country": "Qatar"
+  },
+  {
+    "native": "أم صلال",
+    "latin": "Umm Salal",
+    "country": "Qatar"
+  },
+  {
+    "native": "مسيعيد",
+    "latin": "Mesaieed",
+    "country": "Qatar"
+  },
+  {
+    "native": "الشحانية",
+    "latin": "Al Shahaniya",
+    "country": "Qatar"
+  },
+  {
+    "native": "الدخيرة",
+    "latin": "Al Dakhira",
+    "country": "Qatar"
+  },
+  {
+    "native": "الغويرية",
+    "latin": "Al Ghuwairiya",
+    "country": "Qatar"
+  },
+  {
+    "native": "أبو ظلوف",
+    "latin": "Abu Thuluf",
+    "country": "Qatar"
+  },
+  {
+    "native": "أبو نخلة",
+    "latin": "Abu Nakhla",
+    "country": "Qatar"
+  },
+  {
+    "native": "لوسيل",
+    "latin": "Lusail",
+    "country": "Qatar"
+  },
+  {
+    "native": "الذخيرة",
+    "latin": "Al Dakhira",
+    "country": "Qatar"
+  },
+  {
+    "native": "فويرط",
+    "latin": "Fuwayrit",
+    "country": "Qatar"
+  },
+  {
+    "native": "الزبارة",
+    "latin": "Al Zubara",
+    "country": "Qatar"
+  },
+  {
+    "native": "الجميلية",
+    "latin": "Al Jumayliyya",
+    "country": "Qatar"
+  },
+  {
+    "native": "العطورية",
+    "latin": "Al Atouriya",
+    "country": "Qatar"
+  },
+  {
+    "native": "روضة راشد",
+    "latin": "Rawdat Rashed",
+    "country": "Qatar"
+  },
+  {
+    "native": "الكرعانة",
+    "latin": "Al Karaana",
+    "country": "Qatar"
+  },
+  {
+    "native": "أبوظبي",
+    "latin": "Abu Dhabi",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "دبي",
+    "latin": "Dubai",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "الشارقة",
+    "latin": "Sharjah",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "العين",
+    "latin": "Al Ain",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "عجمان",
+    "latin": "Ajman",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "رأس الخيمة",
+    "latin": "Ras Al Khaimah",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "الفجيرة",
+    "latin": "Fujairah",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "أم القيوين",
+    "latin": "Umm Al Quwain",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "خورفكان",
+    "latin": "Khor Fakkan",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "كلباء",
+    "latin": "Kalba",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "دبا الحصن",
+    "latin": "Dibba Al Hisn",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "الذيد",
+    "latin": "Al Dhaid",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "مدينة زايد",
+    "latin": "Madinat Zayed",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "الرويس",
+    "latin": "Ruwais",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "بن ياس",
+    "latin": "Bani Yas",
+    "country": "United_Arab_Emirates"
+  },
+  {
+    "native": "مسقط",
+    "latin": "Muscat",
+    "country": "Oman"
+  },
+  {
+    "native": "صلالة",
+    "latin": "Salalah",
+    "country": "Oman"
+  },
+  {
+    "native": "صحار",
+    "latin": "Sohar",
+    "country": "Oman"
+  },
+  {
+    "native": "نزوى",
+    "latin": "Nizwa",
+    "country": "Oman"
+  },
+  {
+    "native": "البريمي",
+    "latin": "Al Buraimi",
+    "country": "Oman"
+  },
+  {
+    "native": "صور",
+    "latin": "Sur",
+    "country": "Oman"
+  },
+  {
+    "native": "إبراء",
+    "latin": "Ibra",
+    "country": "Oman"
+  },
+  {
+    "native": "سمائل",
+    "latin": "Samail",
+    "country": "Oman"
+  },
+  {
+    "native": "بهلاء",
+    "latin": "Bahla",
+    "country": "Oman"
+  },
+  {
+    "native": "عبري",
+    "latin": "Ibri",
+    "country": "Oman"
+  },
+  {
+    "native": "خصب",
+    "latin": "Khasab",
+    "country": "Oman"
+  },
+  {
+    "native": "دبا",
+    "latin": "Dibba",
+    "country": "Oman"
+  },
+  {
+    "native": "السيب",
+    "latin": "Seeb",
+    "country": "Oman"
+  },
+  {
+    "native": "المصنعة",
+    "latin": "Al Musannah",
+    "country": "Oman"
+  },
+  {
+    "native": "بركاء",
+    "latin": "Barka",
+    "country": "Oman"
+  },
+  {
+    "native": "العامرات",
+    "latin": "Al Amerat",
+    "country": "Oman"
+  },
+  {
+    "native": "قريات",
+    "latin": "Qurayyat",
+    "country": "Oman"
+  },
+  {
+    "native": "طاقة",
+    "latin": "Taqah",
+    "country": "Oman"
+  },
+  {
+    "native": "مرباط",
+    "latin": "Mirbat",
+    "country": "Oman"
+  },
+  {
+    "native": "ثمريت",
+    "latin": "Thumrait",
+    "country": "Oman"
+  },
+  {
+    "native": "عبري",
+    "latin": "Ibri",
+    "country": "Oman"
+  },
+  {
+    "native": "ينقل",
+    "latin": "Yanqul",
+    "country": "Oman"
+  },
+  {
+    "native": "ضنك",
+    "latin": "Dhank",
+    "country": "Oman"
+  },
+  {
+    "native": "إزكي",
+    "latin": "Izki",
+    "country": "Oman"
+  },
+  {
+    "native": "بدبد",
+    "latin": "Bidbid",
+    "country": "Oman"
+  },
+  {
+    "native": "منح",
+    "latin": "Manah",
+    "country": "Oman"
+  },
+  {
+    "native": "أدم",
+    "latin": "Adam",
+    "country": "Oman"
+  },
+  {
+    "native": "هيماء",
+    "latin": "Haima",
+    "country": "Oman"
+  },
+  {
+    "native": "الجازر",
+    "latin": "Al Jazer",
+    "country": "Oman"
+  },
+  {
+    "native": "محوت",
+    "latin": "Mahoot",
+    "country": "Oman"
+  }
+]

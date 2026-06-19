@@ -1,0 +1,897 @@
+[
+  {
+    "native": "서울",
+    "latin": "Seoul",
+    "country": "South_Korea"
+  },
+  {
+    "native": "부산",
+    "latin": "Busan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "인천",
+    "latin": "Incheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "대구",
+    "latin": "Daegu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "대전",
+    "latin": "Daejeon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "광주",
+    "latin": "Gwangju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "수원",
+    "latin": "Suwon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "울산",
+    "latin": "Ulsan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "창원",
+    "latin": "Changwon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "고양",
+    "latin": "Goyang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "용인",
+    "latin": "Yongin",
+    "country": "South_Korea"
+  },
+  {
+    "native": "성남",
+    "latin": "Seongnam",
+    "country": "South_Korea"
+  },
+  {
+    "native": "부천",
+    "latin": "Bucheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "청주",
+    "latin": "Cheongju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "평양",
+    "latin": "Pyongyang",
+    "country": "North_Korea"
+  },
+  {
+    "native": "남양주",
+    "latin": "Namyangju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "화성",
+    "latin": "Hwaseong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "전주",
+    "latin": "Jeonju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "천안",
+    "latin": "Cheonan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "김해",
+    "latin": "Gimhae",
+    "country": "South_Korea"
+  },
+  {
+    "native": "포항",
+    "latin": "Pohang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "제주",
+    "latin": "Jeju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "안산",
+    "latin": "Ansan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "진주",
+    "latin": "Jinju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "양산",
+    "latin": "Yangsan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "익산",
+    "latin": "Iksan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "군산",
+    "latin": "Gunsan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "목포",
+    "latin": "Mokpo",
+    "country": "South_Korea"
+  },
+  {
+    "native": "여수",
+    "latin": "Yeosu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "순천",
+    "latin": "Suncheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "원주",
+    "latin": "Wonju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "춘천",
+    "latin": "Chuncheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "강릉",
+    "latin": "Gangneung",
+    "country": "South_Korea"
+  },
+  {
+    "native": "속초",
+    "latin": "Sokcho",
+    "country": "South_Korea"
+  },
+  {
+    "native": "동해",
+    "latin": "Donghae",
+    "country": "South_Korea"
+  },
+  {
+    "native": "삼척",
+    "latin": "Samcheok",
+    "country": "South_Korea"
+  },
+  {
+    "native": "태백",
+    "latin": "Taebaek",
+    "country": "South_Korea"
+  },
+  {
+    "native": "영주",
+    "latin": "Yeongju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "문경",
+    "latin": "Mungyeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "상주",
+    "latin": "Sangju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "김천",
+    "latin": "Gimcheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "구미",
+    "latin": "Gumi",
+    "country": "South_Korea"
+  },
+  {
+    "native": "영천",
+    "latin": "Yeongcheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "경주",
+    "latin": "Gyeongju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "안동",
+    "latin": "Andong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "통영",
+    "latin": "Tongyeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "사천",
+    "latin": "Sacheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "거제",
+    "latin": "Geoje",
+    "country": "South_Korea"
+  },
+  {
+    "native": "밀양",
+    "latin": "Miryang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "함안",
+    "latin": "Haman",
+    "country": "South_Korea"
+  },
+  {
+    "native": "창녕",
+    "latin": "Changnyeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "고성",
+    "latin": "Goseong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "의령",
+    "latin": "Uiryeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "하동",
+    "latin": "Hadong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "산청",
+    "latin": "Sancheong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "함양",
+    "latin": "Hamyang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "거창",
+    "latin": "Geochang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "합천",
+    "latin": "Hapcheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "보령",
+    "latin": "Boryeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "서산",
+    "latin": "Seosan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "당진",
+    "latin": "Dangjin",
+    "country": "South_Korea"
+  },
+  {
+    "native": "공주",
+    "latin": "Gongju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "논산",
+    "latin": "Nonsan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "계룡",
+    "latin": "Gyeryong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "홍성",
+    "latin": "Hongseong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "예산",
+    "latin": "Yesan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "태안",
+    "latin": "Taean",
+    "country": "South_Korea"
+  },
+  {
+    "native": "서천",
+    "latin": "Seocheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "청양",
+    "latin": "Cheongyang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "부여",
+    "latin": "Buyeo",
+    "country": "South_Korea"
+  },
+  {
+    "native": "나주",
+    "latin": "Naju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "광양",
+    "latin": "Gwangyang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "담양",
+    "latin": "Damyang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "해남",
+    "latin": "Haenam",
+    "country": "South_Korea"
+  },
+  {
+    "native": "영암",
+    "latin": "Yeongam",
+    "country": "South_Korea"
+  },
+  {
+    "native": "무안",
+    "latin": "Muan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "함평",
+    "latin": "Hampyeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "영광",
+    "latin": "Yeonggwang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "장성",
+    "latin": "Jangseong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "완도",
+    "latin": "Wando",
+    "country": "South_Korea"
+  },
+  {
+    "native": "진도",
+    "latin": "Jindo",
+    "country": "South_Korea"
+  },
+  {
+    "native": "신안",
+    "latin": "Shinan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "정읍",
+    "latin": "Jeongeup",
+    "country": "South_Korea"
+  },
+  {
+    "native": "남원",
+    "latin": "Namwon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "김제",
+    "latin": "Gimje",
+    "country": "South_Korea"
+  },
+  {
+    "native": "완주",
+    "latin": "Wanju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "진안",
+    "latin": "Jinan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "무주",
+    "latin": "Muju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "장수",
+    "latin": "Jangsu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "임실",
+    "latin": "Imsil",
+    "country": "South_Korea"
+  },
+  {
+    "native": "순창",
+    "latin": "Sunchang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "고창",
+    "latin": "Gochang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "부안",
+    "latin": "Buan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "의정부",
+    "latin": "Uijeongbu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "파주",
+    "latin": "Paju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "김포",
+    "latin": "Gimpo",
+    "country": "South_Korea"
+  },
+  {
+    "native": "광명",
+    "latin": "Gwangmyeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "시흥",
+    "latin": "Siheung",
+    "country": "South_Korea"
+  },
+  {
+    "native": "군포",
+    "latin": "Gunpo",
+    "country": "South_Korea"
+  },
+  {
+    "native": "안양",
+    "latin": "Anyang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "평택",
+    "latin": "Pyeongtaek",
+    "country": "South_Korea"
+  },
+  {
+    "native": "동두천",
+    "latin": "Dongducheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "오산",
+    "latin": "Osan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "과천",
+    "latin": "Gwacheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "구리",
+    "latin": "Guri",
+    "country": "South_Korea"
+  },
+  {
+    "native": "하남",
+    "latin": "Hanam",
+    "country": "South_Korea"
+  },
+  {
+    "native": "연천",
+    "latin": "Yeoncheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "포천",
+    "latin": "Pocheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "가평",
+    "latin": "Gapyeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "양평",
+    "latin": "Yangpyeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "서귀포",
+    "latin": "Seogwipo",
+    "country": "South_Korea"
+  },
+  {
+    "native": "추자",
+    "latin": "Chuja",
+    "country": "South_Korea"
+  },
+  {
+    "native": "울릉",
+    "latin": "Ulleung",
+    "country": "South_Korea"
+  },
+  {
+    "native": "독도",
+    "latin": "Dokdo",
+    "country": "South_Korea"
+  },
+  {
+    "native": "안동",
+    "latin": "Andong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "영덕",
+    "latin": "Yeongdeok",
+    "country": "South_Korea"
+  },
+  {
+    "native": "영양",
+    "latin": "Yeongyang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "봉화",
+    "latin": "Bonghwa",
+    "country": "South_Korea"
+  },
+  {
+    "native": "울진",
+    "latin": "Uljin",
+    "country": "South_Korea"
+  },
+  {
+    "native": "예천",
+    "latin": "Yecheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "청송",
+    "latin": "Cheongsong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "의성",
+    "latin": "Uiseong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "성주",
+    "latin": "Seongju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "칠곡",
+    "latin": "Chilgok",
+    "country": "South_Korea"
+  },
+  {
+    "native": "군위",
+    "latin": "Gunwi",
+    "country": "South_Korea"
+  },
+  {
+    "native": "고령",
+    "latin": "Goryeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "달성",
+    "latin": "Dalseong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "합천",
+    "latin": "Hapcheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "진주",
+    "latin": "Jinju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "의령",
+    "latin": "Uiryeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "사천",
+    "latin": "Sacheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "통영",
+    "latin": "Tongyeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "거제",
+    "latin": "Geoje",
+    "country": "South_Korea"
+  },
+  {
+    "native": "고성",
+    "latin": "Goseong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "남해",
+    "latin": "Namhae",
+    "country": "South_Korea"
+  },
+  {
+    "native": "하동",
+    "latin": "Hadong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "산청",
+    "latin": "Sancheong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "함양",
+    "latin": "Hamyang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "거창",
+    "latin": "Geochang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "김천",
+    "latin": "Gimcheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "영천",
+    "latin": "Yeongcheon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "경주",
+    "latin": "Gyeongju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "부산진",
+    "latin": "Busanjin",
+    "country": "South_Korea"
+  },
+  {
+    "native": "해운대",
+    "latin": "Haeundae",
+    "country": "South_Korea"
+  },
+  {
+    "native": "기장",
+    "latin": "Gijang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "강서",
+    "latin": "Gangseo",
+    "country": "South_Korea"
+  },
+  {
+    "native": "금정",
+    "latin": "Geumjeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "연제",
+    "latin": "Yeonje",
+    "country": "South_Korea"
+  },
+  {
+    "native": "수영",
+    "latin": "Suyeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "사하",
+    "latin": "Saha",
+    "country": "South_Korea"
+  },
+  {
+    "native": "사상",
+    "latin": "Sasang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "북구",
+    "latin": "Bukgu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "동구",
+    "latin": "Donggu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "중구",
+    "latin": "Junggu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "서구",
+    "latin": "Seogu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "남구",
+    "latin": "Namgu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "광산",
+    "latin": "Gwangsan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "북",
+    "latin": "Buk",
+    "country": "South_Korea"
+  },
+  {
+    "native": "덕양",
+    "latin": "Deogyang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "일산",
+    "latin": "Ilsan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "일산서",
+    "latin": "Ilsanseo",
+    "country": "South_Korea"
+  },
+  {
+    "native": "만안",
+    "latin": "Manan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "동안",
+    "latin": "Dongan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "분당",
+    "latin": "Bundang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "수정",
+    "latin": "Sujeong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "중원",
+    "latin": "Jungwon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "상대원",
+    "latin": "Sangdaewon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "영통",
+    "latin": "Yeongtong",
+    "country": "South_Korea"
+  },
+  {
+    "native": "팔달",
+    "latin": "Paldal",
+    "country": "South_Korea"
+  },
+  {
+    "native": "권선",
+    "latin": "Gwonseon",
+    "country": "South_Korea"
+  },
+  {
+    "native": "장안",
+    "latin": "Jangan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "병점",
+    "latin": "Byeongjeom",
+    "country": "South_Korea"
+  },
+  {
+    "native": "진안",
+    "latin": "Jinan",
+    "country": "South_Korea"
+  },
+  {
+    "native": "무주",
+    "latin": "Muju",
+    "country": "South_Korea"
+  },
+  {
+    "native": "장수",
+    "latin": "Jangsu",
+    "country": "South_Korea"
+  },
+  {
+    "native": "임실",
+    "latin": "Imsil",
+    "country": "South_Korea"
+  },
+  {
+    "native": "순창",
+    "latin": "Sunchang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "고창",
+    "latin": "Gochang",
+    "country": "South_Korea"
+  },
+  {
+    "native": "부안",
+    "latin": "Buan",
+    "country": "South_Korea"
+  }
+]

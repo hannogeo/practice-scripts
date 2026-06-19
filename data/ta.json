@@ -1,0 +1,562 @@
+[
+  {
+    "native": "சென்னை",
+    "latin": "Chennai",
+    "country": "India"
+  },
+  {
+    "native": "கோயம்புத்தூர்",
+    "latin": "Coimbatore",
+    "country": "India"
+  },
+  {
+    "native": "மதுரை",
+    "latin": "Madurai",
+    "country": "India"
+  },
+  {
+    "native": "திருச்சிராப்பள்ளி",
+    "latin": "Tiruchirappalli",
+    "country": "India"
+  },
+  {
+    "native": "சேலம்",
+    "latin": "Salem",
+    "country": "India"
+  },
+  {
+    "native": "திருநெல்வேலி",
+    "latin": "Tirunelveli",
+    "country": "India"
+  },
+  {
+    "native": "திருப்பூர்",
+    "latin": "Tiruppur",
+    "country": "India"
+  },
+  {
+    "native": "ஈரோடு",
+    "latin": "Erode",
+    "country": "India"
+  },
+  {
+    "native": "வேலூர்",
+    "latin": "Vellore",
+    "country": "India"
+  },
+  {
+    "native": "தூத்துக்குடி",
+    "latin": "Thoothukudi",
+    "country": "India"
+  },
+  {
+    "native": "நாகர்கோவில்",
+    "latin": "Nagercoil",
+    "country": "India"
+  },
+  {
+    "native": "ராஜபாளையம்",
+    "latin": "Rajapalayam",
+    "country": "India"
+  },
+  {
+    "native": "பொள்ளாச்சி",
+    "latin": "Pollachi",
+    "country": "India"
+  },
+  {
+    "native": "திண்டுக்கல்",
+    "latin": "Dindigul",
+    "country": "India"
+  },
+  {
+    "native": "காஞ்சிபுரம்",
+    "latin": "Kanchipuram",
+    "country": "India"
+  },
+  {
+    "native": "ராமேஸ்வரம்",
+    "latin": "Rameswaram",
+    "country": "India"
+  },
+  {
+    "native": "கும்பகோணம்",
+    "latin": "Kumbakonam",
+    "country": "India"
+  },
+  {
+    "native": "தஞ்சாவூர்",
+    "latin": "Thanjavur",
+    "country": "India"
+  },
+  {
+    "native": "சிதம்பரம்",
+    "latin": "Chidambaram",
+    "country": "India"
+  },
+  {
+    "native": "மயிலாடுதுறை",
+    "latin": "Mayiladuthurai",
+    "country": "India"
+  },
+  {
+    "native": "நாகப்பட்டினம்",
+    "latin": "Nagapattinam",
+    "country": "India"
+  },
+  {
+    "native": "கரூர்",
+    "latin": "Karur",
+    "country": "India"
+  },
+  {
+    "native": "புதுக்கோட்டை",
+    "latin": "Pudukkottai",
+    "country": "India"
+  },
+  {
+    "native": "சிவகங்கை",
+    "latin": "Sivaganga",
+    "country": "India"
+  },
+  {
+    "native": "விருதுநகர்",
+    "latin": "Virudhunagar",
+    "country": "India"
+  },
+  {
+    "native": "தென்காசி",
+    "latin": "Tenkasi",
+    "country": "India"
+  },
+  {
+    "native": "ஆரணி",
+    "latin": "Arani",
+    "country": "India"
+  },
+  {
+    "native": "செங்கல்பட்டு",
+    "latin": "Chengalpattu",
+    "country": "India"
+  },
+  {
+    "native": "கடலூர்",
+    "latin": "Cuddalore",
+    "country": "India"
+  },
+  {
+    "native": "விழுப்புரம்",
+    "latin": "Viluppuram",
+    "country": "India"
+  },
+  {
+    "native": "கள்ளக்குறிச்சி",
+    "latin": "Kallakurichi",
+    "country": "India"
+  },
+  {
+    "native": "கிருஷ்ணகிரி",
+    "latin": "Krishnagiri",
+    "country": "India"
+  },
+  {
+    "native": "தருமபுரி",
+    "latin": "Dharmapuri",
+    "country": "India"
+  },
+  {
+    "native": "திருவண்ணாமலை",
+    "latin": "Tiruvannamalai",
+    "country": "India"
+  },
+  {
+    "native": "திருவள்ளூர்",
+    "latin": "Tiruvallur",
+    "country": "India"
+  },
+  {
+    "native": "ராணிப்பேட்டை",
+    "latin": "Ranipet",
+    "country": "India"
+  },
+  {
+    "native": "திருப்பத்தூர்",
+    "latin": "Tirupattur",
+    "country": "India"
+  },
+  {
+    "native": "நாமக்கல்",
+    "latin": "Namakkal",
+    "country": "India"
+  },
+  {
+    "native": "உடுமலைப்பேட்டை",
+    "latin": "Udumalaipettai",
+    "country": "India"
+  },
+  {
+    "native": "பழனி",
+    "latin": "Palani",
+    "country": "India"
+  },
+  {
+    "native": "கோபிச்செட்டிப்பாளையம்",
+    "latin": "Gobichettipalayam",
+    "country": "India"
+  },
+  {
+    "native": "சத்தியமங்கலம்",
+    "latin": "Sathyamangalam",
+    "country": "India"
+  },
+  {
+    "native": "மேட்டுப்பாளையம்",
+    "latin": "Mettupalayam",
+    "country": "India"
+  },
+  {
+    "native": "அவிநாசி",
+    "latin": "Avinashi",
+    "country": "India"
+  },
+  {
+    "native": "அன்னூர்",
+    "latin": "Annur",
+    "country": "India"
+  },
+  {
+    "native": "கிணத்துக்கடவு",
+    "latin": "Kinathukadavu",
+    "country": "India"
+  },
+  {
+    "native": "வால்பாறை",
+    "latin": "Valparai",
+    "country": "India"
+  },
+  {
+    "native": "பெருந்துறை",
+    "latin": "Perundurai",
+    "country": "India"
+  },
+  {
+    "native": "அரியலூர்",
+    "latin": "Ariyalur",
+    "country": "India"
+  },
+  {
+    "native": "மன்னார்குடி",
+    "latin": "Mannargudi",
+    "country": "India"
+  },
+  {
+    "native": "பட்டுக்கோட்டை",
+    "latin": "Pattukkottai",
+    "country": "India"
+  },
+  {
+    "native": "திருவாரூர்",
+    "latin": "Tiruvarur",
+    "country": "India"
+  },
+  {
+    "native": "குமுளி",
+    "latin": "Kumuli",
+    "country": "India"
+  },
+  {
+    "native": "தேவிகுளம்",
+    "latin": "Devikulam",
+    "country": "India"
+  },
+  {
+    "native": "ஊட்டி",
+    "latin": "Ooty",
+    "country": "India"
+  },
+  {
+    "native": "கோடைக்கானல்",
+    "latin": "Kodaikanal",
+    "country": "India"
+  },
+  {
+    "native": "யானைமலை",
+    "latin": "Yanamalai",
+    "country": "India"
+  },
+  {
+    "native": "வாழைச்சேனை",
+    "latin": "Vazhaichenai",
+    "country": "India"
+  },
+  {
+    "native": "திருப்பூர்",
+    "latin": "Tiruppur",
+    "country": "India"
+  },
+  {
+    "native": "கரூர்",
+    "latin": "Karur",
+    "country": "India"
+  },
+  {
+    "native": "நாமக்கல்",
+    "latin": "Namakkal",
+    "country": "India"
+  },
+  {
+    "native": "ஈரோடு",
+    "latin": "Erode",
+    "country": "India"
+  },
+  {
+    "native": "சேலம்",
+    "latin": "Salem",
+    "country": "India"
+  },
+  {
+    "native": "தர்மபுரி",
+    "latin": "Dharmapuri",
+    "country": "India"
+  },
+  {
+    "native": "கிருஷ்ணகிரி",
+    "latin": "Krishnagiri",
+    "country": "India"
+  },
+  {
+    "native": "வேலூர்",
+    "latin": "Vellore",
+    "country": "India"
+  },
+  {
+    "native": "திருவண்ணாமலை",
+    "latin": "Tiruvannamalai",
+    "country": "India"
+  },
+  {
+    "native": "விழுப்புரம்",
+    "latin": "Viluppuram",
+    "country": "India"
+  },
+  {
+    "native": "கடலூர்",
+    "latin": "Cuddalore",
+    "country": "India"
+  },
+  {
+    "native": "நாகப்பட்டினம்",
+    "latin": "Nagapattinam",
+    "country": "India"
+  },
+  {
+    "native": "திருவாரூர்",
+    "latin": "Tiruvarur",
+    "country": "India"
+  },
+  {
+    "native": "தஞ்சாவூர்",
+    "latin": "Thanjavur",
+    "country": "India"
+  },
+  {
+    "native": "புதுக்கோட்டை",
+    "latin": "Pudukkottai",
+    "country": "India"
+  },
+  {
+    "native": "சிவகங்கை",
+    "latin": "Sivaganga",
+    "country": "India"
+  },
+  {
+    "native": "ராமநாதபுரம்",
+    "latin": "Ramanathapuram",
+    "country": "India"
+  },
+  {
+    "native": "விருதுநகர்",
+    "latin": "Virudhunagar",
+    "country": "India"
+  },
+  {
+    "native": "தூத்துக்குடி",
+    "latin": "Thoothukudi",
+    "country": "India"
+  },
+  {
+    "native": "திருநெல்வேலி",
+    "latin": "Tirunelveli",
+    "country": "India"
+  },
+  {
+    "native": "கன்னியாகுமரி",
+    "latin": "Kanyakumari",
+    "country": "India"
+  },
+  {
+    "native": "தேனி",
+    "latin": "Theni",
+    "country": "India"
+  },
+  {
+    "native": "டிண்டுக்கல்",
+    "latin": "Dindigul",
+    "country": "India"
+  },
+  {
+    "native": "மதுரை",
+    "latin": "Madurai",
+    "country": "India"
+  },
+  {
+    "native": "அரியலூர்",
+    "latin": "Ariyalur",
+    "country": "India"
+  },
+  {
+    "native": "பெரம்பலூர்",
+    "latin": "Perambalur",
+    "country": "India"
+  },
+  {
+    "native": "திருச்சிராப்பள்ளி",
+    "latin": "Tiruchirappalli",
+    "country": "India"
+  },
+  {
+    "native": "மயிலாடுதுறை",
+    "latin": "Mayiladuthurai",
+    "country": "India"
+  },
+  {
+    "native": "கும்பகோணம்",
+    "latin": "Kumbakonam",
+    "country": "India"
+  },
+  {
+    "native": "பட்டுக்கோட்டை",
+    "latin": "Pattukkottai",
+    "country": "India"
+  },
+  {
+    "native": "மன்னார்குடி",
+    "latin": "Mannargudi",
+    "country": "India"
+  },
+  {
+    "native": "திருத்துறைப்பூண்டி",
+    "latin": "Thiruthuraipoondi",
+    "country": "India"
+  },
+  {
+    "native": "வலங்கைமான்",
+    "latin": "Valangaiman",
+    "country": "India"
+  },
+  {
+    "native": "கோவில்பட்டி",
+    "latin": "Kovilpatti",
+    "country": "India"
+  },
+  {
+    "native": "சங்கரன்கோவில்",
+    "latin": "Sankarankovil",
+    "country": "India"
+  },
+  {
+    "native": "தென்காசி",
+    "latin": "Tenkasi",
+    "country": "India"
+  },
+  {
+    "native": "ஆரணி",
+    "latin": "Arani",
+    "country": "India"
+  },
+  {
+    "native": "செய்யாறு",
+    "latin": "Cheyyaru",
+    "country": "India"
+  },
+  {
+    "native": "போளூர்",
+    "latin": "Polur",
+    "country": "India"
+  },
+  {
+    "native": "வந்தவாசி",
+    "latin": "Vandavasi",
+    "country": "India"
+  },
+  {
+    "native": "உத்திரமேரூர்",
+    "latin": "Uthiramerur",
+    "country": "India"
+  },
+  {
+    "native": "காஞ்சிபுரம்",
+    "latin": "Kanchipuram",
+    "country": "India"
+  },
+  {
+    "native": "செங்கல்பட்டு",
+    "latin": "Chengalpattu",
+    "country": "India"
+  },
+  {
+    "native": "திருக்கழுக்குன்றம்",
+    "latin": "Tirukalukundram",
+    "country": "India"
+  },
+  {
+    "native": "மதுராந்தகம்",
+    "latin": "Madurantakam",
+    "country": "India"
+  },
+  {
+    "native": "தாம்பரம்",
+    "latin": "Tambaram",
+    "country": "India"
+  },
+  {
+    "native": "ஆவடி",
+    "latin": "Avadi",
+    "country": "India"
+  },
+  {
+    "native": "பூந்தமல்லி",
+    "latin": "Poonamallee",
+    "country": "India"
+  },
+  {
+    "native": "திருவொற்றியூர்",
+    "latin": "Tiruvottiyur",
+    "country": "India"
+  },
+  {
+    "native": "மணலி",
+    "latin": "Manali",
+    "country": "India"
+  },
+  {
+    "native": "அம்பத்தூர்",
+    "latin": "Ambattur",
+    "country": "India"
+  },
+  {
+    "native": "வில்லிவாக்கம்",
+    "latin": "Villivakkam",
+    "country": "India"
+  },
+  {
+    "native": "பெரம்பூர்",
+    "latin": "Perambur",
+    "country": "India"
+  },
+  {
+    "native": "சென்னை",
+    "latin": "Chennai",
+    "country": "India"
+  }
+]
