@@ -1,101 +1,1002 @@
 [
-  {"native":"София","latin":"Sofia"},
-  {"native":"Пловдив","latin":"Plovdiv"},
-  {"native":"Варна","latin":"Varna"},
-  {"native":"Бургас","latin":"Burgas"},
-  {"native":"Русе","latin":"Ruse"},
-  {"native":"Стара Загора","latin":"Stara Zagora"},
-  {"native":"Плевен","latin":"Pleven"},
-  {"native":"Добрич","latin":"Dobrich"},
-  {"native":"Шумен","latin":"Shumen"},
-  {"native":"Перник","latin":"Pernik"},
-  {"native":"Велико Търново","latin":"Veliko Tarnovo"},
-  {"native":"Благоевград","latin":"Blagoevgrad"},
-  {"native":"Враца","latin":"Vratsa"},
-  {"native":"Пазарджик","latin":"Pazardzhik"},
-  {"native":"Ловеч","latin":"Lovech"},
-  {"native":"Монтана","latin":"Montana"},
-  {"native":"Видин","latin":"Vidin"},
-  {"native":"Силистра","latin":"Silistra"},
-  {"native":"Разград","latin":"Razgrad"},
-  {"native":"Търговище","latin":"Targovishte"},
-  {"native":"Сливен","latin":"Sliven"},
-  {"native":"Ямбол","latin":"Yambol"},
-  {"native":"Хасково","latin":"Haskovo"},
-  {"native":"Кърджали","latin":"Kardzhali"},
-  {"native":"Смолян","latin":"Smolyan"},
-  {"native":"Габрово","latin":"Gabrovo"},
-  {"native":"Троян","latin":"Troyan"},
-  {"native":"Свищов","latin":"Svishtov"},
-  {"native":"Карлово","latin":"Karlovo"},
-  {"native":"Казанлък","latin":"Kazanlak"},
-  {"native":"Кюстендил","latin":"Kyustendil"},
-  {"native":"Дупница","latin":"Dupnitsa"},
-  {"native":"Ботевград","latin":"Botevgrad"},
-  {"native":"Сандански","latin":"Sandanski"},
-  {"native":"Петрич","latin":"Petrich"},
-  {"native":"Лом","latin":"Lom"},
-  {"native":"Берковица","latin":"Berkovitsa"},
-  {"native":"Бяла Слатина","latin":"Byala Slatina"},
-  {"native":"Кнежа","latin":"Kneja"},
-  {"native":"Червен бряг","latin":"Cherven Bryag"},
-  {"native":"Луковит","latin":"Lukovit"},
-  {"native":"Тетевен","latin":"Teteven"},
-  {"native":"Оряхово","latin":"Oryahovo"},
-  {"native":"Нова Загора","latin":"Nova Zagora"},
-  {"native":"Чирпан","latin":"Chirpan"},
-  {"native":"Раднево","latin":"Radnevo"},
-  {"native":"Гълъбово","latin":"Galabovo"},
-  {"native":"Елхово","latin":"Elhovo"},
-  {"native":"Карнобат","latin":"Karnobat"},
-  {"native":"Айтос","latin":"Aytos"},
-  {"native":"Поморие","latin":"Pomorie"},
-  {"native":"Несебър","latin":"Nessebar"},
-  {"native":"Царево","latin":"Tsarevo"},
-  {"native":"Малко Търново","latin":"Malko Tarnovo"},
-  {"native":"Созопол","latin":"Sozopol"},
-  {"native":"Приморско","latin":"Primorsko"},
-  {"native":"Китен","latin":"Kiten"},
-  {"native":"Ахтопол","latin":"Ahtopol"},
-  {"native":"Балчик","latin":"Balchik"},
-  {"native":"Каварна","latin":"Kavarna"},
-  {"native":"Шабла","latin":"Shabla"},
-  {"native":"Тутракан","latin":"Tutrakan"},
-  {"native":"Силистра","latin":"Silistra"},
-  {"native":"Дулово","latin":"Dulovo"},
-  {"native":"Тервел","latin":"Tervel"},
-  {"native":"Главиница","latin":"Glavinitsa"},
-  {"native":"Кубрат","latin":"Kubrat"},
-  {"native":"Завет","latin":"Zavet"},
-  {"native":"Исперих","latin":"Isperih"},
-  {"native":"Самуил","latin":"Samuil"},
-  {"native":"Ветово","latin":"Vetovo"},
-  {"native":"Цар Калоян","latin":"Tsar Kaloyan"},
-  {"native":"Нови пазар","latin":"Novi Pazar"},
-  {"native":"Каспичан","latin":"Kaspichan"},
-  {"native":"Смядово","latin":"Smyadovo"},
-  {"native":"Велики Преслав","latin":"Veliki Preslav"},
-  {"native":"Върбица","latin":"Varbitsa"},
-  {"native":"Николаево","latin":"Nikolaevo"},
-  {"native":"Гурково","latin":"Gurkovo"},
-  {"native":"Павел баня","latin":"Pavel Banya"},
-  {"native":"Твърдица","latin":"Tvarditsa"},
-  {"native":"Котел","latin":"Kotel"},
-  {"native":"Сопот","latin":"Sopot"},
-  {"native":"Клисура","latin":"Klisura"},
-  {"native":"Калофер","latin":"Kalofer"},
-  {"native":"Шипка","latin":"Shipka"},
-  {"native":"Долна баня","latin":"Dolna Banya"},
-  {"native":"Копривщица","latin":"Koprivshtitsa"},
-  {"native":"Стрелча","latin":"Strelcha"},
-  {"native":"Брезово","latin":"Brezovo"},
-  {"native":"Раковски","latin":"Rakovski"},
-  {"native":"Перущица","latin":"Perushtitsa"},
-  {"native":"Съединение","latin":"Saedinenie"},
-  {"native":"Стамболийски","latin":"Stamboliyski"},
-  {"native":"Кричим","latin":"Krichim"},
-  {"native":"Девин","latin":"Devin"},
-  {"native":"Доспат","latin":"Dospat"},
-  {"native":"Борино","latin":"Borino"},
-  {"native":"Сърница","latin":"Sarnitsa"}
+  {
+    "native": "София",
+    "latin": "Sofia",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Пловдив",
+    "latin": "Plovdiv",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Варна",
+    "latin": "Varna",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Бургас",
+    "latin": "Burgas",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Русе",
+    "latin": "Ruse",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Стара Загора",
+    "latin": "Stara Zagora",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Плевен",
+    "latin": "Pleven",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Добрич",
+    "latin": "Dobrich",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Шумен",
+    "latin": "Shumen",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Перник",
+    "latin": "Pernik",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Велико Търново",
+    "latin": "Veliko Tarnovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Благоевград",
+    "latin": "Blagoevgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Враца",
+    "latin": "Vratsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Пазарджик",
+    "latin": "Pazardzhik",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ловеч",
+    "latin": "Lovech",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Монтана",
+    "latin": "Montana",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Видин",
+    "latin": "Vidin",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Силистра",
+    "latin": "Silistra",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Разград",
+    "latin": "Razgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Търговище",
+    "latin": "Targovishte",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Сливен",
+    "latin": "Sliven",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ямбол",
+    "latin": "Yambol",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Хасково",
+    "latin": "Haskovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Кърджали",
+    "latin": "Kardzhali",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Смолян",
+    "latin": "Smolyan",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Габрово",
+    "latin": "Gabrovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Троян",
+    "latin": "Troyan",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Свищов",
+    "latin": "Svishtov",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Карлово",
+    "latin": "Karlovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Казанлък",
+    "latin": "Kazanlak",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Кюстендил",
+    "latin": "Kyustendil",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Дупница",
+    "latin": "Dupnitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ботевград",
+    "latin": "Botevgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Сандански",
+    "latin": "Sandanski",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Петрич",
+    "latin": "Petrich",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Лом",
+    "latin": "Lom",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Берковица",
+    "latin": "Berkovitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Бяла Слатина",
+    "latin": "Byala Slatina",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Кнежа",
+    "latin": "Kneja",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Червен бряг",
+    "latin": "Cherven Bryag",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Луковит",
+    "latin": "Lukovit",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Тетевен",
+    "latin": "Teteven",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Оряхово",
+    "latin": "Oryahovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Нова Загора",
+    "latin": "Nova Zagora",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Чирпан",
+    "latin": "Chirpan",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Раднево",
+    "latin": "Radnevo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Гълъбово",
+    "latin": "Galabovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Елхово",
+    "latin": "Elhovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Карнобат",
+    "latin": "Karnobat",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Айтос",
+    "latin": "Aytos",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Поморие",
+    "latin": "Pomorie",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Несебър",
+    "latin": "Nessebar",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Царево",
+    "latin": "Tsarevo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Малко Търново",
+    "latin": "Malko Tarnovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Созопол",
+    "latin": "Sozopol",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Приморско",
+    "latin": "Primorsko",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Китен",
+    "latin": "Kiten",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ахтопол",
+    "latin": "Ahtopol",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Балчик",
+    "latin": "Balchik",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Каварна",
+    "latin": "Kavarna",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Шабла",
+    "latin": "Shabla",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Тутракан",
+    "latin": "Tutrakan",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Силистра",
+    "latin": "Silistra",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Дулово",
+    "latin": "Dulovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Тервел",
+    "latin": "Tervel",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Главиница",
+    "latin": "Glavinitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Кубрат",
+    "latin": "Kubrat",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Завет",
+    "latin": "Zavet",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Исперих",
+    "latin": "Isperih",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Самуил",
+    "latin": "Samuil",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ветово",
+    "latin": "Vetovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Цар Калоян",
+    "latin": "Tsar Kaloyan",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Нови пазар",
+    "latin": "Novi Pazar",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Каспичан",
+    "latin": "Kaspichan",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Смядово",
+    "latin": "Smyadovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Велики Преслав",
+    "latin": "Veliki Preslav",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Върбица",
+    "latin": "Varbitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Николаево",
+    "latin": "Nikolaevo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Гурково",
+    "latin": "Gurkovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Павел баня",
+    "latin": "Pavel Banya",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Твърдица",
+    "latin": "Tvarditsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Котел",
+    "latin": "Kotel",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Сопот",
+    "latin": "Sopot",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Клисура",
+    "latin": "Klisura",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Калофер",
+    "latin": "Kalofer",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Шипка",
+    "latin": "Shipka",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Долна баня",
+    "latin": "Dolna Banya",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Копривщица",
+    "latin": "Koprivshtitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Стрелча",
+    "latin": "Strelcha",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Брезово",
+    "latin": "Brezovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Раковски",
+    "latin": "Rakovski",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Перущица",
+    "latin": "Perushtitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Съединение",
+    "latin": "Saedinenie",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Стамболийски",
+    "latin": "Stamboliyski",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Кричим",
+    "latin": "Krichim",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Девин",
+    "latin": "Devin",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Доспат",
+    "latin": "Dospat",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Борино",
+    "latin": "Borino",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Сърница",
+    "latin": "Sarnitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Белоградчик",
+    "latin": "Belogradchik",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Своге",
+    "latin": "Svoge",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Етрополе",
+    "latin": "Etropole",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Пирдоп",
+    "latin": "Pirdop",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Златица",
+    "latin": "Zlatitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Панагюрище",
+    "latin": "Panagyurishte",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Хисаря",
+    "latin": "Hisarya",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Асеновград",
+    "latin": "Asenovgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Първомай",
+    "latin": "Parvomay",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ракитово",
+    "latin": "Rakitovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Велинград",
+    "latin": "Velingrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Якоруда",
+    "latin": "Yakoruda",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Разлог",
+    "latin": "Razlog",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Банско",
+    "latin": "Bansko",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Гоце Делчев",
+    "latin": "Gotse Delchev",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Хаджидимово",
+    "latin": "Hadzhidimovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Симитли",
+    "latin": "Simitli",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Кресна",
+    "latin": "Kresna",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Струмяни",
+    "latin": "Strumyani",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Кочериново",
+    "latin": "Kocherinovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Бобов дол",
+    "latin": "Bobov Dol",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Сапарева баня",
+    "latin": "Sapareva Banya",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Самоков",
+    "latin": "Samokov",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Пещера",
+    "latin": "Peshtera",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Брацигово",
+    "latin": "Bratsigovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Батак",
+    "latin": "Batak",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Лъки",
+    "latin": "Laki",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Чепеларе",
+    "latin": "Chepelare",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Мадан",
+    "latin": "Madan",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Златоград",
+    "latin": "Zlatograd",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Неделино",
+    "latin": "Nedelino",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ардино",
+    "latin": "Ardino",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Джебел",
+    "latin": "Dzhebel",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Момчилград",
+    "latin": "Momchilgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Крумовград",
+    "latin": "Krumovgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ивайловград",
+    "latin": "Ivaylovgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Маджарово",
+    "latin": "Madzharovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Стамболово",
+    "latin": "Stambolovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Минерални бани",
+    "latin": "Mineralni Bani",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Любимец",
+    "latin": "Lyubimets",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Свиленград",
+    "latin": "Svilengrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Харманли",
+    "latin": "Harmanli",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Димитровград",
+    "latin": "Dimitrovgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Симеоновград",
+    "latin": "Simeonovgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Тополовград",
+    "latin": "Topolovgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Болярово",
+    "latin": "Bolyarovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Стралджа",
+    "latin": "Straldzha",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Сунгурларе",
+    "latin": "Sungurlare",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Руен",
+    "latin": "Ruen",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Камено",
+    "latin": "Kameno",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Суворово",
+    "latin": "Suvorovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Девня",
+    "latin": "Devnya",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Белослав",
+    "latin": "Beloslav",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Аксаково",
+    "latin": "Aksakovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ветрино",
+    "latin": "Vetrino",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Провадия",
+    "latin": "Provadia",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Вълчи дол",
+    "latin": "Valchi Dol",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Долни чифлик",
+    "latin": "Dolni Chiflik",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Дългопол",
+    "latin": "Dalgopol",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Бяла",
+    "latin": "Byala",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Стражица",
+    "latin": "Strazhitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Горна Оряховица",
+    "latin": "Gorna Oryahovitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Лясковец",
+    "latin": "Lyaskovets",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Златарица",
+    "latin": "Zlataritsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Елена",
+    "latin": "Elena",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Трявна",
+    "latin": "Tryavna",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Дряново",
+    "latin": "Dryanovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Севлиево",
+    "latin": "Sevlievo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Павликени",
+    "latin": "Pavlikeni",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Сухиндол",
+    "latin": "Suhindol",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Мездра",
+    "latin": "Mezdra",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Роман",
+    "latin": "Roman",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Криводол",
+    "latin": "Krivodol",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Козлодуй",
+    "latin": "Kozloduy",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Мизия",
+    "latin": "Mizia",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Борован",
+    "latin": "Borovan",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Белица",
+    "latin": "Belitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Добринище",
+    "latin": "Dobrinishte",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Годеч",
+    "latin": "Godech",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Костинброд",
+    "latin": "Kostinbrod",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Сливница",
+    "latin": "Slivnitsa",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Драгоман",
+    "latin": "Dragoman",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Трън",
+    "latin": "Tran",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Радомир",
+    "latin": "Radomir",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Трекляно",
+    "latin": "Treklyano",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Земен",
+    "latin": "Zemen",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ковачевци",
+    "latin": "Kovachevtsi",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Горна Малина",
+    "latin": "Gorna Malina",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Божурище",
+    "latin": "Bozhurishte",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Елин Пелин",
+    "latin": "Elin Pelin",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Ихтиман",
+    "latin": "Ihtiman",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Мирково",
+    "latin": "Mirkovo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Челопеч",
+    "latin": "Chelopech",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Долна Митрополия",
+    "latin": "Dolna Mitropolia",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Пордим",
+    "latin": "Pordim",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Левски",
+    "latin": "Levski",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Никопол",
+    "latin": "Nikopol",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Белене",
+    "latin": "Belene",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Крушаре",
+    "latin": "Krushare",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Церово",
+    "latin": "Tsarvo",
+    "country": "Bulgaria"
+  },
+  {
+    "native": "Бук",
+    "latin": "Buk",
+    "country": "Bulgaria"
+  }
 ]

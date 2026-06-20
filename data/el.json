@@ -498,5 +498,1010 @@
     "native": "Μέγαρα",
     "latin": "Megara",
     "country": "Greece"
+  },
+  {
+    "native": "Αθήνα",
+    "latin": "Athens",
+    "country": "Greece"
+  },
+  {
+    "native": "Θεσσαλονίκη",
+    "latin": "Thessaloniki",
+    "country": "Greece"
+  },
+  {
+    "native": "Πάτρα",
+    "latin": "Patras",
+    "country": "Greece"
+  },
+  {
+    "native": "Ηράκλειο",
+    "latin": "Heraklion",
+    "country": "Greece"
+  },
+  {
+    "native": "Λάρισα",
+    "latin": "Larissa",
+    "country": "Greece"
+  },
+  {
+    "native": "Βόλος",
+    "latin": "Volos",
+    "country": "Greece"
+  },
+  {
+    "native": "Ιωάννινα",
+    "latin": "Ioannina",
+    "country": "Greece"
+  },
+  {
+    "native": "Καβάλα",
+    "latin": "Kavala",
+    "country": "Greece"
+  },
+  {
+    "native": "Χανιά",
+    "latin": "Chania",
+    "country": "Greece"
+  },
+  {
+    "native": "Ρόδος",
+    "latin": "Rhodes",
+    "country": "Greece"
+  },
+  {
+    "native": "Κέρκυρα",
+    "latin": "Corfu",
+    "country": "Greece"
+  },
+  {
+    "native": "Καλαμάτα",
+    "latin": "Kalamata",
+    "country": "Greece"
+  },
+  {
+    "native": "Σέρρες",
+    "latin": "Serres",
+    "country": "Greece"
+  },
+  {
+    "native": "Αλεξανδρούπολη",
+    "latin": "Alexandroupoli",
+    "country": "Greece"
+  },
+  {
+    "native": "Ξάνθη",
+    "latin": "Xanthi",
+    "country": "Greece"
+  },
+  {
+    "native": "Κομοτηνή",
+    "latin": "Komotini",
+    "country": "Greece"
+  },
+  {
+    "native": "Δράμα",
+    "latin": "Drama",
+    "country": "Greece"
+  },
+  {
+    "native": "Βέροια",
+    "latin": "Veria",
+    "country": "Greece"
+  },
+  {
+    "native": "Τρίκαλα",
+    "latin": "Trikala",
+    "country": "Greece"
+  },
+  {
+    "native": "Κόρινθος",
+    "latin": "Corinth",
+    "country": "Greece"
+  },
+  {
+    "native": "Λαμία",
+    "latin": "Lamia",
+    "country": "Greece"
+  },
+  {
+    "native": "Πύργος",
+    "latin": "Pyrgos",
+    "country": "Greece"
+  },
+  {
+    "native": "Χαλκίδα",
+    "latin": "Chalcis",
+    "country": "Greece"
+  },
+  {
+    "native": "Ρέθυμνο",
+    "latin": "Rethymno",
+    "country": "Greece"
+  },
+  {
+    "native": "Άργος",
+    "latin": "Argos",
+    "country": "Greece"
+  },
+  {
+    "native": "Σπάρτη",
+    "latin": "Sparti",
+    "country": "Greece"
+  },
+  {
+    "native": "Ναύπλιο",
+    "latin": "Nafplio",
+    "country": "Greece"
+  },
+  {
+    "native": "Πύλος",
+    "latin": "Pylos",
+    "country": "Greece"
+  },
+  {
+    "native": "Μεσολόγγι",
+    "latin": "Missolonghi",
+    "country": "Greece"
+  },
+  {
+    "native": "Ζάκυνθος",
+    "latin": "Zakynthos",
+    "country": "Greece"
+  },
+  {
+    "native": "Λήμνος",
+    "latin": "Limnos",
+    "country": "Greece"
+  },
+  {
+    "native": "Σάμος",
+    "latin": "Samos",
+    "country": "Greece"
+  },
+  {
+    "native": "Χίος",
+    "latin": "Chios",
+    "country": "Greece"
+  },
+  {
+    "native": "Μυτιλήνη",
+    "latin": "Mytilene",
+    "country": "Greece"
+  },
+  {
+    "native": "Ερμούπολη",
+    "latin": "Ermoupoli",
+    "country": "Greece"
+  },
+  {
+    "native": "Πάρος",
+    "latin": "Paros",
+    "country": "Greece"
+  },
+  {
+    "native": "Νάξος",
+    "latin": "Naxos",
+    "country": "Greece"
+  },
+  {
+    "native": "Σαντορίνη",
+    "latin": "Santorini",
+    "country": "Greece"
+  },
+  {
+    "native": "Μύκονος",
+    "latin": "Mykonos",
+    "country": "Greece"
+  },
+  {
+    "native": "Κως",
+    "latin": "Kos",
+    "country": "Greece"
+  },
+  {
+    "native": "Καστοριά",
+    "latin": "Kastoria",
+    "country": "Greece"
+  },
+  {
+    "native": "Φλώρινα",
+    "latin": "Florina",
+    "country": "Greece"
+  },
+  {
+    "native": "Έδεσσα",
+    "latin": "Edessa",
+    "country": "Greece"
+  },
+  {
+    "native": "Νάουσα",
+    "latin": "Naousa",
+    "country": "Greece"
+  },
+  {
+    "native": "Κατερίνη",
+    "latin": "Katerini",
+    "country": "Greece"
+  },
+  {
+    "native": "Γιαννιτσά",
+    "latin": "Giannitsa",
+    "country": "Greece"
+  },
+  {
+    "native": "Πτολεμαΐδα",
+    "latin": "Ptolemaida",
+    "country": "Greece"
+  },
+  {
+    "native": "Κοζάνη",
+    "latin": "Kozani",
+    "country": "Greece"
+  },
+  {
+    "native": "Γρεβενά",
+    "latin": "Grevena",
+    "country": "Greece"
+  },
+  {
+    "native": "Καρδίτσα",
+    "latin": "Karditsa",
+    "country": "Greece"
+  },
+  {
+    "native": "Καρπενήσι",
+    "latin": "Karpenisi",
+    "country": "Greece"
+  },
+  {
+    "native": "Άρτα",
+    "latin": "Arta",
+    "country": "Greece"
+  },
+  {
+    "native": "Πρέβεζα",
+    "latin": "Preveza",
+    "country": "Greece"
+  },
+  {
+    "native": "Ηγουμενίτσα",
+    "latin": "Igoumenitsa",
+    "country": "Greece"
+  },
+  {
+    "native": "Αγρίνιο",
+    "latin": "Agrinio",
+    "country": "Greece"
+  },
+  {
+    "native": "Αμαλιάδα",
+    "latin": "Amaliada",
+    "country": "Greece"
+  },
+  {
+    "native": "Λιβαδειά",
+    "latin": "Livadeia",
+    "country": "Greece"
+  },
+  {
+    "native": "Θήβα",
+    "latin": "Thebes",
+    "country": "Greece"
+  },
+  {
+    "native": "Λουτράκι",
+    "latin": "Loutraki",
+    "country": "Greece"
+  },
+  {
+    "native": "Ναύπακτος",
+    "latin": "Nafpaktos",
+    "country": "Greece"
+  },
+  {
+    "native": "Γαλαξίδι",
+    "latin": "Galaxidi",
+    "country": "Greece"
+  },
+  {
+    "native": "Ιτέα",
+    "latin": "Itea",
+    "country": "Greece"
+  },
+  {
+    "native": "Άμφισσα",
+    "latin": "Amfissa",
+    "country": "Greece"
+  },
+  {
+    "native": "Λιδωρίκι",
+    "latin": "Lidoriki",
+    "country": "Greece"
+  },
+  {
+    "native": "Νεστόριο",
+    "latin": "Nestorio",
+    "country": "Greece"
+  },
+  {
+    "native": "Σιάτιστα",
+    "latin": "Siatista",
+    "country": "Greece"
+  },
+  {
+    "native": "Βελβεντός",
+    "latin": "Velventos",
+    "country": "Greece"
+  },
+  {
+    "native": "Σέρβια",
+    "latin": "Servia",
+    "country": "Greece"
+  },
+  {
+    "native": "Πλαταμώνας",
+    "latin": "Platamonas",
+    "country": "Greece"
+  },
+  {
+    "native": "Λιτόχωρο",
+    "latin": "Litochoro",
+    "country": "Greece"
+  },
+  {
+    "native": "Ελασσόνα",
+    "latin": "Elassona",
+    "country": "Greece"
+  },
+  {
+    "native": "Τύρναβος",
+    "latin": "Tyrnavos",
+    "country": "Greece"
+  },
+  {
+    "native": "Φάρσαλα",
+    "latin": "Farsala",
+    "country": "Greece"
+  },
+  {
+    "native": "Σκιάθος",
+    "latin": "Skiathos",
+    "country": "Greece"
+  },
+  {
+    "native": "Σκόπελος",
+    "latin": "Skopelos",
+    "country": "Greece"
+  },
+  {
+    "native": "Αλόννησος",
+    "latin": "Alonnisos",
+    "country": "Greece"
+  },
+  {
+    "native": "Αμύνταιο",
+    "latin": "Amyntaio",
+    "country": "Greece"
+  },
+  {
+    "native": "Ορεστιάδα",
+    "latin": "Orestiada",
+    "country": "Greece"
+  },
+  {
+    "native": "Διδυμότειχο",
+    "latin": "Didymoteicho",
+    "country": "Greece"
+  },
+  {
+    "native": "Σουφλί",
+    "latin": "Soufli",
+    "country": "Greece"
+  },
+  {
+    "native": "Κύθηρα",
+    "latin": "Kythira",
+    "country": "Greece"
+  },
+  {
+    "native": "Αντικύθηρα",
+    "latin": "Antikythira",
+    "country": "Greece"
+  },
+  {
+    "native": "Σπέτσες",
+    "latin": "Spetses",
+    "country": "Greece"
+  },
+  {
+    "native": "Ύδρα",
+    "latin": "Hydra",
+    "country": "Greece"
+  },
+  {
+    "native": "Πόρος",
+    "latin": "Poros",
+    "country": "Greece"
+  },
+  {
+    "native": "Αίγινα",
+    "latin": "Aegina",
+    "country": "Greece"
+  },
+  {
+    "native": "Σαλαμίνα",
+    "latin": "Salamina",
+    "country": "Greece"
+  },
+  {
+    "native": "Ελευσίνα",
+    "latin": "Eleusis",
+    "country": "Greece"
+  },
+  {
+    "native": "Μέγαρα",
+    "latin": "Megara",
+    "country": "Greece"
+  },
+  {
+    "native": "Καισαριανή",
+    "latin": "Kaisariani",
+    "country": "Greece"
+  },
+  {
+    "native": "Βύρωνας",
+    "latin": "Vyronas",
+    "country": "Greece"
+  },
+  {
+    "native": "Υμηττός",
+    "latin": "Ymittos",
+    "country": "Greece"
+  },
+  {
+    "native": "Δάφνη",
+    "latin": "Daphne",
+    "country": "Greece"
+  },
+  {
+    "native": "Ηλιούπολη",
+    "latin": "Ilioupoli",
+    "country": "Greece"
+  },
+  {
+    "native": "Αργυρούπολη",
+    "latin": "Argyroupoli",
+    "country": "Greece"
+  },
+  {
+    "native": "Γλυφάδα",
+    "latin": "Glyfada",
+    "country": "Greece"
+  },
+  {
+    "native": "Βούλα",
+    "latin": "Voula",
+    "country": "Greece"
+  },
+  {
+    "native": "Βουλιαγμένη",
+    "latin": "Vouliagmeni",
+    "country": "Greece"
+  },
+  {
+    "native": "Βάρη",
+    "latin": "Vari",
+    "country": "Greece"
+  },
+  {
+    "native": "Κορωπί",
+    "latin": "Koropi",
+    "country": "Greece"
+  },
+  {
+    "native": "Παιανία",
+    "latin": "Paiania",
+    "country": "Greece"
+  },
+  {
+    "native": "Παλλήνη",
+    "latin": "Pallini",
+    "country": "Greece"
+  },
+  {
+    "native": "Ραφήνα",
+    "latin": "Rafina",
+    "country": "Greece"
+  },
+  {
+    "native": "Νέα Μάκρη",
+    "latin": "Nea Makri",
+    "country": "Greece"
+  },
+  {
+    "native": "Μαραθώνας",
+    "latin": "Marathon",
+    "country": "Greece"
+  },
+  {
+    "native": "Ωρωπός",
+    "latin": "Oropos",
+    "country": "Greece"
+  },
+  {
+    "native": "Κάλαμος",
+    "latin": "Kalamos",
+    "country": "Greece"
+  },
+  {
+    "native": "Σκάλα",
+    "latin": "Skala",
+    "country": "Greece"
+  },
+  {
+    "native": "Άγιοι Ανάργυροι",
+    "latin": "Agioi Anargyroi",
+    "country": "Greece"
+  },
+  {
+    "native": "Καματερό",
+    "latin": "Kamatero",
+    "country": "Greece"
+  },
+  {
+    "native": "Ίλιον",
+    "latin": "Ilion",
+    "country": "Greece"
+  },
+  {
+    "native": "Περιστέρι",
+    "latin": "Peristeri",
+    "country": "Greece"
+  },
+  {
+    "native": "Αιγάλεω",
+    "latin": "Aigaleo",
+    "country": "Greece"
+  },
+  {
+    "native": "Χαϊδάρι",
+    "latin": "Chaidari",
+    "country": "Greece"
+  },
+  {
+    "native": "Πέραμα",
+    "latin": "Perama",
+    "country": "Greece"
+  },
+  {
+    "native": "Κερατσίνι",
+    "latin": "Keratsini",
+    "country": "Greece"
+  },
+  {
+    "native": "Νίκαια",
+    "latin": "Nikaia",
+    "country": "Greece"
+  },
+  {
+    "native": "Πειραιάς",
+    "latin": "Piraeus",
+    "country": "Greece"
+  },
+  {
+    "native": "Μοσχάτο",
+    "latin": "Moschato",
+    "country": "Greece"
+  },
+  {
+    "native": "Καλλιθέα",
+    "latin": "Kallithea",
+    "country": "Greece"
+  },
+  {
+    "native": "Παλαιό Φάληρο",
+    "latin": "Palaio Faliro",
+    "country": "Greece"
+  },
+  {
+    "native": "Άλιμος",
+    "latin": "Alimos",
+    "country": "Greece"
+  },
+  {
+    "native": "Ελληνικό",
+    "latin": "Elliniko",
+    "country": "Greece"
+  },
+  {
+    "native": "Άγιος Δημήτριος",
+    "latin": "Agios Dimitrios",
+    "country": "Greece"
+  },
+  {
+    "native": "Νέα Σμύρνη",
+    "latin": "Nea Smyrni",
+    "country": "Greece"
+  },
+  {
+    "native": "Παγκράτι",
+    "latin": "Pankrati",
+    "country": "Greece"
+  },
+  {
+    "native": "Ζωγράφου",
+    "latin": "Zografou",
+    "country": "Greece"
+  },
+  {
+    "native": "Γαλάτσι",
+    "latin": "Galatsi",
+    "country": "Greece"
+  },
+  {
+    "native": "Χολαργός",
+    "latin": "Cholargos",
+    "country": "Greece"
+  },
+  {
+    "native": "Παπάγου",
+    "latin": "Papagou",
+    "country": "Greece"
+  },
+  {
+    "native": "Ψυχικό",
+    "latin": "Psychiko",
+    "country": "Greece"
+  },
+  {
+    "native": "Φιλοθέη",
+    "latin": "Filothei",
+    "country": "Greece"
+  },
+  {
+    "native": "Μαρούσι",
+    "latin": "Marousi",
+    "country": "Greece"
+  },
+  {
+    "native": "Κηφισιά",
+    "latin": "Kifissia",
+    "country": "Greece"
+  },
+  {
+    "native": "Νέα Ερυθραία",
+    "latin": "Nea Erythraia",
+    "country": "Greece"
+  },
+  {
+    "native": "Μελίσσια",
+    "latin": "Melissia",
+    "country": "Greece"
+  },
+  {
+    "native": "Βριλήσσια",
+    "latin": "Vrilissia",
+    "country": "Greece"
+  },
+  {
+    "native": "Χαλάνδρι",
+    "latin": "Chalandri",
+    "country": "Greece"
+  },
+  {
+    "native": "Αγία Παρασκευή",
+    "latin": "Agia Paraskevi",
+    "country": "Greece"
+  },
+  {
+    "native": "Γέρακας",
+    "latin": "Gerakas",
+    "country": "Greece"
+  },
+  {
+    "native": "Παλλήνη",
+    "latin": "Pallini",
+    "country": "Greece"
+  },
+  {
+    "native": "Πικέρμι",
+    "latin": "Pikermi",
+    "country": "Greece"
+  },
+  {
+    "native": "Σπάτα",
+    "latin": "Spata",
+    "country": "Greece"
+  },
+  {
+    "native": "Αχαρνές",
+    "latin": "Acharnes",
+    "country": "Greece"
+  },
+  {
+    "native": "Άνω Λιόσια",
+    "latin": "Ano Liosia",
+    "country": "Greece"
+  },
+  {
+    "native": "Φυλή",
+    "latin": "Fyli",
+    "country": "Greece"
+  },
+  {
+    "native": "Κρυονέρι",
+    "latin": "Kryoneri",
+    "country": "Greece"
+  },
+  {
+    "native": "Άγιος Στέφανος",
+    "latin": "Agios Stefanos",
+    "country": "Greece"
+  },
+  {
+    "native": "Σταμάτα",
+    "latin": "Stamata",
+    "country": "Greece"
+  },
+  {
+    "native": "Διόνυσος",
+    "latin": "Dionysos",
+    "country": "Greece"
+  },
+  {
+    "native": "Εκάλη",
+    "latin": "Ekali",
+    "country": "Greece"
+  },
+  {
+    "native": "Νέα Πεντέλη",
+    "latin": "Nea Penteli",
+    "country": "Greece"
+  },
+  {
+    "native": "Πεντέλη",
+    "latin": "Penteli",
+    "country": "Greece"
+  },
+  {
+    "native": "Λυκόβρυση",
+    "latin": "Lykovrysi",
+    "country": "Greece"
+  },
+  {
+    "native": "Πεύκη",
+    "latin": "Pefki",
+    "country": "Greece"
+  },
+  {
+    "native": "Ηράκλειο",
+    "latin": "Irakleio",
+    "country": "Greece"
+  },
+  {
+    "native": "Νέα Ιωνία",
+    "latin": "Nea Ionia",
+    "country": "Greece"
+  },
+  {
+    "native": "Καλυφθάκι",
+    "latin": "Kalyfthaki",
+    "country": "Greece"
+  },
+  {
+    "native": "Μεταμόρφωση",
+    "latin": "Metamorfosi",
+    "country": "Greece"
+  },
+  {
+    "native": "Ομόνοια",
+    "latin": "Omonoia",
+    "country": "Greece"
+  },
+  {
+    "native": "Πλατεία",
+    "latin": "Plateia",
+    "country": "Greece"
+  },
+  {
+    "native": "Μοναστηράκι",
+    "latin": "Monastiraki",
+    "country": "Greece"
+  },
+  {
+    "native": "Σύνταγμα",
+    "latin": "Syntagma",
+    "country": "Greece"
+  },
+  {
+    "native": "Κολωνάκι",
+    "latin": "Kolonaki",
+    "country": "Greece"
+  },
+  {
+    "native": "Εξάρχεια",
+    "latin": "Exarcheia",
+    "country": "Greece"
+  },
+  {
+    "native": "Πλάκα",
+    "latin": "Plaka",
+    "country": "Greece"
+  },
+  {
+    "native": "Ακρόπολη",
+    "latin": "Acropolis",
+    "country": "Greece"
+  },
+  {
+    "native": "Θησείο",
+    "latin": "Thiseio",
+    "country": "Greece"
+  },
+  {
+    "native": "Μετς",
+    "latin": "Mets",
+    "country": "Greece"
+  },
+  {
+    "native": "Πατήσια",
+    "latin": "Patisia",
+    "country": "Greece"
+  },
+  {
+    "native": "Μαράσλειο",
+    "latin": "Marasleio",
+    "country": "Greece"
+  },
+  {
+    "native": "Λευκωσία",
+    "latin": "Nicosia",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Λεμεσός",
+    "latin": "Limassol",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Λάρνακα",
+    "latin": "Larnaca",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Πάφος",
+    "latin": "Paphos",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Αμμόχωστος",
+    "latin": "Famagusta",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Κερύνεια",
+    "latin": "Kyrenia",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Μόρφου",
+    "latin": "Morphou",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Τρόοδος",
+    "latin": "Troodos",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Πλάτρες",
+    "latin": "Platres",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Πόλις",
+    "latin": "Polis",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Παραλίμνι",
+    "latin": "Paralimni",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Πρωταράς",
+    "latin": "Protaras",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Αγία Νάπα",
+    "latin": "Ayia Napa",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Πέγεια",
+    "latin": "Peyia",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Γερμασόγεια",
+    "latin": "Germasogeia",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Κάτω Πάφος",
+    "latin": "Kato Paphos",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Αγιος Αθανάσιος",
+    "latin": "Agios Athanasios",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Λακατάμεια",
+    "latin": "Lakatamia",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Στρόβολος",
+    "latin": "Strovolos",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Λατσιά",
+    "latin": "Latsia",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Έγκωμη",
+    "latin": "Egkomi",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Δάλι",
+    "latin": "Dali",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Πέρα Χωρίο",
+    "latin": "Pera Chorio",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Ιδαλίου",
+    "latin": "Idali",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Αλάμπρα",
+    "latin": "Alampra",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Λυγινίδης",
+    "latin": "Lyginidis",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Σολιά",
+    "latin": "Solia",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Μαραθάσα",
+    "latin": "Marathasa",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Πιτσιλιά",
+    "latin": "Pitsilia",
+    "country": "Cyprus"
+  },
+  {
+    "native": "Πάχνα",
+    "latin": "Pachna",
+    "country": "Cyprus"
   }
 ]

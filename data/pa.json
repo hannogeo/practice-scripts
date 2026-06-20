@@ -1,133 +1,1027 @@
 [
-  {"native":"ਅੰਮ੍ਰਿਤਸਰ","latin":"Amritsar"},
-  {"native":"ਲੁਧਿਆਣਾ","latin":"Ludhiana"},
-  {"native":"ਜਲੰਧਰ","latin":"Jalandhar"},
-  {"native":"ਪਟਿਆਲਾ","latin":"Patiala"},
-  {"native":"ਭਟਿੰਡਾ","latin":"Bathinda"},
-  {"native":"ਮੋਹਾਲੀ","latin":"Mohali"},
-  {"native":"ਪਾਨੀਪਤ","latin":"Panipat"},
-  {"native":"ਚੰਡੀਗੜ੍ਹ","latin":"Chandigarh"},
-  {"native":"ਪਠਾਨਕੋਟ","latin":"Pathankot"},
-  {"native":"ਹੁਸ਼ਿਆਰਪੁਰ","latin":"Hoshiarpur"},
-  {"native":"ਕਪੂਰਥਲਾ","latin":"Kapurthala"},
-  {"native":"ਸ਼ਾਹੀਦ ਭਗਤ ਸਿੰਘ ਨਗਰ","latin":"Shaheed Bhagat Singh Nagar"},
-  {"native":"ਫ਼ਿਰੋਜ਼ਪੁਰ","latin":"Firozpur"},
-  {"native":"ਫ਼ਾਜ਼ਿਲਕਾ","latin":"Fazilka"},
-  {"native":"ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ","latin":"Sri Muktsar Sahib"},
-  {"native":"ਫ਼ਰੀਦਕੋਟ","latin":"Faridkot"},
-  {"native":"ਬਰਨਾਲਾ","latin":"Barnala"},
-  {"native":"ਸੰਗਰੂਰ","latin":"Sangrur"},
-  {"native":"ਪਟਿਆਲਾ","latin":"Patiala"},
-  {"native":"ਫ਼ਤਹਿਗੜ੍ਹ ਸਾਹਿਬ","latin":"Fatehgarh Sahib"},
-  {"native":"ਰੂਪਨਗਰ","latin":"Rupnagar"},
-  {"native":"ਐਸ.ਏ.ਐਸ. ਨਗਰ","latin":"S.A.S. Nagar"},
-  {"native":"ਐਸ.ਬੀ.ਐਸ. ਨਗਰ","latin":"S.B.S. Nagar"},
-  {"native":"ਗੁਰਦਾਸਪੁਰ","latin":"Gurdaspur"},
-  {"native":"ਤਰਨ ਤਾਰਨ","latin":"Tarn Taran"},
-  {"native":"ਮੋਗਾ","latin":"Moga"},
-  {"native":"ਆਦਮਪੁਰ","latin":"Adampur"},
-  {"native":"ਅਬੋਹਰ","latin":"Abohar"},
-  {"native":"ਮਾਲੇਰਕੋਟਲਾ","latin":"Malerkotla"},
-  {"native":"ਖੰਨਾ","latin":"Khanna"},
-  {"native":"ਗੋਬਿੰਦਗੜ੍ਹ","latin":"Gobindgarh"},
-  {"native":"ਢਿੱਲਵਾਂ","latin":"Dhilwan"},
-  {"native":"ਫਗਵਾੜਾ","latin":"Phagwara"},
-  {"native":"ਨਕੋਦਰ","latin":"Nakodar"},
-  {"native":"ਸੁਲਤਾਨਪੁਰ","latin":"Sultanpur"},
-  {"native":"ਕਰਤਾਰਪੁਰ","latin":"Kartarpur"},
-  {"native":"ਬਟਾਲਾ","latin":"Batala"},
-  {"native":"ਕੁਰਾਲੀ","latin":"Kurali"},
-  {"native":"ਮੋਰਿੰਡਾ","latin":"Morinda"},
-  {"native":"ਸਮਰਾਲਾ","latin":"Samrala"},
-  {"native":"ਪਾਇਲ","latin":"Payal"},
-  {"native":"ਮਾਛੀਵਾੜਾ","latin":"Machhiwara"},
-  {"native":"ਨੰਗਲ","latin":"Nangal"},
-  {"native":"ਆਨੰਦਪੁਰ ਸਾਹਿਬ","latin":"Anandpur Sahib"},
-  {"native":"ਰਾਹੋਂ","latin":"Rahon"},
-  {"native":"ਬੰਗਾ","latin":"Banga"},
-  {"native":"ਨਵਾਂ ਸ਼ਹਿਰ","latin":"Nawanshahr"},
-  {"native":"ਬਲਾਚੌਰ","latin":"Balachaur"},
-  {"native":"ਫਗਵਾੜਾ","latin":"Phagwara"},
-  {"native":"ਜਗਰਾਉਂ","latin":"Jagraon"},
-  {"native":"ਨੂਰਪੁਰ","latin":"Nurpur"},
-  {"native":"ਡੇਰਾ ਬਾਬਾ ਨਾਨਕ","latin":"Dera Baba Nanak"},
-  {"native":"ਕਡ਼ਾ","latin":"Kada"},
-  {"native":"ਬੁਢਲਾਡ਼ਾ","latin":"Budhlada"},
-  {"native":"ਮਾਨਸਾ","latin":"Mansa"},
-  {"native":"ਗੁਰਦਾਸਪੁਰ","latin":"Gurdaspur"},
-  {"native":"ਤਰਨ ਤਾਰਨ","latin":"Tarn Taran"},
-  {"native":"ਅੰਮ੍ਰਿਤਸਰ","latin":"Amritsar"},
-  {"native":"ਕਪੂਰਥਲਾ","latin":"Kapurthala"},
-  {"native":"ਜਲੰਧਰ","latin":"Jalandhar"},
-  {"native":"ਹੁਸ਼ਿਆਰਪੁਰ","latin":"Hoshiarpur"},
-  {"native":"ਫ਼ਿਰੋਜ਼ਪੁਰ","latin":"Firozpur"},
-  {"native":"ਫ਼ਾਜ਼ਿਲਕਾ","latin":"Fazilka"},
-  {"native":"ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ ਨਗਰ","latin":"Shaheed Bhagat Singh Nagar"},
-  {"native":"ਰੂਪਨਗਰ","latin":"Rupnagar"},
-  {"native":"ਐਸ.ਏ.ਐਸ. ਨਗਰ","latin":"S.A.S. Nagar"},
-  {"native":"ਫ਼ਤਹਿਗੜ੍ਹ ਸਾਹਿਬ","latin":"Fatehgarh Sahib"},
-  {"native":"ਫ਼ਰੀਦਕੋਟ","latin":"Faridkot"},
-  {"native":"ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ","latin":"Sri Muktsar Sahib"},
-  {"native":"ਬਰਨਾਲਾ","latin":"Barnala"},
-  {"native":"ਸੰਗਰੂਰ","latin":"Sangrur"},
-  {"native":"ਪਟਿਆਲਾ","latin":"Patiala"},
-  {"native":"ਲੁਧਿਆਣਾ","latin":"Ludhiana"},
-  {"native":"ਮੋਗਾ","latin":"Moga"},
-  {"native":"ਅਬੋਹਰ","latin":"Abohar"},
-  {"native":"ਮਾਲੇਰਕੋਟਲਾ","latin":"Malerkotla"},
-  {"native":"ਖੰਨਾ","latin":"Khanna"},
-  {"native":"ਗੋਬਿੰਦਗੜ੍ਹ","latin":"Gobindgarh"},
-  {"native":"ਬਟਾਲਾ","latin":"Batala"},
-  {"native":"ਨਕੋਦਰ","latin":"Nakodar"},
-  {"native":"ਫਗਵਾੜਾ","latin":"Phagwara"},
-  {"native":"ਸੁਲਤਾਨਪੁਰ","latin":"Sultanpur"},
-  {"native":"ਕਰਤਾਰਪੁਰ","latin":"Kartarpur"},
-  {"native":"ਨੰਗਲ","latin":"Nangal"},
-  {"native":"ਆਨੰਦਪੁਰ ਸਾਹਿਬ","latin":"Anandpur Sahib"},
-  {"native":"ਨਵਾਂ ਸ਼ਹਿਰ","latin":"Nawanshahr"},
-  {"native":"ਜਗਰਾਉਂ","latin":"Jagraon"},
-  {"native":"ਸਮਰਾਲਾ","latin":"Samrala"},
-  {"native":"ਰਾਹੋਂ","latin":"Rahon"},
-  {"native":"ਬੰਗਾ","latin":"Banga"},
-  {"native":"ਮਾਛੀਵਾੜਾ","latin":"Machhiwara"},
-  {"native":"ਆਦਮਪੁਰ","latin":"Adampur"},
-  {"native":"ਬੁਢਲਾਡ਼ਾ","latin":"Budhlada"},
-  {"native":"ਮਾਨਸਾ","latin":"Mansa"},
-  {"native":"ਸਰਦੂਲਗੜ੍ਹ","latin":"Sardulgarh"},
-  {"native":"ਬਠਿੰਡਾ","latin":"Bathinda"},
-  {"native":"ਰਾਮਪੁਰਾ","latin":"Rampura"},
-  {"native":"ਜਲਾਲ","latin":"Jalal"},
-  {"native":"ਚੀਮਾ","latin":"Cheema"},
-  {"native":"ਮੁਕਤਸਰ","latin":"Muktsar"},
-  {"native":"ਮਲੋਟ","latin":"Malot"},
-  {"native":"ਅਬੋਹਰ","latin":"Abohar"},
-  {"native":"ਫਾਜ਼ਿਲਕਾ","latin":"Fazilka"},
-  {"native":"ਜਲਾਲਾਬਾਦ","latin":"Jalalabad"},
-  {"native":"ਫਿਰੋਜ਼ਪੁਰ","latin":"Firozpur"},
-  {"native":"ਜ਼ੀਰਾ","latin":"Zira"},
-  {"native":"ਕੋਟਕਪੂਰਾ","latin":"Kotkapura"},
-  {"native":"ਗੁਰੂ ਹਰ ਸਹਾਇ","latin":"Guru Har Sahai"},
-  {"native":"ਮੋਗਾ","latin":"Moga"},
-  {"native":"ਬਧਨੀ ਕਲਾਂ","latin":"Badhni Kalan"},
-  {"native":"ਬਰਨਾਲਾ","latin":"Barnala"},
-  {"native":"ਤਪਾ","latin":"Tapa"},
-  {"native":"ਧੂਰੀ","latin":"Dhuri"},
-  {"native":"ਸੰਗਰੂਰ","latin":"Sangrur"},
-  {"native":"ਲੌਂਗੋਵਾਲ","latin":"Longowal"},
-  {"native":"ਸੁਨਾਮ","latin":"Sunam"},
-  {"native":"ਲਹਿਰਾ","latin":"Lehra"},
-  {"native":"ਮੁਹਾਲੀ","latin":"Mohali"},
-  {"native":"ਖਰੜ","latin":"Kharar"},
-  {"native":"ਮਾਜਰੀ","latin":"Majri"},
-  {"native":"ਡੇਰਾ ਬੱਸੀ","latin":"Dera Bassi"},
-  {"native":"ਜ਼ੀਰਕਪੁਰ","latin":"Zirakpur"},
-  {"native":"ਪੰਜਕੂਲਾ","latin":"Panchkula"},
-  {"native":"ਕਾਲਕਾ","latin":"Kalka"},
-  {"native":"ਪੰਜਪੱਤ","latin":"Panjpat"},
-  {"native":"ਰਾਜਪੁਰਾ","latin":"Rajpura"},
-  {"native":"ਪਟਿਆਲਾ","latin":"Patiala"},
-  {"native":"ਸਮਾਣਾ","latin":"Samana"},
-  {"native":"ਨਾਭਾ","latin":"Nabha"},
-  {"native":"ਬਡਾਲਾ","latin":"Badala"},
-  {"native":"ਘੱਗਾ","latin":"Ghagga"}
+  {
+    "native": "ਅੰਮ੍ਰਿਤਸਰ",
+    "latin": "Amritsar",
+    "country": "India"
+  },
+  {
+    "native": "ਲੁਧਿਆਣਾ",
+    "latin": "Ludhiana",
+    "country": "India"
+  },
+  {
+    "native": "ਜਲੰਧਰ",
+    "latin": "Jalandhar",
+    "country": "India"
+  },
+  {
+    "native": "ਪਟਿਆਲਾ",
+    "latin": "Patiala",
+    "country": "India"
+  },
+  {
+    "native": "ਭਟਿੰਡਾ",
+    "latin": "Bathinda",
+    "country": "India"
+  },
+  {
+    "native": "ਮੋਹਾਲੀ",
+    "latin": "Mohali",
+    "country": "India"
+  },
+  {
+    "native": "ਪਾਨੀਪਤ",
+    "latin": "Panipat",
+    "country": "India"
+  },
+  {
+    "native": "ਚੰਡੀਗੜ੍ਹ",
+    "latin": "Chandigarh",
+    "country": "India"
+  },
+  {
+    "native": "ਪਠਾਨਕੋਟ",
+    "latin": "Pathankot",
+    "country": "India"
+  },
+  {
+    "native": "ਹੁਸ਼ਿਆਰਪੁਰ",
+    "latin": "Hoshiarpur",
+    "country": "India"
+  },
+  {
+    "native": "ਕਪੂਰਥਲਾ",
+    "latin": "Kapurthala",
+    "country": "India"
+  },
+  {
+    "native": "ਸ਼ਾਹੀਦ ਭਗਤ ਸਿੰਘ ਨਗਰ",
+    "latin": "Shaheed Bhagat Singh Nagar",
+    "country": "India"
+  },
+  {
+    "native": "ਫ਼ਿਰੋਜ਼ਪੁਰ",
+    "latin": "Firozpur",
+    "country": "India"
+  },
+  {
+    "native": "ਫ਼ਾਜ਼ਿਲਕਾ",
+    "latin": "Fazilka",
+    "country": "India"
+  },
+  {
+    "native": "ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ",
+    "latin": "Sri Muktsar Sahib",
+    "country": "India"
+  },
+  {
+    "native": "ਫ਼ਰੀਦਕੋਟ",
+    "latin": "Faridkot",
+    "country": "India"
+  },
+  {
+    "native": "ਬਰਨਾਲਾ",
+    "latin": "Barnala",
+    "country": "India"
+  },
+  {
+    "native": "ਸੰਗਰੂਰ",
+    "latin": "Sangrur",
+    "country": "India"
+  },
+  {
+    "native": "ਪਟਿਆਲਾ",
+    "latin": "Patiala",
+    "country": "India"
+  },
+  {
+    "native": "ਫ਼ਤਹਿਗੜ੍ਹ ਸਾਹਿਬ",
+    "latin": "Fatehgarh Sahib",
+    "country": "India"
+  },
+  {
+    "native": "ਰੂਪਨਗਰ",
+    "latin": "Rupnagar",
+    "country": "India"
+  },
+  {
+    "native": "ਐਸ.ਏ.ਐਸ. ਨਗਰ",
+    "latin": "S.A.S. Nagar",
+    "country": "India"
+  },
+  {
+    "native": "ਐਸ.ਬੀ.ਐਸ. ਨਗਰ",
+    "latin": "S.B.S. Nagar",
+    "country": "India"
+  },
+  {
+    "native": "ਗੁਰਦਾਸਪੁਰ",
+    "latin": "Gurdaspur",
+    "country": "India"
+  },
+  {
+    "native": "ਤਰਨ ਤਾਰਨ",
+    "latin": "Tarn Taran",
+    "country": "India"
+  },
+  {
+    "native": "ਮੋਗਾ",
+    "latin": "Moga",
+    "country": "India"
+  },
+  {
+    "native": "ਆਦਮਪੁਰ",
+    "latin": "Adampur",
+    "country": "India"
+  },
+  {
+    "native": "ਅਬੋਹਰ",
+    "latin": "Abohar",
+    "country": "India"
+  },
+  {
+    "native": "ਮਾਲੇਰਕੋਟਲਾ",
+    "latin": "Malerkotla",
+    "country": "India"
+  },
+  {
+    "native": "ਖੰਨਾ",
+    "latin": "Khanna",
+    "country": "India"
+  },
+  {
+    "native": "ਗੋਬਿੰਦਗੜ੍ਹ",
+    "latin": "Gobindgarh",
+    "country": "India"
+  },
+  {
+    "native": "ਢਿੱਲਵਾਂ",
+    "latin": "Dhilwan",
+    "country": "India"
+  },
+  {
+    "native": "ਫਗਵਾੜਾ",
+    "latin": "Phagwara",
+    "country": "India"
+  },
+  {
+    "native": "ਨਕੋਦਰ",
+    "latin": "Nakodar",
+    "country": "India"
+  },
+  {
+    "native": "ਸੁਲਤਾਨਪੁਰ",
+    "latin": "Sultanpur",
+    "country": "India"
+  },
+  {
+    "native": "ਕਰਤਾਰਪੁਰ",
+    "latin": "Kartarpur",
+    "country": "India"
+  },
+  {
+    "native": "ਬਟਾਲਾ",
+    "latin": "Batala",
+    "country": "India"
+  },
+  {
+    "native": "ਕੁਰਾਲੀ",
+    "latin": "Kurali",
+    "country": "India"
+  },
+  {
+    "native": "ਮੋਰਿੰਡਾ",
+    "latin": "Morinda",
+    "country": "India"
+  },
+  {
+    "native": "ਸਮਰਾਲਾ",
+    "latin": "Samrala",
+    "country": "India"
+  },
+  {
+    "native": "ਪਾਇਲ",
+    "latin": "Payal",
+    "country": "India"
+  },
+  {
+    "native": "ਮਾਛੀਵਾੜਾ",
+    "latin": "Machhiwara",
+    "country": "India"
+  },
+  {
+    "native": "ਨੰਗਲ",
+    "latin": "Nangal",
+    "country": "India"
+  },
+  {
+    "native": "ਆਨੰਦਪੁਰ ਸਾਹਿਬ",
+    "latin": "Anandpur Sahib",
+    "country": "India"
+  },
+  {
+    "native": "ਰਾਹੋਂ",
+    "latin": "Rahon",
+    "country": "India"
+  },
+  {
+    "native": "ਬੰਗਾ",
+    "latin": "Banga",
+    "country": "India"
+  },
+  {
+    "native": "ਨਵਾਂ ਸ਼ਹਿਰ",
+    "latin": "Nawanshahr",
+    "country": "India"
+  },
+  {
+    "native": "ਬਲਾਚੌਰ",
+    "latin": "Balachaur",
+    "country": "India"
+  },
+  {
+    "native": "ਫਗਵਾੜਾ",
+    "latin": "Phagwara",
+    "country": "India"
+  },
+  {
+    "native": "ਜਗਰਾਉਂ",
+    "latin": "Jagraon",
+    "country": "India"
+  },
+  {
+    "native": "ਨੂਰਪੁਰ",
+    "latin": "Nurpur",
+    "country": "India"
+  },
+  {
+    "native": "ਡੇਰਾ ਬਾਬਾ ਨਾਨਕ",
+    "latin": "Dera Baba Nanak",
+    "country": "India"
+  },
+  {
+    "native": "ਕਡ਼ਾ",
+    "latin": "Kada",
+    "country": "India"
+  },
+  {
+    "native": "ਬੁਢਲਾਡ਼ਾ",
+    "latin": "Budhlada",
+    "country": "India"
+  },
+  {
+    "native": "ਮਾਨਸਾ",
+    "latin": "Mansa",
+    "country": "India"
+  },
+  {
+    "native": "ਗੁਰਦਾਸਪੁਰ",
+    "latin": "Gurdaspur",
+    "country": "India"
+  },
+  {
+    "native": "ਤਰਨ ਤਾਰਨ",
+    "latin": "Tarn Taran",
+    "country": "India"
+  },
+  {
+    "native": "ਅੰਮ੍ਰਿਤਸਰ",
+    "latin": "Amritsar",
+    "country": "India"
+  },
+  {
+    "native": "ਕਪੂਰਥਲਾ",
+    "latin": "Kapurthala",
+    "country": "India"
+  },
+  {
+    "native": "ਜਲੰਧਰ",
+    "latin": "Jalandhar",
+    "country": "India"
+  },
+  {
+    "native": "ਹੁਸ਼ਿਆਰਪੁਰ",
+    "latin": "Hoshiarpur",
+    "country": "India"
+  },
+  {
+    "native": "ਫ਼ਿਰੋਜ਼ਪੁਰ",
+    "latin": "Firozpur",
+    "country": "India"
+  },
+  {
+    "native": "ਫ਼ਾਜ਼ਿਲਕਾ",
+    "latin": "Fazilka",
+    "country": "India"
+  },
+  {
+    "native": "ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ ਨਗਰ",
+    "latin": "Shaheed Bhagat Singh Nagar",
+    "country": "India"
+  },
+  {
+    "native": "ਰੂਪਨਗਰ",
+    "latin": "Rupnagar",
+    "country": "India"
+  },
+  {
+    "native": "ਐਸ.ਏ.ਐਸ. ਨਗਰ",
+    "latin": "S.A.S. Nagar",
+    "country": "India"
+  },
+  {
+    "native": "ਫ਼ਤਹਿਗੜ੍ਹ ਸਾਹਿਬ",
+    "latin": "Fatehgarh Sahib",
+    "country": "India"
+  },
+  {
+    "native": "ਫ਼ਰੀਦਕੋਟ",
+    "latin": "Faridkot",
+    "country": "India"
+  },
+  {
+    "native": "ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ",
+    "latin": "Sri Muktsar Sahib",
+    "country": "India"
+  },
+  {
+    "native": "ਬਰਨਾਲਾ",
+    "latin": "Barnala",
+    "country": "India"
+  },
+  {
+    "native": "ਸੰਗਰੂਰ",
+    "latin": "Sangrur",
+    "country": "India"
+  },
+  {
+    "native": "ਪਟਿਆਲਾ",
+    "latin": "Patiala",
+    "country": "India"
+  },
+  {
+    "native": "ਲੁਧਿਆਣਾ",
+    "latin": "Ludhiana",
+    "country": "India"
+  },
+  {
+    "native": "ਮੋਗਾ",
+    "latin": "Moga",
+    "country": "India"
+  },
+  {
+    "native": "ਅਬੋਹਰ",
+    "latin": "Abohar",
+    "country": "India"
+  },
+  {
+    "native": "ਮਾਲੇਰਕੋਟਲਾ",
+    "latin": "Malerkotla",
+    "country": "India"
+  },
+  {
+    "native": "ਖੰਨਾ",
+    "latin": "Khanna",
+    "country": "India"
+  },
+  {
+    "native": "ਗੋਬਿੰਦਗੜ੍ਹ",
+    "latin": "Gobindgarh",
+    "country": "India"
+  },
+  {
+    "native": "ਬਟਾਲਾ",
+    "latin": "Batala",
+    "country": "India"
+  },
+  {
+    "native": "ਨਕੋਦਰ",
+    "latin": "Nakodar",
+    "country": "India"
+  },
+  {
+    "native": "ਫਗਵਾੜਾ",
+    "latin": "Phagwara",
+    "country": "India"
+  },
+  {
+    "native": "ਸੁਲਤਾਨਪੁਰ",
+    "latin": "Sultanpur",
+    "country": "India"
+  },
+  {
+    "native": "ਕਰਤਾਰਪੁਰ",
+    "latin": "Kartarpur",
+    "country": "India"
+  },
+  {
+    "native": "ਨੰਗਲ",
+    "latin": "Nangal",
+    "country": "India"
+  },
+  {
+    "native": "ਆਨੰਦਪੁਰ ਸਾਹਿਬ",
+    "latin": "Anandpur Sahib",
+    "country": "India"
+  },
+  {
+    "native": "ਨਵਾਂ ਸ਼ਹਿਰ",
+    "latin": "Nawanshahr",
+    "country": "India"
+  },
+  {
+    "native": "ਜਗਰਾਉਂ",
+    "latin": "Jagraon",
+    "country": "India"
+  },
+  {
+    "native": "ਸਮਰਾਲਾ",
+    "latin": "Samrala",
+    "country": "India"
+  },
+  {
+    "native": "ਰਾਹੋਂ",
+    "latin": "Rahon",
+    "country": "India"
+  },
+  {
+    "native": "ਬੰਗਾ",
+    "latin": "Banga",
+    "country": "India"
+  },
+  {
+    "native": "ਮਾਛੀਵਾੜਾ",
+    "latin": "Machhiwara",
+    "country": "India"
+  },
+  {
+    "native": "ਆਦਮਪੁਰ",
+    "latin": "Adampur",
+    "country": "India"
+  },
+  {
+    "native": "ਬੁਢਲਾਡ਼ਾ",
+    "latin": "Budhlada",
+    "country": "India"
+  },
+  {
+    "native": "ਮਾਨਸਾ",
+    "latin": "Mansa",
+    "country": "India"
+  },
+  {
+    "native": "ਸਰਦੂਲਗੜ੍ਹ",
+    "latin": "Sardulgarh",
+    "country": "India"
+  },
+  {
+    "native": "ਬਠਿੰਡਾ",
+    "latin": "Bathinda",
+    "country": "India"
+  },
+  {
+    "native": "ਰਾਮਪੁਰਾ",
+    "latin": "Rampura",
+    "country": "India"
+  },
+  {
+    "native": "ਜਲਾਲ",
+    "latin": "Jalal",
+    "country": "India"
+  },
+  {
+    "native": "ਚੀਮਾ",
+    "latin": "Cheema",
+    "country": "India"
+  },
+  {
+    "native": "ਮੁਕਤਸਰ",
+    "latin": "Muktsar",
+    "country": "India"
+  },
+  {
+    "native": "ਮਲੋਟ",
+    "latin": "Malot",
+    "country": "India"
+  },
+  {
+    "native": "ਅਬੋਹਰ",
+    "latin": "Abohar",
+    "country": "India"
+  },
+  {
+    "native": "ਫਾਜ਼ਿਲਕਾ",
+    "latin": "Fazilka",
+    "country": "India"
+  },
+  {
+    "native": "ਜਲਾਲਾਬਾਦ",
+    "latin": "Jalalabad",
+    "country": "India"
+  },
+  {
+    "native": "ਫਿਰੋਜ਼ਪੁਰ",
+    "latin": "Firozpur",
+    "country": "India"
+  },
+  {
+    "native": "ਜ਼ੀਰਾ",
+    "latin": "Zira",
+    "country": "India"
+  },
+  {
+    "native": "ਕੋਟਕਪੂਰਾ",
+    "latin": "Kotkapura",
+    "country": "India"
+  },
+  {
+    "native": "ਗੁਰੂ ਹਰ ਸਹਾਇ",
+    "latin": "Guru Har Sahai",
+    "country": "India"
+  },
+  {
+    "native": "ਮੋਗਾ",
+    "latin": "Moga",
+    "country": "India"
+  },
+  {
+    "native": "ਬਧਨੀ ਕਲਾਂ",
+    "latin": "Badhni Kalan",
+    "country": "India"
+  },
+  {
+    "native": "ਬਰਨਾਲਾ",
+    "latin": "Barnala",
+    "country": "India"
+  },
+  {
+    "native": "ਤਪਾ",
+    "latin": "Tapa",
+    "country": "India"
+  },
+  {
+    "native": "ਧੂਰੀ",
+    "latin": "Dhuri",
+    "country": "India"
+  },
+  {
+    "native": "ਸੰਗਰੂਰ",
+    "latin": "Sangrur",
+    "country": "India"
+  },
+  {
+    "native": "ਲੌਂਗੋਵਾਲ",
+    "latin": "Longowal",
+    "country": "India"
+  },
+  {
+    "native": "ਸੁਨਾਮ",
+    "latin": "Sunam",
+    "country": "India"
+  },
+  {
+    "native": "ਲਹਿਰਾ",
+    "latin": "Lehra",
+    "country": "India"
+  },
+  {
+    "native": "ਮੁਹਾਲੀ",
+    "latin": "Mohali",
+    "country": "India"
+  },
+  {
+    "native": "ਖਰੜ",
+    "latin": "Kharar",
+    "country": "India"
+  },
+  {
+    "native": "ਮਾਜਰੀ",
+    "latin": "Majri",
+    "country": "India"
+  },
+  {
+    "native": "ਡੇਰਾ ਬੱਸੀ",
+    "latin": "Dera Bassi",
+    "country": "India"
+  },
+  {
+    "native": "ਜ਼ੀਰਕਪੁਰ",
+    "latin": "Zirakpur",
+    "country": "India"
+  },
+  {
+    "native": "ਪੰਜਕੂਲਾ",
+    "latin": "Panchkula",
+    "country": "India"
+  },
+  {
+    "native": "ਕਾਲਕਾ",
+    "latin": "Kalka",
+    "country": "India"
+  },
+  {
+    "native": "ਪੰਜਪੱਤ",
+    "latin": "Panjpat",
+    "country": "India"
+  },
+  {
+    "native": "ਰਾਜਪੁਰਾ",
+    "latin": "Rajpura",
+    "country": "India"
+  },
+  {
+    "native": "ਪਟਿਆਲਾ",
+    "latin": "Patiala",
+    "country": "India"
+  },
+  {
+    "native": "ਸਮਾਣਾ",
+    "latin": "Samana",
+    "country": "India"
+  },
+  {
+    "native": "ਨਾਭਾ",
+    "latin": "Nabha",
+    "country": "India"
+  },
+  {
+    "native": "ਬਡਾਲਾ",
+    "latin": "Badala",
+    "country": "India"
+  },
+  {
+    "native": "ਘੱਗਾ",
+    "latin": "Ghagga",
+    "country": "India"
+  },
+  {
+    "native": "ਟਾਂਡਾ",
+    "latin": "Tanda",
+    "country": "India"
+  },
+  {
+    "native": "ਦਸੂਆ",
+    "latin": "Dasua",
+    "country": "India"
+  },
+  {
+    "native": "ਮੁਕੇਰੀਆਂ",
+    "latin": "Mukerian",
+    "country": "India"
+  },
+  {
+    "native": "ਤਲਵੰਡੀ ਭਾਈ",
+    "latin": "Talwandi Bhai",
+    "country": "India"
+  },
+  {
+    "native": "ਖਡੂਰ ਸਾਹਿਬ",
+    "latin": "Khadur Sahib",
+    "country": "India"
+  },
+  {
+    "native": "ਜੰਡਿਆਲਾ",
+    "latin": "Jandiala",
+    "country": "India"
+  },
+  {
+    "native": "ਧਰਮਕੋਟ",
+    "latin": "Dharamkot",
+    "country": "India"
+  },
+  {
+    "native": "ਭੀਖੀ",
+    "latin": "Bhikhi",
+    "country": "India"
+  },
+  {
+    "native": "ਬੋਹਾ",
+    "latin": "Boha",
+    "country": "India"
+  },
+  {
+    "native": "ਰਾਇਕੋਟ",
+    "latin": "Raikot",
+    "country": "India"
+  },
+  {
+    "native": "ਪੱਟੀ",
+    "latin": "Patti",
+    "country": "India"
+  },
+  {
+    "native": "ਖੇਮਕਰਨ",
+    "latin": "Khemkaran",
+    "country": "India"
+  },
+  {
+    "native": "ਹਰੀਕੇ",
+    "latin": "Harike",
+    "country": "India"
+  },
+  {
+    "native": "ਗੋਇੰਦਵਾਲ",
+    "latin": "Goindwal",
+    "country": "India"
+  },
+  {
+    "native": "ਭੋਗਪੁਰ",
+    "latin": "Bhogpur",
+    "country": "India"
+  },
+  {
+    "native": "ਗੁੱਜਰਖਾਨ",
+    "latin": "Gujjarkhan",
+    "country": "India"
+  },
+  {
+    "native": "ਸ਼ਾਹਕੋਟ",
+    "latin": "Shahkot",
+    "country": "India"
+  },
+  {
+    "native": "ਲੋਹੀਆਂ",
+    "latin": "Lohian",
+    "country": "India"
+  },
+  {
+    "native": "ਮਹਿਤਪੁਰ",
+    "latin": "Mehtpur",
+    "country": "India"
+  },
+  {
+    "native": "ਹਰਦੋਈ",
+    "latin": "Hardoi",
+    "country": "India"
+  },
+  {
+    "native": "ਬਿਲਗਾ",
+    "latin": "Bilga",
+    "country": "India"
+  },
+  {
+    "native": "ਅਜਨਾਲਾ",
+    "latin": "Ajnala",
+    "country": "India"
+  },
+  {
+    "native": "ਰਾਮਦਾਸ",
+    "latin": "Ramdas",
+    "country": "India"
+  },
+  {
+    "native": "ਰਣਜੀਤ",
+    "latin": "Ranjit",
+    "country": "India"
+  },
+  {
+    "native": "ਬਿਆਸ",
+    "latin": "Beas",
+    "country": "India"
+  },
+  {
+    "native": "ਮਜੀਠਾ",
+    "latin": "Majitha",
+    "country": "India"
+  },
+  {
+    "native": "ਸੁਰ ਸਿੰਘ",
+    "latin": "Sur Singh",
+    "country": "India"
+  },
+  {
+    "native": "ਵੈਰੋਕੇ",
+    "latin": "Vairoke",
+    "country": "India"
+  },
+  {
+    "native": "ਗੁਰਾਇਆ",
+    "latin": "Guraiya",
+    "country": "India"
+  },
+  {
+    "native": "ਬੁਰਜ",
+    "latin": "Burj",
+    "country": "India"
+  },
+  {
+    "native": "ਕੋਟ ਇਸੇ ਖਾਂ",
+    "latin": "Kot Ise Khan",
+    "country": "India"
+  },
+  {
+    "native": "ਮੁੱਡਕੀ",
+    "latin": "Mudki",
+    "country": "India"
+  },
+  {
+    "native": "ਮਮਦੋਟ",
+    "latin": "Mamdot",
+    "country": "India"
+  },
+  {
+    "native": "ਭਗਵਾਨਪੁਰ",
+    "latin": "Bhagwanpur",
+    "country": "India"
+  },
+  {
+    "native": "ਧਰਮਪੁਰ",
+    "latin": "Dharampur",
+    "country": "India"
+  },
+  {
+    "native": "ਘਨੌਰ",
+    "latin": "Ghanaur",
+    "country": "India"
+  },
+  {
+    "native": "ਪੱਤੜਾਂ",
+    "latin": "Patran",
+    "country": "India"
+  },
+  {
+    "native": "ਬਨੂੜ",
+    "latin": "Banur",
+    "country": "India"
+  },
+  {
+    "native": "ਲਾਲੜੂ",
+    "latin": "Lalru",
+    "country": "India"
+  },
+  {
+    "native": "ਪੂੰਡਰੀ",
+    "latin": "Poondri",
+    "country": "India"
+  },
+  {
+    "native": "ਕਮਾਲਪੁਰ",
+    "latin": "Kamalpur",
+    "country": "India"
+  },
+  {
+    "native": "ਡਕਾਲਾ",
+    "latin": "Dakala",
+    "country": "India"
+  },
+  {
+    "native": "ਡੇਹਲੋਂ",
+    "latin": "Dehlon",
+    "country": "India"
+  },
+  {
+    "native": "ਡੋਰਾਹਾ",
+    "latin": "Doraha",
+    "country": "India"
+  },
+  {
+    "native": "ਸਾਹਨੇਵਾਲ",
+    "latin": "Sahnewal",
+    "country": "India"
+  },
+  {
+    "native": "ਗਿੱਲ",
+    "latin": "Gill",
+    "country": "India"
+  },
+  {
+    "native": "ਭੁੱਲਰ",
+    "latin": "Bhullar",
+    "country": "India"
+  },
+  {
+    "native": "ਹੈਬੋਵਾਲ",
+    "latin": "Haibowal",
+    "country": "India"
+  },
+  {
+    "native": "ਜਮਾਲਪੁਰ",
+    "latin": "Jamalpur",
+    "country": "India"
+  },
+  {
+    "native": "ਕਿਲਾ ਰਾਏਪੁਰ",
+    "latin": "Qila Raipur",
+    "country": "India"
+  },
+  {
+    "native": "ਬਸੀ ਪਠਾਣਾਂ",
+    "latin": "Bassi Pathana",
+    "country": "India"
+  },
+  {
+    "native": "ਫਤਹਿਗੜ੍ਹ ਚੂੜੀਆਂ",
+    "latin": "Fatehgarh Churian",
+    "country": "India"
+  },
+  {
+    "native": "ਕਲਾਨੌਰ",
+    "latin": "Kalanour",
+    "country": "India"
+  },
+  {
+    "native": "ਭੋਆ",
+    "latin": "Bhoa",
+    "country": "India"
+  },
+  {
+    "native": "ਧਰਮਸ਼ਾਲਾ",
+    "latin": "Dharamshala",
+    "country": "India"
+  },
+  {
+    "native": "ਜੋਗਿੰਦਰ ਨਗਰ",
+    "latin": "Joginder Nagar",
+    "country": "India"
+  },
+  {
+    "native": "ਸਰਹਾਲੀ",
+    "latin": "Sarhali",
+    "country": "India"
+  },
+  {
+    "native": "ਖਾਲੜਾ",
+    "latin": "Khalra",
+    "country": "India"
+  },
+  {
+    "native": "ਚਵਿੰਡਾ",
+    "latin": "Chawinda",
+    "country": "India"
+  },
+  {
+    "native": "ਪੱਡੀ",
+    "latin": "Paddi",
+    "country": "India"
+  },
+  {
+    "native": "ਚੱਕ",
+    "latin": "Chak",
+    "country": "India"
+  },
+  {
+    "native": "ਕੱਦਾ",
+    "latin": "Kadda",
+    "country": "India"
+  },
+  {
+    "native": "ਚਾਹਲ",
+    "latin": "Chahal",
+    "country": "India"
+  },
+  {
+    "native": "ਬੁਰਜ ਕਲਾਂ",
+    "latin": "Burj Kalan",
+    "country": "India"
+  },
+  {
+    "native": "ਸਿੱਧਵਾਂ",
+    "latin": "Sidhwan",
+    "country": "India"
+  },
+  {
+    "native": "ਮਲੌਦ",
+    "latin": "Malaud",
+    "country": "India"
+  },
+  {
+    "native": "ਮਛਰਾਡ਼ਾ",
+    "latin": "Machhrauda",
+    "country": "India"
+  },
+  {
+    "native": "ਕਿਲਾ ਜ਼ਫਰਗੜ੍ਹ",
+    "latin": "Qila Zafargarh",
+    "country": "India"
+  },
+  {
+    "native": "ਖਿਲਚੀਆਂ",
+    "latin": "Khilchian",
+    "country": "India"
+  },
+  {
+    "native": "ਮੁਹੰਮਦਪੁਰ",
+    "latin": "Muhammadpur",
+    "country": "India"
+  },
+  {
+    "native": "ਗਜ਼ਲਾ",
+    "latin": "Gazla",
+    "country": "India"
+  },
+  {
+    "native": "ਬਰੇਕੇ",
+    "latin": "Bareke",
+    "country": "India"
+  },
+  {
+    "native": "ਭਾਦੋਕ",
+    "latin": "Bhadok",
+    "country": "India"
+  },
+  {
+    "native": "ਲੱਖਾ",
+    "latin": "Lakha",
+    "country": "India"
+  }
 ]

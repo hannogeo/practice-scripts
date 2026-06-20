@@ -1,102 +1,1032 @@
 [
-  {"native":"भोजपुरी इलाका","latin":"Bhojpur Area"},
-  {"native":"पटना","latin":"Patna"},
-  {"native":"गया","latin":"Gaya"},
-  {"native":"भागलपुर","latin":"Bhagalpur"},
-  {"native":"मुजफ्फरपुर","latin":"Muzaffarpur"},
-  {"native":"दरभंगा","latin":"Darbhanga"},
-  {"native":"छपरा","latin":"Chhapra"},
-  {"native":"सीवान","latin":"Siwan"},
-  {"native":"गोपालगंज","latin":"Gopalganj"},
-  {"native":"सारण","latin":"Saran"},
-  {"native":"वैशाली","latin":"Vaishali"},
-  {"native":"समस्तीपुर","latin":"Samastipur"},
-  {"native":"बेगूसराय","latin":"Begusarai"},
-  {"native":"खगड़िया","latin":"Khagaria"},
-  {"native":"सहरसा","latin":"Saharsa"},
-  {"native":"मधेपुरा","latin":"Madhepura"},
-  {"native":"पूर्णिया","latin":"Purnia"},
-  {"native":"कटिहार","latin":"Katihar"},
-  {"native":"अररिया","latin":"Araria"},
-  {"native":"किशनगंज","latin":"Kishanganj"},
-  {"native":"सुपौल","latin":"Supaul"},
-  {"native":"मधुबनी","latin":"Madhubani"},
-  {"native":"सीतामढ़ी","latin":"Sitamarhi"},
-  {"native":"मोतिहारी","latin":"Motihari"},
-  {"native":"बेतिया","latin":"Bettiah"},
-  {"native":"पश्चिम चंपारण","latin":"West Champaran"},
-  {"native":"पूर्वी चंपारण","latin":"East Champaran"},
-  {"native":"शिवहर","latin":"Sheohar"},
-  {"native":"बक्सर","latin":"Buxar"},
-  {"native":"भोजपुर","latin":"Bhojpur"},
-  {"native":"रोहतास","latin":"Rohtas"},
-  {"native":"कैमूर","latin":"Kaimur"},
-  {"native":"औरंगाबाद","latin":"Aurangabad"},
-  {"native":"जहानाबाद","latin":"Jehanabad"},
-  {"native":"अरवल","latin":"Arwal"},
-  {"native":"नालंदा","latin":"Nalanda"},
-  {"native":"लखीसराय","latin":"Lakhisarai"},
-  {"native":"शेखपुरा","latin":"Sheikhpura"},
-  {"native":"नवादा","latin":"Nawada"},
-  {"native":"जमुई","latin":"Jamui"},
-  {"native":"बांका","latin":"Banka"},
-  {"native":"मुंगेर","latin":"Munger"},
-  {"native":"बलिया","latin":"Ballia"},
-  {"native":"गाजीपुर","latin":"Ghazipur"},
-  {"native":"वाराणसी","latin":"Varanasi"},
-  {"native":"चंदौली","latin":"Chandauli"},
-  {"native":"मिर्जापुर","latin":"Mirzapur"},
-  {"native":"सोनभद्र","latin":"Sonbhadra"},
-  {"native":"आज़मगढ़","latin":"Azamgarh"},
-  {"native":"मऊ","latin":"Mau"},
-  {"native":"जौनपुर","latin":"Jaunpur"},
-  {"native":"प्रतापगढ़","latin":"Pratapgarh"},
-  {"native":"सुल्तानपुर","latin":"Sultanpur"},
-  {"native":"बस्ती","latin":"Basti"},
-  {"native":"संत कबीर नगर","latin":"Sant Kabir Nagar"},
-  {"native":"गोरखपुर","latin":"Gorakhpur"},
-  {"native":"महाराजगंज","latin":"Maharajganj"},
-  {"native":"देवरिया","latin":"Deoria"},
-  {"native":"कुशीनगर","latin":"Kushinagar"},
-  {"native":"पडरौना","latin":"Padrauna"},
-  {"native":"कसया","latin":"Kasia"},
-  {"native":"हाटा","latin":"Hata"},
-  {"native":"देवरिया","latin":"Deoria"},
-  {"native":"बड़हलगंज","latin":"Barhalganj"},
-  {"native":"रुद्रपुर","latin":"Rudrapur"},
-  {"native":"सलेमपुर","latin":"Salempur"},
-  {"native":"मैनाटांड़","latin":"Mainatand"},
-  {"native":"बांसी","latin":"Bansi"},
-  {"native":"डुमरियागंज","latin":"Dumariyaganj"},
-  {"native":"सिद्धार्थनगर","latin":"Siddharthnagar"},
-  {"native":"श्रावस्ती","latin":"Shravasti"},
-  {"native":"संत कबीर नगर","latin":"Sant Kabir Nagar"},
-  {"native":"खलीलाबाद","latin":"Khalilabad"},
-  {"native":"गोला","latin":"Gola"},
-  {"native":"बस्ती","latin":"Basti"},
-  {"native":"हर्रैया","latin":"Harraiya"},
-  {"native":"बांसगांव","latin":"Bansgaon"},
-  {"native":"कैम्पियरगंज","latin":"Campierganj"},
-  {"native":"फरेंदा","latin":"Farenda"},
-  {"native":"महराजगंज","latin":"Mahrajganj"},
-  {"native":"नौतनवा","latin":"Nautanwa"},
-  {"native":"श्यामदेउरवा","latin":"Shyamdeurwa"},
-  {"native":"निचलौल","latin":"Nichlaul"},
-  {"native":"कप्तानगंज","latin":"Kaptanganj"},
-  {"native":"बाबागंज","latin":"Babhanganj"},
-  {"native":"बरहज","latin":"Barhaj"},
-  {"native":"भाटपाररानी","latin":"Bhatpar Rani"},
-  {"native":"सलेमपुर","latin":"Salempur"},
-  {"native":"लार","latin":"Lar"},
-  {"native":"भटनी","latin":"Bhatni"},
-  {"native":"बेल्थरा रोड","latin":"Belthara Road"},
-  {"native":"सिकन्दरपुर","latin":"Sikanderpur"},
-  {"native":"मऊ","latin":"Mau"},
-  {"native":"मुहम्मदाबाद गोहना","latin":"Muhammadabad Gohna"},
-  {"native":"आज़मगढ़","latin":"Azamgarh"},
-  {"native":"लालगंज","latin":"Lalganj"},
-  {"native":"मार्टिनगंज","latin":"Martinganj"},
-  {"native":"मेंहदावल","latin":"Mehnagar"},
-  {"native":"फूलपुर","latin":"Phoolpur"},
-  {"native":"निजामाबाद","latin":"Nizamabad"}
+  {
+    "native": "भोजपुरी इलाका",
+    "latin": "Bhojpur Area",
+    "country": "India"
+  },
+  {
+    "native": "पटना",
+    "latin": "Patna",
+    "country": "India"
+  },
+  {
+    "native": "गया",
+    "latin": "Gaya",
+    "country": "India"
+  },
+  {
+    "native": "भागलपुर",
+    "latin": "Bhagalpur",
+    "country": "India"
+  },
+  {
+    "native": "मुजफ्फरपुर",
+    "latin": "Muzaffarpur",
+    "country": "India"
+  },
+  {
+    "native": "दरभंगा",
+    "latin": "Darbhanga",
+    "country": "India"
+  },
+  {
+    "native": "छपरा",
+    "latin": "Chhapra",
+    "country": "India"
+  },
+  {
+    "native": "सीवान",
+    "latin": "Siwan",
+    "country": "India"
+  },
+  {
+    "native": "गोपालगंज",
+    "latin": "Gopalganj",
+    "country": "India"
+  },
+  {
+    "native": "सारण",
+    "latin": "Saran",
+    "country": "India"
+  },
+  {
+    "native": "वैशाली",
+    "latin": "Vaishali",
+    "country": "India"
+  },
+  {
+    "native": "समस्तीपुर",
+    "latin": "Samastipur",
+    "country": "India"
+  },
+  {
+    "native": "बेगूसराय",
+    "latin": "Begusarai",
+    "country": "India"
+  },
+  {
+    "native": "खगड़िया",
+    "latin": "Khagaria",
+    "country": "India"
+  },
+  {
+    "native": "सहरसा",
+    "latin": "Saharsa",
+    "country": "India"
+  },
+  {
+    "native": "मधेपुरा",
+    "latin": "Madhepura",
+    "country": "India"
+  },
+  {
+    "native": "पूर्णिया",
+    "latin": "Purnia",
+    "country": "India"
+  },
+  {
+    "native": "कटिहार",
+    "latin": "Katihar",
+    "country": "India"
+  },
+  {
+    "native": "अररिया",
+    "latin": "Araria",
+    "country": "India"
+  },
+  {
+    "native": "किशनगंज",
+    "latin": "Kishanganj",
+    "country": "India"
+  },
+  {
+    "native": "सुपौल",
+    "latin": "Supaul",
+    "country": "India"
+  },
+  {
+    "native": "मधुबनी",
+    "latin": "Madhubani",
+    "country": "India"
+  },
+  {
+    "native": "सीतामढ़ी",
+    "latin": "Sitamarhi",
+    "country": "India"
+  },
+  {
+    "native": "मोतिहारी",
+    "latin": "Motihari",
+    "country": "India"
+  },
+  {
+    "native": "बेतिया",
+    "latin": "Bettiah",
+    "country": "India"
+  },
+  {
+    "native": "पश्चिम चंपारण",
+    "latin": "West Champaran",
+    "country": "India"
+  },
+  {
+    "native": "पूर्वी चंपारण",
+    "latin": "East Champaran",
+    "country": "India"
+  },
+  {
+    "native": "शिवहर",
+    "latin": "Sheohar",
+    "country": "India"
+  },
+  {
+    "native": "बक्सर",
+    "latin": "Buxar",
+    "country": "India"
+  },
+  {
+    "native": "भोजपुर",
+    "latin": "Bhojpur",
+    "country": "India"
+  },
+  {
+    "native": "रोहतास",
+    "latin": "Rohtas",
+    "country": "India"
+  },
+  {
+    "native": "कैमूर",
+    "latin": "Kaimur",
+    "country": "India"
+  },
+  {
+    "native": "औरंगाबाद",
+    "latin": "Aurangabad",
+    "country": "India"
+  },
+  {
+    "native": "जहानाबाद",
+    "latin": "Jehanabad",
+    "country": "India"
+  },
+  {
+    "native": "अरवल",
+    "latin": "Arwal",
+    "country": "India"
+  },
+  {
+    "native": "नालंदा",
+    "latin": "Nalanda",
+    "country": "India"
+  },
+  {
+    "native": "लखीसराय",
+    "latin": "Lakhisarai",
+    "country": "India"
+  },
+  {
+    "native": "शेखपुरा",
+    "latin": "Sheikhpura",
+    "country": "India"
+  },
+  {
+    "native": "नवादा",
+    "latin": "Nawada",
+    "country": "India"
+  },
+  {
+    "native": "जमुई",
+    "latin": "Jamui",
+    "country": "India"
+  },
+  {
+    "native": "बांका",
+    "latin": "Banka",
+    "country": "India"
+  },
+  {
+    "native": "मुंगेर",
+    "latin": "Munger",
+    "country": "India"
+  },
+  {
+    "native": "बलिया",
+    "latin": "Ballia",
+    "country": "India"
+  },
+  {
+    "native": "गाजीपुर",
+    "latin": "Ghazipur",
+    "country": "India"
+  },
+  {
+    "native": "वाराणसी",
+    "latin": "Varanasi",
+    "country": "India"
+  },
+  {
+    "native": "चंदौली",
+    "latin": "Chandauli",
+    "country": "India"
+  },
+  {
+    "native": "मिर्जापुर",
+    "latin": "Mirzapur",
+    "country": "India"
+  },
+  {
+    "native": "सोनभद्र",
+    "latin": "Sonbhadra",
+    "country": "India"
+  },
+  {
+    "native": "आज़मगढ़",
+    "latin": "Azamgarh",
+    "country": "India"
+  },
+  {
+    "native": "मऊ",
+    "latin": "Mau",
+    "country": "India"
+  },
+  {
+    "native": "जौनपुर",
+    "latin": "Jaunpur",
+    "country": "India"
+  },
+  {
+    "native": "प्रतापगढ़",
+    "latin": "Pratapgarh",
+    "country": "India"
+  },
+  {
+    "native": "सुल्तानपुर",
+    "latin": "Sultanpur",
+    "country": "India"
+  },
+  {
+    "native": "बस्ती",
+    "latin": "Basti",
+    "country": "India"
+  },
+  {
+    "native": "संत कबीर नगर",
+    "latin": "Sant Kabir Nagar",
+    "country": "India"
+  },
+  {
+    "native": "गोरखपुर",
+    "latin": "Gorakhpur",
+    "country": "India"
+  },
+  {
+    "native": "महाराजगंज",
+    "latin": "Maharajganj",
+    "country": "India"
+  },
+  {
+    "native": "देवरिया",
+    "latin": "Deoria",
+    "country": "India"
+  },
+  {
+    "native": "कुशीनगर",
+    "latin": "Kushinagar",
+    "country": "India"
+  },
+  {
+    "native": "पडरौना",
+    "latin": "Padrauna",
+    "country": "India"
+  },
+  {
+    "native": "कसया",
+    "latin": "Kasia",
+    "country": "India"
+  },
+  {
+    "native": "हाटा",
+    "latin": "Hata",
+    "country": "India"
+  },
+  {
+    "native": "देवरिया",
+    "latin": "Deoria",
+    "country": "India"
+  },
+  {
+    "native": "बड़हलगंज",
+    "latin": "Barhalganj",
+    "country": "India"
+  },
+  {
+    "native": "रुद्रपुर",
+    "latin": "Rudrapur",
+    "country": "India"
+  },
+  {
+    "native": "सलेमपुर",
+    "latin": "Salempur",
+    "country": "India"
+  },
+  {
+    "native": "मैनाटांड़",
+    "latin": "Mainatand",
+    "country": "India"
+  },
+  {
+    "native": "बांसी",
+    "latin": "Bansi",
+    "country": "India"
+  },
+  {
+    "native": "डुमरियागंज",
+    "latin": "Dumariyaganj",
+    "country": "India"
+  },
+  {
+    "native": "सिद्धार्थनगर",
+    "latin": "Siddharthnagar",
+    "country": "India"
+  },
+  {
+    "native": "श्रावस्ती",
+    "latin": "Shravasti",
+    "country": "India"
+  },
+  {
+    "native": "संत कबीर नगर",
+    "latin": "Sant Kabir Nagar",
+    "country": "India"
+  },
+  {
+    "native": "खलीलाबाद",
+    "latin": "Khalilabad",
+    "country": "India"
+  },
+  {
+    "native": "गोला",
+    "latin": "Gola",
+    "country": "India"
+  },
+  {
+    "native": "बस्ती",
+    "latin": "Basti",
+    "country": "India"
+  },
+  {
+    "native": "हर्रैया",
+    "latin": "Harraiya",
+    "country": "India"
+  },
+  {
+    "native": "बांसगांव",
+    "latin": "Bansgaon",
+    "country": "India"
+  },
+  {
+    "native": "कैम्पियरगंज",
+    "latin": "Campierganj",
+    "country": "India"
+  },
+  {
+    "native": "फरेंदा",
+    "latin": "Farenda",
+    "country": "India"
+  },
+  {
+    "native": "महराजगंज",
+    "latin": "Mahrajganj",
+    "country": "India"
+  },
+  {
+    "native": "नौतनवा",
+    "latin": "Nautanwa",
+    "country": "India"
+  },
+  {
+    "native": "श्यामदेउरवा",
+    "latin": "Shyamdeurwa",
+    "country": "India"
+  },
+  {
+    "native": "निचलौल",
+    "latin": "Nichlaul",
+    "country": "India"
+  },
+  {
+    "native": "कप्तानगंज",
+    "latin": "Kaptanganj",
+    "country": "India"
+  },
+  {
+    "native": "बाबागंज",
+    "latin": "Babhanganj",
+    "country": "India"
+  },
+  {
+    "native": "बरहज",
+    "latin": "Barhaj",
+    "country": "India"
+  },
+  {
+    "native": "भाटपाररानी",
+    "latin": "Bhatpar Rani",
+    "country": "India"
+  },
+  {
+    "native": "सलेमपुर",
+    "latin": "Salempur",
+    "country": "India"
+  },
+  {
+    "native": "लार",
+    "latin": "Lar",
+    "country": "India"
+  },
+  {
+    "native": "भटनी",
+    "latin": "Bhatni",
+    "country": "India"
+  },
+  {
+    "native": "बेल्थरा रोड",
+    "latin": "Belthara Road",
+    "country": "India"
+  },
+  {
+    "native": "सिकन्दरपुर",
+    "latin": "Sikanderpur",
+    "country": "India"
+  },
+  {
+    "native": "मऊ",
+    "latin": "Mau",
+    "country": "India"
+  },
+  {
+    "native": "मुहम्मदाबाद गोहना",
+    "latin": "Muhammadabad Gohna",
+    "country": "India"
+  },
+  {
+    "native": "आज़मगढ़",
+    "latin": "Azamgarh",
+    "country": "India"
+  },
+  {
+    "native": "लालगंज",
+    "latin": "Lalganj",
+    "country": "India"
+  },
+  {
+    "native": "मार्टिनगंज",
+    "latin": "Martinganj",
+    "country": "India"
+  },
+  {
+    "native": "मेंहदावल",
+    "latin": "Mehnagar",
+    "country": "India"
+  },
+  {
+    "native": "फूलपुर",
+    "latin": "Phoolpur",
+    "country": "India"
+  },
+  {
+    "native": "निजामाबाद",
+    "latin": "Nizamabad",
+    "country": "India"
+  },
+  {
+    "native": "औराई",
+    "latin": "Aurai",
+    "country": "India"
+  },
+  {
+    "native": "बरियारपट्टी",
+    "latin": "Bariyarpatti",
+    "country": "India"
+  },
+  {
+    "native": "बेलसंड",
+    "latin": "Belsand",
+    "country": "India"
+  },
+  {
+    "native": "बेनीपट्टी",
+    "latin": "Benipatti",
+    "country": "India"
+  },
+  {
+    "native": "बेनीपुर",
+    "latin": "Benipur",
+    "country": "India"
+  },
+  {
+    "native": "बीरपुर",
+    "latin": "Birpur",
+    "country": "India"
+  },
+  {
+    "native": "बिस्फी",
+    "latin": "Bisfi",
+    "country": "India"
+  },
+  {
+    "native": "बोचहाँ",
+    "latin": "Bochaha",
+    "country": "India"
+  },
+  {
+    "native": "चौसा",
+    "latin": "Chausa",
+    "country": "India"
+  },
+  {
+    "native": "दलसिंगसराय",
+    "latin": "Dalsinghsarai",
+    "country": "India"
+  },
+  {
+    "native": "दनियावाँ",
+    "latin": "Daniawan",
+    "country": "India"
+  },
+  {
+    "native": "दिघवारा",
+    "latin": "Dighwara",
+    "country": "India"
+  },
+  {
+    "native": "दुल्हिनबाजार",
+    "latin": "Dulhinbazar",
+    "country": "India"
+  },
+  {
+    "native": "एकमा",
+    "latin": "Ekma",
+    "country": "India"
+  },
+  {
+    "native": "फुलवारी शरीफ",
+    "latin": "Phulwari Sharif",
+    "country": "India"
+  },
+  {
+    "native": "गोरौल",
+    "latin": "Goraul",
+    "country": "India"
+  },
+  {
+    "native": "हथुआ",
+    "latin": "Hathua",
+    "country": "India"
+  },
+  {
+    "native": "हिलसा",
+    "latin": "Hilsa",
+    "country": "India"
+  },
+  {
+    "native": "इस्लामपुर",
+    "latin": "Islampur",
+    "country": "India"
+  },
+  {
+    "native": "जंदाहा",
+    "latin": "Jandaha",
+    "country": "India"
+  },
+  {
+    "native": "जगदीशपुर",
+    "latin": "Jagdishpur",
+    "country": "India"
+  },
+  {
+    "native": "कहलगाँव",
+    "latin": "Kahalgaon",
+    "country": "India"
+  },
+  {
+    "native": "कोइलवार",
+    "latin": "Koilwar",
+    "country": "India"
+  },
+  {
+    "native": "कुचायकोट",
+    "latin": "Kuchaykot",
+    "country": "India"
+  },
+  {
+    "native": "कुर्सेला",
+    "latin": "Kursela",
+    "country": "India"
+  },
+  {
+    "native": "मझौलिया",
+    "latin": "Majhauliya",
+    "country": "India"
+  },
+  {
+    "native": "मसरख",
+    "latin": "Masrakh",
+    "country": "India"
+  },
+  {
+    "native": "मिल्कीपुर",
+    "latin": "Milkipur",
+    "country": "India"
+  },
+  {
+    "native": "महेसी",
+    "latin": "Mahesi",
+    "country": "India"
+  },
+  {
+    "native": "महुआ",
+    "latin": "Mahua",
+    "country": "India"
+  },
+  {
+    "native": "मैरवा",
+    "latin": "Mairwa",
+    "country": "India"
+  },
+  {
+    "native": "मरहौरा",
+    "latin": "Marhaura",
+    "country": "India"
+  },
+  {
+    "native": "मिहिजाम",
+    "latin": "Mihijam",
+    "country": "India"
+  },
+  {
+    "native": "मोहिउद्दीननगर",
+    "latin": "Mohiuddinnagar",
+    "country": "India"
+  },
+  {
+    "native": "मुसहरी",
+    "latin": "Mushahri",
+    "country": "India"
+  },
+  {
+    "native": "नगरनौसा",
+    "latin": "Nagar Nausa",
+    "country": "India"
+  },
+  {
+    "native": "नरकटियागंज",
+    "latin": "Narkatiaganj",
+    "country": "India"
+  },
+  {
+    "native": "नौगछिया",
+    "latin": "Naugachhia",
+    "country": "India"
+  },
+  {
+    "native": "नोखा",
+    "latin": "Nokha",
+    "country": "India"
+  },
+  {
+    "native": "परसा",
+    "latin": "Parsa",
+    "country": "India"
+  },
+  {
+    "native": "पातेपुर",
+    "latin": "Patepur",
+    "country": "India"
+  },
+  {
+    "native": "पिपरासी",
+    "latin": "Piprasi",
+    "country": "India"
+  },
+  {
+    "native": "पोठिया",
+    "latin": "Pothia",
+    "country": "India"
+  },
+  {
+    "native": "रघुनाथपुर",
+    "latin": "Raghunathpur",
+    "country": "India"
+  },
+  {
+    "native": "रामगढ़",
+    "latin": "Ramgarh",
+    "country": "India"
+  },
+  {
+    "native": "सबौर",
+    "latin": "Sabour",
+    "country": "India"
+  },
+  {
+    "native": "सहदेई बुजुर्ग",
+    "latin": "Sahdei Buzurg",
+    "country": "India"
+  },
+  {
+    "native": "सासामुसा",
+    "latin": "Sasamusa",
+    "country": "India"
+  },
+  {
+    "native": "सेवराई",
+    "latin": "Sewarai",
+    "country": "India"
+  },
+  {
+    "native": "शाहपुर",
+    "latin": "Shahpur",
+    "country": "India"
+  },
+  {
+    "native": "शेरघाटी",
+    "latin": "Sherghati",
+    "country": "India"
+  },
+  {
+    "native": "सिमरी बख्तियारपुर",
+    "latin": "Simri Bakhtiyarpur",
+    "country": "India"
+  },
+  {
+    "native": "सिंहेश्वर",
+    "latin": "Singheshwar",
+    "country": "India"
+  },
+  {
+    "native": "सोनबरसा",
+    "latin": "Sonbarsa",
+    "country": "India"
+  },
+  {
+    "native": "सोनपुर",
+    "latin": "Sonpur",
+    "country": "India"
+  },
+  {
+    "native": "सुलतानगंज",
+    "latin": "Sultanganj",
+    "country": "India"
+  },
+  {
+    "native": "त्रिवेणी",
+    "latin": "Triveni",
+    "country": "India"
+  },
+  {
+    "native": "उदाकिशुनगंज",
+    "latin": "Udakishunganj",
+    "country": "India"
+  },
+  {
+    "native": "विष्णुपुर",
+    "latin": "Vishnupur",
+    "country": "India"
+  },
+  {
+    "native": "अमनौर",
+    "latin": "Amanour",
+    "country": "India"
+  },
+  {
+    "native": "बरौनी",
+    "latin": "Barauni",
+    "country": "India"
+  },
+  {
+    "native": "बीहपुर",
+    "latin": "Bihpur",
+    "country": "India"
+  },
+  {
+    "native": "चेबसा",
+    "latin": "Chewara",
+    "country": "India"
+  },
+  {
+    "native": "छतापुर",
+    "latin": "Chatapur",
+    "country": "India"
+  },
+  {
+    "native": "गढ़हरा",
+    "latin": "Garhara",
+    "country": "India"
+  },
+  {
+    "native": "हलिसहर",
+    "latin": "Halisahar",
+    "country": "India"
+  },
+  {
+    "native": "मानिकपुर",
+    "latin": "Manikpur",
+    "country": "India"
+  },
+  {
+    "native": "मोहनपुर",
+    "latin": "Mohanpur",
+    "country": "India"
+  },
+  {
+    "native": "पहाड़ी",
+    "latin": "Pahari",
+    "country": "India"
+  },
+  {
+    "native": "रानीगंज",
+    "latin": "Raniganj",
+    "country": "India"
+  },
+  {
+    "native": "संग्रामपुर",
+    "latin": "Sagrampur",
+    "country": "India"
+  },
+  {
+    "native": "तेलियागढ़",
+    "latin": "Teliagarh",
+    "country": "India"
+  },
+  {
+    "native": "अकोढ़ीगोला",
+    "latin": "Akodhigola",
+    "country": "India"
+  },
+  {
+    "native": "अमसिन",
+    "latin": "Amsin",
+    "country": "India"
+  },
+  {
+    "native": "बड़ागाँव",
+    "latin": "Bada Gaon",
+    "country": "India"
+  },
+  {
+    "native": "बखरी",
+    "latin": "Bakhri",
+    "country": "India"
+  },
+  {
+    "native": "बसंतपुर",
+    "latin": "Basantpur",
+    "country": "India"
+  },
+  {
+    "native": "बेलदौर",
+    "latin": "Beldour",
+    "country": "India"
+  },
+  {
+    "native": "भागवानपुर",
+    "latin": "Bhagwanpur",
+    "country": "India"
+  },
+  {
+    "native": "भोरहा",
+    "latin": "Bhorha",
+    "country": "India"
+  },
+  {
+    "native": "चकाई",
+    "latin": "Chakai",
+    "country": "India"
+  },
+  {
+    "native": "चनपटिया",
+    "latin": "Chanpatia",
+    "country": "India"
+  },
+  {
+    "native": "छौड़ाही",
+    "latin": "Chhaurahi",
+    "country": "India"
+  },
+  {
+    "native": "धनहा",
+    "latin": "Dhanaha",
+    "country": "India"
+  },
+  {
+    "native": "गोपालपुर",
+    "latin": "Gopalpur",
+    "country": "India"
+  },
+  {
+    "native": "हरिहरगंज",
+    "latin": "Harihargunj",
+    "country": "India"
+  },
+  {
+    "native": "हवेली खड़गपुर",
+    "latin": "Haveli Kharagpur",
+    "country": "India"
+  },
+  {
+    "native": "कटकड़ा",
+    "latin": "Katahkara",
+    "country": "India"
+  },
+  {
+    "native": "खिरहर",
+    "latin": "Khirhar",
+    "country": "India"
+  },
+  {
+    "native": "लहरिया सराय",
+    "latin": "Lahariya Sarai",
+    "country": "India"
+  },
+  {
+    "native": "लौकहा",
+    "latin": "Laukaha",
+    "country": "India"
+  },
+  {
+    "native": "महेशपुर",
+    "latin": "Maheshpur",
+    "country": "India"
+  },
+  {
+    "native": "सिंहिया",
+    "latin": "Singhia",
+    "country": "India"
+  },
+  {
+    "native": "बहादुरपुर",
+    "latin": "Bahadurpur",
+    "country": "India"
+  },
+  {
+    "native": "चिरैया",
+    "latin": "Chiraiya",
+    "country": "India"
+  },
+  {
+    "native": "गंडक",
+    "latin": "Gandak",
+    "country": "India"
+  },
+  {
+    "native": "जलेसर",
+    "latin": "Jalesar",
+    "country": "India"
+  },
+  {
+    "native": "कालिकापुर",
+    "latin": "Kalikapur",
+    "country": "India"
+  },
+  {
+    "native": "लोहटा",
+    "latin": "Lohata",
+    "country": "India"
+  },
+  {
+    "native": "पकड़ी",
+    "latin": "Pakri",
+    "country": "India"
+  },
+  {
+    "native": "रहिका",
+    "latin": "Rahika",
+    "country": "India"
+  },
+  {
+    "native": "सकरी",
+    "latin": "Sakri",
+    "country": "India"
+  },
+  {
+    "native": "बैरगनिया",
+    "latin": "Bairgania",
+    "country": "India"
+  },
+  {
+    "native": "पिपरा",
+    "latin": "Pipra",
+    "country": "India"
+  },
+  {
+    "native": "बथनाहा",
+    "latin": "Bathanaha",
+    "country": "India"
+  },
+  {
+    "native": "रूपौली",
+    "latin": "Rupauli",
+    "country": "India"
+  }
 ]

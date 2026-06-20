@@ -1,124 +1,1022 @@
 [
-  {"native":"ភ្នំពេញ","latin":"Phnom Penh"},
-  {"native":"សៀមរាប","latin":"Siem Reap"},
-  {"native":"ព្រះសីហនុ","latin":"Sihanoukville"},
-  {"native":"បាត់ដំបង","latin":"Battambang"},
-  {"native":"កំពង់ចាម","latin":"Kampong Cham"},
-  {"native":"កំពង់ធំ","latin":"Kampong Thom"},
-  {"native":"កំពង់ស្ពឺ","latin":"Kampong Speu"},
-  {"native":"កំពត","latin":"Kampot"},
-  {"native":"កែប","latin":"Kep"},
-  {"native":"ប៉ៃលិន","latin":"Pailin"},
-  {"native":"ពោធិ៍សាត់","latin":"Pursat"},
-  {"native":"ព្រៃវែង","latin":"Prey Veng"},
-  {"native":"ស្វាយរៀង","latin":"Svay Rieng"},
-  {"native":"តាកែវ","latin":"Takeo"},
-  {"native":"ឧត្ដរមានជ័យ","latin":"Oddar Meanchey"},
-  {"native":"បន្ទាយមានជ័យ","latin":"Banteay Meanchey"},
-  {"native":"មណ្ឌលគីរី","latin":"Mondulkiri"},
-  {"native":"រតនគីរី","latin":"Ratanakiri"},
-  {"native":"ស្ទឹងត្រែង","latin":"Stung Treng"},
-  {"native":"ក្រចេះ","latin":"Kratie"},
-  {"native":"ត្បូងឃ្មុំ","latin":"Tboung Khmum"},
-  {"native":"អង្គរវត្ត","latin":"Angkor Wat"},
-  {"native":"បរិបូណ៌","latin":"Boribo"},
-  {"native":"ស្រីសន្ធរ","latin":"Srei Santhor"},
-  {"native":"កោះកុង","latin":"Koh Kong"},
-  {"native":"កំពង់ឆ្នាំង","latin":"Kampong Chhnang"},
-  {"native":"សន្ទុក","latin":"Sanduk"},
-  {"native":"បារាយណ៍","latin":"Baray"},
-  {"native":"សូត្រនិគម","latin":"Soutr Nikom"},
-  {"native":"ជើងព្រៃ","latin":"Cheung Prey"},
-  {"native":"រលាប្អៀរ","latin":"Rolea Bier"},
-  {"native":"ពួក","latin":"Puok"},
-  {"native":"អង្គរបូរី","latin":"Angkor Borei"},
-  {"native":"ភ្នំស្រួច","latin":"Phnom Sruoch"},
-  {"native":"ក្រូចឆ្មារ","latin":"Krouch Chhmar"},
-  {"native":"ស្វាយអំពារ","latin":"Svay Ampear"},
-  {"native":"មេមត់","latin":"Memot"},
-  {"native":"បុស្បូវ","latin":"Bos Sbov"},
-  {"native":"ឈូក","latin":"Chhuk"},
-  {"native":"អូរចុងសេះ","latin":"Ou Chong Seh"},
-  {"native":"ក្រុងសួង","latin":"Krong Suong"},
-  {"native":"កំពង់ត្របែក","latin":"Kampong Trabaek"},
-  {"native":"កំពង់លើ","latin":"Kampong Leu"},
-  {"native":"គិរីវង់","latin":"Kiri Vong"},
-  {"native":"គងពិសី","latin":"Kong Pisei"},
-  {"native":"គាស់ក្រឡ","latin":"Khsach Krala"},
-  {"native":"គោកស្រុក","latin":"Kok Srok"},
-  {"native":"គោល","latin":"Koul"},
-  {"native":"គៀនស្វាយ","latin":"Kien Svay"},
-  {"native":"គិរីសាគរ","latin":"Kiri Sakor"},
-  {"native":"គំរូ","latin":"Kumru"},
-  {"native":"ខ្ទុំ","latin":"Khtum"},
-  {"native":"ខ្សាច់កណ្ដាល","latin":"Ksach Kandal"},
-  {"native":"ខ្សាន","latin":"Ksan"},
-  {"native":"ខ្ពប","latin":"Khpop"},
-  {"native":"គ្រញូង","latin":"Kranhuong"},
-  {"native":"គ្រង","latin":"Krong"},
-  {"native":"គ្រួស","latin":"Kruos"},
-  {"native":"ឃ្លាំង","latin":"Khlang"},
-  {"native":"ចំការលើ","latin":"Chamkar Leu"},
-  {"native":"ចំរើនផល","latin":"Chamroeun Phal"},
-  {"native":"ចាន់","latin":"Chan"},
-  {"native":"ចាន់រ៉ែ","latin":"Chan Rea"},
-  {"native":"ចិត្របុរី","latin":"Chetr Borei"},
-  {"native":"ចុងកាល់","latin":"Chong Kal"},
-  {"native":"ចេក","latin":"Chek"},
-  {"native":"ចេះ","latin":"Cheh"},
-  {"native":"ចេរី","latin":"Cheri"},
-  {"native":"ចែង","latin":"Chaeng"},
-  {"native":"ឆែប","latin":"Chaep"},
-  {"native":"ឆ្នុក","latin":"Chhnok"},
-  {"native":"ឆ្លូង","latin":"Chhluong"},
-  {"native":"ឆ្អឹង","latin":"Chheung"},
-  {"native":"ជញ្ជាំង","latin":"Choncheang"},
-  {"native":"ជីគរ","latin":"Chi Kor"},
-  {"native":"ជីព្រាំ","latin":"Chi Pram"},
-  {"native":"ជើងខ្នារ","latin":"Cheung Khnar"},
-  {"native":"ជើងដំបូក","latin":"Cheung Dambouk"},
-  {"native":"ជើងពោធិ","latin":"Cheung Pou"},
-  {"native":"ជើងរាស់","latin":"Cheung Roas"},
-  {"native":"ជើងស្វាយ","latin":"Cheung Svay"},
-  {"native":"ជីហែ","latin":"Chi Hae"},
-  {"native":"ជុំគ្រៀល","latin":"Chum Kriel"},
-  {"native":"ជុំពាម","latin":"Chum Peam"},
-  {"native":"ជុំហ្លួង","latin":"Chum Luong"},
-  {"native":"ជួរភ្នំ","latin":"Chuor Phnom"},
-  {"native":"ជ្រៃ","latin":"Chrey"},
-  {"native":"ជ្រោយ","latin":"Chrouy"},
-  {"native":"ឈើទាល","latin":"Chheu Teal"},
-  {"native":"ឈ្នួល","latin":"Chhnuol"},
-  {"native":"ញែក","latin":"Nhaek"},
-  {"native":"ដូនកែវ","latin":"Doun Kaev"},
-  {"native":"ដូនឡី","latin":"Doun Lei"},
-  {"native":"ដំបែ","latin":"Dambe"},
-  {"native":"ដំរីជាន់ខ្លា","latin":"Damrey Chean Khla"},
-  {"native":"ដា","latin":"Da"},
-  {"native":"ដារ","latin":"Dar"},
-  {"native":"ដីក្រហម","latin":"Dei Kraham"},
-  {"native":"ដួង","latin":"Duong"},
-  {"native":"តាកែវ","latin":"Takeo"},
-  {"native":"តាក្វែង","latin":"Takvaeng"},
-  {"native":"តាគង់","latin":"Takong"},
-  {"native":"តាបែន","latin":"Taben"},
-  {"native":"តាពូក","latin":"Tapouk"},
-  {"native":"តាម៉ៅ","latin":"Tamau"},
-  {"native":"តារ៉ា","latin":"Tara"},
-  {"native":"តាវៀន","latin":"Tavien"},
-  {"native":"តាសាង","latin":"Tasang"},
-  {"native":"តាស៊ី","latin":"Tasi"},
-  {"native":"តាំងគោក","latin":"Tang Kouk"},
-  {"native":"តាំងដូង","latin":"Tang Doung"},
-  {"native":"តាំងព្រះ","latin":"Tang Preah"},
-  {"native":"តាំងស្រុក","latin":"Tang Srok"},
-  {"native":"តិស្ស","latin":"Tiss"},
-  {"native":"តុលា","latin":"Tola"},
-  {"native":"ត្រកៀត","latin":"Trakiat"},
-  {"native":"ត្រពាំង","latin":"Trapeang"},
-  {"native":"ត្រពាំងជោ","latin":"Trapeang Chho"},
-  {"native":"ត្រមាត់","latin":"Tramat"},
-  {"native":"ត្រសក់","latin":"Trasak"},
-  {"native":"ត្រឡាច","latin":"Tralach"},
-  {"native":"ត្រាំស្នូល","latin":"Tram Snoul"}
+  {
+    "native": "ភ្នំពេញ",
+    "latin": "Phnom Penh",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សៀមរាប",
+    "latin": "Siem Reap",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រះសីហនុ",
+    "latin": "Sihanoukville",
+    "country": "Cambodia"
+  },
+  {
+    "native": "បាត់ដំបង",
+    "latin": "Battambang",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពង់ចាម",
+    "latin": "Kampong Cham",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពង់ធំ",
+    "latin": "Kampong Thom",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពង់ស្ពឺ",
+    "latin": "Kampong Speu",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពត",
+    "latin": "Kampot",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កែប",
+    "latin": "Kep",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ប៉ៃលិន",
+    "latin": "Pailin",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ពោធិ៍សាត់",
+    "latin": "Pursat",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រៃវែង",
+    "latin": "Prey Veng",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស្វាយរៀង",
+    "latin": "Svay Rieng",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាកែវ",
+    "latin": "Takeo",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឧត្ដរមានជ័យ",
+    "latin": "Oddar Meanchey",
+    "country": "Cambodia"
+  },
+  {
+    "native": "បន្ទាយមានជ័យ",
+    "latin": "Banteay Meanchey",
+    "country": "Cambodia"
+  },
+  {
+    "native": "មណ្ឌលគីរី",
+    "latin": "Mondulkiri",
+    "country": "Cambodia"
+  },
+  {
+    "native": "រតនគីរី",
+    "latin": "Ratanakiri",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស្ទឹងត្រែង",
+    "latin": "Stung Treng",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ក្រចេះ",
+    "latin": "Kratie",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ត្បូងឃ្មុំ",
+    "latin": "Tboung Khmum",
+    "country": "Cambodia"
+  },
+  {
+    "native": "អង្គរវត្ត",
+    "latin": "Angkor Wat",
+    "country": "Cambodia"
+  },
+  {
+    "native": "បរិបូណ៌",
+    "latin": "Boribo",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស្រីសន្ធរ",
+    "latin": "Srei Santhor",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កោះកុង",
+    "latin": "Koh Kong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពង់ឆ្នាំង",
+    "latin": "Kampong Chhnang",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សន្ទុក",
+    "latin": "Sanduk",
+    "country": "Cambodia"
+  },
+  {
+    "native": "បារាយណ៍",
+    "latin": "Baray",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សូត្រនិគម",
+    "latin": "Soutr Nikom",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជើងព្រៃ",
+    "latin": "Cheung Prey",
+    "country": "Cambodia"
+  },
+  {
+    "native": "រលាប្អៀរ",
+    "latin": "Rolea Bier",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ពួក",
+    "latin": "Puok",
+    "country": "Cambodia"
+  },
+  {
+    "native": "អង្គរបូរី",
+    "latin": "Angkor Borei",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ភ្នំស្រួច",
+    "latin": "Phnom Sruoch",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ក្រូចឆ្មារ",
+    "latin": "Krouch Chhmar",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស្វាយអំពារ",
+    "latin": "Svay Ampear",
+    "country": "Cambodia"
+  },
+  {
+    "native": "មេមត់",
+    "latin": "Memot",
+    "country": "Cambodia"
+  },
+  {
+    "native": "បុស្បូវ",
+    "latin": "Bos Sbov",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឈូក",
+    "latin": "Chhuk",
+    "country": "Cambodia"
+  },
+  {
+    "native": "អូរចុងសេះ",
+    "latin": "Ou Chong Seh",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ក្រុងសួង",
+    "latin": "Krong Suong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពង់ត្របែក",
+    "latin": "Kampong Trabaek",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពង់លើ",
+    "latin": "Kampong Leu",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គិរីវង់",
+    "latin": "Kiri Vong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គងពិសី",
+    "latin": "Kong Pisei",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គាស់ក្រឡ",
+    "latin": "Khsach Krala",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គោកស្រុក",
+    "latin": "Kok Srok",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គោល",
+    "latin": "Koul",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គៀនស្វាយ",
+    "latin": "Kien Svay",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គិរីសាគរ",
+    "latin": "Kiri Sakor",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គំរូ",
+    "latin": "Kumru",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ខ្ទុំ",
+    "latin": "Khtum",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ខ្សាច់កណ្ដាល",
+    "latin": "Ksach Kandal",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ខ្សាន",
+    "latin": "Ksan",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ខ្ពប",
+    "latin": "Khpop",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គ្រញូង",
+    "latin": "Kranhuong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គ្រង",
+    "latin": "Krong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គ្រួស",
+    "latin": "Kruos",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឃ្លាំង",
+    "latin": "Khlang",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចំការលើ",
+    "latin": "Chamkar Leu",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចំរើនផល",
+    "latin": "Chamroeun Phal",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចាន់",
+    "latin": "Chan",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចាន់រ៉ែ",
+    "latin": "Chan Rea",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចិត្របុរី",
+    "latin": "Chetr Borei",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចុងកាល់",
+    "latin": "Chong Kal",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចេក",
+    "latin": "Chek",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចេះ",
+    "latin": "Cheh",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចេរី",
+    "latin": "Cheri",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចែង",
+    "latin": "Chaeng",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឆែប",
+    "latin": "Chaep",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឆ្នុក",
+    "latin": "Chhnok",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឆ្លូង",
+    "latin": "Chhluong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឆ្អឹង",
+    "latin": "Chheung",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជញ្ជាំង",
+    "latin": "Choncheang",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជីគរ",
+    "latin": "Chi Kor",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជីព្រាំ",
+    "latin": "Chi Pram",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជើងខ្នារ",
+    "latin": "Cheung Khnar",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជើងដំបូក",
+    "latin": "Cheung Dambouk",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជើងពោធិ",
+    "latin": "Cheung Pou",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជើងរាស់",
+    "latin": "Cheung Roas",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជើងស្វាយ",
+    "latin": "Cheung Svay",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជីហែ",
+    "latin": "Chi Hae",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជុំគ្រៀល",
+    "latin": "Chum Kriel",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជុំពាម",
+    "latin": "Chum Peam",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជុំហ្លួង",
+    "latin": "Chum Luong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជួរភ្នំ",
+    "latin": "Chuor Phnom",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជ្រៃ",
+    "latin": "Chrey",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជ្រោយ",
+    "latin": "Chrouy",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឈើទាល",
+    "latin": "Chheu Teal",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឈ្នួល",
+    "latin": "Chhnuol",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ញែក",
+    "latin": "Nhaek",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ដូនកែវ",
+    "latin": "Doun Kaev",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ដូនឡី",
+    "latin": "Doun Lei",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ដំបែ",
+    "latin": "Dambe",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ដំរីជាន់ខ្លា",
+    "latin": "Damrey Chean Khla",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ដា",
+    "latin": "Da",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ដារ",
+    "latin": "Dar",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ដីក្រហម",
+    "latin": "Dei Kraham",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ដួង",
+    "latin": "Duong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាកែវ",
+    "latin": "Takeo",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាក្វែង",
+    "latin": "Takvaeng",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាគង់",
+    "latin": "Takong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាបែន",
+    "latin": "Taben",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាពូក",
+    "latin": "Tapouk",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាម៉ៅ",
+    "latin": "Tamau",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តារ៉ា",
+    "latin": "Tara",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាវៀន",
+    "latin": "Tavien",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាសាង",
+    "latin": "Tasang",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាស៊ី",
+    "latin": "Tasi",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាំងគោក",
+    "latin": "Tang Kouk",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាំងដូង",
+    "latin": "Tang Doung",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាំងព្រះ",
+    "latin": "Tang Preah",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាំងស្រុក",
+    "latin": "Tang Srok",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តិស្ស",
+    "latin": "Tiss",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តុលា",
+    "latin": "Tola",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ត្រកៀត",
+    "latin": "Trakiat",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ត្រពាំង",
+    "latin": "Trapeang",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ត្រពាំងជោ",
+    "latin": "Trapeang Chho",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ត្រមាត់",
+    "latin": "Tramat",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ត្រសក់",
+    "latin": "Trasak",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ត្រឡាច",
+    "latin": "Tralach",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ត្រាំស្នូល",
+    "latin": "Tram Snoul",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ក្រុងព្រះសីហនុ",
+    "latin": "Preah Sihanouk",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ក្រុងបាវិល",
+    "latin": "Bavel",
+    "country": "Cambodia"
+  },
+  {
+    "native": "បាណន់",
+    "latin": "Banan",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ថ្មគោល",
+    "latin": "Thma Koul",
+    "country": "Cambodia"
+  },
+  {
+    "native": "មោងឬស្សី",
+    "latin": "Moung Ruessei",
+    "country": "Cambodia"
+  },
+  {
+    "native": "រតនមណ្ឌល",
+    "latin": "Ratanak Mondol",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សង្កែ",
+    "latin": "Sangkae",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សំឡូត",
+    "latin": "Samlout",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សំពៅលូន",
+    "latin": "Sampov Loun",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ឯកភ្នំ",
+    "latin": "Ek Phnom",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពង់ស្វាយ",
+    "latin": "Kampong Svay",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជីក្រែង",
+    "latin": "Chey Kreng",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ពញាឮ",
+    "latin": "Ponhea Lueu",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស្អាង",
+    "latin": "Sang",
+    "country": "Cambodia"
+  },
+  {
+    "native": "លើកដែក",
+    "latin": "Leuk Daek",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ល្វាឯម",
+    "latin": "Lvea Aem",
+    "country": "Cambodia"
+  },
+  {
+    "native": "មុខកំពូល",
+    "latin": "Mukh Kampul",
+    "country": "Cambodia"
+  },
+  {
+    "native": "អង្គស្នួល",
+    "latin": "Angk Snoul",
+    "country": "Cambodia"
+  },
+  {
+    "native": "គងពិសី",
+    "latin": "Kong Pisei",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ពួក",
+    "latin": "Puok",
+    "country": "Cambodia"
+  },
+  {
+    "native": "អង្គរជ័យ",
+    "latin": "Angkor Chum",
+    "country": "Cambodia"
+  },
+  {
+    "native": "អង្គរធំ",
+    "latin": "Angkor Thum",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ប្រាសាទបាគង",
+    "latin": "Prasat Bakong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "រលួស",
+    "latin": "Roluos",
+    "country": "Cambodia"
+  },
+  {
+    "native": "វារីន",
+    "latin": "Varin",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សូត្រនិគម",
+    "latin": "Soutr Nikom",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស្រីស្នំ",
+    "latin": "Srei Snam",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពង់ប្រសាទ",
+    "latin": "Kampong Prasat",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ខ្ចាស់",
+    "latin": "Kchas",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រៃឈរ",
+    "latin": "Prey Chhor",
+    "country": "Cambodia"
+  },
+  {
+    "native": "បង្កង",
+    "latin": "Bong Kang",
+    "country": "Cambodia"
+  },
+  {
+    "native": "បឹងរាំង",
+    "latin": "Boeng Reang",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជ្រៃវិជ័យ",
+    "latin": "Chrey Vichai",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កញ្ជរ",
+    "latin": "Kan Chor",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កំពង់ស្រការ",
+    "latin": "Kampong Srakar",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កោះកែវ",
+    "latin": "Keo Koh",
+    "country": "Cambodia"
+  },
+  {
+    "native": "កោះធំ",
+    "latin": "Koh Thum",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ខេត្តកំពង់ចាម",
+    "latin": "Kampong Cham",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ចំការលើ",
+    "latin": "Chamkar Leu",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ជល់ជ័យ",
+    "latin": "Chol Chey",
+    "country": "Cambodia"
+  },
+  {
+    "native": "តាឯក",
+    "latin": "Ta Ek",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ត្នោត",
+    "latin": "Tnaot",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ទឹកជុំ",
+    "latin": "Tuek Chum",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ទឹកផូ",
+    "latin": "Tuek Phos",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ទួលគគី",
+    "latin": "Tuol Koki",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ទួលព្រះ",
+    "latin": "Tuol Preah",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ពាមជរ",
+    "latin": "Peam Chor",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ពាមរក៍",
+    "latin": "Peam Ro",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រែកកំពឹស",
+    "latin": "Prek Kampis",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រែកដាក់",
+    "latin": "Prek Dak",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រែកព្រះ",
+    "latin": "Prek Preah",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រែកស",
+    "latin": "Prek Sa",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រៃក្រឡា",
+    "latin": "Prey Krala",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រៃខ្លា",
+    "latin": "Prey Khla",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រៃព្រាល",
+    "latin": "Prey Preal",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រៃវែង",
+    "latin": "Prey Veng",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ព្រៃសំបូរ",
+    "latin": "Prey Sombor",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ពោធិ៍រៀង",
+    "latin": "Pou Rieng",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ភ្នំជីសូ",
+    "latin": "Phnom Chiso",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ភ្នំដិល",
+    "latin": "Phnom Dil",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ភ្នំលៀប",
+    "latin": "Phnom Liep",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ភ្នំស្វាយ",
+    "latin": "Phnom Svay",
+    "country": "Cambodia"
+  },
+  {
+    "native": "មានជ័យ",
+    "latin": "Mean Chey",
+    "country": "Cambodia"
+  },
+  {
+    "native": "រកៀន",
+    "latin": "Rokien",
+    "country": "Cambodia"
+  },
+  {
+    "native": "រមាសហែង",
+    "latin": "Romeas Haek",
+    "country": "Cambodia"
+  },
+  {
+    "native": "រំដួល",
+    "latin": "Rumduol",
+    "country": "Cambodia"
+  },
+  {
+    "native": "រំពង",
+    "latin": "Rompong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "រោងដំរី",
+    "latin": "Rong Damrey",
+    "country": "Cambodia"
+  },
+  {
+    "native": "លង់ឃ្លៃ",
+    "latin": "Long Khlei",
+    "country": "Cambodia"
+  },
+  {
+    "native": "លាយខ្វាយ",
+    "latin": "Leay Kvay",
+    "country": "Cambodia"
+  },
+  {
+    "native": "វាលពោធិ",
+    "latin": "Veal Pou",
+    "country": "Cambodia"
+  },
+  {
+    "native": "វាលសំបូរ",
+    "latin": "Veal Sambor",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សន្ដ្រាក់",
+    "latin": "Santrak",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស៊ីធ័រ",
+    "latin": "Sithor",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សូភី",
+    "latin": "Sophi",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស្នួល",
+    "latin": "Snoul",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សំបួរមាស",
+    "latin": "Sambuor Meas",
+    "country": "Cambodia"
+  },
+  {
+    "native": "សំរោង",
+    "latin": "Samraong",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស្រីអំពិល",
+    "latin": "Srei Ampil",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ស្រួច",
+    "latin": "Sruoch",
+    "country": "Cambodia"
+  },
+  {
+    "native": "ហង់ជ័យ",
+    "latin": "Han Chey",
+    "country": "Cambodia"
+  },
+  {
+    "native": "អូរាំងឪ",
+    "latin": "Ou Reang Ov",
+    "country": "Cambodia"
+  }
 ]

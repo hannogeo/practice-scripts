@@ -1,128 +1,1017 @@
 [
-  {"native":"গুৱাহাটী","latin":"Guwahati"},
-  {"native":"ডিব্ৰুগড়","latin":"Dibrugarh"},
-  {"native":"যোৰহাট","latin":"Jorhat"},
-  {"native":"শিলচৰ","latin":"Silchar"},
-  {"native":"তেজপুৰ","latin":"Tezpur"},
-  {"native":"নগাঁও","latin":"Nagaon"},
-  {"native":"তিনিচুকীয়া","latin":"Tinsukia"},
-  {"native":"বঙাইগাঁও","latin":"Bongaigaon"},
-  {"native":"ধুবুৰী","latin":"Dhubri"},
-  {"native":"গোলাঘাট","latin":"Golaghat"},
-  {"native":"বাৰপেটা","latin":"Barpeta"},
-  {"native":"লখিমপুৰ","latin":"Lakhimpur"},
-  {"native":"শিৱসাগৰ","latin":"Sivasagar"},
-  {"native":"কৰিমগঞ্জ","latin":"Karimganj"},
-  {"native":"হাইলাকান্দি","latin":"Hailakandi"},
-  {"native":"কাছাৰ","latin":"Cachar"},
-  {"native":"দৰং","latin":"Darrang"},
-  {"native":"মৰিগাঁও","latin":"Morigaon"},
-  {"native":"নলবাৰী","latin":"Nalbari"},
-  {"native":"কামৰূপ","latin":"Kamrup"},
-  {"native":"ওদালগুৰি","latin":"Udalguri"},
-  {"native":"চিৰাং","latin":"Chirang"},
-  {"native":"কোকৰাঝাৰ","latin":"Kokrajhar"},
-  {"native":"বাক্সা","latin":"Baksa"},
-  {"native":"তামুলপুৰ","latin":"Tamulpur"},
-  {"native":"যোৰহাট","latin":"Jorhat"},
-  {"native":"মাজুলী","latin":"Majuli"},
-  {"native":"ডেমো","latin":"Dhemaji"},
-  {"native":"গোলাঘাট","latin":"Golaghat"},
-  {"native":"কৰ্বি আংলং","latin":"Karbi Anglong"},
-  {"native":"ডিমা হাচাও","latin":"Dima Hasao"},
-  {"native":"দক্ষিণ শালমাৰা","latin":"South Salmara"},
-  {"native":"ধেমাজি","latin":"Dhemaji"},
-  {"native":"বিশ্বনাথ","latin":"Biswanath"},
-  {"native":"হোজাই","latin":"Hojai"},
-  {"native":"বাজালী","latin":"Bajali"},
-  {"native":"দক্ষিণ কামৰূপ","latin":"South Kamrup"},
-  {"native":"পাটগাঁও","latin":"Patgaon"},
-  {"native":"সোণাৰি","latin":"Sonari"},
-  {"native":"দৈপুৰ","latin":"Daipur"},
-  {"native":"উত্তৰ লখিমপুৰ","latin":"North Lakhimpur"},
-  {"native":"গাৰো পাহাৰ","latin":"Garo Hills"},
-  {"native":"সোণিতপুৰ","latin":"Sonitpur"},
-  {"native":"নাওবৈচা","latin":"Naoboicha"},
-  {"native":"ৰাজগড়","latin":"Rajgarh"},
-  {"native":"ভগৱা","latin":"Bhaga"},
-  {"native":"মৰাণহাট","latin":"Moranhat"},
-  {"native":"সাপেখাতি","latin":"Sapekhati"},
-  {"native":"চাবুৱা","latin":"Chabua"},
-  {"native":"লাহোৱাল","latin":"Lahowal"},
-  {"native":"শালমাৰা","latin":"Salmara"},
-  {"native":"ধলাই","latin":"Dhalai"},
-  {"native":"হাফলং","latin":"Haflong"},
-  {"native":"মাইবং","latin":"Maibong"},
-  {"native":"লামডিং","latin":"Lamding"},
-  {"native":"গোসাইগাঁও","latin":"Gosai Gaon"},
-  {"native":"তেজপুৰ","latin":"Tezpur"},
-  {"native":"যোৰহাট","latin":"Jorhat"},
-  {"native":"ডিব্ৰুগড়","latin":"Dibrugarh"},
-  {"native":"শিলচৰ","latin":"Silchar"},
-  {"native":"নগাঁও","latin":"Nagaon"},
-  {"native":"তিনিচুকীয়া","latin":"Tinsukia"},
-  {"native":"বঙাইগাঁও","latin":"Bongaigaon"},
-  {"native":"ধুবুৰী","latin":"Dhubri"},
-  {"native":"বাৰপেটা","latin":"Barpeta"},
-  {"native":"লখিমপুৰ","latin":"Lakhimpur"},
-  {"native":"শিৱসাগৰ","latin":"Sivasagar"},
-  {"native":"কৰিমগঞ্জ","latin":"Karimganj"},
-  {"native":"হাইলাকান্দি","latin":"Hailakandi"},
-  {"native":"মৰিগাঁও","latin":"Morigaon"},
-  {"native":"নলবাৰী","latin":"Nalbari"},
-  {"native":"কোকৰাঝাৰ","latin":"Kokrajhar"},
-  {"native":"বাক্সা","latin":"Baksa"},
-  {"native":"চিৰাং","latin":"Chirang"},
-  {"native":"ওদালগুৰি","latin":"Udalguri"},
-  {"native":"বিশ্বনাথ","latin":"Biswanath"},
-  {"native":"হোজাই","latin":"Hojai"},
-  {"native":"দক্ষিণ শালমাৰা","latin":"South Salmara"},
-  {"native":"মাজুলী","latin":"Majuli"},
-  {"native":"ধেমাজি","latin":"Dhemaji"},
-  {"native":"ডিমা হাচাও","latin":"Dima Hasao"},
-  {"native":"কাৰ্বি আংলং","latin":"Karbi Anglong"},
-  {"native":"দৰং","latin":"Darrang"},
-  {"native":"কামৰূপ","latin":"Kamrup"},
-  {"native":"গোলাঘাট","latin":"Golaghat"},
-  {"native":"যোৰহাট","latin":"Jorhat"},
-  {"native":"ডিব্ৰুগড়","latin":"Dibrugarh"},
-  {"native":"তিনিচুকীয়া","latin":"Tinsukia"},
-  {"native":"ডুমডুমা","latin":"Dum Duma"},
-  {"native":"মাৰ্ঘেৰিটা","latin":"Margherita"},
-  {"native":"ডিগবৈ","latin":"Digboi"},
-  {"native":"চাবুৱা","latin":"Chabua"},
-  {"native":"নাহৰকটীয়া","latin":"Naharkatia"},
-  {"native":"যোৰহাট","latin":"Jorhat"},
-  {"native":"ডিব্ৰুগড়","latin":"Dibrugarh"},
-  {"native":"শিৱসাগৰ","latin":"Sivasagar"},
-  {"native":"সোণাৰি","latin":"Sonari"},
-  {"native":"বোকাখাত","latin":"Bokakhat"},
-  {"native":"গোলাঘাট","latin":"Golaghat"},
-  {"native":"মৰিয়নি","latin":"Mariani"},
-  {"native":"নাজিৰা","latin":"Nazira"},
-  {"native":"তিতাবৰ","latin":"Titabor"},
-  {"native":"চাপৰ","latin":"Chaparmukh"},
-  {"native":"লামডিং","latin":"Lumding"},
-  {"native":"হোজাই","latin":"Hojai"},
-  {"native":"ডবকা","latin":"Dabaka"},
-  {"native":"দক্ষিণ শালমাৰা","latin":"South Salmara"},
-  {"native":"ধুবুৰী","latin":"Dhubri"},
-  {"native":"বিলাসীপাড়া","latin":"Bilasipara"},
-  {"native":"গোঁসাইগাঁও","latin":"Gosaigaon"},
-  {"native":"কোকৰাঝাৰ","latin":"Kokrajhar"},
-  {"native":"বাসুগাঁও","latin":"Basugaon"},
-  {"native":"বঙাইগাঁও","latin":"Bongaigaon"},
-  {"native":"অভয়াপুৰী","latin":"Abhayapuri"},
-  {"native":"বৰপেটা","latin":"Barpeta"},
-  {"native":"পাটশাল","latin":"Pathsala"},
-  {"native":"নলবাৰী","latin":"Nalbari"},
-  {"native":"ৰঙিয়া","latin":"Rangia"},
-  {"native":"গুৱাহাটী","latin":"Guwahati"},
-  {"native":"দিফু","latin":"Diphu"},
-  {"native":"হাফলং","latin":"Haflong"},
-  {"native":"ময়ং","latin":"Mayong"},
-  {"native":"বোকাজান","latin":"Bokajan"},
-  {"native":"সৰ্থেবাৰী","latin":"Sarthebari"},
-  {"native":"বাইহাটা","latin":"Baihata"},
-  {"native":"চানগসাৰি","latin":"Changsari"}
+  {
+    "native": "গুৱাহাটী",
+    "latin": "Guwahati",
+    "country": "India"
+  },
+  {
+    "native": "ডিব্ৰুগড়",
+    "latin": "Dibrugarh",
+    "country": "India"
+  },
+  {
+    "native": "যোৰহাট",
+    "latin": "Jorhat",
+    "country": "India"
+  },
+  {
+    "native": "শিলচৰ",
+    "latin": "Silchar",
+    "country": "India"
+  },
+  {
+    "native": "তেজপুৰ",
+    "latin": "Tezpur",
+    "country": "India"
+  },
+  {
+    "native": "নগাঁও",
+    "latin": "Nagaon",
+    "country": "India"
+  },
+  {
+    "native": "তিনিচুকীয়া",
+    "latin": "Tinsukia",
+    "country": "India"
+  },
+  {
+    "native": "বঙাইগাঁও",
+    "latin": "Bongaigaon",
+    "country": "India"
+  },
+  {
+    "native": "ধুবুৰী",
+    "latin": "Dhubri",
+    "country": "India"
+  },
+  {
+    "native": "গোলাঘাট",
+    "latin": "Golaghat",
+    "country": "India"
+  },
+  {
+    "native": "বাৰপেটা",
+    "latin": "Barpeta",
+    "country": "India"
+  },
+  {
+    "native": "লখিমপুৰ",
+    "latin": "Lakhimpur",
+    "country": "India"
+  },
+  {
+    "native": "শিৱসাগৰ",
+    "latin": "Sivasagar",
+    "country": "India"
+  },
+  {
+    "native": "কৰিমগঞ্জ",
+    "latin": "Karimganj",
+    "country": "India"
+  },
+  {
+    "native": "হাইলাকান্দি",
+    "latin": "Hailakandi",
+    "country": "India"
+  },
+  {
+    "native": "কাছাৰ",
+    "latin": "Cachar",
+    "country": "India"
+  },
+  {
+    "native": "দৰং",
+    "latin": "Darrang",
+    "country": "India"
+  },
+  {
+    "native": "মৰিগাঁও",
+    "latin": "Morigaon",
+    "country": "India"
+  },
+  {
+    "native": "নলবাৰী",
+    "latin": "Nalbari",
+    "country": "India"
+  },
+  {
+    "native": "কামৰূপ",
+    "latin": "Kamrup",
+    "country": "India"
+  },
+  {
+    "native": "ওদালগুৰি",
+    "latin": "Udalguri",
+    "country": "India"
+  },
+  {
+    "native": "চিৰাং",
+    "latin": "Chirang",
+    "country": "India"
+  },
+  {
+    "native": "কোকৰাঝাৰ",
+    "latin": "Kokrajhar",
+    "country": "India"
+  },
+  {
+    "native": "বাক্সা",
+    "latin": "Baksa",
+    "country": "India"
+  },
+  {
+    "native": "তামুলপুৰ",
+    "latin": "Tamulpur",
+    "country": "India"
+  },
+  {
+    "native": "যোৰহাট",
+    "latin": "Jorhat",
+    "country": "India"
+  },
+  {
+    "native": "মাজুলী",
+    "latin": "Majuli",
+    "country": "India"
+  },
+  {
+    "native": "ডেমো",
+    "latin": "Dhemaji",
+    "country": "India"
+  },
+  {
+    "native": "গোলাঘাট",
+    "latin": "Golaghat",
+    "country": "India"
+  },
+  {
+    "native": "কৰ্বি আংলং",
+    "latin": "Karbi Anglong",
+    "country": "India"
+  },
+  {
+    "native": "ডিমা হাচাও",
+    "latin": "Dima Hasao",
+    "country": "India"
+  },
+  {
+    "native": "দক্ষিণ শালমাৰা",
+    "latin": "South Salmara",
+    "country": "India"
+  },
+  {
+    "native": "ধেমাজি",
+    "latin": "Dhemaji",
+    "country": "India"
+  },
+  {
+    "native": "বিশ্বনাথ",
+    "latin": "Biswanath",
+    "country": "India"
+  },
+  {
+    "native": "হোজাই",
+    "latin": "Hojai",
+    "country": "India"
+  },
+  {
+    "native": "বাজালী",
+    "latin": "Bajali",
+    "country": "India"
+  },
+  {
+    "native": "দক্ষিণ কামৰূপ",
+    "latin": "South Kamrup",
+    "country": "India"
+  },
+  {
+    "native": "পাটগাঁও",
+    "latin": "Patgaon",
+    "country": "India"
+  },
+  {
+    "native": "সোণাৰি",
+    "latin": "Sonari",
+    "country": "India"
+  },
+  {
+    "native": "দৈপুৰ",
+    "latin": "Daipur",
+    "country": "India"
+  },
+  {
+    "native": "উত্তৰ লখিমপুৰ",
+    "latin": "North Lakhimpur",
+    "country": "India"
+  },
+  {
+    "native": "গাৰো পাহাৰ",
+    "latin": "Garo Hills",
+    "country": "India"
+  },
+  {
+    "native": "সোণিতপুৰ",
+    "latin": "Sonitpur",
+    "country": "India"
+  },
+  {
+    "native": "নাওবৈচা",
+    "latin": "Naoboicha",
+    "country": "India"
+  },
+  {
+    "native": "ৰাজগড়",
+    "latin": "Rajgarh",
+    "country": "India"
+  },
+  {
+    "native": "ভগৱা",
+    "latin": "Bhaga",
+    "country": "India"
+  },
+  {
+    "native": "মৰাণহাট",
+    "latin": "Moranhat",
+    "country": "India"
+  },
+  {
+    "native": "সাপেখাতি",
+    "latin": "Sapekhati",
+    "country": "India"
+  },
+  {
+    "native": "চাবুৱা",
+    "latin": "Chabua",
+    "country": "India"
+  },
+  {
+    "native": "লাহোৱাল",
+    "latin": "Lahowal",
+    "country": "India"
+  },
+  {
+    "native": "শালমাৰা",
+    "latin": "Salmara",
+    "country": "India"
+  },
+  {
+    "native": "ধলাই",
+    "latin": "Dhalai",
+    "country": "India"
+  },
+  {
+    "native": "হাফলং",
+    "latin": "Haflong",
+    "country": "India"
+  },
+  {
+    "native": "মাইবং",
+    "latin": "Maibong",
+    "country": "India"
+  },
+  {
+    "native": "লামডিং",
+    "latin": "Lamding",
+    "country": "India"
+  },
+  {
+    "native": "গোসাইগাঁও",
+    "latin": "Gosai Gaon",
+    "country": "India"
+  },
+  {
+    "native": "তেজপুৰ",
+    "latin": "Tezpur",
+    "country": "India"
+  },
+  {
+    "native": "যোৰহাট",
+    "latin": "Jorhat",
+    "country": "India"
+  },
+  {
+    "native": "ডিব্ৰুগড়",
+    "latin": "Dibrugarh",
+    "country": "India"
+  },
+  {
+    "native": "শিলচৰ",
+    "latin": "Silchar",
+    "country": "India"
+  },
+  {
+    "native": "নগাঁও",
+    "latin": "Nagaon",
+    "country": "India"
+  },
+  {
+    "native": "তিনিচুকীয়া",
+    "latin": "Tinsukia",
+    "country": "India"
+  },
+  {
+    "native": "বঙাইগাঁও",
+    "latin": "Bongaigaon",
+    "country": "India"
+  },
+  {
+    "native": "ধুবুৰী",
+    "latin": "Dhubri",
+    "country": "India"
+  },
+  {
+    "native": "বাৰপেটা",
+    "latin": "Barpeta",
+    "country": "India"
+  },
+  {
+    "native": "লখিমপুৰ",
+    "latin": "Lakhimpur",
+    "country": "India"
+  },
+  {
+    "native": "শিৱসাগৰ",
+    "latin": "Sivasagar",
+    "country": "India"
+  },
+  {
+    "native": "কৰিমগঞ্জ",
+    "latin": "Karimganj",
+    "country": "India"
+  },
+  {
+    "native": "হাইলাকান্দি",
+    "latin": "Hailakandi",
+    "country": "India"
+  },
+  {
+    "native": "মৰিগাঁও",
+    "latin": "Morigaon",
+    "country": "India"
+  },
+  {
+    "native": "নলবাৰী",
+    "latin": "Nalbari",
+    "country": "India"
+  },
+  {
+    "native": "কোকৰাঝাৰ",
+    "latin": "Kokrajhar",
+    "country": "India"
+  },
+  {
+    "native": "বাক্সা",
+    "latin": "Baksa",
+    "country": "India"
+  },
+  {
+    "native": "চিৰাং",
+    "latin": "Chirang",
+    "country": "India"
+  },
+  {
+    "native": "ওদালগুৰি",
+    "latin": "Udalguri",
+    "country": "India"
+  },
+  {
+    "native": "বিশ্বনাথ",
+    "latin": "Biswanath",
+    "country": "India"
+  },
+  {
+    "native": "হোজাই",
+    "latin": "Hojai",
+    "country": "India"
+  },
+  {
+    "native": "দক্ষিণ শালমাৰা",
+    "latin": "South Salmara",
+    "country": "India"
+  },
+  {
+    "native": "মাজুলী",
+    "latin": "Majuli",
+    "country": "India"
+  },
+  {
+    "native": "ধেমাজি",
+    "latin": "Dhemaji",
+    "country": "India"
+  },
+  {
+    "native": "ডিমা হাচাও",
+    "latin": "Dima Hasao",
+    "country": "India"
+  },
+  {
+    "native": "কাৰ্বি আংলং",
+    "latin": "Karbi Anglong",
+    "country": "India"
+  },
+  {
+    "native": "দৰং",
+    "latin": "Darrang",
+    "country": "India"
+  },
+  {
+    "native": "কামৰূপ",
+    "latin": "Kamrup",
+    "country": "India"
+  },
+  {
+    "native": "গোলাঘাট",
+    "latin": "Golaghat",
+    "country": "India"
+  },
+  {
+    "native": "যোৰহাট",
+    "latin": "Jorhat",
+    "country": "India"
+  },
+  {
+    "native": "ডিব্ৰুগড়",
+    "latin": "Dibrugarh",
+    "country": "India"
+  },
+  {
+    "native": "তিনিচুকীয়া",
+    "latin": "Tinsukia",
+    "country": "India"
+  },
+  {
+    "native": "ডুমডুমা",
+    "latin": "Dum Duma",
+    "country": "India"
+  },
+  {
+    "native": "মাৰ্ঘেৰিটা",
+    "latin": "Margherita",
+    "country": "India"
+  },
+  {
+    "native": "ডিগবৈ",
+    "latin": "Digboi",
+    "country": "India"
+  },
+  {
+    "native": "চাবুৱা",
+    "latin": "Chabua",
+    "country": "India"
+  },
+  {
+    "native": "নাহৰকটীয়া",
+    "latin": "Naharkatia",
+    "country": "India"
+  },
+  {
+    "native": "যোৰহাট",
+    "latin": "Jorhat",
+    "country": "India"
+  },
+  {
+    "native": "ডিব্ৰুগড়",
+    "latin": "Dibrugarh",
+    "country": "India"
+  },
+  {
+    "native": "শিৱসাগৰ",
+    "latin": "Sivasagar",
+    "country": "India"
+  },
+  {
+    "native": "সোণাৰি",
+    "latin": "Sonari",
+    "country": "India"
+  },
+  {
+    "native": "বোকাখাত",
+    "latin": "Bokakhat",
+    "country": "India"
+  },
+  {
+    "native": "গোলাঘাট",
+    "latin": "Golaghat",
+    "country": "India"
+  },
+  {
+    "native": "মৰিয়নি",
+    "latin": "Mariani",
+    "country": "India"
+  },
+  {
+    "native": "নাজিৰা",
+    "latin": "Nazira",
+    "country": "India"
+  },
+  {
+    "native": "তিতাবৰ",
+    "latin": "Titabor",
+    "country": "India"
+  },
+  {
+    "native": "চাপৰ",
+    "latin": "Chaparmukh",
+    "country": "India"
+  },
+  {
+    "native": "লামডিং",
+    "latin": "Lumding",
+    "country": "India"
+  },
+  {
+    "native": "হোজাই",
+    "latin": "Hojai",
+    "country": "India"
+  },
+  {
+    "native": "ডবকা",
+    "latin": "Dabaka",
+    "country": "India"
+  },
+  {
+    "native": "দক্ষিণ শালমাৰা",
+    "latin": "South Salmara",
+    "country": "India"
+  },
+  {
+    "native": "ধুবুৰী",
+    "latin": "Dhubri",
+    "country": "India"
+  },
+  {
+    "native": "বিলাসীপাড়া",
+    "latin": "Bilasipara",
+    "country": "India"
+  },
+  {
+    "native": "গোঁসাইগাঁও",
+    "latin": "Gosaigaon",
+    "country": "India"
+  },
+  {
+    "native": "কোকৰাঝাৰ",
+    "latin": "Kokrajhar",
+    "country": "India"
+  },
+  {
+    "native": "বাসুগাঁও",
+    "latin": "Basugaon",
+    "country": "India"
+  },
+  {
+    "native": "বঙাইগাঁও",
+    "latin": "Bongaigaon",
+    "country": "India"
+  },
+  {
+    "native": "অভয়াপুৰী",
+    "latin": "Abhayapuri",
+    "country": "India"
+  },
+  {
+    "native": "বৰপেটা",
+    "latin": "Barpeta",
+    "country": "India"
+  },
+  {
+    "native": "পাটশাল",
+    "latin": "Pathsala",
+    "country": "India"
+  },
+  {
+    "native": "নলবাৰী",
+    "latin": "Nalbari",
+    "country": "India"
+  },
+  {
+    "native": "ৰঙিয়া",
+    "latin": "Rangia",
+    "country": "India"
+  },
+  {
+    "native": "গুৱাহাটী",
+    "latin": "Guwahati",
+    "country": "India"
+  },
+  {
+    "native": "দিফু",
+    "latin": "Diphu",
+    "country": "India"
+  },
+  {
+    "native": "হাফলং",
+    "latin": "Haflong",
+    "country": "India"
+  },
+  {
+    "native": "ময়ং",
+    "latin": "Mayong",
+    "country": "India"
+  },
+  {
+    "native": "বোকাজান",
+    "latin": "Bokajan",
+    "country": "India"
+  },
+  {
+    "native": "সৰ্থেবাৰী",
+    "latin": "Sarthebari",
+    "country": "India"
+  },
+  {
+    "native": "বাইহাটা",
+    "latin": "Baihata",
+    "country": "India"
+  },
+  {
+    "native": "চানগসাৰি",
+    "latin": "Changsari",
+    "country": "India"
+  },
+  {
+    "native": "বাৰপেটਾ ৰোড",
+    "latin": "Barpeta Road",
+    "country": "India"
+  },
+  {
+    "native": "বিজনী",
+    "latin": "Bijni",
+    "country": "India"
+  },
+  {
+    "native": "বিশ্বনাথ চাৰিআলি",
+    "latin": "Biswanath Chariali",
+    "country": "India"
+  },
+  {
+    "native": "বকো",
+    "latin": "Boko",
+    "country": "India"
+  },
+  {
+    "native": "ডিমাপুৰ",
+    "latin": "Dimapur",
+    "country": "India"
+  },
+  {
+    "native": "জোঢা",
+    "latin": "Jodha",
+    "country": "India"
+  },
+  {
+    "native": "জখলাবন্ধা",
+    "latin": "Jakhalabandha",
+    "country": "India"
+  },
+  {
+    "native": "খাৰুপেটীয়া",
+    "latin": "Kharupetia",
+    "country": "India"
+  },
+  {
+    "native": "মঙ্গলদৈ",
+    "latin": "Mangaldai",
+    "country": "India"
+  },
+  {
+    "native": "ৰূপনগৰ",
+    "latin": "Rupnagar",
+    "country": "India"
+  },
+  {
+    "native": "থেলুৱা",
+    "latin": "Thelua",
+    "country": "India"
+  },
+  {
+    "native": "বেলোগুৰি",
+    "latin": "Beloguri",
+    "country": "India"
+  },
+  {
+    "native": "বালিজান",
+    "latin": "Balijan",
+    "country": "India"
+  },
+  {
+    "native": "বৰদুৱাৰ",
+    "latin": "Baridua",
+    "country": "India"
+  },
+  {
+    "native": "ধানসিৰি",
+    "latin": "Dhansiri",
+    "country": "India"
+  },
+  {
+    "native": "গোরেশ্বৰ",
+    "latin": "Goreswar",
+    "country": "India"
+  },
+  {
+    "native": "জতিয়া",
+    "latin": "Jatia",
+    "country": "India"
+  },
+  {
+    "native": "কছাৰী",
+    "latin": "Kachari",
+    "country": "India"
+  },
+  {
+    "native": "শুটিয়াখোলা",
+    "latin": "Sootea",
+    "country": "India"
+  },
+  {
+    "native": "বিহপুৰিয়া",
+    "latin": "Bihpuria",
+    "country": "India"
+  },
+  {
+    "native": "ঢেকিয়াজুলি",
+    "latin": "Dhekiajuli",
+    "country": "India"
+  },
+  {
+    "native": "বালি",
+    "latin": "Bali",
+    "country": "India"
+  },
+  {
+    "native": "কদম",
+    "latin": "Kadam",
+    "country": "India"
+  },
+  {
+    "native": "পালাশবাৰী",
+    "latin": "Palashbari",
+    "country": "India"
+  },
+  {
+    "native": "হাজো",
+    "latin": "Hajo",
+    "country": "India"
+  },
+  {
+    "native": "বৰ্ডুবী",
+    "latin": "Boardbazar",
+    "country": "India"
+  },
+  {
+    "native": "আজাৰা",
+    "latin": "Azara",
+    "country": "India"
+  },
+  {
+    "native": "মিৰ্জা",
+    "latin": "Mirza",
+    "country": "India"
+  },
+  {
+    "native": "চাউলপৰা",
+    "latin": "Saulpara",
+    "country": "India"
+  },
+  {
+    "native": "বৰভেটা",
+    "latin": "BarBeta",
+    "country": "India"
+  },
+  {
+    "native": "চতিয়া",
+    "latin": "Chatia",
+    "country": "India"
+  },
+  {
+    "native": "বিহটা",
+    "latin": "Bihata",
+    "country": "India"
+  },
+  {
+    "native": "পুখুৰীপাৰ",
+    "latin": "Pukhuripar",
+    "country": "India"
+  },
+  {
+    "native": "বকা",
+    "latin": "Baka",
+    "country": "India"
+  },
+  {
+    "native": "ৰঙাপহৰ",
+    "latin": "Rangapahar",
+    "country": "India"
+  },
+  {
+    "native": "চৰাইদেউ",
+    "latin": "Charaideo",
+    "country": "India"
+  },
+  {
+    "native": "টিহু",
+    "latin": "Tihu",
+    "country": "India"
+  },
+  {
+    "native": "বড়পাখিয়া",
+    "latin": "Barpakhia",
+    "country": "India"
+  },
+  {
+    "native": "হালোৱা",
+    "latin": "Haloa",
+    "country": "India"
+  },
+  {
+    "native": "বাটাদ্ৰবা",
+    "latin": "Batadraba",
+    "country": "India"
+  },
+  {
+    "native": "উত্তৰ গুৱাহাটী",
+    "latin": "North Guwahati",
+    "country": "India"
+  },
+  {
+    "native": "পাণ্ডু",
+    "latin": "Pandu",
+    "country": "India"
+  },
+  {
+    "native": "মালিগাঁও",
+    "latin": "Maligaon",
+    "country": "India"
+  },
+  {
+    "native": "বেলতলা",
+    "latin": "Beltala",
+    "country": "India"
+  },
+  {
+    "native": "নৰ্থব্রুক",
+    "latin": "Northbrook",
+    "country": "India"
+  },
+  {
+    "native": "শংকৰদেৱ নগৰ",
+    "latin": "Sankardev Nagar",
+    "country": "India"
+  },
+  {
+    "native": "ডোকমান",
+    "latin": "Dokman",
+    "country": "India"
+  },
+  {
+    "native": "বরমা",
+    "latin": "Barma",
+    "country": "India"
+  },
+  {
+    "native": "কামালপুর",
+    "latin": "Kamalpur",
+    "country": "India"
+  },
+  {
+    "native": "জামুগুৰিহাট",
+    "latin": "Jamugurihat",
+    "country": "India"
+  },
+  {
+    "native": "বড়বিল",
+    "latin": "Barbil",
+    "country": "India"
+  },
+  {
+    "native": "সিমলুগুৰি",
+    "latin": "Simluguri",
+    "country": "India"
+  },
+  {
+    "native": "বৰমা",
+    "latin": "Borma",
+    "country": "India"
+  },
+  {
+    "native": "দেখিয়াজুলি",
+    "latin": "Dekhiazuli",
+    "country": "India"
+  },
+  {
+    "native": "চৰাইবাহী",
+    "latin": "Charaibahi",
+    "country": "India"
+  },
+  {
+    "native": "বেলশৰ",
+    "latin": "Belsor",
+    "country": "India"
+  },
+  {
+    "native": "ছয়গাঁও",
+    "latin": "Chaygaon",
+    "country": "India"
+  },
+  {
+    "native": "উদয়পুর",
+    "latin": "Udaypur",
+    "country": "India"
+  },
+  {
+    "native": "বাঘৰা",
+    "latin": "Baghara",
+    "country": "India"
+  },
+  {
+    "native": "নিজ বৰদোলা",
+    "latin": "Niz Bardola",
+    "country": "India"
+  },
+  {
+    "native": "দক্ষিণপাট",
+    "latin": "Dakhinpat",
+    "country": "India"
+  },
+  {
+    "native": "জেংৰাইমুখ",
+    "latin": "Jengraimukh",
+    "country": "India"
+  },
+  {
+    "native": "কৰতোৱা",
+    "latin": "Karatowa",
+    "country": "India"
+  },
+  {
+    "native": "বৰগোলাই",
+    "latin": "Bargolai",
+    "country": "India"
+  },
+  {
+    "native": "দিগৈ",
+    "latin": "Digai",
+    "country": "India"
+  },
+  {
+    "native": "চাউলধোৱা",
+    "latin": "Sualdhowa",
+    "country": "India"
+  },
+  {
+    "native": "কাকডোঙা",
+    "latin": "Kakadanga",
+    "country": "India"
+  },
+  {
+    "native": "বিশ্বনাথঘাট",
+    "latin": "Biswanathghat",
+    "country": "India"
+  },
+  {
+    "native": "চিলাৰাই",
+    "latin": "Chilarai",
+    "country": "India"
+  },
+  {
+    "native": "চিপলাজান",
+    "latin": "Siplajan",
+    "country": "India"
+  },
+  {
+    "native": "ভুৰাগাঁও",
+    "latin": "Bhuragaon",
+    "country": "India"
+  },
+  {
+    "native": "খাগৰিজান",
+    "latin": "Khagarijan",
+    "country": "India"
+  },
+  {
+    "native": "বোড়ভাটী",
+    "latin": "Bordbhati",
+    "country": "India"
+  },
+  {
+    "native": "বেণীগাঁও",
+    "latin": "Benigaon",
+    "country": "India"
+  },
+  {
+    "native": "হাটখোলা",
+    "latin": "Hatkhola",
+    "country": "India"
+  },
+  {
+    "native": "বোকাখাট",
+    "latin": "Bokakhat",
+    "country": "India"
+  },
+  {
+    "native": "বৰপাথৰ",
+    "latin": "Barpathar",
+    "country": "India"
+  }
 ]

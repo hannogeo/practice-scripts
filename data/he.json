@@ -1,125 +1,1397 @@
 [
-  {"native":"ירושלים","latin":"Jerusalem"},
-  {"native":"תל אביב","latin":"Tel Aviv"},
-  {"native":"חיפה","latin":"Haifa"},
-  {"native":"ראשון לציון","latin":"Rishon LeZion"},
-  {"native":"פתח תקווה","latin":"Petah Tikva"},
-  {"native":"אשדוד","latin":"Ashdod"},
-  {"native":"נתניה","latin":"Netanya"},
-  {"native":"באר שבע","latin":"Beer Sheva"},
-  {"native":"חולון","latin":"Holon"},
-  {"native":"בני ברק","latin":"Bnei Brak"},
-  {"native":"רמת גן","latin":"Ramat Gan"},
-  {"native":"רחובות","latin":"Rehovot"},
-  {"native":"אשקלון","latin":"Ashkelon"},
-  {"native":"בת ים","latin":"Bat Yam"},
-  {"native":"כפר סבא","latin":"Kfar Saba"},
-  {"native":"הרצליה","latin":"Herzliya"},
-  {"native":"מודיעין","latin":"Modi'in"},
-  {"native":"נהריה","latin":"Nahariya"},
-  {"native":"עכו","latin":"Acre"},
-  {"native":"צפת","latin":"Safed"},
-  {"native":"טבריה","latin":"Tiberias"},
-  {"native":"אילת","latin":"Eilat"},
-  {"native":"לוד","latin":"Lod"},
-  {"native":"רמלה","latin":"Ramla"},
-  {"native":"עפולה","latin":"Afula"},
-  {"native":"קריית שמונה","latin":"Kiryat Shmona"},
-  {"native":"כרמיאל","latin":"Karmiel"},
-  {"native":"דימונה","latin":"Dimona"},
-  {"native":"אופקים","latin":"Ofakim"},
-  {"native":"שדרות","latin":"Sderot"},
-  {"native":"קריית גת","latin":"Kiryat Gat"},
-  {"native":"קריית מלאכי","latin":"Kiryat Malakhi"},
-  {"native":"יבנה","latin":"Yavne"},
-  {"native":"אור יהודה","latin":"Or Yehuda"},
-  {"native":"יהוד","latin":"Yehud"},
-  {"native":"גבעתיים","latin":"Givatayim"},
-  {"native":"רמת השרון","latin":"Ramat HaSharon"},
-  {"native":"הוד השרון","latin":"Hod HaSharon"},
-  {"native":"אלעד","latin":"Elad"},
-  {"native":"בית שמש","latin":"Beit Shemesh"},
-  {"native":"מגדל העמק","latin":"Migdal HaEmek"},
-  {"native":"נצרת","latin":"Nazareth"},
-  {"native":"טייבה","latin":"Taibeh"},
-  {"native":"טירה","latin":"Tira"},
-  {"native":"ביתר עילית","latin":"Beitar Illit"},
-  {"native":"מעלה אדומים","latin":"Ma'ale Adumim"},
-  {"native":"מודיעין עילית","latin":"Modi'in Illit"},
-  {"native":"ערד","latin":"Arad"},
-  {"native":"מצפה רמון","latin":"Mitzpe Ramon"},
-  {"native":"קריית ארבע","latin":"Kiryat Arba"},
-  {"native":"טבריה","latin":"Tiberias"},
-  {"native":"רעננה","latin":"Raanana"},
-  {"native":"גבעת שמואל","latin":"Givat Shmuel"},
-  {"native":"קריית ים","latin":"Kiryat Yam"},
-  {"native":"קריית מוצקין","latin":"Kiryat Motzkin"},
-  {"native":"קריית ביאליק","latin":"Kiryat Bialik"},
-  {"native":"קריית אתא","latin":"Kiryat Ata"},
-  {"native":"קריית טבעון","latin":"Kiryat Tivon"},
-  {"native":"נהריה","latin":"Nahariya"},
-  {"native":"עכו","latin":"Acre"},
-  {"native":"קריית שמונה","latin":"Kiryat Shmona"},
-  {"native":"בית שאן","latin":"Beit She'an"},
-  {"native":"עפולה","latin":"Afula"},
-  {"native":"כרמיאל","latin":"Karmiel"},
-  {"native":"מעלות-תרשיחא","latin":"Ma'alot-Tarshiha"},
-  {"native":"שלומי","latin":"Shlomi"},
-  {"native":"צפת","latin":"Safed"},
-  {"native":"טבריה","latin":"Tiberias"},
-  {"native":"נוף הגליל","latin":"Nof HaGalil"},
-  {"native":"מגדל העמק","latin":"Migdal HaEmek"},
-  {"native":"יקנעם","latin":"Yokneam"},
-  {"native":"טירת כרמל","latin":"Tirat Carmel"},
-  {"native":"דלית אל-כרמל","latin":"Daliyat al-Karmel"},
-  {"native":"אור עקיבא","latin":"Or Akiva"},
-  {"native":"בנימינה","latin":"Binyamina"},
-  {"native":"זכרון יעקב","latin":"Zikhron Ya'akov"},
-  {"native":"קיסריה","latin":"Caesarea"},
-  {"native":"פרדס חנה-כרכור","latin":"Pardes Hanna-Karkur"},
-  {"native":"רחובות","latin":"Rehovot"},
-  {"native":"יבנה","latin":"Yavne"},
-  {"native":"לוד","latin":"Lod"},
-  {"native":"רמלה","latin":"Ramla"},
-  {"native":"מודיעין","latin":"Modi'in"},
-  {"native":"אלעד","latin":"El'ad"},
-  {"native":"שוהם","latin":"Shoham"},
-  {"native":"גבעת שמואל","latin":"Giv'at Shmuel"},
-  {"native":"קריית אונו","latin":"Kiryat Ono"},
-  {"native":"אור יהודה","latin":"Or Yehuda"},
-  {"native":"יהוד","latin":"Yehud"},
-  {"native":"ראש העין","latin":"Rosh HaAyin"},
-  {"native":"פתח תקווה","latin":"Petah Tikva"},
-  {"native":"בני ברק","latin":"Bnei Brak"},
-  {"native":"רמת גן","latin":"Ramat Gan"},
-  {"native":"גבעתיים","latin":"Giv'atayim"},
-  {"native":"חולון","latin":"Holon"},
-  {"native":"בת ים","latin":"Bat Yam"},
-  {"native":"ראשון לציון","latin":"Rishon LeZion"},
-  {"native":"נס ציונה","latin":"Nes Ziona"},
-  {"native":"אשדוד","latin":"Ashdod"},
-  {"native":"אשקלון","latin":"Ashkelon"},
-  {"native":"באר שבע","latin":"Be'er Sheva"},
-  {"native":"אילת","latin":"Eilat"},
-  {"native":"דימונה","latin":"Dimona"},
-  {"native":"ערד","latin":"Arad"},
-  {"native":"קריית גת","latin":"Kiryat Gat"},
-  {"native":"קריית מלאכי","latin":"Kiryat Malakhi"},
-  {"native":"שדרות","latin":"Sderot"},
-  {"native":"אופקים","latin":"Ofakim"},
-  {"native":"נתיבות","latin":"Netivot"},
-  {"native":"רהט","latin":"Rahat"},
-  {"native":"ערערה","latin":"Ar'ara"},
-  {"native":"באקה אל-גרביה","latin":"Baqa al-Gharbiyye"},
-  {"native":"טייבה","latin":"Tayibe"},
-  {"native":"טירה","latin":"Tira"},
-  {"native":"קלנסווה","latin":"Qalansawe"},
-  {"native":"כפר קאסם","latin":"Kafr Qasim"},
-  {"native":"אום אל-פחם","latin":"Umm al-Fahm"},
-  {"native":"נצרת","latin":"Nazareth"},
-  {"native":"שפרעם","latin":"Shefa-Amr"},
-  {"native":"סח'נין","latin":"Sakhnin"},
-  {"native":"מג'ד אל-כרום","latin":"Majd al-Krum"},
-  {"native":"נחף","latin":"Nachf"},
-  {"native":"דיר אל-אסד","latin":"Deir al-Asad"}
+  {
+    "native": "ירושלים",
+    "latin": "Jerusalem",
+    "country": "Israel"
+  },
+  {
+    "native": "תל אביב",
+    "latin": "Tel Aviv",
+    "country": "Israel"
+  },
+  {
+    "native": "חיפה",
+    "latin": "Haifa",
+    "country": "Israel"
+  },
+  {
+    "native": "ראשון לציון",
+    "latin": "Rishon LeZion",
+    "country": "Israel"
+  },
+  {
+    "native": "פתח תקווה",
+    "latin": "Petah Tikva",
+    "country": "Israel"
+  },
+  {
+    "native": "אשדוד",
+    "latin": "Ashdod",
+    "country": "Israel"
+  },
+  {
+    "native": "נתניה",
+    "latin": "Netanya",
+    "country": "Israel"
+  },
+  {
+    "native": "באר שבע",
+    "latin": "Beer Sheva",
+    "country": "Israel"
+  },
+  {
+    "native": "חולון",
+    "latin": "Holon",
+    "country": "Israel"
+  },
+  {
+    "native": "בני ברק",
+    "latin": "Bnei Brak",
+    "country": "Israel"
+  },
+  {
+    "native": "רמת גן",
+    "latin": "Ramat Gan",
+    "country": "Israel"
+  },
+  {
+    "native": "רחובות",
+    "latin": "Rehovot",
+    "country": "Israel"
+  },
+  {
+    "native": "אשקלון",
+    "latin": "Ashkelon",
+    "country": "Israel"
+  },
+  {
+    "native": "בת ים",
+    "latin": "Bat Yam",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר סבא",
+    "latin": "Kfar Saba",
+    "country": "Israel"
+  },
+  {
+    "native": "הרצליה",
+    "latin": "Herzliya",
+    "country": "Israel"
+  },
+  {
+    "native": "מודיעין",
+    "latin": "Modi'in",
+    "country": "Israel"
+  },
+  {
+    "native": "נהריה",
+    "latin": "Nahariya",
+    "country": "Israel"
+  },
+  {
+    "native": "עכו",
+    "latin": "Acre",
+    "country": "Israel"
+  },
+  {
+    "native": "צפת",
+    "latin": "Safed",
+    "country": "Israel"
+  },
+  {
+    "native": "טבריה",
+    "latin": "Tiberias",
+    "country": "Israel"
+  },
+  {
+    "native": "אילת",
+    "latin": "Eilat",
+    "country": "Israel"
+  },
+  {
+    "native": "לוד",
+    "latin": "Lod",
+    "country": "Israel"
+  },
+  {
+    "native": "רמלה",
+    "latin": "Ramla",
+    "country": "Israel"
+  },
+  {
+    "native": "עפולה",
+    "latin": "Afula",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית שמונה",
+    "latin": "Kiryat Shmona",
+    "country": "Israel"
+  },
+  {
+    "native": "כרמיאל",
+    "latin": "Karmiel",
+    "country": "Israel"
+  },
+  {
+    "native": "דימונה",
+    "latin": "Dimona",
+    "country": "Israel"
+  },
+  {
+    "native": "אופקים",
+    "latin": "Ofakim",
+    "country": "Israel"
+  },
+  {
+    "native": "שדרות",
+    "latin": "Sderot",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית גת",
+    "latin": "Kiryat Gat",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית מלאכי",
+    "latin": "Kiryat Malakhi",
+    "country": "Israel"
+  },
+  {
+    "native": "יבנה",
+    "latin": "Yavne",
+    "country": "Israel"
+  },
+  {
+    "native": "אור יהודה",
+    "latin": "Or Yehuda",
+    "country": "Israel"
+  },
+  {
+    "native": "יהוד",
+    "latin": "Yehud",
+    "country": "Israel"
+  },
+  {
+    "native": "גבעתיים",
+    "latin": "Givatayim",
+    "country": "Israel"
+  },
+  {
+    "native": "רמת השרון",
+    "latin": "Ramat HaSharon",
+    "country": "Israel"
+  },
+  {
+    "native": "הוד השרון",
+    "latin": "Hod HaSharon",
+    "country": "Israel"
+  },
+  {
+    "native": "אלעד",
+    "latin": "Elad",
+    "country": "Israel"
+  },
+  {
+    "native": "בית שמש",
+    "latin": "Beit Shemesh",
+    "country": "Israel"
+  },
+  {
+    "native": "מגדל העמק",
+    "latin": "Migdal HaEmek",
+    "country": "Israel"
+  },
+  {
+    "native": "נצרת",
+    "latin": "Nazareth",
+    "country": "Israel"
+  },
+  {
+    "native": "טייבה",
+    "latin": "Taibeh",
+    "country": "Israel"
+  },
+  {
+    "native": "טירה",
+    "latin": "Tira",
+    "country": "Israel"
+  },
+  {
+    "native": "ביתר עילית",
+    "latin": "Beitar Illit",
+    "country": "Israel"
+  },
+  {
+    "native": "מעלה אדומים",
+    "latin": "Ma'ale Adumim",
+    "country": "Israel"
+  },
+  {
+    "native": "מודיעין עילית",
+    "latin": "Modi'in Illit",
+    "country": "Israel"
+  },
+  {
+    "native": "ערד",
+    "latin": "Arad",
+    "country": "Israel"
+  },
+  {
+    "native": "מצפה רמון",
+    "latin": "Mitzpe Ramon",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית ארבע",
+    "latin": "Kiryat Arba",
+    "country": "Israel"
+  },
+  {
+    "native": "טבריה",
+    "latin": "Tiberias",
+    "country": "Israel"
+  },
+  {
+    "native": "רעננה",
+    "latin": "Raanana",
+    "country": "Israel"
+  },
+  {
+    "native": "גבעת שמואל",
+    "latin": "Givat Shmuel",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית ים",
+    "latin": "Kiryat Yam",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית מוצקין",
+    "latin": "Kiryat Motzkin",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית ביאליק",
+    "latin": "Kiryat Bialik",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית אתא",
+    "latin": "Kiryat Ata",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית טבעון",
+    "latin": "Kiryat Tivon",
+    "country": "Israel"
+  },
+  {
+    "native": "נהריה",
+    "latin": "Nahariya",
+    "country": "Israel"
+  },
+  {
+    "native": "עכו",
+    "latin": "Acre",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית שמונה",
+    "latin": "Kiryat Shmona",
+    "country": "Israel"
+  },
+  {
+    "native": "בית שאן",
+    "latin": "Beit She'an",
+    "country": "Israel"
+  },
+  {
+    "native": "עפולה",
+    "latin": "Afula",
+    "country": "Israel"
+  },
+  {
+    "native": "כרמיאל",
+    "latin": "Karmiel",
+    "country": "Israel"
+  },
+  {
+    "native": "מעלות-תרשיחא",
+    "latin": "Ma'alot-Tarshiha",
+    "country": "Israel"
+  },
+  {
+    "native": "שלומי",
+    "latin": "Shlomi",
+    "country": "Israel"
+  },
+  {
+    "native": "צפת",
+    "latin": "Safed",
+    "country": "Israel"
+  },
+  {
+    "native": "טבריה",
+    "latin": "Tiberias",
+    "country": "Israel"
+  },
+  {
+    "native": "נוף הגליל",
+    "latin": "Nof HaGalil",
+    "country": "Israel"
+  },
+  {
+    "native": "מגדל העמק",
+    "latin": "Migdal HaEmek",
+    "country": "Israel"
+  },
+  {
+    "native": "יקנעם",
+    "latin": "Yokneam",
+    "country": "Israel"
+  },
+  {
+    "native": "טירת כרמל",
+    "latin": "Tirat Carmel",
+    "country": "Israel"
+  },
+  {
+    "native": "דלית אל-כרמל",
+    "latin": "Daliyat al-Karmel",
+    "country": "Israel"
+  },
+  {
+    "native": "אור עקיבא",
+    "latin": "Or Akiva",
+    "country": "Israel"
+  },
+  {
+    "native": "בנימינה",
+    "latin": "Binyamina",
+    "country": "Israel"
+  },
+  {
+    "native": "זכרון יעקב",
+    "latin": "Zikhron Ya'akov",
+    "country": "Israel"
+  },
+  {
+    "native": "קיסריה",
+    "latin": "Caesarea",
+    "country": "Israel"
+  },
+  {
+    "native": "פרדס חנה-כרכור",
+    "latin": "Pardes Hanna-Karkur",
+    "country": "Israel"
+  },
+  {
+    "native": "רחובות",
+    "latin": "Rehovot",
+    "country": "Israel"
+  },
+  {
+    "native": "יבנה",
+    "latin": "Yavne",
+    "country": "Israel"
+  },
+  {
+    "native": "לוד",
+    "latin": "Lod",
+    "country": "Israel"
+  },
+  {
+    "native": "רמלה",
+    "latin": "Ramla",
+    "country": "Israel"
+  },
+  {
+    "native": "מודיעין",
+    "latin": "Modi'in",
+    "country": "Israel"
+  },
+  {
+    "native": "אלעד",
+    "latin": "El'ad",
+    "country": "Israel"
+  },
+  {
+    "native": "שוהם",
+    "latin": "Shoham",
+    "country": "Israel"
+  },
+  {
+    "native": "גבעת שמואל",
+    "latin": "Giv'at Shmuel",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית אונו",
+    "latin": "Kiryat Ono",
+    "country": "Israel"
+  },
+  {
+    "native": "אור יהודה",
+    "latin": "Or Yehuda",
+    "country": "Israel"
+  },
+  {
+    "native": "יהוד",
+    "latin": "Yehud",
+    "country": "Israel"
+  },
+  {
+    "native": "ראש העין",
+    "latin": "Rosh HaAyin",
+    "country": "Israel"
+  },
+  {
+    "native": "פתח תקווה",
+    "latin": "Petah Tikva",
+    "country": "Israel"
+  },
+  {
+    "native": "בני ברק",
+    "latin": "Bnei Brak",
+    "country": "Israel"
+  },
+  {
+    "native": "רמת גן",
+    "latin": "Ramat Gan",
+    "country": "Israel"
+  },
+  {
+    "native": "גבעתיים",
+    "latin": "Giv'atayim",
+    "country": "Israel"
+  },
+  {
+    "native": "חולון",
+    "latin": "Holon",
+    "country": "Israel"
+  },
+  {
+    "native": "בת ים",
+    "latin": "Bat Yam",
+    "country": "Israel"
+  },
+  {
+    "native": "ראשון לציון",
+    "latin": "Rishon LeZion",
+    "country": "Israel"
+  },
+  {
+    "native": "נס ציונה",
+    "latin": "Nes Ziona",
+    "country": "Israel"
+  },
+  {
+    "native": "אשדוד",
+    "latin": "Ashdod",
+    "country": "Israel"
+  },
+  {
+    "native": "אשקלון",
+    "latin": "Ashkelon",
+    "country": "Israel"
+  },
+  {
+    "native": "באר שבע",
+    "latin": "Be'er Sheva",
+    "country": "Israel"
+  },
+  {
+    "native": "אילת",
+    "latin": "Eilat",
+    "country": "Israel"
+  },
+  {
+    "native": "דימונה",
+    "latin": "Dimona",
+    "country": "Israel"
+  },
+  {
+    "native": "ערד",
+    "latin": "Arad",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית גת",
+    "latin": "Kiryat Gat",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית מלאכי",
+    "latin": "Kiryat Malakhi",
+    "country": "Israel"
+  },
+  {
+    "native": "שדרות",
+    "latin": "Sderot",
+    "country": "Israel"
+  },
+  {
+    "native": "אופקים",
+    "latin": "Ofakim",
+    "country": "Israel"
+  },
+  {
+    "native": "נתיבות",
+    "latin": "Netivot",
+    "country": "Israel"
+  },
+  {
+    "native": "רהט",
+    "latin": "Rahat",
+    "country": "Israel"
+  },
+  {
+    "native": "ערערה",
+    "latin": "Ar'ara",
+    "country": "Israel"
+  },
+  {
+    "native": "באקה אל-גרביה",
+    "latin": "Baqa al-Gharbiyye",
+    "country": "Israel"
+  },
+  {
+    "native": "טייבה",
+    "latin": "Tayibe",
+    "country": "Israel"
+  },
+  {
+    "native": "טירה",
+    "latin": "Tira",
+    "country": "Israel"
+  },
+  {
+    "native": "קלנסווה",
+    "latin": "Qalansawe",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר קאסם",
+    "latin": "Kafr Qasim",
+    "country": "Israel"
+  },
+  {
+    "native": "אום אל-פחם",
+    "latin": "Umm al-Fahm",
+    "country": "Israel"
+  },
+  {
+    "native": "נצרת",
+    "latin": "Nazareth",
+    "country": "Israel"
+  },
+  {
+    "native": "שפרעם",
+    "latin": "Shefa-Amr",
+    "country": "Israel"
+  },
+  {
+    "native": "סח'נין",
+    "latin": "Sakhnin",
+    "country": "Israel"
+  },
+  {
+    "native": "מג'ד אל-כרום",
+    "latin": "Majd al-Krum",
+    "country": "Israel"
+  },
+  {
+    "native": "נחף",
+    "latin": "Nachf",
+    "country": "Israel"
+  },
+  {
+    "native": "דיר אל-אסד",
+    "latin": "Deir al-Asad",
+    "country": "Israel"
+  },
+  {
+    "native": "גן יבנה",
+    "latin": "Gan Yavne",
+    "country": "Israel"
+  },
+  {
+    "native": "באר יעקב",
+    "latin": "Be'er Ya'akov",
+    "country": "Israel"
+  },
+  {
+    "native": "גדרה",
+    "latin": "Gedera",
+    "country": "Israel"
+  },
+  {
+    "native": "מזכרת בתיה",
+    "latin": "Mazkeret Batya",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר יונה",
+    "latin": "Kfar Yona",
+    "country": "Israel"
+  },
+  {
+    "native": "קדימה-צורן",
+    "latin": "Kadima-Tzoran",
+    "country": "Israel"
+  },
+  {
+    "native": "תל מונד",
+    "latin": "Tel Mond",
+    "country": "Israel"
+  },
+  {
+    "native": "פרדסיה",
+    "latin": "Pardesiya",
+    "country": "Israel"
+  },
+  {
+    "native": "אבן יהודה",
+    "latin": "Even Yehuda",
+    "country": "Israel"
+  },
+  {
+    "native": "אליכין",
+    "latin": "Elyakhin",
+    "country": "Israel"
+  },
+  {
+    "native": "שפיים",
+    "latin": "Shefayim",
+    "country": "Israel"
+  },
+  {
+    "native": "נורדיה",
+    "latin": "Nordia",
+    "country": "Israel"
+  },
+  {
+    "native": "תל יצחק",
+    "latin": "Tel Yitzhak",
+    "country": "Israel"
+  },
+  {
+    "native": "רמות השבים",
+    "latin": "Ramot HaShavim",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר שמריהו",
+    "latin": "Kfar Shmaryahu",
+    "country": "Israel"
+  },
+  {
+    "native": "בית יהושע",
+    "latin": "Beit Yehoshua",
+    "country": "Israel"
+  },
+  {
+    "native": "אודים",
+    "latin": "Udim",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר נטר",
+    "latin": "Kfar Netter",
+    "country": "Israel"
+  },
+  {
+    "native": "גן חיים",
+    "latin": "Gan Haim",
+    "country": "Israel"
+  },
+  {
+    "native": "עין ורד",
+    "latin": "Ein Vered",
+    "country": "Israel"
+  },
+  {
+    "native": "בני ציון",
+    "latin": "Bnei Zion",
+    "country": "Israel"
+  },
+  {
+    "native": "גת רימון",
+    "latin": "Gat Rimon",
+    "country": "Israel"
+  },
+  {
+    "native": "נחלים",
+    "latin": "Nehalim",
+    "country": "Israel"
+  },
+  {
+    "native": "מגדל",
+    "latin": "Migdal",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר חיטים",
+    "latin": "Kfar Hitim",
+    "country": "Israel"
+  },
+  {
+    "native": "לביא",
+    "latin": "Lavi",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר תבור",
+    "latin": "Kfar Tavor",
+    "country": "Israel"
+  },
+  {
+    "native": "אילניה",
+    "latin": "Ilaniya",
+    "country": "Israel"
+  },
+  {
+    "native": "שדה אילן",
+    "latin": "Sde Ilan",
+    "country": "Israel"
+  },
+  {
+    "native": "בית קשת",
+    "latin": "Beit Keshet",
+    "country": "Israel"
+  },
+  {
+    "native": "גבעת אבני",
+    "latin": "Giv'at Avni",
+    "country": "Israel"
+  },
+  {
+    "native": "יבנאל",
+    "latin": "Yavne'el",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר כמא",
+    "latin": "Kfar Kama",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר חסידים",
+    "latin": "Kfar Hasidim",
+    "country": "Israel"
+  },
+  {
+    "native": "רמת ישי",
+    "latin": "Ramat Yishai",
+    "country": "Israel"
+  },
+  {
+    "native": "אלונים",
+    "latin": "Alonim",
+    "country": "Israel"
+  },
+  {
+    "native": "שריד",
+    "latin": "Sarid",
+    "country": "Israel"
+  },
+  {
+    "native": "גניגר",
+    "latin": "Ginnegar",
+    "country": "Israel"
+  },
+  {
+    "native": "יפעת",
+    "latin": "Yifat",
+    "country": "Israel"
+  },
+  {
+    "native": "עין חרוד",
+    "latin": "Ein Harod",
+    "country": "Israel"
+  },
+  {
+    "native": "תל יוסף",
+    "latin": "Tel Yosef",
+    "country": "Israel"
+  },
+  {
+    "native": "בית השיטה",
+    "latin": "Beit HaShita",
+    "country": "Israel"
+  },
+  {
+    "native": "חפציבה",
+    "latin": "Heftziba",
+    "country": "Israel"
+  },
+  {
+    "native": "שדה נחום",
+    "latin": "Sde Nahum",
+    "country": "Israel"
+  },
+  {
+    "native": "ניר דוד",
+    "latin": "Nir David",
+    "country": "Israel"
+  },
+  {
+    "native": "שלוחות",
+    "latin": "Shluhot",
+    "country": "Israel"
+  },
+  {
+    "native": "חמדיה",
+    "latin": "Hamadia",
+    "country": "Israel"
+  },
+  {
+    "native": "גשר",
+    "latin": "Gesher",
+    "country": "Israel"
+  },
+  {
+    "native": "דגניה א",
+    "latin": "Degania Alef",
+    "country": "Israel"
+  },
+  {
+    "native": "דגניה ב",
+    "latin": "Degania Bet",
+    "country": "Israel"
+  },
+  {
+    "native": "אפיקים",
+    "latin": "Afikim",
+    "country": "Israel"
+  },
+  {
+    "native": "אשדות יעקב",
+    "latin": "Ashdot Ya'akov",
+    "country": "Israel"
+  },
+  {
+    "native": "כנרת",
+    "latin": "Kinneret",
+    "country": "Israel"
+  },
+  {
+    "native": "שדה אליהו",
+    "latin": "Sde Eliyahu",
+    "country": "Israel"
+  },
+  {
+    "native": "טירת צבי",
+    "latin": "Tirat Zvi",
+    "country": "Israel"
+  },
+  {
+    "native": "עין הנצי\"ב",
+    "latin": "Ein HaNatziv",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר רופין",
+    "latin": "Kfar Ruppin",
+    "country": "Israel"
+  },
+  {
+    "native": "מעוז חיים",
+    "latin": "Ma'oz Hayim",
+    "country": "Israel"
+  },
+  {
+    "native": "נעמ\"ה",
+    "latin": "Na'ama",
+    "country": "Israel"
+  },
+  {
+    "native": "חמדת",
+    "latin": "Hemdat",
+    "country": "Israel"
+  },
+  {
+    "native": "רותם",
+    "latin": "Rotem",
+    "country": "Israel"
+  },
+  {
+    "native": "מבקיעים",
+    "latin": "Mavki'im",
+    "country": "Israel"
+  },
+  {
+    "native": "יכיני",
+    "latin": "Yakhini",
+    "country": "Israel"
+  },
+  {
+    "native": "זמרת",
+    "latin": "Zimrat",
+    "country": "Israel"
+  },
+  {
+    "native": "תקומה",
+    "latin": "Tekuma",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר עזה",
+    "latin": "Kfar Aza",
+    "country": "Israel"
+  },
+  {
+    "native": "נחל עוז",
+    "latin": "Nahal Oz",
+    "country": "Israel"
+  },
+  {
+    "native": "יד מרדכי",
+    "latin": "Yad Mordechai",
+    "country": "Israel"
+  },
+  {
+    "native": "גבולות",
+    "latin": "Gvulot",
+    "country": "Israel"
+  },
+  {
+    "native": "אילות",
+    "latin": "Eilot",
+    "country": "Israel"
+  },
+  {
+    "native": "יטבתה",
+    "latin": "Yotvata",
+    "country": "Israel"
+  },
+  {
+    "native": "קטורה",
+    "latin": "Ketura",
+    "country": "Israel"
+  },
+  {
+    "native": "לוטן",
+    "latin": "Lotan",
+    "country": "Israel"
+  },
+  {
+    "native": "שדה בוקר",
+    "latin": "Sde Boker",
+    "country": "Israel"
+  },
+  {
+    "native": "צוחר",
+    "latin": "Tzochar",
+    "country": "Israel"
+  },
+  {
+    "native": "עין גדי",
+    "latin": "Ein Gedi",
+    "country": "Israel"
+  },
+  {
+    "native": "פארן",
+    "latin": "Paran",
+    "country": "Israel"
+  },
+  {
+    "native": "ספיר",
+    "latin": "Sapir",
+    "country": "Israel"
+  },
+  {
+    "native": "צוקים",
+    "latin": "Tzukim",
+    "country": "Israel"
+  },
+  {
+    "native": "שחרות",
+    "latin": "Shaharut",
+    "country": "Israel"
+  },
+  {
+    "native": "קוממיות",
+    "latin": "Komemiyut",
+    "country": "Israel"
+  },
+  {
+    "native": "בני דרום",
+    "latin": "Bnei Darom",
+    "country": "Israel"
+  },
+  {
+    "native": "נהורה",
+    "latin": "Nahura",
+    "country": "Israel"
+  },
+  {
+    "native": "ניר בנים",
+    "latin": "Nir Banim",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר הנגיד",
+    "latin": "Kfar HaNagid",
+    "country": "Israel"
+  },
+  {
+    "native": "גן שלמה",
+    "latin": "Gan Shlomo",
+    "country": "Israel"
+  },
+  {
+    "native": "חצב",
+    "latin": "Hatzav",
+    "country": "Israel"
+  },
+  {
+    "native": "יד בנימין",
+    "latin": "Yad Binyamin",
+    "country": "Israel"
+  },
+  {
+    "native": "בצרה",
+    "latin": "Batzra",
+    "country": "Israel"
+  },
+  {
+    "native": "צרעה",
+    "latin": "Zor'a",
+    "country": "Israel"
+  },
+  {
+    "native": "בית מאיר",
+    "latin": "Beit Meir",
+    "country": "Israel"
+  },
+  {
+    "native": "אבו גוש",
+    "latin": "Abu Ghosh",
+    "country": "Israel"
+  },
+  {
+    "native": "צובה",
+    "latin": "Tzova",
+    "country": "Israel"
+  },
+  {
+    "native": "סגולה",
+    "latin": "Sgula",
+    "country": "Israel"
+  },
+  {
+    "native": "מישור",
+    "latin": "Mishor",
+    "country": "Israel"
+  },
+  {
+    "native": "חלץ",
+    "latin": "Helez",
+    "country": "Israel"
+  },
+  {
+    "native": "מצר",
+    "latin": "Mitzar",
+    "country": "Israel"
+  },
+  {
+    "native": "מעלה החמישה",
+    "latin": "Ma'ale HaHamisha",
+    "country": "Israel"
+  },
+  {
+    "native": "קרית ענבים",
+    "latin": "Kiryat Anavim",
+    "country": "Israel"
+  },
+  {
+    "native": "שורש",
+    "latin": "Shoresh",
+    "country": "Israel"
+  },
+  {
+    "native": "נתיב הל\"ה",
+    "latin": "Netiv HaLamed-Heh",
+    "country": "Israel"
+  },
+  {
+    "native": "בית זית",
+    "latin": "Beit Zayit",
+    "country": "Israel"
+  },
+  {
+    "native": "מוצא",
+    "latin": "Motza",
+    "country": "Israel"
+  },
+  {
+    "native": "קריית יערים",
+    "latin": "Kiryat Ye'arim",
+    "country": "Israel"
+  },
+  {
+    "native": "אבו סנאן",
+    "latin": "Abu Snan",
+    "country": "Israel"
+  },
+  {
+    "native": "ג'דיידה-מכר",
+    "latin": "Jadeidi-Makr",
+    "country": "Israel"
+  },
+  {
+    "native": "ירכא",
+    "latin": "Yarka",
+    "country": "Israel"
+  },
+  {
+    "native": "כסרא-סמיע",
+    "latin": "Kisra-Sumei",
+    "country": "Israel"
+  },
+  {
+    "native": "ע'ג'ר",
+    "latin": "Ghajar",
+    "country": "Israel"
+  },
+  {
+    "native": "פקיעין",
+    "latin": "Peqi'in",
+    "country": "Israel"
+  },
+  {
+    "native": "חורפיש",
+    "latin": "Hurfeish",
+    "country": "Israel"
+  },
+  {
+    "native": "בית ג'ן",
+    "latin": "Beit Jann",
+    "country": "Israel"
+  },
+  {
+    "native": "כמאנה",
+    "latin": "Kama'na",
+    "country": "Israel"
+  },
+  {
+    "native": "מע'ר",
+    "latin": "Ma'ar",
+    "country": "Israel"
+  },
+  {
+    "native": "צנדלה",
+    "latin": "Sandala",
+    "country": "Israel"
+  },
+  {
+    "native": "שייח' דנון",
+    "latin": "Sheikh Danun",
+    "country": "Israel"
+  },
+  {
+    "native": "בועיינה-נוגיידאת",
+    "latin": "Bu'eine-Nujaydat",
+    "country": "Israel"
+  },
+  {
+    "native": "דבורייה",
+    "latin": "Daburiyya",
+    "country": "Israel"
+  },
+  {
+    "native": "אעבלין",
+    "latin": "I'billin",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר יאסיף",
+    "latin": "Kfar Yasif",
+    "country": "Israel"
+  },
+  {
+    "native": "מעליא",
+    "latin": "Ma'ilya",
+    "country": "Israel"
+  },
+  {
+    "native": "שעב",
+    "latin": "Sha'ab",
+    "country": "Israel"
+  },
+  {
+    "native": "ג'וליס",
+    "latin": "Julis",
+    "country": "Israel"
+  },
+  {
+    "native": "יאנוח-ג'ת",
+    "latin": "Yanuh-Jat",
+    "country": "Israel"
+  },
+  {
+    "native": "ע'סריה",
+    "latin": "Asriya",
+    "country": "Israel"
+  },
+  {
+    "native": "בסמ\"ה",
+    "latin": "Basma",
+    "country": "Israel"
+  },
+  {
+    "native": "זרזיר",
+    "latin": "Zarzir",
+    "country": "Israel"
+  },
+  {
+    "native": "רכסים",
+    "latin": "Rekhasim",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר ביאליק",
+    "latin": "Kfar Bialik",
+    "country": "Israel"
+  },
+  {
+    "native": "אפק",
+    "latin": "Afek",
+    "country": "Israel"
+  },
+  {
+    "native": "בית העמק",
+    "latin": "Beit HaEmek",
+    "country": "Israel"
+  },
+  {
+    "native": "יסעור",
+    "latin": "Yasur",
+    "country": "Israel"
+  },
+  {
+    "native": "מעברות",
+    "latin": "Ma'barot",
+    "country": "Israel"
+  },
+  {
+    "native": "משמר השרון",
+    "latin": "Mishmar HaSharon",
+    "country": "Israel"
+  },
+  {
+    "native": "שער העמקים",
+    "latin": "Sha'ar HaAmakim",
+    "country": "Israel"
+  },
+  {
+    "native": "נווה ים",
+    "latin": "Neve Yam",
+    "country": "Israel"
+  },
+  {
+    "native": "נווה איתן",
+    "latin": "Neve Eitan",
+    "country": "Israel"
+  },
+  {
+    "native": "מרחביה",
+    "latin": "Merhavya",
+    "country": "Israel"
+  },
+  {
+    "native": "משמר העמק",
+    "latin": "Mishmar HaEmek",
+    "country": "Israel"
+  },
+  {
+    "native": "עין השופט",
+    "latin": "Ein HaShofet",
+    "country": "Israel"
+  },
+  {
+    "native": "רמת דוד",
+    "latin": "Ramat David",
+    "country": "Israel"
+  },
+  {
+    "native": "גבעת ברנר",
+    "latin": "Giv'at Brenner",
+    "country": "Israel"
+  },
+  {
+    "native": "גת",
+    "latin": "Gat",
+    "country": "Israel"
+  },
+  {
+    "native": "כפר מנחם",
+    "latin": "Kfar Menahem",
+    "country": "Israel"
+  },
+  {
+    "native": "נגבה",
+    "latin": "Negba",
+    "country": "Israel"
+  },
+  {
+    "native": "ניצנים",
+    "latin": "Nitzanim",
+    "country": "Israel"
+  },
+  {
+    "native": "רוחמה",
+    "latin": "Ruhama",
+    "country": "Israel"
+  },
+  {
+    "native": "דורות",
+    "latin": "Dorot",
+    "country": "Israel"
+  },
+  {
+    "native": "משמר הנגב",
+    "latin": "Mishmar HaNegev",
+    "country": "Israel"
+  },
+  {
+    "native": "גברעם",
+    "latin": "Gvaram",
+    "country": "Israel"
+  },
+  {
+    "native": "ניר יצחק",
+    "latin": "Nir Yitzhak",
+    "country": "Israel"
+  },
+  {
+    "native": "סופה",
+    "latin": "Sufa",
+    "country": "Israel"
+  },
+  {
+    "native": "חולית",
+    "latin": "Holit",
+    "country": "Israel"
+  },
+  {
+    "native": "כרם שלום",
+    "latin": "Kerem Shalom",
+    "country": "Israel"
+  },
+  {
+    "native": "ניר עוז",
+    "latin": "Nir Oz",
+    "country": "Israel"
+  },
+  {
+    "native": "עין השלושה",
+    "latin": "Ein HaShlosha",
+    "country": "Israel"
+  }
 ]

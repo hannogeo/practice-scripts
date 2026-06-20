@@ -1,101 +1,1522 @@
 [
-  {"native":"თბილისი","latin":"Tbilisi"},
-  {"native":"ქუთაისი","latin":"Kutaisi"},
-  {"native":"ბათუმი","latin":"Batumi"},
-  {"native":"რუსთავი","latin":"Rustavi"},
-  {"native":"ზუგდიდი","latin":"Zugdidi"},
-  {"native":"გორი","latin":"Gori"},
-  {"native":"ფოთი","latin":"Poti"},
-  {"native":"თელავი","latin":"Telavi"},
-  {"native":"სამტრედია","latin":"Samtredia"},
-  {"native":"ოზურგეთი","latin":"Ozurgeti"},
-  {"native":"მარნეული","latin":"Marneuli"},
-  {"native":"ახალციხე","latin":"Akhaltsikhe"},
-  {"native":"სენაკი","latin":"Senaki"},
-  {"native":"წყალტუბო","latin":"Tskaltubo"},
-  {"native":"ჭიათურა","latin":"Chiatura"},
-  {"native":"ქობულეთი","latin":"Kobuleti"},
-  {"native":"ქარელი","latin":"Kareli"},
-  {"native":"გარდაბანი","latin":"Gardabani"},
-  {"native":"ბორჯომი","latin":"Borjomi"},
-  {"native":"ვალე","latin":"Vale"},
-  {"native":"თიანეთი","latin":"Tianeti"},
-  {"native":"დუშეთი","latin":"Dusheti"},
-  {"native":"მცხეთა","latin":"Mtskheta"},
-  {"native":"საგარეჯო","latin":"Sagarejo"},
-  {"native":"გურჯაანი","latin":"Gurjaani"},
-  {"native":"სიღნაღი","latin":"Sighnaghi"},
-  {"native":"დედოფლისწყარო","latin":"Dedoplistsqaro"},
-  {"native":"წნორი","latin":"Tsnori"},
-  {"native":"საჩხერე","latin":"Sachkhere"},
-  {"native":"ონი","latin":"Oni"},
-  {"native":"ამბროლაური","latin":"Ambrolauri"},
-  {"native":"ცაგერი","latin":"Tsageri"},
-  {"native":"ლენტეხი","latin":"Lentekhi"},
-  {"native":"მესტია","latin":"Mestia"},
-  {"native":"ხულო","latin":"Khulo"},
-  {"native":"შუახევი","latin":"Shuakhevi"},
-  {"native":"ქედა","latin":"Keda"},
-  {"native":"ხელვაჩაური","latin":"Khelvachauri"},
-  {"native":"ნინოწმინდა","latin":"Ninotsminda"},
-  {"native":"ახალქალაქი","latin":"Akhalkalaki"},
-  {"native":"ბოგდანოვკა","latin":"Bogdanovka"},
-  {"native":"აბაშა","latin":"Abasha"},
-  {"native":"ხობი","latin":"Khabi"},
-  {"native":"ლანჩხუთი","latin":"Lanchkhuti"},
-  {"native":"ჩოხატაური","latin":"Chokhatauri"},
-  {"native":"წალენჯიხა","latin":"Tsalenjikha"},
-  {"native":"ჩხოროწყუ","latin":"Chkhorotsku"},
-  {"native":"მარტვილი","latin":"Martvili"},
-  {"native":"ვანი","latin":"Vani"},
-  {"native":"ხაშური","latin":"Khashuri"},
-  {"native":"ქასპი","latin":"Kaspi"},
-  {"native":"თეთრიწყარო","latin":"Tetritskaro"},
-  {"native":"წალკა","latin":"Tsalka"},
-  {"native":"დმანისი","latin":"Dmanisi"},
-  {"native":"ბოლნისი","latin":"Bolnisi"},
-  {"native":"თიანეთი","latin":"Tianeti"},
-  {"native":"ახალგორი","latin":"Akhalkori"},
-  {"native":"ყაზბეგი","latin":"Kazbegi"},
-  {"native":"დუშეთი","latin":"Dusheti"},
-  {"native":"ჟინვალი","latin":"Zhinvali"},
-  {"native":"მცხეთა","latin":"Mtskheta"},
-  {"native":"საგარეჯო","latin":"Sagarejo"},
-  {"native":"გურჯაანი","latin":"Gurjaani"},
-  {"native":"დედოფლისწყარო","latin":"Dedoplistsqaro"},
-  {"native":"სიღნაღი","latin":"Sighnaghi"},
-  {"native":"ახმეტა","latin":"Akhmeta"},
-  {"native":"თელავი","latin":"Telavi"},
-  {"native":"ლაგოდეხი","latin":"Lagodekhi"},
-  {"native":"ყვარელი","latin":"Kvareli"},
-  {"native":"ნინოწმინდა","latin":"Ninotsminda"},
-  {"native":"ახალქალაქი","latin":"Akhalkalaki"},
-  {"native":"ასპინძა","latin":"Aspindza"},
-  {"native":"ადიგენი","latin":"Adigeni"},
-  {"native":"ბორჯომი","latin":"Borjomi"},
-  {"native":"ხარაგაული","latin":"Kharagauli"},
-  {"native":"ზესტაფონი","latin":"Zestafoni"},
-  {"native":"თერჯოლა","latin":"Terjola"},
-  {"native":"საჩხერე","latin":"Sachkhere"},
-  {"native":"ჩიათურა","latin":"Chiatura"},
-  {"native":"თქიბული","latin":"Tkibuli"},
-  {"native":"ამბროლაური","latin":"Ambrolauri"},
-  {"native":"ონი","latin":"Oni"},
-  {"native":"ცაგერი","latin":"Tsageri"},
-  {"native":"ლენტეხი","latin":"Lentekhi"},
-  {"native":"მესტია","latin":"Mestia"},
-  {"native":"ხობი","latin":"Khobi"},
-  {"native":"ზუგდიდი","latin":"Zugdidi"},
-  {"native":"წალენჯიხა","latin":"Tsalenjikha"},
-  {"native":"ჩხოროწყუ","latin":"Chkhorotsqu"},
-  {"native":"მარტვილი","latin":"Martvili"},
-  {"native":"აბაშა","latin":"Abasha"},
-  {"native":"სენაკი","latin":"Senaki"},
-  {"native":"ფოთი","latin":"Poti"},
-  {"native":"ლანჩხუთი","latin":"Lanchkhuti"},
-  {"native":"ოზურგეთი","latin":"Ozurgeti"},
-  {"native":"ქობულეთი","latin":"Kobuleti"},
-  {"native":"ქედა","latin":"Keda"},
-  {"native":"შუახევი","latin":"Shuakhevi"},
-  {"native":"ხულო","latin":"Khulo"}
+  {
+    "native": "თბილისი",
+    "latin": "Tbilisi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქუთაისი",
+    "latin": "Kutaisi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბათუმი",
+    "latin": "Batumi",
+    "country": "Georgia"
+  },
+  {
+    "native": "რუსთავი",
+    "latin": "Rustavi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ზუგდიდი",
+    "latin": "Zugdidi",
+    "country": "Georgia"
+  },
+  {
+    "native": "გორი",
+    "latin": "Gori",
+    "country": "Georgia"
+  },
+  {
+    "native": "ფოთი",
+    "latin": "Poti",
+    "country": "Georgia"
+  },
+  {
+    "native": "თელავი",
+    "latin": "Telavi",
+    "country": "Georgia"
+  },
+  {
+    "native": "სამტრედია",
+    "latin": "Samtredia",
+    "country": "Georgia"
+  },
+  {
+    "native": "ოზურგეთი",
+    "latin": "Ozurgeti",
+    "country": "Georgia"
+  },
+  {
+    "native": "მარნეული",
+    "latin": "Marneuli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალციხე",
+    "latin": "Akhaltsikhe",
+    "country": "Georgia"
+  },
+  {
+    "native": "სენაკი",
+    "latin": "Senaki",
+    "country": "Georgia"
+  },
+  {
+    "native": "წყალტუბო",
+    "latin": "Tskaltubo",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჭიათურა",
+    "latin": "Chiatura",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქობულეთი",
+    "latin": "Kobuleti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქარელი",
+    "latin": "Kareli",
+    "country": "Georgia"
+  },
+  {
+    "native": "გარდაბანი",
+    "latin": "Gardabani",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბორჯომი",
+    "latin": "Borjomi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ვალე",
+    "latin": "Vale",
+    "country": "Georgia"
+  },
+  {
+    "native": "თიანეთი",
+    "latin": "Tianeti",
+    "country": "Georgia"
+  },
+  {
+    "native": "დუშეთი",
+    "latin": "Dusheti",
+    "country": "Georgia"
+  },
+  {
+    "native": "მცხეთა",
+    "latin": "Mtskheta",
+    "country": "Georgia"
+  },
+  {
+    "native": "საგარეჯო",
+    "latin": "Sagarejo",
+    "country": "Georgia"
+  },
+  {
+    "native": "გურჯაანი",
+    "latin": "Gurjaani",
+    "country": "Georgia"
+  },
+  {
+    "native": "სიღნაღი",
+    "latin": "Sighnaghi",
+    "country": "Georgia"
+  },
+  {
+    "native": "დედოფლისწყარო",
+    "latin": "Dedoplistsqaro",
+    "country": "Georgia"
+  },
+  {
+    "native": "წნორი",
+    "latin": "Tsnori",
+    "country": "Georgia"
+  },
+  {
+    "native": "საჩხერე",
+    "latin": "Sachkhere",
+    "country": "Georgia"
+  },
+  {
+    "native": "ონი",
+    "latin": "Oni",
+    "country": "Georgia"
+  },
+  {
+    "native": "ამბროლაური",
+    "latin": "Ambrolauri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ცაგერი",
+    "latin": "Tsageri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლენტეხი",
+    "latin": "Lentekhi",
+    "country": "Georgia"
+  },
+  {
+    "native": "მესტია",
+    "latin": "Mestia",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხულო",
+    "latin": "Khulo",
+    "country": "Georgia"
+  },
+  {
+    "native": "შუახევი",
+    "latin": "Shuakhevi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქედა",
+    "latin": "Keda",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხელვაჩაური",
+    "latin": "Khelvachauri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნინოწმინდა",
+    "latin": "Ninotsminda",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალქალაქი",
+    "latin": "Akhalkalaki",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბოგდანოვკა",
+    "latin": "Bogdanovka",
+    "country": "Georgia"
+  },
+  {
+    "native": "აბაშა",
+    "latin": "Abasha",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხობი",
+    "latin": "Khabi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლანჩხუთი",
+    "latin": "Lanchkhuti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩოხატაური",
+    "latin": "Chokhatauri",
+    "country": "Georgia"
+  },
+  {
+    "native": "წალენჯიხა",
+    "latin": "Tsalenjikha",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩხოროწყუ",
+    "latin": "Chkhorotsku",
+    "country": "Georgia"
+  },
+  {
+    "native": "მარტვილი",
+    "latin": "Martvili",
+    "country": "Georgia"
+  },
+  {
+    "native": "ვანი",
+    "latin": "Vani",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხაშური",
+    "latin": "Khashuri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქასპი",
+    "latin": "Kaspi",
+    "country": "Georgia"
+  },
+  {
+    "native": "თეთრიწყარო",
+    "latin": "Tetritskaro",
+    "country": "Georgia"
+  },
+  {
+    "native": "წალკა",
+    "latin": "Tsalka",
+    "country": "Georgia"
+  },
+  {
+    "native": "დმანისი",
+    "latin": "Dmanisi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბოლნისი",
+    "latin": "Bolnisi",
+    "country": "Georgia"
+  },
+  {
+    "native": "თიანეთი",
+    "latin": "Tianeti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალგორი",
+    "latin": "Akhalkori",
+    "country": "Georgia"
+  },
+  {
+    "native": "ყაზბეგი",
+    "latin": "Kazbegi",
+    "country": "Georgia"
+  },
+  {
+    "native": "დუშეთი",
+    "latin": "Dusheti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჟინვალი",
+    "latin": "Zhinvali",
+    "country": "Georgia"
+  },
+  {
+    "native": "მცხეთა",
+    "latin": "Mtskheta",
+    "country": "Georgia"
+  },
+  {
+    "native": "საგარეჯო",
+    "latin": "Sagarejo",
+    "country": "Georgia"
+  },
+  {
+    "native": "გურჯაანი",
+    "latin": "Gurjaani",
+    "country": "Georgia"
+  },
+  {
+    "native": "დედოფლისწყარო",
+    "latin": "Dedoplistsqaro",
+    "country": "Georgia"
+  },
+  {
+    "native": "სიღნაღი",
+    "latin": "Sighnaghi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახმეტა",
+    "latin": "Akhmeta",
+    "country": "Georgia"
+  },
+  {
+    "native": "თელავი",
+    "latin": "Telavi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლაგოდეხი",
+    "latin": "Lagodekhi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ყვარელი",
+    "latin": "Kvareli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნინოწმინდა",
+    "latin": "Ninotsminda",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალქალაქი",
+    "latin": "Akhalkalaki",
+    "country": "Georgia"
+  },
+  {
+    "native": "ასპინძა",
+    "latin": "Aspindza",
+    "country": "Georgia"
+  },
+  {
+    "native": "ადიგენი",
+    "latin": "Adigeni",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბორჯომი",
+    "latin": "Borjomi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხარაგაული",
+    "latin": "Kharagauli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ზესტაფონი",
+    "latin": "Zestafoni",
+    "country": "Georgia"
+  },
+  {
+    "native": "თერჯოლა",
+    "latin": "Terjola",
+    "country": "Georgia"
+  },
+  {
+    "native": "საჩხერე",
+    "latin": "Sachkhere",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩიათურა",
+    "latin": "Chiatura",
+    "country": "Georgia"
+  },
+  {
+    "native": "თქიბული",
+    "latin": "Tkibuli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ამბროლაური",
+    "latin": "Ambrolauri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ონი",
+    "latin": "Oni",
+    "country": "Georgia"
+  },
+  {
+    "native": "ცაგერი",
+    "latin": "Tsageri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლენტეხი",
+    "latin": "Lentekhi",
+    "country": "Georgia"
+  },
+  {
+    "native": "მესტია",
+    "latin": "Mestia",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხობი",
+    "latin": "Khobi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ზუგდიდი",
+    "latin": "Zugdidi",
+    "country": "Georgia"
+  },
+  {
+    "native": "წალენჯიხა",
+    "latin": "Tsalenjikha",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩხოროწყუ",
+    "latin": "Chkhorotsqu",
+    "country": "Georgia"
+  },
+  {
+    "native": "მარტვილი",
+    "latin": "Martvili",
+    "country": "Georgia"
+  },
+  {
+    "native": "აბაშა",
+    "latin": "Abasha",
+    "country": "Georgia"
+  },
+  {
+    "native": "სენაკი",
+    "latin": "Senaki",
+    "country": "Georgia"
+  },
+  {
+    "native": "ფოთი",
+    "latin": "Poti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლანჩხუთი",
+    "latin": "Lanchkhuti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ოზურგეთი",
+    "latin": "Ozurgeti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქობულეთი",
+    "latin": "Kobuleti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქედა",
+    "latin": "Keda",
+    "country": "Georgia"
+  },
+  {
+    "native": "შუახევი",
+    "latin": "Shuakhevi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხულო",
+    "latin": "Khulo",
+    "country": "Georgia"
+  },
+  {
+    "native": "თბილისი",
+    "latin": "Tbilisi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქუთაისი",
+    "latin": "Kutaisi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბათუმი",
+    "latin": "Batumi",
+    "country": "Georgia"
+  },
+  {
+    "native": "რუსთავი",
+    "latin": "Rustavi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ზუგდიდი",
+    "latin": "Zugdidi",
+    "country": "Georgia"
+  },
+  {
+    "native": "გორი",
+    "latin": "Gori",
+    "country": "Georgia"
+  },
+  {
+    "native": "ფოთი",
+    "latin": "Poti",
+    "country": "Georgia"
+  },
+  {
+    "native": "სამტრედია",
+    "latin": "Samtredia",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხაშური",
+    "latin": "Khashuri",
+    "country": "Georgia"
+  },
+  {
+    "native": "სენაკი",
+    "latin": "Senaki",
+    "country": "Georgia"
+  },
+  {
+    "native": "სტეფანწმინდა",
+    "latin": "Stepantsminda",
+    "country": "Georgia"
+  },
+  {
+    "native": "მარნეული",
+    "latin": "Marneuli",
+    "country": "Georgia"
+  },
+  {
+    "native": "თელავი",
+    "latin": "Telavi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალციხე",
+    "latin": "Akhaltsikhe",
+    "country": "Georgia"
+  },
+  {
+    "native": "ოზურგეთი",
+    "latin": "Ozurgeti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქობულეთი",
+    "latin": "Kobuleti",
+    "country": "Georgia"
+  },
+  {
+    "native": "წყალტუბო",
+    "latin": "Tskaltubo",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჭიათურა",
+    "latin": "Chiatura",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბორჯომი",
+    "latin": "Borjomi",
+    "country": "Georgia"
+  },
+  {
+    "native": "თიანეთი",
+    "latin": "Tianeti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალგორი",
+    "latin": "Akhalkori",
+    "country": "Georgia"
+  },
+  {
+    "native": "დუშეთი",
+    "latin": "Dusheti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჟინვალი",
+    "latin": "Zhinvali",
+    "country": "Georgia"
+  },
+  {
+    "native": "მცხეთა",
+    "latin": "Mtskheta",
+    "country": "Georgia"
+  },
+  {
+    "native": "საგარეჯო",
+    "latin": "Sagarejo",
+    "country": "Georgia"
+  },
+  {
+    "native": "გურჯაანი",
+    "latin": "Gurjaani",
+    "country": "Georgia"
+  },
+  {
+    "native": "დედოფლისწყარო",
+    "latin": "Dedoplistsqaro",
+    "country": "Georgia"
+  },
+  {
+    "native": "სიღნაღი",
+    "latin": "Sighnaghi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახმეტა",
+    "latin": "Akhmeta",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლაგოდეხი",
+    "latin": "Lagodekhi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ყვარელი",
+    "latin": "Kvareli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნინოწმინდა",
+    "latin": "Ninotsminda",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალქალაქი",
+    "latin": "Akhalkalaki",
+    "country": "Georgia"
+  },
+  {
+    "native": "ასპინძა",
+    "latin": "Aspindza",
+    "country": "Georgia"
+  },
+  {
+    "native": "ადიგენი",
+    "latin": "Adigeni",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხარაგაული",
+    "latin": "Kharagauli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ზესტაფონი",
+    "latin": "Zestafoni",
+    "country": "Georgia"
+  },
+  {
+    "native": "თერჯოლა",
+    "latin": "Terjola",
+    "country": "Georgia"
+  },
+  {
+    "native": "საჩხერე",
+    "latin": "Sachkhere",
+    "country": "Georgia"
+  },
+  {
+    "native": "თქიბული",
+    "latin": "Tkibuli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ამბროლაური",
+    "latin": "Ambrolauri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ონი",
+    "latin": "Oni",
+    "country": "Georgia"
+  },
+  {
+    "native": "ცაგერი",
+    "latin": "Tsageri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლენტეხი",
+    "latin": "Lentekhi",
+    "country": "Georgia"
+  },
+  {
+    "native": "მესტია",
+    "latin": "Mestia",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხობი",
+    "latin": "Khobi",
+    "country": "Georgia"
+  },
+  {
+    "native": "წალენჯიხა",
+    "latin": "Tsalenjikha",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩხოროწყუ",
+    "latin": "Chkhorotsqu",
+    "country": "Georgia"
+  },
+  {
+    "native": "მარტვილი",
+    "latin": "Martvili",
+    "country": "Georgia"
+  },
+  {
+    "native": "აბაშა",
+    "latin": "Abasha",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლანჩხუთი",
+    "latin": "Lanchkhuti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქედა",
+    "latin": "Keda",
+    "country": "Georgia"
+  },
+  {
+    "native": "შუახევი",
+    "latin": "Shuakhevi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხულო",
+    "latin": "Khulo",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბორjომი",
+    "latin": "Borjomi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბაკურიანი",
+    "latin": "Bakuriani",
+    "country": "Georgia"
+  },
+  {
+    "native": "გუდაური",
+    "latin": "Gudauri",
+    "country": "Georgia"
+  },
+  {
+    "native": "კაზბეგი",
+    "latin": "Kazbegi",
+    "country": "Georgia"
+  },
+  {
+    "native": "სიონი",
+    "latin": "Sioni",
+    "country": "Georgia"
+  },
+  {
+    "native": "ალავერდი",
+    "latin": "Alaverdi",
+    "country": "Georgia"
+  },
+  {
+    "native": "იყალთო",
+    "latin": "Ikalto",
+    "country": "Georgia"
+  },
+  {
+    "native": "შუამთა",
+    "latin": "Shuamta",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნეკრესი",
+    "latin": "Nekresi",
+    "country": "Georgia"
+  },
+  {
+    "native": "გრემი",
+    "latin": "Gremi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ვარძია",
+    "latin": "Vardzia",
+    "country": "Georgia"
+  },
+  {
+    "native": "რაბათი",
+    "latin": "Rabati",
+    "country": "Georgia"
+  },
+  {
+    "native": "საფარა",
+    "latin": "Safara",
+    "country": "Georgia"
+  },
+  {
+    "native": "ზარზმა",
+    "latin": "Zarzma",
+    "country": "Georgia"
+  },
+  {
+    "native": "შატილი",
+    "latin": "Shatili",
+    "country": "Georgia"
+  },
+  {
+    "native": "უშგული",
+    "latin": "Ushguli",
+    "country": "Georgia"
+  },
+  {
+    "native": "მუცო",
+    "latin": "Mutso",
+    "country": "Georgia"
+  },
+  {
+    "native": "ანანური",
+    "latin": "Ananuri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ატენი",
+    "latin": "Ateni",
+    "country": "Georgia"
+  },
+  {
+    "native": "იკორთა",
+    "latin": "Ikorta",
+    "country": "Georgia"
+  },
+  {
+    "native": "კვახვრელი",
+    "latin": "Kvakhvreli",
+    "country": "Georgia"
+  },
+  {
+    "native": "უფლისციხე",
+    "latin": "Uplistsikhe",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქსნის ციხე",
+    "latin": "Ksnisi",
+    "country": "Georgia"
+  },
+  {
+    "native": "სურამი",
+    "latin": "Surami",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლიხაური",
+    "latin": "Likhauri",
+    "country": "Georgia"
+  },
+  {
+    "native": "შეკვეთილი",
+    "latin": "Shekvetili",
+    "country": "Georgia"
+  },
+  {
+    "native": "ცაიში",
+    "latin": "Tsaishi",
+    "country": "Georgia"
+  },
+  {
+    "native": "მარტვილი",
+    "latin": "Martvili",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნაბაღი",
+    "latin": "Nabagha",
+    "country": "Georgia"
+  },
+  {
+    "native": "სალხინო",
+    "latin": "Salkhino",
+    "country": "Georgia"
+  },
+  {
+    "native": "კორცხელი",
+    "latin": "Kortskheli",
+    "country": "Georgia"
+  },
+  {
+    "native": "კიროვი",
+    "latin": "Kirovi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნარჯა",
+    "latin": "Nardja",
+    "country": "Georgia"
+  },
+  {
+    "native": "ართანა",
+    "latin": "Artana",
+    "country": "Georgia"
+  },
+  {
+    "native": "ურეკი",
+    "latin": "Ureki",
+    "country": "Georgia"
+  },
+  {
+    "native": "გრიგოლეთი",
+    "latin": "Grigoleti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ანაკლია",
+    "latin": "Anaklia",
+    "country": "Georgia"
+  },
+  {
+    "native": "ყულევი",
+    "latin": "Kulevi",
+    "country": "Georgia"
+  },
+  {
+    "native": "განმუხური",
+    "latin": "Ganmukhuri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ფიჭორი",
+    "latin": "Pichori",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩაქვი",
+    "latin": "Chakvi",
+    "country": "Georgia"
+  },
+  {
+    "native": "მახინჯაური",
+    "latin": "Makhinjauri",
+    "country": "Georgia"
+  },
+  {
+    "native": "გონიო",
+    "latin": "Gonio",
+    "country": "Georgia"
+  },
+  {
+    "native": "კვარიათი",
+    "latin": "Kvariati",
+    "country": "Georgia"
+  },
+  {
+    "native": "სარფი",
+    "latin": "Sarpi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ციხისძირი",
+    "latin": "Tsikhisdziri",
+    "country": "Georgia"
+  },
+  {
+    "native": "აჭარა",
+    "latin": "Achara",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხიხათი",
+    "latin": "Khikhati",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხულო",
+    "latin": "Khulo",
+    "country": "Georgia"
+  },
+  {
+    "native": "თაგო",
+    "latin": "Tago",
+    "country": "Georgia"
+  },
+  {
+    "native": "დაბა",
+    "latin": "Daba",
+    "country": "Georgia"
+  },
+  {
+    "native": "ვაშლოვანი",
+    "latin": "Vashlovani",
+    "country": "Georgia"
+  },
+  {
+    "native": "თეთრიწყარო",
+    "latin": "Tetritskaro",
+    "country": "Georgia"
+  },
+  {
+    "native": "წალკა",
+    "latin": "Tsalka",
+    "country": "Georgia"
+  },
+  {
+    "native": "დმანისი",
+    "latin": "Dmanisi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბოლნისი",
+    "latin": "Bolnisi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ვანი",
+    "latin": "Vani",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხონი",
+    "latin": "Khoni",
+    "country": "Georgia"
+  },
+  {
+    "native": "წაწერი",
+    "latin": "Tsatseri",
+    "country": "Georgia"
+  },
+  {
+    "native": "კულაში",
+    "latin": "Kulashi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბანძა",
+    "latin": "Bandza",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნოღა",
+    "latin": "Noga",
+    "country": "Georgia"
+  },
+  {
+    "native": "საჯავახო",
+    "latin": "Sajavakho",
+    "country": "Georgia"
+  },
+  {
+    "native": "კეთილარი",
+    "latin": "Ketilari",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქვედა",
+    "latin": "Kveda",
+    "country": "Georgia"
+  },
+  {
+    "native": "გაღმა",
+    "latin": "Gaghma",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩხარი",
+    "latin": "Chkhari",
+    "country": "Georgia"
+  },
+  {
+    "native": "საჩინო",
+    "latin": "Sachino",
+    "country": "Georgia"
+  },
+  {
+    "native": "კოკი",
+    "latin": "Koki",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნაბაღი",
+    "latin": "Nabaghi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ცხომა",
+    "latin": "Tskhoma",
+    "country": "Georgia"
+  },
+  {
+    "native": "დიდი ნეძი",
+    "latin": "Didi Nedzi",
+    "country": "Georgia"
+  },
+  {
+    "native": "პატარა ონი",
+    "latin": "Patara Oni",
+    "country": "Georgia"
+  },
+  {
+    "native": "გლოლა",
+    "latin": "Glola",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხურვა",
+    "latin": "Khurva",
+    "country": "Georgia"
+  },
+  {
+    "native": "ცხორაგი",
+    "latin": "Tskhoragi",
+    "country": "Georgia"
+  },
+  {
+    "native": "სხავա",
+    "latin": "Skhava",
+    "country": "Georgia"
+  },
+  {
+    "native": "ტყვაში",
+    "latin": "Tkvashi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩორი",
+    "latin": "Chori",
+    "country": "Georgia"
+  },
+  {
+    "native": "მაღაკა",
+    "latin": "Maghaka",
+    "country": "Georgia"
+  },
+  {
+    "native": "ხევი",
+    "latin": "Khevi",
+    "country": "Georgia"
+  },
+  {
+    "native": "კასპი",
+    "latin": "Kaspi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალქალაქი",
+    "latin": "Akhalkalaki",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნინოწმინდა",
+    "latin": "Ninotsminda",
+    "country": "Georgia"
+  },
+  {
+    "native": "გუმათი",
+    "latin": "Gumati",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩაისუბანი",
+    "latin": "Chaisubani",
+    "country": "Georgia"
+  },
+  {
+    "native": "ორპირი",
+    "latin": "Orpiri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალსოფელი",
+    "latin": "Akhalsopeli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ძველი განდაგანი",
+    "latin": "Dzveli Gandagani",
+    "country": "Georgia"
+  },
+  {
+    "native": "სათაფლია",
+    "latin": "Sataphlia",
+    "country": "Georgia"
+  },
+  {
+    "native": "წეროვანი",
+    "latin": "Tserovani",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩარდახი",
+    "latin": "Chardakhi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალუბანი",
+    "latin": "Akhaliubani",
+    "country": "Georgia"
+  },
+  {
+    "native": "თაზაფანი",
+    "latin": "Tazapani",
+    "country": "Georgia"
+  },
+  {
+    "native": "ზემო ქართლი",
+    "latin": "Zemo Kartli",
+    "country": "Georgia"
+  },
+  {
+    "native": "შიდა ქართლი",
+    "latin": "Shida Kartli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქვემო ქართლი",
+    "latin": "Kvemo Kartli",
+    "country": "Georgia"
+  },
+  {
+    "native": "კახეთი",
+    "latin": "Kakheti",
+    "country": "Georgia"
+  },
+  {
+    "native": "გურია",
+    "latin": "Guria",
+    "country": "Georgia"
+  },
+  {
+    "native": "აჭარა",
+    "latin": "Achara",
+    "country": "Georgia"
+  },
+  {
+    "native": "იმერეთი",
+    "latin": "Imereti",
+    "country": "Georgia"
+  },
+  {
+    "native": "რაჭა",
+    "latin": "Racha",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლეჩხუმი",
+    "latin": "Lechkhumi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქვემო სვანეთი",
+    "latin": "Kvemo Svaneti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ზემო სვანეთი",
+    "latin": "Zemo Svaneti",
+    "country": "Georgia"
+  },
+  {
+    "native": "მესტია",
+    "latin": "Mestia",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჰავა",
+    "latin": "Hava",
+    "country": "Georgia"
+  },
+  {
+    "native": "ლაგოდეხის",
+    "latin": "Lagodekhi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ვარდისუბანი",
+    "latin": "Vardisubani",
+    "country": "Georgia"
+  },
+  {
+    "native": "კარდენახი",
+    "latin": "Kardenakhi",
+    "country": "Georgia"
+  },
+  {
+    "native": "მუკუზანი",
+    "latin": "Mukuzani",
+    "country": "Georgia"
+  },
+  {
+    "native": "წანდრიფში",
+    "latin": "Tsandryphshi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ბათუმი",
+    "latin": "Batumi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ქობულეთი",
+    "latin": "Kobuleti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩაქვი",
+    "latin": "Chakvi",
+    "country": "Georgia"
+  },
+  {
+    "native": "მახინჯაური",
+    "latin": "Makhinjauri",
+    "country": "Georgia"
+  },
+  {
+    "native": "გონიო",
+    "latin": "Gonio",
+    "country": "Georgia"
+  },
+  {
+    "native": "კვარიათი",
+    "latin": "Kvariati",
+    "country": "Georgia"
+  },
+  {
+    "native": "სარფი",
+    "latin": "Sarpi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ციხისძირი",
+    "latin": "Tsikhisdziri",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჰერეთი",
+    "latin": "Hereti",
+    "country": "Georgia"
+  },
+  {
+    "native": "სამეგრელო",
+    "latin": "Samegrelo",
+    "country": "Georgia"
+  },
+  {
+    "native": "აფხაზეთი",
+    "latin": "Abkhazia",
+    "country": "Georgia"
+  },
+  {
+    "native": "აჯამეთი",
+    "latin": "Ajameti",
+    "country": "Georgia"
+  },
+  {
+    "native": "საირმე",
+    "latin": "Sairme",
+    "country": "Georgia"
+  },
+  {
+    "native": "წაწი",
+    "latin": "Tsatsi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნატანები",
+    "latin": "Natanebi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჩხარი",
+    "latin": "Chkhari",
+    "country": "Georgia"
+  },
+  {
+    "native": "ობჩა",
+    "latin": "Obcha",
+    "country": "Georgia"
+  },
+  {
+    "native": "კოლაგი",
+    "latin": "Kolagi",
+    "country": "Georgia"
+  },
+  {
+    "native": "დიმი",
+    "latin": "Dimi",
+    "country": "Georgia"
+  },
+  {
+    "native": "საირმე",
+    "latin": "Sairme",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახალდაბა",
+    "latin": "Akhaldaba",
+    "country": "Georgia"
+  },
+  {
+    "native": "ჭრებალო",
+    "latin": "Chrebala",
+    "country": "Georgia"
+  },
+  {
+    "native": "ღვთისმშობელი",
+    "latin": "Gvta",
+    "country": "Georgia"
+  },
+  {
+    "native": "პატარძეული",
+    "latin": "Patardzeuli",
+    "country": "Georgia"
+  },
+  {
+    "native": "კისისხევი",
+    "latin": "Kisiskhevi",
+    "country": "Georgia"
+  },
+  {
+    "native": "აკურა",
+    "latin": "Akura",
+    "country": "Georgia"
+  },
+  {
+    "native": "კაკაბეთი",
+    "latin": "Kakabeti",
+    "country": "Georgia"
+  },
+  {
+    "native": "ვაზიანი",
+    "latin": "Vaziani",
+    "country": "Georgia"
+  },
+  {
+    "native": "მანავი",
+    "latin": "Manavi",
+    "country": "Georgia"
+  },
+  {
+    "native": "საგარეჯო",
+    "latin": "Sagarejo",
+    "country": "Georgia"
+  },
+  {
+    "native": "წინანდალი",
+    "latin": "Tsinandali",
+    "country": "Georgia"
+  },
+  {
+    "native": "კონდოლი",
+    "latin": "Kondoli",
+    "country": "Georgia"
+  },
+  {
+    "native": "გომბორი",
+    "latin": "Gombori",
+    "country": "Georgia"
+  },
+  {
+    "native": "ფშაველი",
+    "latin": "Pshaveli",
+    "country": "Georgia"
+  },
+  {
+    "native": "არტანა",
+    "latin": "Artana",
+    "country": "Georgia"
+  },
+  {
+    "native": "ნუკრიანი",
+    "latin": "Nukriani",
+    "country": "Georgia"
+  },
+  {
+    "native": "ახატელი",
+    "latin": "Akhateli",
+    "country": "Georgia"
+  },
+  {
+    "native": "ტვიში",
+    "latin": "Tvishi",
+    "country": "Georgia"
+  },
+  {
+    "native": "ცხენი",
+    "latin": "Tskheni",
+    "country": "Georgia"
+  }
 ]

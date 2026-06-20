@@ -1,100 +1,1002 @@
 [
-  {"native":"ນະຄອນຫຼວງວຽງຈັນ","latin":"Vientiane"},
-  {"native":"ຫຼວງພະບາງ","latin":"Luang Prabang"},
-  {"native":"ສະຫວັນນະເຂດ","latin":"Savannakhet"},
-  {"native":"ປາກເຊ","latin":"Pakse"},
-  {"native":"ຈຳປາສັກ","latin":"Champasak"},
-  {"native":"ບໍ່ແກ້ວ","latin":"Bokeo"},
-  {"native":"ຫົວພັນ","latin":"Houaphanh"},
-  {"native":"ຊຽງຂວາງ","latin":"Xieng Khouang"},
-  {"native":"ຜົ້ງສາລີ","latin":"Phongsali"},
-  {"native":"ຫຼວງນ້ຳທາ","latin":"Luang Namtha"},
-  {"native":"ອຸດົມໄຊ","latin":"Oudomxay"},
-  {"native":"ໄຊຍະບູລີ","latin":"Xayabury"},
-  {"native":"ວຽງຈັນ","latin":"Vientiane Province"},
-  {"native":"ບໍລິຄຳໄຊ","latin":"Bolikhamsai"},
-  {"native":"ຄຳມ່ວນ","latin":"Khammouane"},
-  {"native":"ສາລະວັນ","latin":"Salavan"},
-  {"native":"ເຊກອງ","latin":"Sekong"},
-  {"native":"ອັດຕະປື","latin":"Attapeu"},
-  {"native":"ໄຊສົມບູນ","latin":"Xaisomboun"},
-  {"native":"ທ່າແຂກ","latin":"Thakhek"},
-  {"native":"ຫາດຊາຍຟອງ","latin":"Hadxayfong"},
-  {"native":"ສັງຄົມ","latin":"Sangkhom"},
-  {"native":"ປາກງື່ມ","latin":"Pak Ngum"},
-  {"native":"ນາຊາຍທອງ","latin":"Nasaythong"},
-  {"native":"ຈັນທະບູລີ","latin":"Chanthabuly"},
-  {"native":"ສີໂຄດຕະບອງ","latin":"Sikhottabong"},
-  {"native":"ໄຊເສດຖາ","latin":"Xaysetha"},
-  {"native":"ນ້ຳປາງ","latin":"Nam Phang"},
-  {"native":"ປາກລາຍ","latin":"Paklay"},
-  {"native":"ແກ່ນທ້າວ","latin":"Kaenthaw"},
-  {"native":"ທ່າລະຄານ","latin":"Tha Lakan"},
-  {"native":"ສີສະກົດ","latin":"Sisakod"},
-  {"native":"ວັງວຽງ","latin":"Vang Vieng"},
-  {"native":"ແປກ","latin":"Pek"},
-  {"native":"ຄູນ","latin":"Khun"},
-  {"native":"ໄຊ","latin":"Xay"},
-  {"native":"ງາ","latin":"Nga"},
-  {"native":"ເມືອງຫຼາບ","latin":"Muang Lap"},
-  {"native":"ບໍລິຄັນ","latin":"Borikhan"},
-  {"native":"ວັງໄຊ","latin":"Vangxay"},
-  {"native":"ຫ້ວຍຊາຍ","latin":"Huayxay"},
-  {"native":"ຕົ້ນເຜິ້ງ","latin":"Ton Pheung"},
-  {"native":"ເມືອງແສນ","latin":"Muang Saen"},
-  {"native":"ຜາໄທ","latin":"Pha Thai"},
-  {"native":"ທ່າແດກ","latin":"Tha Dek"},
-  {"native":"ມະຫາໄຊ","latin":"Mahaxay"},
-  {"native":"ນອງບົກ","latin":"Nong Bok"},
-  {"native":"ຫີນບູນ","latin":"Hinboun"},
-  {"native":"ຍົມມະລາດ","latin":"Nyommalat"},
-  {"native":"ບຸດສາ","latin":"Bussa"},
-  {"native":"ນາກັງ","latin":"Na Kang"},
-  {"native":"ສົງຄາມ","latin":"Songkhone"},
-  {"native":"ຊົນນະບູລີ","latin":"Xonnabury"},
-  {"native":"ຈະເລີນ","latin":"Charoen"},
-  {"native":"ພົບພະ","latin":"Phob Pha"},
-  {"native":"ເມືອງເກົ່າ","latin":"Muang Kao"},
-  {"native":"ນ້ຳໂຊງ","latin":"Nam Xong"},
-  {"native":"ບໍ່ເຕັນ","latin":"Bo Ten"},
-  {"native":"ສະພານ","latin":"Saphan"},
-  {"native":"ວຽງໄຊ","latin":"Viengxay"},
-  {"native":"ຊຳເໜືອ","latin":"Xam Neua"},
-  {"native":"ຮ້າມ","latin":"Ham"},
-  {"native":"ສົບເບົາ","latin":"Sop Bao"},
-  {"native":"ແປກ","latin":"Pek"},
-  {"native":"ຊຽງແສນ","latin":"Chiang Saen"},
-  {"native":"ປາກຊ່ອງ","latin":"Pakxong"},
-  {"native":"ລາດ","latin":"Lat"},
-  {"native":"ໂພນທັນ","latin":"Phon Than"},
-  {"native":"ດົງໂດກ","latin":"Dong Dok"},
-  {"native":"ທ່າໂພ","latin":"Tha Pho"},
-  {"native":"ນ້ຳທາ","latin":"Nam Tha"},
-  {"native":"ຫຼວງນ້ຳທາ","latin":"Luang Namtha"},
-  {"native":"ສີດາ","latin":"Sida"},
-  {"native":"ໂພນສະຫວ່າງ","latin":"Phon Savang"},
-  {"native":"ວຽງພູຄາ","latin":"Vieng Phoukha"},
-  {"native":"ປະມານ","latin":"Praman"},
-  {"native":"ສີເກີດ","latin":"Si Ket"},
-  {"native":"ນ້ຳປຸ່ງ","latin":"Nam Pung"},
-  {"native":"ນ້ຳມ້າ","latin":"Nam Ma"},
-  {"native":"ຊຽງຮ່ອນ","latin":"Chiang Hone"},
-  {"native":"ນາຕີ","latin":"Na Ti"},
-  {"native":"ພຽງ","latin":"Phieng"},
-  {"native":"ນາສັງ","latin":"Na Sang"},
-  {"native":"ໂພນໄຊ","latin":"Phonxay"},
-  {"native":"ແສນ","latin":"Saen"},
-  {"native":"ກາງ","latin":"Kang"},
-  {"native":"ປາກກະດົກ","latin":"Pak Kadok"},
-  {"native":"ສາມຄຳ","latin":"Sam Kham"},
-  {"native":"ນາຂ່າ","latin":"Na Kha"},
-  {"native":"ແກ້ວ","latin":"Kaeo"},
-  {"native":"ລາບ","latin":"Lap"},
-  {"native":"ສຳພັນ","latin":"Samphan"},
-  {"native":"ອຸດົມ","latin":"Udom"},
-  {"native":"ພູກູດ","latin":"Phu Kut"},
-  {"native":"ພູລານ","latin":"Phu Lan"},
-  {"native":"ໂພນທ້ອນ","latin":"Phon Thon"},
-  {"native":"ທ່າພະ","latin":"Tha Pha"},
-  {"native":"ນາກະ","latin":"Na Ka"}
+  {
+    "native": "ນະຄອນຫຼວງວຽງຈັນ",
+    "latin": "Vientiane",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫຼວງພະບາງ",
+    "latin": "Luang Prabang",
+    "country": "Laos"
+  },
+  {
+    "native": "ສະຫວັນນະເຂດ",
+    "latin": "Savannakhet",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກເຊ",
+    "latin": "Pakse",
+    "country": "Laos"
+  },
+  {
+    "native": "ຈຳປາສັກ",
+    "latin": "Champasak",
+    "country": "Laos"
+  },
+  {
+    "native": "ບໍ່ແກ້ວ",
+    "latin": "Bokeo",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫົວພັນ",
+    "latin": "Houaphanh",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊຽງຂວາງ",
+    "latin": "Xieng Khouang",
+    "country": "Laos"
+  },
+  {
+    "native": "ຜົ້ງສາລີ",
+    "latin": "Phongsali",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫຼວງນ້ຳທາ",
+    "latin": "Luang Namtha",
+    "country": "Laos"
+  },
+  {
+    "native": "ອຸດົມໄຊ",
+    "latin": "Oudomxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ໄຊຍະບູລີ",
+    "latin": "Xayabury",
+    "country": "Laos"
+  },
+  {
+    "native": "ວຽງຈັນ",
+    "latin": "Vientiane Province",
+    "country": "Laos"
+  },
+  {
+    "native": "ບໍລິຄຳໄຊ",
+    "latin": "Bolikhamsai",
+    "country": "Laos"
+  },
+  {
+    "native": "ຄຳມ່ວນ",
+    "latin": "Khammouane",
+    "country": "Laos"
+  },
+  {
+    "native": "ສາລະວັນ",
+    "latin": "Salavan",
+    "country": "Laos"
+  },
+  {
+    "native": "ເຊກອງ",
+    "latin": "Sekong",
+    "country": "Laos"
+  },
+  {
+    "native": "ອັດຕະປື",
+    "latin": "Attapeu",
+    "country": "Laos"
+  },
+  {
+    "native": "ໄຊສົມບູນ",
+    "latin": "Xaisomboun",
+    "country": "Laos"
+  },
+  {
+    "native": "ທ່າແຂກ",
+    "latin": "Thakhek",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫາດຊາຍຟອງ",
+    "latin": "Hadxayfong",
+    "country": "Laos"
+  },
+  {
+    "native": "ສັງຄົມ",
+    "latin": "Sangkhom",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກງື່ມ",
+    "latin": "Pak Ngum",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາຊາຍທອງ",
+    "latin": "Nasaythong",
+    "country": "Laos"
+  },
+  {
+    "native": "ຈັນທະບູລີ",
+    "latin": "Chanthabuly",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີໂຄດຕະບອງ",
+    "latin": "Sikhottabong",
+    "country": "Laos"
+  },
+  {
+    "native": "ໄຊເສດຖາ",
+    "latin": "Xaysetha",
+    "country": "Laos"
+  },
+  {
+    "native": "ນ້ຳປາງ",
+    "latin": "Nam Phang",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກລາຍ",
+    "latin": "Paklay",
+    "country": "Laos"
+  },
+  {
+    "native": "ແກ່ນທ້າວ",
+    "latin": "Kaenthaw",
+    "country": "Laos"
+  },
+  {
+    "native": "ທ່າລະຄານ",
+    "latin": "Tha Lakan",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີສະກົດ",
+    "latin": "Sisakod",
+    "country": "Laos"
+  },
+  {
+    "native": "ວັງວຽງ",
+    "latin": "Vang Vieng",
+    "country": "Laos"
+  },
+  {
+    "native": "ແປກ",
+    "latin": "Pek",
+    "country": "Laos"
+  },
+  {
+    "native": "ຄູນ",
+    "latin": "Khun",
+    "country": "Laos"
+  },
+  {
+    "native": "ໄຊ",
+    "latin": "Xay",
+    "country": "Laos"
+  },
+  {
+    "native": "ງາ",
+    "latin": "Nga",
+    "country": "Laos"
+  },
+  {
+    "native": "ເມືອງຫຼາບ",
+    "latin": "Muang Lap",
+    "country": "Laos"
+  },
+  {
+    "native": "ບໍລິຄັນ",
+    "latin": "Borikhan",
+    "country": "Laos"
+  },
+  {
+    "native": "ວັງໄຊ",
+    "latin": "Vangxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫ້ວຍຊາຍ",
+    "latin": "Huayxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ຕົ້ນເຜິ້ງ",
+    "latin": "Ton Pheung",
+    "country": "Laos"
+  },
+  {
+    "native": "ເມືອງແສນ",
+    "latin": "Muang Saen",
+    "country": "Laos"
+  },
+  {
+    "native": "ຜາໄທ",
+    "latin": "Pha Thai",
+    "country": "Laos"
+  },
+  {
+    "native": "ທ່າແດກ",
+    "latin": "Tha Dek",
+    "country": "Laos"
+  },
+  {
+    "native": "ມະຫາໄຊ",
+    "latin": "Mahaxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ນອງບົກ",
+    "latin": "Nong Bok",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫີນບູນ",
+    "latin": "Hinboun",
+    "country": "Laos"
+  },
+  {
+    "native": "ຍົມມະລາດ",
+    "latin": "Nyommalat",
+    "country": "Laos"
+  },
+  {
+    "native": "ບຸດສາ",
+    "latin": "Bussa",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາກັງ",
+    "latin": "Na Kang",
+    "country": "Laos"
+  },
+  {
+    "native": "ສົງຄາມ",
+    "latin": "Songkhone",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊົນນະບູລີ",
+    "latin": "Xonnabury",
+    "country": "Laos"
+  },
+  {
+    "native": "ຈະເລີນ",
+    "latin": "Charoen",
+    "country": "Laos"
+  },
+  {
+    "native": "ພົບພະ",
+    "latin": "Phob Pha",
+    "country": "Laos"
+  },
+  {
+    "native": "ເມືອງເກົ່າ",
+    "latin": "Muang Kao",
+    "country": "Laos"
+  },
+  {
+    "native": "ນ້ຳໂຊງ",
+    "latin": "Nam Xong",
+    "country": "Laos"
+  },
+  {
+    "native": "ບໍ່ເຕັນ",
+    "latin": "Bo Ten",
+    "country": "Laos"
+  },
+  {
+    "native": "ສະພານ",
+    "latin": "Saphan",
+    "country": "Laos"
+  },
+  {
+    "native": "ວຽງໄຊ",
+    "latin": "Viengxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊຳເໜືອ",
+    "latin": "Xam Neua",
+    "country": "Laos"
+  },
+  {
+    "native": "ຮ້າມ",
+    "latin": "Ham",
+    "country": "Laos"
+  },
+  {
+    "native": "ສົບເບົາ",
+    "latin": "Sop Bao",
+    "country": "Laos"
+  },
+  {
+    "native": "ແປກ",
+    "latin": "Pek",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊຽງແສນ",
+    "latin": "Chiang Saen",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກຊ່ອງ",
+    "latin": "Pakxong",
+    "country": "Laos"
+  },
+  {
+    "native": "ລາດ",
+    "latin": "Lat",
+    "country": "Laos"
+  },
+  {
+    "native": "ໂພນທັນ",
+    "latin": "Phon Than",
+    "country": "Laos"
+  },
+  {
+    "native": "ດົງໂດກ",
+    "latin": "Dong Dok",
+    "country": "Laos"
+  },
+  {
+    "native": "ທ່າໂພ",
+    "latin": "Tha Pho",
+    "country": "Laos"
+  },
+  {
+    "native": "ນ້ຳທາ",
+    "latin": "Nam Tha",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫຼວງນ້ຳທາ",
+    "latin": "Luang Namtha",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີດາ",
+    "latin": "Sida",
+    "country": "Laos"
+  },
+  {
+    "native": "ໂພນສະຫວ່າງ",
+    "latin": "Phon Savang",
+    "country": "Laos"
+  },
+  {
+    "native": "ວຽງພູຄາ",
+    "latin": "Vieng Phoukha",
+    "country": "Laos"
+  },
+  {
+    "native": "ປະມານ",
+    "latin": "Praman",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີເກີດ",
+    "latin": "Si Ket",
+    "country": "Laos"
+  },
+  {
+    "native": "ນ້ຳປຸ່ງ",
+    "latin": "Nam Pung",
+    "country": "Laos"
+  },
+  {
+    "native": "ນ້ຳມ້າ",
+    "latin": "Nam Ma",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊຽງຮ່ອນ",
+    "latin": "Chiang Hone",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາຕີ",
+    "latin": "Na Ti",
+    "country": "Laos"
+  },
+  {
+    "native": "ພຽງ",
+    "latin": "Phieng",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາສັງ",
+    "latin": "Na Sang",
+    "country": "Laos"
+  },
+  {
+    "native": "ໂພນໄຊ",
+    "latin": "Phonxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ແສນ",
+    "latin": "Saen",
+    "country": "Laos"
+  },
+  {
+    "native": "ກາງ",
+    "latin": "Kang",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກກະດົກ",
+    "latin": "Pak Kadok",
+    "country": "Laos"
+  },
+  {
+    "native": "ສາມຄຳ",
+    "latin": "Sam Kham",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາຂ່າ",
+    "latin": "Na Kha",
+    "country": "Laos"
+  },
+  {
+    "native": "ແກ້ວ",
+    "latin": "Kaeo",
+    "country": "Laos"
+  },
+  {
+    "native": "ລາບ",
+    "latin": "Lap",
+    "country": "Laos"
+  },
+  {
+    "native": "ສຳພັນ",
+    "latin": "Samphan",
+    "country": "Laos"
+  },
+  {
+    "native": "ອຸດົມ",
+    "latin": "Udom",
+    "country": "Laos"
+  },
+  {
+    "native": "ພູກູດ",
+    "latin": "Phu Kut",
+    "country": "Laos"
+  },
+  {
+    "native": "ພູລານ",
+    "latin": "Phu Lan",
+    "country": "Laos"
+  },
+  {
+    "native": "ໂພນທ້ອນ",
+    "latin": "Phon Thon",
+    "country": "Laos"
+  },
+  {
+    "native": "ທ່າພະ",
+    "latin": "Tha Pha",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາກະ",
+    "latin": "Na Ka",
+    "country": "Laos"
+  },
+  {
+    "native": "ບາກ",
+    "latin": "Bak",
+    "country": "Laos"
+  },
+  {
+    "native": "ຈັນທະບູລີ",
+    "latin": "Chanthabouly",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີໂຄດຕະບອງ",
+    "latin": "Sikhottabong",
+    "country": "Laos"
+  },
+  {
+    "native": "ໄຊເສດຖາ",
+    "latin": "Xaysetha",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີສັດຕະນາກ",
+    "latin": "Sisattanak",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາຊາຍທອງ",
+    "latin": "Nasaythong",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫາດຊາຍຟອງ",
+    "latin": "Hadxayfong",
+    "country": "Laos"
+  },
+  {
+    "native": "ສັງຄົມ",
+    "latin": "Sangkhom",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກງື່ມ",
+    "latin": "Pakngum",
+    "country": "Laos"
+  },
+  {
+    "native": "ເມືອງປະກັນ",
+    "latin": "Muang Pakkan",
+    "country": "Laos"
+  },
+  {
+    "native": "ທ່າແຂກ",
+    "latin": "Thakhek",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫີນບູນ",
+    "latin": "Hinboun",
+    "country": "Laos"
+  },
+  {
+    "native": "ນອງບົກ",
+    "latin": "Nongbok",
+    "country": "Laos"
+  },
+  {
+    "native": "ບຸດສາ",
+    "latin": "Bussa",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາກາງ",
+    "latin": "Nakag",
+    "country": "Laos"
+  },
+  {
+    "native": "ສົງຄາມ",
+    "latin": "Songkhone",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊົນນະບູລີ",
+    "latin": "Xonnabouly",
+    "country": "Laos"
+  },
+  {
+    "native": "ຈະເລີນ",
+    "latin": "Charoen",
+    "country": "Laos"
+  },
+  {
+    "native": "ພົບພະ",
+    "latin": "Phob Pha",
+    "country": "Laos"
+  },
+  {
+    "native": "ເມືອງເກົ່າ",
+    "latin": "Muang Kao",
+    "country": "Laos"
+  },
+  {
+    "native": "ນ້ຳໂຊງ",
+    "latin": "Namxong",
+    "country": "Laos"
+  },
+  {
+    "native": "ບໍ່ເຕັນ",
+    "latin": "Boten",
+    "country": "Laos"
+  },
+  {
+    "native": "ສະພານ",
+    "latin": "Saphan",
+    "country": "Laos"
+  },
+  {
+    "native": "ວຽງໄຊ",
+    "latin": "Viengxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊຳເໜືອ",
+    "latin": "Xamneua",
+    "country": "Laos"
+  },
+  {
+    "native": "ຮ້າມ",
+    "latin": "Ham",
+    "country": "Laos"
+  },
+  {
+    "native": "ສົບເບົາ",
+    "latin": "Sopbao",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊຽງແສນ",
+    "latin": "Chiengsaen",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກຊ່ອງ",
+    "latin": "Pakxong",
+    "country": "Laos"
+  },
+  {
+    "native": "ໂພນທັນ",
+    "latin": "Phonthan",
+    "country": "Laos"
+  },
+  {
+    "native": "ດົງໂດກ",
+    "latin": "Dongdok",
+    "country": "Laos"
+  },
+  {
+    "native": "ທ່າໂພ",
+    "latin": "Thapho",
+    "country": "Laos"
+  },
+  {
+    "native": "ນ້ຳທາ",
+    "latin": "Namtha",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີດາ",
+    "latin": "Sida",
+    "country": "Laos"
+  },
+  {
+    "native": "ໂພນສະຫວ່າງ",
+    "latin": "Phonsavang",
+    "country": "Laos"
+  },
+  {
+    "native": "ວຽງພູຄາ",
+    "latin": "Viengphoukha",
+    "country": "Laos"
+  },
+  {
+    "native": "ປະມານ",
+    "latin": "Praman",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີເກີດ",
+    "latin": "Siket",
+    "country": "Laos"
+  },
+  {
+    "native": "ນ້ຳປຸ່ງ",
+    "latin": "Nampung",
+    "country": "Laos"
+  },
+  {
+    "native": "ນ້ຳມ້າ",
+    "latin": "Namma",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊຽງຮ່ອນ",
+    "latin": "Chianghone",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາຕີ",
+    "latin": "Nati",
+    "country": "Laos"
+  },
+  {
+    "native": "ພຽງ",
+    "latin": "Phieng",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາສັງ",
+    "latin": "Nasang",
+    "country": "Laos"
+  },
+  {
+    "native": "ໂພນໄຊ",
+    "latin": "Phonxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ແສນ",
+    "latin": "Saen",
+    "country": "Laos"
+  },
+  {
+    "native": "ກາງ",
+    "latin": "Kang",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກກະດົກ",
+    "latin": "Pak Kadok",
+    "country": "Laos"
+  },
+  {
+    "native": "ສາມຄຳ",
+    "latin": "Samkham",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາຂ່າ",
+    "latin": "Nakha",
+    "country": "Laos"
+  },
+  {
+    "native": "ແກ້ວ",
+    "latin": "Kaeo",
+    "country": "Laos"
+  },
+  {
+    "native": "ລາບ",
+    "latin": "Lap",
+    "country": "Laos"
+  },
+  {
+    "native": "ສຳພັນ",
+    "latin": "Samphan",
+    "country": "Laos"
+  },
+  {
+    "native": "ອຸດົມ",
+    "latin": "Udom",
+    "country": "Laos"
+  },
+  {
+    "native": "ພູກູດ",
+    "latin": "Phukut",
+    "country": "Laos"
+  },
+  {
+    "native": "ພູລານ",
+    "latin": "Phulan",
+    "country": "Laos"
+  },
+  {
+    "native": "ໂພນທ້ອນ",
+    "latin": "Phonthon",
+    "country": "Laos"
+  },
+  {
+    "native": "ທ່າພະ",
+    "latin": "Thapha",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາກະ",
+    "latin": "Naka",
+    "country": "Laos"
+  },
+  {
+    "native": "ທ່າໂພທອງ",
+    "latin": "Thaphothong",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີບຸນເຮືອງ",
+    "latin": "Sibounheuang",
+    "country": "Laos"
+  },
+  {
+    "native": "ສອຍ",
+    "latin": "Soy",
+    "country": "Laos"
+  },
+  {
+    "native": "ສະພານໄຊ",
+    "latin": "Saphanxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີສະເກດ",
+    "latin": "Sisaket",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີສັງວອນ",
+    "latin": "Sisangvone",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫ້ວຍຫາ",
+    "latin": "Houayha",
+    "country": "Laos"
+  },
+  {
+    "native": "ຫ້ວຍແຫຼມ",
+    "latin": "Houaylame",
+    "country": "Laos"
+  },
+  {
+    "native": "ອາດ",
+    "latin": "At",
+    "country": "Laos"
+  },
+  {
+    "native": "ບຸນໃໝ່",
+    "latin": "Bounmai",
+    "country": "Laos"
+  },
+  {
+    "native": "ຈອມແຈ້ງ",
+    "latin": "Chomchaeng",
+    "country": "Laos"
+  },
+  {
+    "native": "ຈອມພູ",
+    "latin": "Chomphu",
+    "country": "Laos"
+  },
+  {
+    "native": "ຊຽງດອນ",
+    "latin": "Chiengdon",
+    "country": "Laos"
+  },
+  {
+    "native": "ດອນ",
+    "latin": "Don",
+    "country": "Laos"
+  },
+  {
+    "native": "ຕານ",
+    "latin": "Tan",
+    "country": "Laos"
+  },
+  {
+    "native": "ຕາລາງ",
+    "latin": "Talang",
+    "country": "Laos"
+  },
+  {
+    "native": "ຕຸ້ມ",
+    "latin": "Toum",
+    "country": "Laos"
+  },
+  {
+    "native": "ນະຄອນໄຊ",
+    "latin": "Nakhonxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາຂະນອງ",
+    "latin": "Nakhanong",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາຄຳ",
+    "latin": "Nakham",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາງວ",
+    "latin": "Nangw",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາຊານ",
+    "latin": "Nasan",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາດີ",
+    "latin": "Nadi",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາປ່າ",
+    "latin": "Napa",
+    "country": "Laos"
+  },
+  {
+    "native": "ນາແສງ",
+    "latin": "Nasaeng",
+    "country": "Laos"
+  },
+  {
+    "native": "ນຳແໜ",
+    "latin": "Namnae",
+    "country": "Laos"
+  },
+  {
+    "native": "ບຸນຕາຍ",
+    "latin": "Bountay",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກ",
+    "latin": "Pak",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກບໍ",
+    "latin": "Pakbo",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກປະ",
+    "latin": "Pakpa",
+    "country": "Laos"
+  },
+  {
+    "native": "ປະກັນ",
+    "latin": "Pakan",
+    "country": "Laos"
+  },
+  {
+    "native": "ຜາພະ",
+    "latin": "Phapha",
+    "country": "Laos"
+  },
+  {
+    "native": "ພຽງໄຊ",
+    "latin": "Phiengxay",
+    "country": "Laos"
+  },
+  {
+    "native": "ພູຂຽວ",
+    "latin": "Phukhiow",
+    "country": "Laos"
+  },
+  {
+    "native": "ພູສີ",
+    "latin": "Phusi",
+    "country": "Laos"
+  },
+  {
+    "native": "ມ່ວນ",
+    "latin": "Muan",
+    "country": "Laos"
+  },
+  {
+    "native": "ວຽງ",
+    "latin": "Vieng",
+    "country": "Laos"
+  },
+  {
+    "native": "ສີທັນ",
+    "latin": "Sithan",
+    "country": "Laos"
+  },
+  {
+    "native": "ສຸກ",
+    "latin": "Suk",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກຊັນ",
+    "latin": "Paksan",
+    "country": "Laos"
+  },
+  {
+    "native": "ປາກທາ",
+    "latin": "Paktha",
+    "country": "Laos"
+  },
+  {
+    "native": "ເມືອງສີ",
+    "latin": "Mueang Si",
+    "country": "Laos"
+  },
+  {
+    "native": "ບໍລິຄຳ",
+    "latin": "Borikham",
+    "country": "Laos"
+  }
 ]

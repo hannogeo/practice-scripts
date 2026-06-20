@@ -1,139 +1,1002 @@
 [
-  {"native":"Київ","latin":"Kyiv"},
-  {"native":"Харків","latin":"Kharkiv"},
-  {"native":"Одеса","latin":"Odesa"},
-  {"native":"Дніпро","latin":"Dnipro"},
-  {"native":"Львів","latin":"Lviv"},
-  {"native":"Запоріжжя","latin":"Zaporizhzhia"},
-  {"native":"Кривий Ріг","latin":"Kryvyi Rih"},
-  {"native":"Миколаїв","latin":"Mykolaiv"},
-  {"native":"Вінниця","latin":"Vinnytsia"},
-  {"native":"Полтава","latin":"Poltava"},
-  {"native":"Чернігів","latin":"Chernihiv"},
-  {"native":"Черкаси","latin":"Cherkasy"},
-  {"native":"Суми","latin":"Sumy"},
-  {"native":"Житомир","latin":"Zhytomyr"},
-  {"native":"Хмельницький","latin":"Khmelnytskyi"},
-  {"native":"Рівне","latin":"Rivne"},
-  {"native":"Івано-Франківськ","latin":"Ivano-Frankivsk"},
-  {"native":"Тернопіль","latin":"Ternopil"},
-  {"native":"Луцьк","latin":"Lutsk"},
-  {"native":"Ужгород","latin":"Uzhhorod"},
-  {"native":"Чернівці","latin":"Chernivtsi"},
-  {"native":"Кропивницький","latin":"Kropyvnytskyi"},
-  {"native":"Херсон","latin":"Kherson"},
-  {"native":"Маріуполь","latin":"Mariupol"},
-  {"native":"Біла Церква","latin":"Bila Tserkva"},
-  {"native":"Кременчук","latin":"Kremenchuk"},
-  {"native":"Мелітополь","latin":"Melitopol"},
-  {"native":"Кам'янське","latin":"Kamianske"},
-  {"native":"Бердянськ","latin":"Berdiansk"},
-  {"native":"Слов'янськ","latin":"Sloviansk"},
-  {"native":"Умань","latin":"Uman"},
-  {"native":"Нікополь","latin":"Nikopol"},
-  {"native":"Павлоград","latin":"Pavlohrad"},
-  {"native":"Конотоп","latin":"Konotop"},
-  {"native":"Олександрія","latin":"Oleksandriia"},
-  {"native":"Бровари","latin":"Brovary"},
-  {"native":"Бориспіль","latin":"Boryspil"},
-  {"native":"Буча","latin":"Bucha"},
-  {"native":"Ірпінь","latin":"Irpin"},
-  {"native":"Фастів","latin":"Fastiv"},
-  {"native":"Прилуки","latin":"Pryluky"},
-  {"native":"Ніжин","latin":"Nizhyn"},
-  {"native":"Бахмач","latin":"Bakhmach"},
-  {"native":"Коростень","latin":"Korosten"},
-  {"native":"Новоград-Волинський","latin":"Novohrad-Volynskyi"},
-  {"native":"Бердичів","latin":"Berdychiv"},
-  {"native":"Вінниця","latin":"Vinnytsia"},
-  {"native":"Могилів-Подільський","latin":"Mohyliv-Podilskyi"},
-  {"native":"Хмільник","latin":"Khmilnyk"},
-  {"native":"Шепетівка","latin":"Shepetivka"},
-  {"native":"Славута","latin":"Slavuta"},
-  {"native":"Кам'янець-Подільський","latin":"Kamianets-Podilskyi"},
-  {"native":"Дунаївці","latin":"Dunaivtsi"},
-  {"native":"Мукачево","latin":"Mukachevo"},
-  {"native":"Хуст","latin":"Khust"},
-  {"native":"Берегово","latin":"Berehove"},
-  {"native":"Чоп","latin":"Chop"},
-  {"native":"Свалява","latin":"Svaliava"},
-  {"native":"Рахів","latin":"Rakhiv"},
-  {"native":"Іршава","latin":"Irshava"},
-  {"native":"Виноградів","latin":"Vynohradiv"},
-  {"native":"Міжгір'я","latin":"Mizhhirya"},
-  {"native":"Великий Березний","latin":"Velykyi Bereznyi"},
-  {"native":"Перечин","latin":"Perechyn"},
-  {"native":"Воловець","latin":"Volovets"},
-  {"native":"Житомир","latin":"Zhytomyr"},
-  {"native":"Бердичів","latin":"Berdychiv"},
-  {"native":"Коростень","latin":"Korosten"},
-  {"native":"Новоград-Волинський","latin":"Novohrad-Volynskyi"},
-  {"native":"Малин","latin":"Malyn"},
-  {"native":"Овруч","latin":"Ovruch"},
-  {"native":"Черняхів","latin":"Chernyakhiv"},
-  {"native":"Любар","latin":"Liubar"},
-  {"native":"Чуднів","latin":"Chudniv"},
-  {"native":"Рівне","latin":"Rivne"},
-  {"native":"Дубно","latin":"Dubno"},
-  {"native":"Костопіль","latin":"Kostopil"},
-  {"native":"Сарни","latin":"Sarny"},
-  {"native":"Здолбунів","latin":"Zdolbuniv"},
-  {"native":"Острог","latin":"Ostroh"},
-  {"native":"Березне","latin":"Berezne"},
-  {"native":"Володимирець","latin":"Volodymyrets"},
-  {"native":"Дубровиця","latin":"Dubrovytsia"},
-  {"native":"Луцьк","latin":"Lutsk"},
-  {"native":"Ковель","latin":"Kovel"},
-  {"native":"Нововолинськ","latin":"Novovolynsk"},
-  {"native":"Володимир","latin":"Volodymyr"},
-  {"native":"Камінь-Каширський","latin":"Kamin-Kashyrskyi"},
-  {"native":"Любомль","latin":"Liuboml"},
-  {"native":"Турійськ","latin":"Turiisk"},
-  {"native":"Рожище","latin":"Rozhyshche"},
-  {"native":"Горохів","latin":"Horokhiv"},
-  {"native":"Тернопіль","latin":"Ternopil"},
-  {"native":"Чортків","latin":"Chortkiv"},
-  {"native":"Кременець","latin":"Kremenets"},
-  {"native":"Бережани","latin":"Berezhany"},
-  {"native":"Збараж","latin":"Zbarazh"},
-  {"native":"Зборів","latin":"Zboriv"},
-  {"native":"Підволочиськ","latin":"Pidvolochysk"},
-  {"native":"Хмельницький","latin":"Khmelnytskyi"},
-  {"native":"Кам'янець-Подільський","latin":"Kamianets-Podilskyi"},
-  {"native":"Шепетівка","latin":"Shepetivka"},
-  {"native":"Дунаївці","latin":"Dunaivtsi"},
-  {"native":"Волочиськ","latin":"Volochysk"},
-  {"native":"Красилів","latin":"Krasyliv"},
-  {"native":"Старокостянтинів","latin":"Starokostiantyniv"},
-  {"native":"Славута","latin":"Slavuta"},
-  {"native":"Ізяслав","latin":"Iziaslav"},
-  {"native":"Полтава","latin":"Poltava"},
-  {"native":"Кременчук","latin":"Kremenchuk"},
-  {"native":"Лубни","latin":"Lubny"},
-  {"native":"Миргород","latin":"Myrhorod"},
-  {"native":"Гадяч","latin":"Hadiach"},
-  {"native":"Пирятин","latin":"Pyriatyn"},
-  {"native":"Хорол","latin":"Khorol"},
-  {"native":"Решетилівка","latin":"Reshetylivka"},
-  {"native":"Кобеляки","latin":"Kobeliaky"},
-  {"native":"Зіньків","latin":"Zinkiv"},
-  {"native":"Сумах","latin":"Sumy"},
-  {"native":"Шостка","latin":"Shostka"},
-  {"native":"Охтирка","latin":"Okhtyrka"},
-  {"native":"Ромни","latin":"Romny"},
-  {"native":"Конотоп","latin":"Konotop"},
-  {"native":"Глухів","latin":"Hlukhiv"},
-  {"native":"Лебедин","latin":"Lebedyn"},
-  {"native":"Кролевець","latin":"Krolevets"},
-  {"native":"Чернігів","latin":"Chernihiv"},
-  {"native":"Ніжин","latin":"Nizhyn"},
-  {"native":"Прилуки","latin":"Pryluky"},
-  {"native":"Бахмач","latin":"Bakhmach"},
-  {"native":"Новгород-Сіверський","latin":"Novhorod-Siverskyi"},
-  {"native":"Сновськ","latin":"Snovsk"},
-  {"native":"Городня","latin":"Horodnia"},
-  {"native":"Ріпки","latin":"Ripky"},
-  {"native":"Борзна","latin":"Borzna"},
-  {"native":"Ічня","latin":"Ichnia"},
-  {"native":"Козелець","latin":"Kozelets"}
+  {
+    "native": "Київ",
+    "latin": "Kyiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Харків",
+    "latin": "Kharkiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Одеса",
+    "latin": "Odesa",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Дніпро",
+    "latin": "Dnipro",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Львів",
+    "latin": "Lviv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Запоріжжя",
+    "latin": "Zaporizhzhia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кривий Ріг",
+    "latin": "Kryvyi Rih",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Миколаїв",
+    "latin": "Mykolaiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Вінниця",
+    "latin": "Vinnytsia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Полтава",
+    "latin": "Poltava",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Чернігів",
+    "latin": "Chernihiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Черкаси",
+    "latin": "Cherkasy",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Суми",
+    "latin": "Sumy",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Житомир",
+    "latin": "Zhytomyr",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Хмельницький",
+    "latin": "Khmelnytskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Рівне",
+    "latin": "Rivne",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Івано-Франківськ",
+    "latin": "Ivano-Frankivsk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Тернопіль",
+    "latin": "Ternopil",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Луцьк",
+    "latin": "Lutsk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ужгород",
+    "latin": "Uzhhorod",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Чернівці",
+    "latin": "Chernivtsi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кропивницький",
+    "latin": "Kropyvnytskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Херсон",
+    "latin": "Kherson",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Маріуполь",
+    "latin": "Mariupol",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Біла Церква",
+    "latin": "Bila Tserkva",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кременчук",
+    "latin": "Kremenchuk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Мелітополь",
+    "latin": "Melitopol",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кам'янське",
+    "latin": "Kamianske",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бердянськ",
+    "latin": "Berdiansk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Слов'янськ",
+    "latin": "Sloviansk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Умань",
+    "latin": "Uman",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Нікополь",
+    "latin": "Nikopol",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Павлоград",
+    "latin": "Pavlohrad",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Конотоп",
+    "latin": "Konotop",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Олександрія",
+    "latin": "Oleksandriia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бровари",
+    "latin": "Brovary",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бориспіль",
+    "latin": "Boryspil",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Буча",
+    "latin": "Bucha",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ірпінь",
+    "latin": "Irpin",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Фастів",
+    "latin": "Fastiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Прилуки",
+    "latin": "Pryluky",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ніжин",
+    "latin": "Nizhyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бахмач",
+    "latin": "Bakhmach",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Коростень",
+    "latin": "Korosten",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Новоград-Волинський",
+    "latin": "Novohrad-Volynskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бердичів",
+    "latin": "Berdychiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Вінниця",
+    "latin": "Vinnytsia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Могилів-Подільський",
+    "latin": "Mohyliv-Podilskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Хмільник",
+    "latin": "Khmilnyk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Шепетівка",
+    "latin": "Shepetivka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Славута",
+    "latin": "Slavuta",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кам'янець-Подільський",
+    "latin": "Kamianets-Podilskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Дунаївці",
+    "latin": "Dunaivtsi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Мукачево",
+    "latin": "Mukachevo",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Хуст",
+    "latin": "Khust",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Берегово",
+    "latin": "Berehove",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Чоп",
+    "latin": "Chop",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Свалява",
+    "latin": "Svaliava",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Рахів",
+    "latin": "Rakhiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Іршава",
+    "latin": "Irshava",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Виноградів",
+    "latin": "Vynohradiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Міжгір'я",
+    "latin": "Mizhhirya",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Великий Березний",
+    "latin": "Velykyi Bereznyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Перечин",
+    "latin": "Perechyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Воловець",
+    "latin": "Volovets",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Житомир",
+    "latin": "Zhytomyr",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бердичів",
+    "latin": "Berdychiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Коростень",
+    "latin": "Korosten",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Новоград-Волинський",
+    "latin": "Novohrad-Volynskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Малин",
+    "latin": "Malyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Овруч",
+    "latin": "Ovruch",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Черняхів",
+    "latin": "Chernyakhiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Любар",
+    "latin": "Liubar",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Чуднів",
+    "latin": "Chudniv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Рівне",
+    "latin": "Rivne",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Дубно",
+    "latin": "Dubno",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Костопіль",
+    "latin": "Kostopil",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Сарни",
+    "latin": "Sarny",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Здолбунів",
+    "latin": "Zdolbuniv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Острог",
+    "latin": "Ostroh",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Березне",
+    "latin": "Berezne",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Володимирець",
+    "latin": "Volodymyrets",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Дубровиця",
+    "latin": "Dubrovytsia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Луцьк",
+    "latin": "Lutsk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ковель",
+    "latin": "Kovel",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Нововолинськ",
+    "latin": "Novovolynsk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Володимир",
+    "latin": "Volodymyr",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Камінь-Каширський",
+    "latin": "Kamin-Kashyrskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Любомль",
+    "latin": "Liuboml",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Турійськ",
+    "latin": "Turiisk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Рожище",
+    "latin": "Rozhyshche",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Горохів",
+    "latin": "Horokhiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Тернопіль",
+    "latin": "Ternopil",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Чортків",
+    "latin": "Chortkiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кременець",
+    "latin": "Kremenets",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бережани",
+    "latin": "Berezhany",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Збараж",
+    "latin": "Zbarazh",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Зборів",
+    "latin": "Zboriv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Підволочиськ",
+    "latin": "Pidvolochysk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Хмельницький",
+    "latin": "Khmelnytskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кам'янець-Подільський",
+    "latin": "Kamianets-Podilskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Шепетівка",
+    "latin": "Shepetivka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Дунаївці",
+    "latin": "Dunaivtsi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Волочиськ",
+    "latin": "Volochysk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Красилів",
+    "latin": "Krasyliv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Старокостянтинів",
+    "latin": "Starokostiantyniv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Славута",
+    "latin": "Slavuta",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ізяслав",
+    "latin": "Iziaslav",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Полтава",
+    "latin": "Poltava",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кременчук",
+    "latin": "Kremenchuk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Лубни",
+    "latin": "Lubny",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Миргород",
+    "latin": "Myrhorod",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Гадяч",
+    "latin": "Hadiach",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Пирятин",
+    "latin": "Pyriatyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Хорол",
+    "latin": "Khorol",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Решетилівка",
+    "latin": "Reshetylivka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кобеляки",
+    "latin": "Kobeliaky",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Зіньків",
+    "latin": "Zinkiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Сумах",
+    "latin": "Sumy",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Шостка",
+    "latin": "Shostka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Охтирка",
+    "latin": "Okhtyrka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ромни",
+    "latin": "Romny",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Конотоп",
+    "latin": "Konotop",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Глухів",
+    "latin": "Hlukhiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Лебедин",
+    "latin": "Lebedyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кролевець",
+    "latin": "Krolevets",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Чернігів",
+    "latin": "Chernihiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ніжин",
+    "latin": "Nizhyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Прилуки",
+    "latin": "Pryluky",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бахмач",
+    "latin": "Bakhmach",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Новгород-Сіверський",
+    "latin": "Novhorod-Siverskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Сновськ",
+    "latin": "Snovsk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Городня",
+    "latin": "Horodnia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ріпки",
+    "latin": "Ripky",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Борзна",
+    "latin": "Borzna",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ічня",
+    "latin": "Ichnia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Козелець",
+    "latin": "Kozelets",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Білгород-Дністровський",
+    "latin": "Bilhorod-Dnistrovskyi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ізмаїл",
+    "latin": "Izmail",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Чорноморськ",
+    "latin": "Chornomorsk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Южне",
+    "latin": "Yuzhne",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Подільськ",
+    "latin": "Podilsk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Балта",
+    "latin": "Balta",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кодима",
+    "latin": "Kodyma",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ананьїв",
+    "latin": "Ananiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Любашівка",
+    "latin": "Liubashivka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Болград",
+    "latin": "Bolhrad",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Арциз",
+    "latin": "Artsyz",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Теплодар",
+    "latin": "Teplodar",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Березівка",
+    "latin": "Berezivka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Роздільна",
+    "latin": "Rozdilna",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Жовква",
+    "latin": "Zhovkva",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Стрий",
+    "latin": "Stryi",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Дрогобич",
+    "latin": "Drohobych",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Самбір",
+    "latin": "Sambir",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Трускавець",
+    "latin": "Truskavets",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Борислав",
+    "latin": "Boryslav",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Новояворівськ",
+    "latin": "Novoiavorivsk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Яворів",
+    "latin": "Yavoriv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Сокаль",
+    "latin": "Sokal",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Червоноград",
+    "latin": "Chervonohrad",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Золочів",
+    "latin": "Zolochiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Броди",
+    "latin": "Brody",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Буськ",
+    "latin": "Busk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Пустомити",
+    "latin": "Pustomyty",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кам'янка-Бузька",
+    "latin": "Kamianka-Buzka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Радехів",
+    "latin": "Radekhiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Перемишляни",
+    "latin": "Peremyshliany",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Глиняни",
+    "latin": "Hlyniany",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бібрка",
+    "latin": "Bibrka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Ходорів",
+    "latin": "Khodoriv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Жидачів",
+    "latin": "Zhydachiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Моршин",
+    "latin": "Morshyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Долина",
+    "latin": "Dolyna",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Калуш",
+    "latin": "Kalush",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Коломия",
+    "latin": "Kolomyia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Надвірна",
+    "latin": "Nadvirna",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Яремче",
+    "latin": "Yaremche",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Косів",
+    "latin": "Kosiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Верховина",
+    "latin": "Verkhovyna",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Снятин",
+    "latin": "Sniatyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Галич",
+    "latin": "Halych",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Тлумач",
+    "latin": "Tlumach",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Городенка",
+    "latin": "Horodenka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Болехів",
+    "latin": "Bolekhiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Рогатин",
+    "latin": "Rohatyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Новодністровськ",
+    "latin": "Novodnistrovsk",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Сокиряни",
+    "latin": "Sokyriany",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Новоселиця",
+    "latin": "Novoselytsia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Глибока",
+    "latin": "Hlyboka",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Заставна",
+    "latin": "Zastavna",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Кіцмань",
+    "latin": "Kitsman",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Вижниця",
+    "latin": "Vyzhnytsia",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Путила",
+    "latin": "Putyla",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Хотин",
+    "latin": "Khotyn",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Борщів",
+    "latin": "Borshchiv",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Заліщики",
+    "latin": "Zalishchyky",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Бучач",
+    "latin": "Buchach",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Монастириська",
+    "latin": "Monastyryska",
+    "country": "Ukraine"
+  },
+  {
+    "native": "Тячів",
+    "latin": "Tiachiv",
+    "country": "Ukraine"
+  }
 ]

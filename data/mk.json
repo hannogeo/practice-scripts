@@ -1,133 +1,1002 @@
 [
-  {"native":"Скопје","latin":"Skopje"},
-  {"native":"Битола","latin":"Bitola"},
-  {"native":"Охрид","latin":"Ohrid"},
-  {"native":"Прилеп","latin":"Prilep"},
-  {"native":"Тетово","latin":"Tetovo"},
-  {"native":"Куманово","latin":"Kumanovo"},
-  {"native":"Велес","latin":"Veles"},
-  {"native":"Штип","latin":"Štip"},
-  {"native":"Струмица","latin":"Strumica"},
-  {"native":"Гостивар","latin":"Gostivar"},
-  {"native":"Кичево","latin":"Kičevo"},
-  {"native":"Кочани","latin":"Kočani"},
-  {"native":"Радовиш","latin":"Radoviš"},
-  {"native":"Гевгелија","latin":"Gevgelija"},
-  {"native":"Струга","latin":"Struga"},
-  {"native":"Дебар","latin":"Debar"},
-  {"native":"Крушево","latin":"Kruševo"},
-  {"native":"Берово","latin":"Berovo"},
-  {"native":"Делчево","latin":"Delčevo"},
-  {"native":"Виница","latin":"Vinica"},
-  {"native":"Пробиштип","latin":"Probištip"},
-  {"native":"Свети Николе","latin":"Sveti Nikole"},
-  {"native":"Неготино","latin":"Negotino"},
-  {"native":"Кавадарци","latin":"Kavadarci"},
-  {"native":"Демир Капија","latin":"Demir Kapija"},
-  {"native":"Валандово","latin":"Valandovo"},
-  {"native":"Дојран","latin":"Dojran"},
-  {"native":"Богданци","latin":"Bogdanci"},
-  {"native":"Македонска Каменица","latin":"Makedonska Kamenica"},
-  {"native":"Пехчево","latin":"Pehčevo"},
-  {"native":"Ресен","latin":"Resen"},
-  {"native":"Охрид","latin":"Ohrid"},
-  {"native":"Македонски Брод","latin":"Makedonski Brod"},
-  {"native":"Демир Хисар","latin":"Demir Hisar"},
-  {"native":"Крива Паланка","latin":"Kriva Palanka"},
-  {"native":"Кратово","latin":"Kratovo"},
-  {"native":"Липково","latin":"Lipkovo"},
-  {"native":"Арачиново","latin":"Aračinovo"},
-  {"native":"Чучер Сандево","latin":"Čučer Sandevo"},
-  {"native":"Белчишта","latin":"Belčišta"},
-  {"native":"Лазарополе","latin":"Lazaropole"},
-  {"native":"Галичник","latin":"Galičnik"},
-  {"native":"Смилево","latin":"Smilevo"},
-  {"native":"Подмочани","latin":"Podmočani"},
-  {"native":"Јанче","latin":"Janče"},
-  {"native":"Тресонче","latin":"Tresonče"},
-  {"native":"Вевчани","latin":"Vevčani"},
-  {"native":"Лабуништа","latin":"Labuništa"},
-  {"native":"Октиси","latin":"Oktisi"},
-  {"native":"Центар Жупа","latin":"Centar Župa"},
-  {"native":"Осломеј","latin":"Oslomej"},
-  {"native":"Вруток","latin":"Vrutok"},
-  {"native":"Маврово","latin":"Mavrovo"},
-  {"native":"Ростуше","latin":"Rostuše"},
-  {"native":"Гостивар","latin":"Gostivar"},
-  {"native":"Врапчиште","latin":"Vrapčište"},
-  {"native":"Боговиње","latin":"Bogovinje"},
-  {"native":"Теарце","latin":"Tearce"},
-  {"native":"Јегуновце","latin":"Jegunovce"},
-  {"native":"Желино","latin":"Želino"},
-  {"native":"Брвеница","latin":"Brvenica"},
-  {"native":"Тетово","latin":"Tetovo"},
-  {"native":"Липково","latin":"Lipkovo"},
-  {"native":"Старо Нагоричане","latin":"Staro Nagoričane"},
-  {"native":"Ранковце","latin":"Rankovce"},
-  {"native":"Крива Паланка","latin":"Kriva Palanka"},
-  {"native":"Кратово","latin":"Kratovo"},
-  {"native":"Пробиштип","latin":"Probištip"},
-  {"native":"Свети Николе","latin":"Sveti Nikole"},
-  {"native":"Лозово","latin":"Lozovo"},
-  {"native":"Штип","latin":"Štip"},
-  {"native":"Карбинци","latin":"Karbinci"},
-  {"native":"Чешиново-Облешево","latin":"Češinovo-Obleševo"},
-  {"native":"Кочани","latin":"Kočani"},
-  {"native":"Зрновци","latin":"Zrnovci"},
-  {"native":"Виница","latin":"Vinica"},
-  {"native":"Делчево","latin":"Delčevo"},
-  {"native":"Пехчево","latin":"Pehčevo"},
-  {"native":"Берово","latin":"Berovo"},
-  {"native":"Радовиш","latin":"Radoviš"},
-  {"native":"Конче","latin":"Konče"},
-  {"native":"Василево","latin":"Vasilevo"},
-  {"native":"Босилово","latin":"Bosilovo"},
-  {"native":"Ново Село","latin":"Novo Selo"},
-  {"native":"Струмица","latin":"Strumica"},
-  {"native":"Валандово","latin":"Valandovo"},
-  {"native":"Дојран","latin":"Dojran"},
-  {"native":"Богданци","latin":"Bogdanci"},
-  {"native":"Гевгелија","latin":"Gevgelija"},
-  {"native":"Кавадарци","latin":"Kavadarci"},
-  {"native":"Росоман","latin":"Rosoman"},
-  {"native":"Градско","latin":"Gradsko"},
-  {"native":"Неготино","latin":"Negotino"},
-  {"native":"Демир Капија","latin":"Demir Kapija"},
-  {"native":"Чашка","latin":"Čaška"},
-  {"native":"Велес","latin":"Veles"},
-  {"native":"Петровец","latin":"Petrovec"},
-  {"native":"Студеничани","latin":"Studeničani"},
-  {"native":"Зелениково","latin":"Zelenikovo"},
-  {"native":"Илинден","latin":"Ilinden"},
-  {"native":"Гази Баба","latin":"Gazi Baba"},
-  {"native":"Аеродром","latin":"Aerodrom"},
-  {"native":"Кисела Вода","latin":"Kisela Voda"},
-  {"native":"Центар","latin":"Centar"},
-  {"native":"Чаир","latin":"Čair"},
-  {"native":"Бутел","latin":"Butel"},
-  {"native":"Шуто Оризари","latin":"Šuto Orizari"},
-  {"native":"Ѓорче Петров","latin":"Gjorče Petrov"},
-  {"native":"Карпош","latin":"Karpoš"},
-  {"native":"Сарај","latin":"Saraj"},
-  {"native":"Сопиште","latin":"Sopište"},
-  {"native":"Чучер-Сандево","latin":"Čučer-Sandevo"},
-  {"native":"Македонски Брод","latin":"Makedonski Brod"},
-  {"native":"Пласница","latin":"Plasnica"},
-  {"native":"Крушево","latin":"Kruševo"},
-  {"native":"Долнени","latin":"Dolneni"},
-  {"native":"Кривогаштани","latin":"Krivogaštani"},
-  {"native":"Могила","latin":"Mogila"},
-  {"native":"Ново Лаг","latin":"Novo Lag"},
-  {"native":"Битола","latin":"Bitola"},
-  {"native":"Демир Хисар","latin":"Demir Hisar"},
-  {"native":"Ресен","latin":"Resen"},
-  {"native":"Охрид","latin":"Ohrid"},
-  {"native":"Дебарца","latin":"Debarca"},
-  {"native":"Струга","latin":"Struga"},
-  {"native":"Вевчани","latin":"Vevčani"},
-  {"native":"Кичево","latin":"Kičevo"},
-  {"native":"Другово","latin":"Drugovo"},
-  {"native":"Зајас","latin":"Zajas"},
-  {"native":"Вранештица","latin":"Vraneštica"},
-  {"native":"Македонски Брод","latin":"Makedonski Brod"}
+  {
+    "native": "Скопје",
+    "latin": "Skopje",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Битола",
+    "latin": "Bitola",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Охрид",
+    "latin": "Ohrid",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Прилеп",
+    "latin": "Prilep",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Тетово",
+    "latin": "Tetovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Куманово",
+    "latin": "Kumanovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Велес",
+    "latin": "Veles",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Штип",
+    "latin": "Štip",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Струмица",
+    "latin": "Strumica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Гостивар",
+    "latin": "Gostivar",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кичево",
+    "latin": "Kičevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кочани",
+    "latin": "Kočani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Радовиш",
+    "latin": "Radoviš",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Гевгелија",
+    "latin": "Gevgelija",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Струга",
+    "latin": "Struga",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Дебар",
+    "latin": "Debar",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Крушево",
+    "latin": "Kruševo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Берово",
+    "latin": "Berovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Делчево",
+    "latin": "Delčevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Виница",
+    "latin": "Vinica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Пробиштип",
+    "latin": "Probištip",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Свети Николе",
+    "latin": "Sveti Nikole",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Неготино",
+    "latin": "Negotino",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кавадарци",
+    "latin": "Kavadarci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Демир Капија",
+    "latin": "Demir Kapija",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Валандово",
+    "latin": "Valandovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Дојран",
+    "latin": "Dojran",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Богданци",
+    "latin": "Bogdanci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Македонска Каменица",
+    "latin": "Makedonska Kamenica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Пехчево",
+    "latin": "Pehčevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ресен",
+    "latin": "Resen",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Охрид",
+    "latin": "Ohrid",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Македонски Брод",
+    "latin": "Makedonski Brod",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Демир Хисар",
+    "latin": "Demir Hisar",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Крива Паланка",
+    "latin": "Kriva Palanka",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кратово",
+    "latin": "Kratovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Липково",
+    "latin": "Lipkovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Арачиново",
+    "latin": "Aračinovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Чучер Сандево",
+    "latin": "Čučer Sandevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Белчишта",
+    "latin": "Belčišta",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Лазарополе",
+    "latin": "Lazaropole",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Галичник",
+    "latin": "Galičnik",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Смилево",
+    "latin": "Smilevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Подмочани",
+    "latin": "Podmočani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Јанче",
+    "latin": "Janče",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Тресонче",
+    "latin": "Tresonče",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Вевчани",
+    "latin": "Vevčani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Лабуништа",
+    "latin": "Labuništa",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Октиси",
+    "latin": "Oktisi",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Центар Жупа",
+    "latin": "Centar Župa",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Осломеј",
+    "latin": "Oslomej",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Вруток",
+    "latin": "Vrutok",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Маврово",
+    "latin": "Mavrovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ростуше",
+    "latin": "Rostuše",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Гостивар",
+    "latin": "Gostivar",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Врапчиште",
+    "latin": "Vrapčište",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Боговиње",
+    "latin": "Bogovinje",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Теарце",
+    "latin": "Tearce",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Јегуновце",
+    "latin": "Jegunovce",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Желино",
+    "latin": "Želino",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Брвеница",
+    "latin": "Brvenica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Тетово",
+    "latin": "Tetovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Липково",
+    "latin": "Lipkovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Старо Нагоричане",
+    "latin": "Staro Nagoričane",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ранковце",
+    "latin": "Rankovce",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Крива Паланка",
+    "latin": "Kriva Palanka",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кратово",
+    "latin": "Kratovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Пробиштип",
+    "latin": "Probištip",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Свети Николе",
+    "latin": "Sveti Nikole",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Лозово",
+    "latin": "Lozovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Штип",
+    "latin": "Štip",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Карбинци",
+    "latin": "Karbinci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Чешиново-Облешево",
+    "latin": "Češinovo-Obleševo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кочани",
+    "latin": "Kočani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Зрновци",
+    "latin": "Zrnovci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Виница",
+    "latin": "Vinica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Делчево",
+    "latin": "Delčevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Пехчево",
+    "latin": "Pehčevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Берово",
+    "latin": "Berovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Радовиш",
+    "latin": "Radoviš",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Конче",
+    "latin": "Konče",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Василево",
+    "latin": "Vasilevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Босилово",
+    "latin": "Bosilovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ново Село",
+    "latin": "Novo Selo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Струмица",
+    "latin": "Strumica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Валандово",
+    "latin": "Valandovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Дојран",
+    "latin": "Dojran",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Богданци",
+    "latin": "Bogdanci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Гевгелија",
+    "latin": "Gevgelija",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кавадарци",
+    "latin": "Kavadarci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Росоман",
+    "latin": "Rosoman",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Градско",
+    "latin": "Gradsko",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Неготино",
+    "latin": "Negotino",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Демир Капија",
+    "latin": "Demir Kapija",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Чашка",
+    "latin": "Čaška",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Велес",
+    "latin": "Veles",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Петровец",
+    "latin": "Petrovec",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Студеничани",
+    "latin": "Studeničani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Зелениково",
+    "latin": "Zelenikovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Илинден",
+    "latin": "Ilinden",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Гази Баба",
+    "latin": "Gazi Baba",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Аеродром",
+    "latin": "Aerodrom",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кисела Вода",
+    "latin": "Kisela Voda",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Центар",
+    "latin": "Centar",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Чаир",
+    "latin": "Čair",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Бутел",
+    "latin": "Butel",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Шуто Оризари",
+    "latin": "Šuto Orizari",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ѓорче Петров",
+    "latin": "Gjorče Petrov",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Карпош",
+    "latin": "Karpoš",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Сарај",
+    "latin": "Saraj",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Сопиште",
+    "latin": "Sopište",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Чучер-Сандево",
+    "latin": "Čučer-Sandevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Македонски Брод",
+    "latin": "Makedonski Brod",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Пласница",
+    "latin": "Plasnica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Крушево",
+    "latin": "Kruševo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Долнени",
+    "latin": "Dolneni",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кривогаштани",
+    "latin": "Krivogaštani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Могила",
+    "latin": "Mogila",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ново Лаг",
+    "latin": "Novo Lag",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Битола",
+    "latin": "Bitola",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Демир Хисар",
+    "latin": "Demir Hisar",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ресен",
+    "latin": "Resen",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Охрид",
+    "latin": "Ohrid",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Дебарца",
+    "latin": "Debarca",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Струга",
+    "latin": "Struga",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Вевчани",
+    "latin": "Vevčani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кичево",
+    "latin": "Kičevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Другово",
+    "latin": "Drugovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Зајас",
+    "latin": "Zajas",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Вранештица",
+    "latin": "Vraneštica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Македонски Брод",
+    "latin": "Makedonski Brod",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Бистрица",
+    "latin": "Bistrica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Богомила",
+    "latin": "Bogomila",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Чешиново",
+    "latin": "Češinovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Драчево",
+    "latin": "Dračevo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Горно Лисиче",
+    "latin": "Gorno Lisiče",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Извор",
+    "latin": "Izvor",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Клечовце",
+    "latin": "Klečovce",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кондово",
+    "latin": "Kondovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Љубин",
+    "latin": "Ljubin",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Матејче",
+    "latin": "Matejče",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Мрежичко",
+    "latin": "Mrežičko",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Новаци",
+    "latin": "Novaci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Опае",
+    "latin": "Opae",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Оризари",
+    "latin": "Orizari",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Слупчане",
+    "latin": "Slupčane",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Страцин",
+    "latin": "Stracin",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ваташа",
+    "latin": "Vataša",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Велгошти",
+    "latin": "Velgošti",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Велмевци",
+    "latin": "Velmovci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Велшани",
+    "latin": "Velšani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Вранинци",
+    "latin": "Vraninci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Гревенци",
+    "latin": "Grevenci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Дворци",
+    "latin": "Dvorci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Десово",
+    "latin": "Desovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Дреново",
+    "latin": "Drenovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Дуње",
+    "latin": "Dunje",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ерџелија",
+    "latin": "Erdželija",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Жван",
+    "latin": "Žvan",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Живојно",
+    "latin": "Živojno",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Звегор",
+    "latin": "Zvegor",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Здуње",
+    "latin": "Zdunje",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Истевник",
+    "latin": "Istevnik",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Калишта",
+    "latin": "Kališta",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Канатларци",
+    "latin": "Kanatlarci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Карабуниште",
+    "latin": "Karabunište",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кнежино",
+    "latin": "Knežino",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Косинец",
+    "latin": "Kosinec",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Костурино",
+    "latin": "Kosturino",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кракорница",
+    "latin": "Krakornica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Кукоречани",
+    "latin": "Kukorečani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Куново",
+    "latin": "Kunovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Лешок",
+    "latin": "Lešok",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Љубојно",
+    "latin": "Ljubojno",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Љуботен",
+    "latin": "Ljuboten",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Мамудовци",
+    "latin": "Mamudovci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Мелница",
+    "latin": "Melnica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Миокази",
+    "latin": "Miokazi",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Миравци",
+    "latin": "Miravci",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Младо Нагоричане",
+    "latin": "Mlado Nagoričane",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Морани",
+    "latin": "Morani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Мургаш",
+    "latin": "Murgaš",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Нерези",
+    "latin": "Nerezi",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Нестрани",
+    "latin": "Nestrani",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Ораовец",
+    "latin": "Oraovec",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Пептелиште",
+    "latin": "Peptelište",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Пресека",
+    "latin": "Preseka",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Рајчица",
+    "latin": "Rajčica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Рамно",
+    "latin": "Ramno",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Русиново",
+    "latin": "Rusinovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Скочивир",
+    "latin": "Skočivir",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Сливово",
+    "latin": "Slivovo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Сопотница",
+    "latin": "Sopotnica",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Суводол",
+    "latin": "Suvodol",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Трстеник",
+    "latin": "Trstenik",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Турија",
+    "latin": "Turija",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Царев Двор",
+    "latin": "Carev Dvor",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Цера",
+    "latin": "Cera",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Шемшево",
+    "latin": "Šemševo",
+    "country": "North_Macedonia"
+  },
+  {
+    "native": "Гарван",
+    "latin": "Garvan",
+    "country": "North_Macedonia"
+  }
 ]

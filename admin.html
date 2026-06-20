@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin — practice scripts</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    html, body { height: 100%; }
+    body { align-items: stretch; }
+    #admin-app { max-width: 640px; margin: 0 auto; padding: 1.5rem; width: 100%; display: flex; flex-direction: column; min-height: 100vh; }
+    .admin-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.5rem; }
+    .admin-head h1 { font-size: 1.1rem; font-weight: 600; }
+    .admin-head a { font-size: 0.85rem; color: var(--text-secondary); text-decoration: none; }
+    .admin-head a:hover { color: var(--text); }
+    .admin-list { flex: 1; overflow-y: auto; }
+    .admin-empty { text-align: center; padding: 3rem 1rem; color: var(--text-tertiary); font-size: 0.9rem; }
+    .admin-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 1rem; margin-bottom: 0.8rem; box-shadow: var(--shadow-sm); }
+    .admin-card-hdr { display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-tertiary); margin-bottom: 0.5rem; }
+    .admin-lang { font-weight: 600; text-transform: uppercase; }
+    .admin-card-body { font-size: 0.88rem; line-height: 1.5; }
+    .admin-card-body div { margin-bottom: 0.3rem; }
+    .admin-card-acts { display: flex; gap: 0.5rem; margin-top: 0.8rem; }
+    .admin-btn { font-size: 0.78rem; padding: 0.4rem 0.9rem; border: 1px solid var(--border); border-radius: 10px; cursor: pointer; background: var(--surface); transition: box-shadow 0.15s, transform 0.15s; box-shadow: var(--shadow-sm); }
+    .admin-btn:hover { box-shadow: var(--shadow-md); transform: translateY(-1px); }
+    .admin-btn.resolve { color: var(--feedback-correct); }
+    .admin-btn.delete { color: var(--feedback-incorrect); }
+    .admin-error { color: var(--feedback-incorrect); text-align: center; padding: 2rem; }
+    .admin-loading { text-align: center; padding: 2rem; color: var(--text-tertiary); }
+  </style>
+</head>
+<body>
+  <div id="admin-app">
+    <div class="admin-head">
+      <h1>Transliteration Reports</h1>
+      <a href="index.html">&larr; Back to app</a>
+    </div>
+    <div id="admin-content" class="admin-list">
+      <div class="admin-loading">Checking access...</div>
+    </div>
+  </div>
+
+  <script type="module">
+    import { auth, getReports, resolveReport, deleteReport, onAuthStateChanged, getProfile } from './firebase.js';
+
+    const content = document.getElementById('admin-content');
+
+    function escapeHtml(str) {
+      const d = document.createElement('div');
+      d.textContent = str;
+      return d.innerHTML;
+    }
+
+    async function loadReports() {
+      content.innerHTML = '<div class="admin-loading">Loading reports...</div>';
+      try {
+        const reports = await getReports('pending');
+        if (reports.length === 0) {
+          content.innerHTML = '<div class="admin-empty">No pending reports. Good work!</div>';
+          return;
+        }
+        content.innerHTML = '';
+        for (const r of reports) {
+          const card = document.createElement('div');
+          card.className = 'admin-card';
+          card.innerHTML = `
+            <div class="admin-card-hdr">
+              <span class="admin-lang">${escapeHtml(r.language || '?')}</span>
+              <span>${r.createdAt?.toDate?.()?.toLocaleString() || 'just now'}</span>
+            </div>
+            <div class="admin-card-body">
+              <div><strong>Native:</strong> ${escapeHtml(r.native)}</div>
+              <div><strong>Current:</strong> ${escapeHtml(r.oldLatin)}</div>
+              ${r.suggestedLatin ? `<div><strong>Suggested:</strong> ${escapeHtml(r.suggestedLatin)}</div>` : ''}
+            </div>
+            <div class="admin-card-acts">
+              <button class="admin-btn resolve" data-id="${r.id}">Resolve</button>
+              <button class="admin-btn delete" data-id="${r.id}">Delete</button>
+            </div>
+          `;
+          content.appendChild(card);
+
+          card.querySelector('.resolve').addEventListener('click', async () => {
+            await resolveReport(r.id);
+            card.remove();
+            if (content.children.length === 0) {
+              content.innerHTML = '<div class="admin-empty">No pending reports. Good work!</div>';
+            }
+          });
+          card.querySelector('.delete').addEventListener('click', async () => {
+            await deleteReport(r.id);
+            card.remove();
+            if (content.children.length === 0) {
+              content.innerHTML = '<div class="admin-empty">No pending reports. Good work!</div>';
+            }
+          });
+        }
+      } catch (err) {
+        content.innerHTML = '<div class="admin-error">Error loading reports.<br><small>' + escapeHtml(err.message) + '</small></div>';
+      }
+    }
+
+    onAuthStateChanged(auth, async (user) => {
+      if (!user) {
+        content.innerHTML = '<div class="admin-error">You need to <a href="index.html" style="color:var(--text-secondary)">sign in</a> first.</div>';
+        return;
+      }
+      const profile = await getProfile(user.uid);
+      if (!profile || !profile.isAdmin) {
+        content.innerHTML = '<div class="admin-error">Access denied. Admin only.</div>';
+        return;
+      }
+      loadReports();
+    });
+  </script>
+</body>
+</html>

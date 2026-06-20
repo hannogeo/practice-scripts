@@ -1,104 +1,1017 @@
 [
-  {"native":"തിരുവനന്തപുരം","latin":"Thiruvananthapuram"},
-  {"native":"കൊച്ചി","latin":"Kochi"},
-  {"native":"കോഴിക്കോട്","latin":"Kozhikode"},
-  {"native":"കൊല്ലം","latin":"Kollam"},
-  {"native":"ആലപ്പുഴ","latin":"Alappuzha"},
-  {"native":"പാലക്കാട്","latin":"Palakkad"},
-  {"native":"കണ്ണൂർ","latin":"Kannur"},
-  {"native":"തൃശ്ശൂർ","latin":"Thrissur"},
-  {"native":"മലപ്പുറം","latin":"Malappuram"},
-  {"native":"കോട്ടയം","latin":"Kottayam"},
-  {"native":"പത്തനംതിട്ട","latin":"Pathanamthitta"},
-  {"native":"വയനാട്","latin":"Wayanad"},
-  {"native":"കാസർഗോഡ്","latin":"Kasaragod"},
-  {"native":"ഇടുക്കി","latin":"Idukki"},
-  {"native":"മൂവാറ്റുപുഴ","latin":"Muvattupuzha"},
-  {"native":"ചങ്ങനാശ്ശേരി","latin":"Changanassery"},
-  {"native":"തിരുവല്ല","latin":"Thiruvalla"},
-  {"native":"ചേർത്തല","latin":"Cherthala"},
-  {"native":"വൈക്കം","latin":"Vaikom"},
-  {"native":"പറവൂർ","latin":"Paravur"},
-  {"native":"കായംകുളം","latin":"Kayamkulam"},
-  {"native":"പുനലൂർ","latin":"Punalur"},
-  {"native":"കരുനാഗപ്പള്ളി","latin":"Karunagappally"},
-  {"native":"കൊടുങ്ങല്ലൂർ","latin":"Kodungallur"},
-  {"native":"ഗുരുവായൂർ","latin":"Guruvayur"},
-  {"native":"വടക്കൻ പറവൂർ","latin":"North Paravur"},
-  {"native":"കാലടി","latin":"Kalady"},
-  {"native":"പെരുമ്പാവൂർ","latin":"Perumbavoor"},
-  {"native":"അങ്കമാലി","latin":"Angamaly"},
-  {"native":"തൊടുപുഴ","latin":"Thodupuzha"},
-  {"native":"മണ്ണാർക്കാട്","latin":"Mannarkkad"},
-  {"native":"ഒറ്റപ്പാലം","latin":"Ottapalam"},
-  {"native":"ഷൊർണൂർ","latin":"Shornur"},
-  {"native":"പൊന്നാനി","latin":"Ponnani"},
-  {"native":"തിരൂർ","latin":"Tirur"},
-  {"native":"കോട്ടകൾ","latin":"Kottakkal"},
-  {"native":"നിലമ്പൂർ","latin":"Nilambur"},
-  {"native":"മഞ്ചേരി","latin":"Manjeri"},
-  {"native":"കൊണ്ടോട്ടി","latin":"Kondotty"},
-  {"native":"വളാഞ്ചേരി","latin":"Valanchery"},
-  {"native":"തളിപ്പറമ്പ്","latin":"Taliparamba"},
-  {"native":"പയ്യന്നൂർ","latin":"Payyannur"},
-  {"native":"കാഞ്ഞങ്ങാട്","latin":"Kanjhangad"},
-  {"native":"വെള്ളരിക്കുണ്ട്","latin":"Vellarikundu"},
-  {"native":"കൽപ്പറ്റ","latin":"Kalpatta"},
-  {"native":"മാനന്തവാടി","latin":"Mananthavady"},
-  {"native":"സുൽത്താൻ ബത്തേരി","latin":"Sultan Bathery"},
-  {"native":"തളിപ്പറമ്പ്","latin":"Taliparamba"},
-  {"native":"ഇരിങ്ങാലക്കുട","latin":"Irinjalakuda"},
-  {"native":"കിഴക്കേമുറി","latin":"Kizhakkemury"},
-  {"native":"കുറ്റിപ്പുറം","latin":"Kuttippuram"},
-  {"native":"എടപ്പാൾ","latin":"Edappal"},
-  {"native":"കുമാരനല്ലൂർ","latin":"Kumaranallur"},
-  {"native":"പള്ളിക്കൽ","latin":"Pallikkal"},
-  {"native":"നെടുമങ്ങാട്","latin":"Nedumangad"},
-  {"native":"വർക്കല","latin":"Varkala"},
-  {"native":"നെയ്യാറ്റിൻകര","latin":"Neyyattinkara"},
-  {"native":"കട്ടപ്പന","latin":"Kattappana"},
-  {"native":"പീരുമേട്","latin":"Peermade"},
-  {"native":"റാന്നി","latin":"Ranni"},
-  {"native":"അടൂർ","latin":"Adoor"},
-  {"native":"കൊന്നി","latin":"Konni"},
-  {"native":"കോഴഞ്ചേരി","latin":"Kozhencherry"},
-  {"native":"ചെങ്ങന്നൂർ","latin":"Chengannur"},
-  {"native":"തിരുവല്ല","latin":"Thiruvalla"},
-  {"native":"മല്ലപ്പള്ളി","latin":"Mallappally"},
-  {"native":"കാഞ്ഞിരപ്പള്ളി","latin":"Kanjirappally"},
-  {"native":"ഏറ്റുമാനൂർ","latin":"Ettumanoor"},
-  {"native":"വൈക്കം","latin":"Vaikom"},
-  {"native":"കടുത്തുരുത്തി","latin":"Kaduthuruthy"},
-  {"native":"പാലാ","latin":"Pala"},
-  {"native":"മീനച്ചിൽ","latin":"Meenachil"},
-  {"native":"ചങ്ങനാശ്ശേരി","latin":"Changanassery"},
-  {"native":"കോട്ടയം","latin":"Kottayam"},
-  {"native":"അമ്പലപ്പുഴ","latin":"Ambalappuzha"},
-  {"native":"ഹരിപ്പാട്","latin":"Haripad"},
-  {"native":"കാർത്തികപ്പള്ളി","latin":"Karthikappally"},
-  {"native":"മാവേലിക്കര","latin":"Mavelikkara"},
-  {"native":"ചേർത്തല","latin":"Cherthala"},
-  {"native":"മാരാരിക്കുളം","latin":"Mararikulam"},
-  {"native":"കണയന്നൂർ","latin":"Kanayannur"},
-  {"native":"ആലുവ","latin":"Aluva"},
-  {"native":"കൊച്ചി","latin":"Kochi"},
-  {"native":"പറവൂർ","latin":"Paravur"},
-  {"native":"കുന്നത്തുനാട്","latin":"Kunnathunad"},
-  {"native":"മൂവാറ്റുപുഴ","latin":"Muvattupuzha"},
-  {"native":"തൊടുപുഴ","latin":"Thodupuzha"},
-  {"native":"ഇരിങ്ങാലക്കുട","latin":"Irinjalakuda"},
-  {"native":"മുകുന്ദപുരം","latin":"Mukundapuram"},
-  {"native":"കൊടുങ്ങല്ലൂർ","latin":"Kodungallur"},
-  {"native":"വെള്ളിക്കുളങ്ങര","latin":"Vellikulangara"},
-  {"native":"തൃശ്ശൂർ","latin":"Thrissur"},
-  {"native":"ചാവക്കാട്","latin":"Chavakkad"},
-  {"native":"തലശ്ശേരി","latin":"Thalassery"},
-  {"native":"കണ്ണൂർ","latin":"Kannur"},
-  {"native":"ഇരിക്കൂർ","latin":"Irikkur"},
-  {"native":"തളിപ്പറമ്പ","latin":"Taliparamba"},
-  {"native":"പന്ന്യന്നൂർ","latin":"Pannyannur"},
-  {"native":"കാസർഗോഡ്","latin":"Kasaragod"},
-  {"native":"ഹോസ്ദുർഗ്","latin":"Hosdurg"},
-  {"native":"വെള്ളരിക്കുണ്ട്","latin":"Vellarikundu"},
-  {"native":"മഞ്ചേശ്വരം","latin":"Manjeshwaram"}
+  {
+    "native": "തിരുവനന്തപുരം",
+    "latin": "Thiruvananthapuram",
+    "country": "India"
+  },
+  {
+    "native": "കൊച്ചി",
+    "latin": "Kochi",
+    "country": "India"
+  },
+  {
+    "native": "കോഴിക്കോട്",
+    "latin": "Kozhikode",
+    "country": "India"
+  },
+  {
+    "native": "കൊല്ലം",
+    "latin": "Kollam",
+    "country": "India"
+  },
+  {
+    "native": "ആലപ്പുഴ",
+    "latin": "Alappuzha",
+    "country": "India"
+  },
+  {
+    "native": "പാലക്കാട്",
+    "latin": "Palakkad",
+    "country": "India"
+  },
+  {
+    "native": "കണ്ണൂർ",
+    "latin": "Kannur",
+    "country": "India"
+  },
+  {
+    "native": "തൃശ്ശൂർ",
+    "latin": "Thrissur",
+    "country": "India"
+  },
+  {
+    "native": "മലപ്പുറം",
+    "latin": "Malappuram",
+    "country": "India"
+  },
+  {
+    "native": "കോട്ടയം",
+    "latin": "Kottayam",
+    "country": "India"
+  },
+  {
+    "native": "പത്തനംതിട്ട",
+    "latin": "Pathanamthitta",
+    "country": "India"
+  },
+  {
+    "native": "വയനാട്",
+    "latin": "Wayanad",
+    "country": "India"
+  },
+  {
+    "native": "കാസർഗോഡ്",
+    "latin": "Kasaragod",
+    "country": "India"
+  },
+  {
+    "native": "ഇടുക്കി",
+    "latin": "Idukki",
+    "country": "India"
+  },
+  {
+    "native": "മൂവാറ്റുപുഴ",
+    "latin": "Muvattupuzha",
+    "country": "India"
+  },
+  {
+    "native": "ചങ്ങനാശ്ശേരി",
+    "latin": "Changanassery",
+    "country": "India"
+  },
+  {
+    "native": "തിരുവല്ല",
+    "latin": "Thiruvalla",
+    "country": "India"
+  },
+  {
+    "native": "ചേർത്തല",
+    "latin": "Cherthala",
+    "country": "India"
+  },
+  {
+    "native": "വൈക്കം",
+    "latin": "Vaikom",
+    "country": "India"
+  },
+  {
+    "native": "പറവൂർ",
+    "latin": "Paravur",
+    "country": "India"
+  },
+  {
+    "native": "കായംകുളം",
+    "latin": "Kayamkulam",
+    "country": "India"
+  },
+  {
+    "native": "പുനലൂർ",
+    "latin": "Punalur",
+    "country": "India"
+  },
+  {
+    "native": "കരുനാഗപ്പള്ളി",
+    "latin": "Karunagappally",
+    "country": "India"
+  },
+  {
+    "native": "കൊടുങ്ങല്ലൂർ",
+    "latin": "Kodungallur",
+    "country": "India"
+  },
+  {
+    "native": "ഗുരുവായൂർ",
+    "latin": "Guruvayur",
+    "country": "India"
+  },
+  {
+    "native": "വടക്കൻ പറവൂർ",
+    "latin": "North Paravur",
+    "country": "India"
+  },
+  {
+    "native": "കാലടി",
+    "latin": "Kalady",
+    "country": "India"
+  },
+  {
+    "native": "പെരുമ്പാവൂർ",
+    "latin": "Perumbavoor",
+    "country": "India"
+  },
+  {
+    "native": "അങ്കമാലി",
+    "latin": "Angamaly",
+    "country": "India"
+  },
+  {
+    "native": "തൊടുപുഴ",
+    "latin": "Thodupuzha",
+    "country": "India"
+  },
+  {
+    "native": "മണ്ണാർക്കാട്",
+    "latin": "Mannarkkad",
+    "country": "India"
+  },
+  {
+    "native": "ഒറ്റപ്പാലം",
+    "latin": "Ottapalam",
+    "country": "India"
+  },
+  {
+    "native": "ഷൊർണൂർ",
+    "latin": "Shornur",
+    "country": "India"
+  },
+  {
+    "native": "പൊന്നാനി",
+    "latin": "Ponnani",
+    "country": "India"
+  },
+  {
+    "native": "തിരൂർ",
+    "latin": "Tirur",
+    "country": "India"
+  },
+  {
+    "native": "കോട്ടകൾ",
+    "latin": "Kottakkal",
+    "country": "India"
+  },
+  {
+    "native": "നിലമ്പൂർ",
+    "latin": "Nilambur",
+    "country": "India"
+  },
+  {
+    "native": "മഞ്ചേരി",
+    "latin": "Manjeri",
+    "country": "India"
+  },
+  {
+    "native": "കൊണ്ടോട്ടി",
+    "latin": "Kondotty",
+    "country": "India"
+  },
+  {
+    "native": "വളാഞ്ചേരി",
+    "latin": "Valanchery",
+    "country": "India"
+  },
+  {
+    "native": "തളിപ്പറമ്പ്",
+    "latin": "Taliparamba",
+    "country": "India"
+  },
+  {
+    "native": "പയ്യന്നൂർ",
+    "latin": "Payyannur",
+    "country": "India"
+  },
+  {
+    "native": "കാഞ്ഞങ്ങാട്",
+    "latin": "Kanjhangad",
+    "country": "India"
+  },
+  {
+    "native": "വെള്ളരിക്കുണ്ട്",
+    "latin": "Vellarikundu",
+    "country": "India"
+  },
+  {
+    "native": "കൽപ്പറ്റ",
+    "latin": "Kalpatta",
+    "country": "India"
+  },
+  {
+    "native": "മാനന്തവാടി",
+    "latin": "Mananthavady",
+    "country": "India"
+  },
+  {
+    "native": "സുൽത്താൻ ബത്തേരി",
+    "latin": "Sultan Bathery",
+    "country": "India"
+  },
+  {
+    "native": "തളിപ്പറമ്പ്",
+    "latin": "Taliparamba",
+    "country": "India"
+  },
+  {
+    "native": "ഇരിങ്ങാലക്കുട",
+    "latin": "Irinjalakuda",
+    "country": "India"
+  },
+  {
+    "native": "കിഴക്കേമുറി",
+    "latin": "Kizhakkemury",
+    "country": "India"
+  },
+  {
+    "native": "കുറ്റിപ്പുറം",
+    "latin": "Kuttippuram",
+    "country": "India"
+  },
+  {
+    "native": "എടപ്പാൾ",
+    "latin": "Edappal",
+    "country": "India"
+  },
+  {
+    "native": "കുമാരനല്ലൂർ",
+    "latin": "Kumaranallur",
+    "country": "India"
+  },
+  {
+    "native": "പള്ളിക്കൽ",
+    "latin": "Pallikkal",
+    "country": "India"
+  },
+  {
+    "native": "നെടുമങ്ങാട്",
+    "latin": "Nedumangad",
+    "country": "India"
+  },
+  {
+    "native": "വർക്കല",
+    "latin": "Varkala",
+    "country": "India"
+  },
+  {
+    "native": "നെയ്യാറ്റിൻകര",
+    "latin": "Neyyattinkara",
+    "country": "India"
+  },
+  {
+    "native": "കട്ടപ്പന",
+    "latin": "Kattappana",
+    "country": "India"
+  },
+  {
+    "native": "പീരുമേട്",
+    "latin": "Peermade",
+    "country": "India"
+  },
+  {
+    "native": "റാന്നി",
+    "latin": "Ranni",
+    "country": "India"
+  },
+  {
+    "native": "അടൂർ",
+    "latin": "Adoor",
+    "country": "India"
+  },
+  {
+    "native": "കൊന്നി",
+    "latin": "Konni",
+    "country": "India"
+  },
+  {
+    "native": "കോഴഞ്ചേരി",
+    "latin": "Kozhencherry",
+    "country": "India"
+  },
+  {
+    "native": "ചെങ്ങന്നൂർ",
+    "latin": "Chengannur",
+    "country": "India"
+  },
+  {
+    "native": "തിരുവല്ല",
+    "latin": "Thiruvalla",
+    "country": "India"
+  },
+  {
+    "native": "മല്ലപ്പള്ളി",
+    "latin": "Mallappally",
+    "country": "India"
+  },
+  {
+    "native": "കാഞ്ഞിരപ്പള്ളി",
+    "latin": "Kanjirappally",
+    "country": "India"
+  },
+  {
+    "native": "ഏറ്റുമാനൂർ",
+    "latin": "Ettumanoor",
+    "country": "India"
+  },
+  {
+    "native": "വൈക്കം",
+    "latin": "Vaikom",
+    "country": "India"
+  },
+  {
+    "native": "കടുത്തുരുത്തി",
+    "latin": "Kaduthuruthy",
+    "country": "India"
+  },
+  {
+    "native": "പാലാ",
+    "latin": "Pala",
+    "country": "India"
+  },
+  {
+    "native": "മീനച്ചിൽ",
+    "latin": "Meenachil",
+    "country": "India"
+  },
+  {
+    "native": "ചങ്ങനാശ്ശേരി",
+    "latin": "Changanassery",
+    "country": "India"
+  },
+  {
+    "native": "കോട്ടയം",
+    "latin": "Kottayam",
+    "country": "India"
+  },
+  {
+    "native": "അമ്പലപ്പുഴ",
+    "latin": "Ambalappuzha",
+    "country": "India"
+  },
+  {
+    "native": "ഹരിപ്പാട്",
+    "latin": "Haripad",
+    "country": "India"
+  },
+  {
+    "native": "കാർത്തികപ്പള്ളി",
+    "latin": "Karthikappally",
+    "country": "India"
+  },
+  {
+    "native": "മാവേലിക്കര",
+    "latin": "Mavelikkara",
+    "country": "India"
+  },
+  {
+    "native": "ചേർത്തല",
+    "latin": "Cherthala",
+    "country": "India"
+  },
+  {
+    "native": "മാരാരിക്കുളം",
+    "latin": "Mararikulam",
+    "country": "India"
+  },
+  {
+    "native": "കണയന്നൂർ",
+    "latin": "Kanayannur",
+    "country": "India"
+  },
+  {
+    "native": "ആലുവ",
+    "latin": "Aluva",
+    "country": "India"
+  },
+  {
+    "native": "കൊച്ചി",
+    "latin": "Kochi",
+    "country": "India"
+  },
+  {
+    "native": "പറവൂർ",
+    "latin": "Paravur",
+    "country": "India"
+  },
+  {
+    "native": "കുന്നത്തുനാട്",
+    "latin": "Kunnathunad",
+    "country": "India"
+  },
+  {
+    "native": "മൂവാറ്റുപുഴ",
+    "latin": "Muvattupuzha",
+    "country": "India"
+  },
+  {
+    "native": "തൊടുപുഴ",
+    "latin": "Thodupuzha",
+    "country": "India"
+  },
+  {
+    "native": "ഇരിങ്ങാലക്കുട",
+    "latin": "Irinjalakuda",
+    "country": "India"
+  },
+  {
+    "native": "മുകുന്ദപുരം",
+    "latin": "Mukundapuram",
+    "country": "India"
+  },
+  {
+    "native": "കൊടുങ്ങല്ലൂർ",
+    "latin": "Kodungallur",
+    "country": "India"
+  },
+  {
+    "native": "വെള്ളിക്കുളങ്ങര",
+    "latin": "Vellikulangara",
+    "country": "India"
+  },
+  {
+    "native": "തൃശ്ശൂർ",
+    "latin": "Thrissur",
+    "country": "India"
+  },
+  {
+    "native": "ചാവക്കാട്",
+    "latin": "Chavakkad",
+    "country": "India"
+  },
+  {
+    "native": "തലശ്ശേരി",
+    "latin": "Thalassery",
+    "country": "India"
+  },
+  {
+    "native": "കണ്ണൂർ",
+    "latin": "Kannur",
+    "country": "India"
+  },
+  {
+    "native": "ഇരിക്കൂർ",
+    "latin": "Irikkur",
+    "country": "India"
+  },
+  {
+    "native": "തളിപ്പറമ്പ",
+    "latin": "Taliparamba",
+    "country": "India"
+  },
+  {
+    "native": "പന്ന്യന്നൂർ",
+    "latin": "Pannyannur",
+    "country": "India"
+  },
+  {
+    "native": "കാസർഗോഡ്",
+    "latin": "Kasaragod",
+    "country": "India"
+  },
+  {
+    "native": "ഹോസ്ദുർഗ്",
+    "latin": "Hosdurg",
+    "country": "India"
+  },
+  {
+    "native": "വെള്ളരിക്കുണ്ട്",
+    "latin": "Vellarikundu",
+    "country": "India"
+  },
+  {
+    "native": "മഞ്ചേശ്വരം",
+    "latin": "Manjeshwaram",
+    "country": "India"
+  },
+  {
+    "native": "നീലേശ്വരം",
+    "latin": "Nileshwaram",
+    "country": "India"
+  },
+  {
+    "native": "തൃക്കരിപ്പൂർ",
+    "latin": "Trikaripur",
+    "country": "India"
+  },
+  {
+    "native": "ചെറുവത്തൂർ",
+    "latin": "Cheruvathur",
+    "country": "India"
+  },
+  {
+    "native": "ബേക്കൽ",
+    "latin": "Bekal",
+    "country": "India"
+  },
+  {
+    "native": "ഉദുമ",
+    "latin": "Uduma",
+    "country": "India"
+  },
+  {
+    "native": "വിട്ടാൻ",
+    "latin": "Vittan",
+    "country": "India"
+  },
+  {
+    "native": "കുംബള",
+    "latin": "Kumbala",
+    "country": "India"
+  },
+  {
+    "native": "മുളിയാർ",
+    "latin": "Muliyaar",
+    "country": "India"
+  },
+  {
+    "native": "കുണ്ടംകുഴി",
+    "latin": "Kundamkuzhy",
+    "country": "India"
+  },
+  {
+    "native": "ചിറ്റാരിക്കൽ",
+    "latin": "Chittarikkal",
+    "country": "India"
+  },
+  {
+    "native": "രാജപുരം",
+    "latin": "Rajapuram",
+    "country": "India"
+  },
+  {
+    "native": "കൂടാളി",
+    "latin": "Koodali",
+    "country": "India"
+  },
+  {
+    "native": "കുറ്റ്യാടി",
+    "latin": "Kuttiady",
+    "country": "India"
+  },
+  {
+    "native": "മട്ടന്നൂർ",
+    "latin": "Mattannur",
+    "country": "India"
+  },
+  {
+    "native": "ഇരിട്ടി",
+    "latin": "Iritty",
+    "country": "India"
+  },
+  {
+    "native": "പാനൂർ",
+    "latin": "Panoor",
+    "country": "India"
+  },
+  {
+    "native": "കൂത്തുപറമ്പ്",
+    "latin": "Koothuparamba",
+    "country": "India"
+  },
+  {
+    "native": "ധർമ്മടം",
+    "latin": "Dharmadam",
+    "country": "India"
+  },
+  {
+    "native": "തൃച്ചംബരം",
+    "latin": "Trichambaram",
+    "country": "India"
+  },
+  {
+    "native": "ശ്രീകണ്ഡാപുരം",
+    "latin": "Sreekandapuram",
+    "country": "India"
+  },
+  {
+    "native": "നാദാപുരം",
+    "latin": "Nadapuram",
+    "country": "India"
+  },
+  {
+    "native": "മുഴുപ്പിലങ്ങാട്",
+    "latin": "Muzhuppilangad",
+    "country": "India"
+  },
+  {
+    "native": "വടകര",
+    "latin": "Vatakara",
+    "country": "India"
+  },
+  {
+    "native": "കൊയിലാണ്ടി",
+    "latin": "Koyilandy",
+    "country": "India"
+  },
+  {
+    "native": "ബാലുശ്ശേരി",
+    "latin": "Balussery",
+    "country": "India"
+  },
+  {
+    "native": "കക്കയം",
+    "latin": "Kakkayam",
+    "country": "India"
+  },
+  {
+    "native": "പെരുവണ്ണാമൂഴി",
+    "latin": "Peruvannamuzhi",
+    "country": "India"
+  },
+  {
+    "native": "കൊടുവള്ളി",
+    "latin": "Koduvally",
+    "country": "India"
+  },
+  {
+    "native": "മുക്കം",
+    "latin": "Mukkam",
+    "country": "India"
+  },
+  {
+    "native": "ചേളന്നൂർ",
+    "latin": "Chelannur",
+    "country": "India"
+  },
+  {
+    "native": "ഒളവണ്ണ",
+    "latin": "Olavanna",
+    "country": "India"
+  },
+  {
+    "native": "ഫറോക്ക്",
+    "latin": "Farook",
+    "country": "India"
+  },
+  {
+    "native": "കുന്നമംഗലം",
+    "latin": "Kunnamangalam",
+    "country": "India"
+  },
+  {
+    "native": "എളത്തൂർ",
+    "latin": "Elathur",
+    "country": "India"
+  },
+  {
+    "native": "ചാത്തമംഗലം",
+    "latin": "Chathamangalam",
+    "country": "India"
+  },
+  {
+    "native": "എടരിക്കോട്",
+    "latin": "Edarikode",
+    "country": "India"
+  },
+  {
+    "native": "വേങ്ങര",
+    "latin": "Vengara",
+    "country": "India"
+  },
+  {
+    "native": "പരപ്പനങ്ങാടി",
+    "latin": "Parappanangadi",
+    "country": "India"
+  },
+  {
+    "native": "തിരൂരങ്ങാടി",
+    "latin": "Tirurangadi",
+    "country": "India"
+  },
+  {
+    "native": "വള്ളിക്കുന്ന്",
+    "latin": "Vallikkunnu",
+    "country": "India"
+  },
+  {
+    "native": "തനൂർ",
+    "latin": "Tanur",
+    "country": "India"
+  },
+  {
+    "native": "ചങ്ങരംകുളം",
+    "latin": "Changaramkulam",
+    "country": "India"
+  },
+  {
+    "native": "പെരിന്തൽമണ്ണ",
+    "latin": "Perinthalmanna",
+    "country": "India"
+  },
+  {
+    "native": "ആങ്ങാടിപുറം",
+    "latin": "Angadipuram",
+    "country": "India"
+  },
+  {
+    "native": "വണ്ടൂർ",
+    "latin": "Wandoor",
+    "country": "India"
+  },
+  {
+    "native": "തവനൂർ",
+    "latin": "Tavanur",
+    "country": "India"
+  },
+  {
+    "native": "ചെർപ്പുളശ്ശേരി",
+    "latin": "Cherpulassery",
+    "country": "India"
+  },
+  {
+    "native": "പട്ടാമ്പി",
+    "latin": "Pattambi",
+    "country": "India"
+  },
+  {
+    "native": "ശങ്കരൻകുളങ്ങര",
+    "latin": "Sankaramkulangara",
+    "country": "India"
+  },
+  {
+    "native": "കരിമ്പ",
+    "latin": "Karimba",
+    "country": "India"
+  },
+  {
+    "native": "കുന്നംകുളം",
+    "latin": "Kunnamkulam",
+    "country": "India"
+  },
+  {
+    "native": "ചാലക്കുടി",
+    "latin": "Chalakudy",
+    "country": "India"
+  },
+  {
+    "native": "കൊടകര",
+    "latin": "Kodakara",
+    "country": "India"
+  },
+  {
+    "native": "വരന്തരപ്പള്ളി",
+    "latin": "Varandarappilly",
+    "country": "India"
+  },
+  {
+    "native": "മാള",
+    "latin": "Mala",
+    "country": "India"
+  },
+  {
+    "native": "പാവറട്ടി",
+    "latin": "Pavaratty",
+    "country": "India"
+  },
+  {
+    "native": "കളമശ്ശേരി",
+    "latin": "Kalamassery",
+    "country": "India"
+  },
+  {
+    "native": "കമ്പനിക്കാട്",
+    "latin": "Companykad",
+    "country": "India"
+  },
+  {
+    "native": "മരട്",
+    "latin": "Maradu",
+    "country": "India"
+  },
+  {
+    "native": "ആറാട്ടുപുഴ",
+    "latin": "Arattupuzha",
+    "country": "India"
+  },
+  {
+    "native": "പള്ളുരുത്തി",
+    "latin": "Palluruthy",
+    "country": "India"
+  },
+  {
+    "native": "കൽപറ്റ",
+    "latin": "Kalpatta",
+    "country": "India"
+  },
+  {
+    "native": "പുന്നയൂർ",
+    "latin": "Punnayur",
+    "country": "India"
+  },
+  {
+    "native": "കാട്ടാക്കട",
+    "latin": "Kattakada",
+    "country": "India"
+  },
+  {
+    "native": "വാമനപുരം",
+    "latin": "Vamanapuram",
+    "country": "India"
+  },
+  {
+    "native": "ചിറയിൻകീഴ്",
+    "latin": "Chirayinkeezhu",
+    "country": "India"
+  },
+  {
+    "native": "ആറ്റിങ്ങൽ",
+    "latin": "Attingal",
+    "country": "India"
+  },
+  {
+    "native": "കിളിമാനൂർ",
+    "latin": "Kilimanoor",
+    "country": "India"
+  },
+  {
+    "native": "ചാത്തന്നൂർ",
+    "latin": "Chathannoor",
+    "country": "India"
+  },
+  {
+    "native": "കുണ്ടറ",
+    "latin": "Kundara",
+    "country": "India"
+  },
+  {
+    "native": "പെരിനാട്",
+    "latin": "Perinad",
+    "country": "India"
+  },
+  {
+    "native": "സസ്താംകോട്ട",
+    "latin": "Sasthamkotta",
+    "country": "India"
+  },
+  {
+    "native": "കറുവാറ്റ",
+    "latin": "Karuvatta",
+    "country": "India"
+  },
+  {
+    "native": "കാട്ടാമ്പള്ളി",
+    "latin": "Kattampally",
+    "country": "India"
+  },
+  {
+    "native": "പിറവം",
+    "latin": "Piravom",
+    "country": "India"
+  },
+  {
+    "native": "കൂത്താട്ടുകുളം",
+    "latin": "Koothattukulam",
+    "country": "India"
+  },
+  {
+    "native": "മൂന്നാർ",
+    "latin": "Munnar",
+    "country": "India"
+  },
+  {
+    "native": "ചെറുതോണി",
+    "latin": "Cheruthoni",
+    "country": "India"
+  },
+  {
+    "native": "നെടുമ്പാശ്ശേരി",
+    "latin": "Nedumbassery",
+    "country": "India"
+  },
+  {
+    "native": "തൃപ്പൂണിത്തുറ",
+    "latin": "Thrippunithura",
+    "country": "India"
+  },
+  {
+    "native": "പള്ളിപ്പുറം",
+    "latin": "Pallippuram",
+    "country": "India"
+  },
+  {
+    "native": "വെള്ളാർവട്ടം",
+    "latin": "Vellarvattom",
+    "country": "India"
+  },
+  {
+    "native": "ചെറുപുഴ",
+    "latin": "Cherupuzha",
+    "country": "India"
+  },
+  {
+    "native": "പാപ്പിനിശ്ശേരി",
+    "latin": "Pappinissery",
+    "country": "India"
+  },
+  {
+    "native": "കുട്ടാമത്ത്",
+    "latin": "Kuttamath",
+    "country": "India"
+  },
+  {
+    "native": "കരിവെള്ളൂർ",
+    "latin": "Karivellur",
+    "country": "India"
+  },
+  {
+    "native": "പെരിങ്ങത്തൂർ",
+    "latin": "Peringathur",
+    "country": "India"
+  },
+  {
+    "native": "കുട്ടംപെരൂർ",
+    "latin": "Kuttemperoor",
+    "country": "India"
+  },
+  {
+    "native": "എഴുമറ്റൂർ",
+    "latin": "Ezhumattoor",
+    "country": "India"
+  },
+  {
+    "native": "വെള്ളാർപറമ്പ",
+    "latin": "Vellaraparamba",
+    "country": "India"
+  },
+  {
+    "native": "ഇരിങ്ങൽ",
+    "latin": "Iringal",
+    "country": "India"
+  },
+  {
+    "native": "മേപ്പയ്യൂർ",
+    "latin": "Meppayur",
+    "country": "India"
+  },
+  {
+    "native": "പേരാമുഴി",
+    "latin": "Peramuzhi",
+    "country": "India"
+  },
+  {
+    "native": "ചെറുവണ്ണൂർ",
+    "latin": "Cheruvannur",
+    "country": "India"
+  },
+  {
+    "native": "കക്കോടി",
+    "latin": "Kakkodi",
+    "country": "India"
+  },
+  {
+    "native": "നരിക്കുണി",
+    "latin": "Narikkuni",
+    "country": "India"
+  },
+  {
+    "native": "കോടഞ്ചേരി",
+    "latin": "Kodanchery",
+    "country": "India"
+  },
+  {
+    "native": "ഒമശ്ശേരി",
+    "latin": "Omassery",
+    "country": "India"
+  },
+  {
+    "native": "കീഴുപറമ്പ്",
+    "latin": "Keezhuparamba",
+    "country": "India"
+  },
+  {
+    "native": "പൊയിൽക്കാവ്",
+    "latin": "Poyilkavu",
+    "country": "India"
+  },
+  {
+    "native": "വാഴയ്ക്കൽ",
+    "latin": "Vazhaykkal",
+    "country": "India"
+  }
 ]

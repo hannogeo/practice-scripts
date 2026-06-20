@@ -1,120 +1,1017 @@
 [
-  {"native":"කොළඹ","latin":"Colombo"},
-  {"native":"මහනුවර","latin":"Kandy"},
-  {"native":"ගාල්ල","latin":"Galle"},
-  {"native":"මොරටුව","latin":"Moratuwa"},
-  {"native":"ජාඇල","latin":"Ja-Ela"},
-  {"native":"නෙගොම්බෝ","latin":"Negombo"},
-  {"native":"කළුතර","latin":"Kalutara"},
-  {"native":"මාතර","latin":"Matara"},
-  {"native":"ත්‍රිකුණාමලය","latin":"Trincomalee"},
-  {"native":"යාපනය","latin":"Jaffna"},
-  {"native":"අනුරාධපුරය","latin":"Anuradhapura"},
-  {"native":"පොළොන්නරුව","latin":"Polonnaruwa"},
-  {"native":"බදුල්ල","latin":"Badulla"},
-  {"native":"නුවරඑළිය","latin":"Nuwara Eliya"},
-  {"native":"රත්නපුර","latin":"Ratnapura"},
-  {"native":"කුරුණෑගල","latin":"Kurunegala"},
-  {"native":"පුත්තලම","latin":"Puttalam"},
-  {"native":"චිලව්","latin":"Chilaw"},
-  {"native":"මන්නාරම","latin":"Mannar"},
-  {"native":"වව්නියාව","latin":"Vavuniya"},
-  {"native":"මඩකලපුව","latin":"Batticaloa"},
-  {"native":"අම්පාර","latin":"Ampara"},
-  {"native":"හම්බන්තොට","latin":"Hambantota"},
-  {"native":"මොණරාගල","latin":"Monaragala"},
-  {"native":"කෑගල්ල","latin":"Kegalle"},
-  {"native":"මාතලේ","latin":"Matale"},
-  {"native":"හලාවත","latin":"Halawatha"},
-  {"native":"බලංගොඩ","latin":"Balangoda"},
-  {"native":"ඇඹිලිපිටිය","latin":"Embilipitiya"},
-  {"native":"තංගල්ල","latin":"Tangalle"},
-  {"native":"හික්කඩුව","latin":"Hikkaduwa"},
-  {"native":"බෙන්තොට","latin":"Bentota"},
-  {"native":"බේරුවල","latin":"Beruwala"},
-  {"native":"පානදුර","latin":"Panadura"},
-  {"native":"ගම්පහ","latin":"Gampaha"},
-  {"native":"කඳාන","latin":"Kandana"},
-  {"native":"වත්තල","latin":"Wattala"},
-  {"native":"හෝමාගම","latin":"Homagama"},
-  {"native":"අවිස්සාවේල්ල","latin":"Avissawella"},
-  {"native":"කෑගල්ල","latin":"Kegalle"},
-  {"native":"වාරියපොල","latin":"Wariyapola"},
-  {"native":"නිකවැරටිය","latin":"Nikaweratiya"},
-  {"native":"හිඟුරක්ගොඩ","latin":"Hingurakgoda"},
-  {"native":"හබරණ","latin":"Habarana"},
-  {"native":"දඹුල්ල","latin":"Dambulla"},
-  {"native":"සීගිරිය","latin":"Sigiriya"},
-  {"native":"අම්බලන්ගොඩ","latin":"Ambalangoda"},
-  {"native":"කොලොන්නාව","latin":"Kolonnawa"},
-  {"native":"කොට්ටාව","latin":"Kottawa"},
-  {"native":"කැස්බෑව","latin":"Kesbewa"},
-  {"native":"මහරගම","latin":"Maharagama"},
-  {"native":"බොරලැස්ගමුව","latin":"Boralesgamuwa"},
-  {"native":"මුල්ලේරියාව","latin":"Mulleriyawa"},
-  {"native":"බත්තරමුල්ල","latin":"Battaramulla"},
-  {"native":"නුගේගොඩ","latin":"Nugegoda"},
-  {"native":"දෙහිවල","latin":"Dehiwala"},
-  {"native":"මවුන්ට් ලැවීනියා","latin":"Mount Lavinia"},
-  {"native":"රාගම","latin":"Ragama"},
-  {"native":"මීරිගම","latin":"Mirigama"},
-  {"native":"වැලිසර","latin":"Welissara"},
-  {"native":"කඩුවෙල","latin":"Kaduwela"},
-  {"native":"අංගොඩ","latin":"Angoda"},
-  {"native":"කොලොන්නාව","latin":"Kolonnawa"},
-  {"native":"මුල්ලේරියාව","latin":"Mulleriyawa"},
-  {"native":"බත්තරමුල්ල","latin":"Battaramulla"},
-  {"native":"කොට්ටාව","latin":"Kottawa"},
-  {"native":"මහරගම","latin":"Maharagama"},
-  {"native":"බොරලැස්ගමුව","latin":"Boralesgamuwa"},
-  {"native":"මොරටුව","latin":"Moratuwa"},
-  {"native":"කැස්බෑව","latin":"Kesbewa"},
-  {"native":"පන්නිපිටිය","latin":"Pannipitiya"},
-  {"native":"මාලබේ","latin":"Malabe"},
-  {"native":"තලවතුගොඩ","latin":"Thalawathugoda"},
-  {"native":"පිළියන්දල","latin":"Piliyandala"},
-  {"native":"කහතුඩුව","latin":"Kahathuduwa"},
-  {"native":"ඩෙල්ගොඩ","latin":"Delgoda"},
-  {"native":"වත්තල","latin":"Wattala"},
-  {"native":"සීදුව","latin":"Seeduwa"},
-  {"native":"ජා-ඇල","latin":"Ja-Ela"},
-  {"native":"බොරලැස්ගමුව","latin":"Boralesgamuwa"},
-  {"native":"හංවැල්ල","latin":"Hanwella"},
-  {"native":"තැල්ලවත්ත","latin":"Thalawaththa"},
-  {"native":"හැටන්","latin":"Hatton"},
-  {"native":"දික්ඔය","latin":"Dikoya"},
-  {"native":"ගම්පොල","latin":"Gampola"},
-  {"native":"නාවලපිටිය","latin":"Nawalapitiya"},
-  {"native":"මාතලේ","latin":"Matale"},
-  {"native":"දඹුල්ල","latin":"Dambulla"},
-  {"native":"සීගිරිය","latin":"Sigiriya"},
-  {"native":"පොළොන්නරුව","latin":"Polonnaruwa"},
-  {"native":"මිහින්තලේ","latin":"Mihintale"},
-  {"native":"අනුරාධපුර","latin":"Anuradhapura"},
-  {"native":"මන්නාරම","latin":"Mannar"},
-  {"native":"වාවුනියා","latin":"Vavuniya"},
-  {"native":"ත්‍රිකුණාමලය","latin":"Trincomalee"},
-  {"native":"බට්ටිකලෝව","latin":"Batticaloa"},
-  {"native":"අම්පාර","latin":"Ampara"},
-  {"native":"කල්මුනේ","latin":"Kalmunai"},
-  {"native":"මඩකලපුව","latin":"Batticaloa"},
-  {"native":"කෑගල්ල","latin":"Kegalle"},
-  {"native":"පීලිය","latin":"Pilimathalawa"},
-  {"native":"මාවනැල්ල","latin":"Mawanella"},
-  {"native":"රත්නපුර","latin":"Ratnapura"},
-  {"native":"බලංගොඩ","latin":"Balangoda"},
-  {"native":"ඇඹිලිපිටිය","latin":"Embilipitiya"},
-  {"native":"හම්බන්තොට","latin":"Hambantota"},
-  {"native":"තංගල්ල","latin":"Tangalle"},
-  {"native":"බෙලිඅත්ත","latin":"Beliatta"},
-  {"native":"මාතර","latin":"Matara"},
-  {"native":"වැලිගම","latin":"Weligama"},
-  {"native":"අහුන්ගල්ල","latin":"Ahungalla"},
-  {"native":"බෙන්තොට","latin":"Bentota"},
-  {"native":"අලුත්ගම","latin":"Aluthgama"},
-  {"native":"බේරුවල","latin":"Beruwala"},
-  {"native":"කළුතර","latin":"Kalutara"},
-  {"native":"පාදුක්ක","latin":"Padukka"},
-  {"native":"ඉංගිරිය","latin":"Ingiriya"},
-  {"native":"හොරණ","latin":"Horana"}
+  {
+    "native": "කොළඹ",
+    "latin": "Colombo",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මහනුවර",
+    "latin": "Kandy",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ගාල්ල",
+    "latin": "Galle",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මොරටුව",
+    "latin": "Moratuwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ජාඇල",
+    "latin": "Ja-Ela",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "නෙගොම්බෝ",
+    "latin": "Negombo",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කළුතර",
+    "latin": "Kalutara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මාතර",
+    "latin": "Matara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ත්‍රිකුණාමලය",
+    "latin": "Trincomalee",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "යාපනය",
+    "latin": "Jaffna",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අනුරාධපුරය",
+    "latin": "Anuradhapura",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පොළොන්නරුව",
+    "latin": "Polonnaruwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බදුල්ල",
+    "latin": "Badulla",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "නුවරඑළිය",
+    "latin": "Nuwara Eliya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "රත්නපුර",
+    "latin": "Ratnapura",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කුරුණෑගල",
+    "latin": "Kurunegala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පුත්තලම",
+    "latin": "Puttalam",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "චිලව්",
+    "latin": "Chilaw",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මන්නාරම",
+    "latin": "Mannar",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වව්නියාව",
+    "latin": "Vavuniya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මඩකලපුව",
+    "latin": "Batticaloa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අම්පාර",
+    "latin": "Ampara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හම්බන්තොට",
+    "latin": "Hambantota",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මොණරාගල",
+    "latin": "Monaragala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කෑගල්ල",
+    "latin": "Kegalle",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මාතලේ",
+    "latin": "Matale",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හලාවත",
+    "latin": "Halawatha",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බලංගොඩ",
+    "latin": "Balangoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ඇඹිලිපිටිය",
+    "latin": "Embilipitiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තංගල්ල",
+    "latin": "Tangalle",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හික්කඩුව",
+    "latin": "Hikkaduwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බෙන්තොට",
+    "latin": "Bentota",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බේරුවල",
+    "latin": "Beruwala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පානදුර",
+    "latin": "Panadura",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ගම්පහ",
+    "latin": "Gampaha",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කඳාන",
+    "latin": "Kandana",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වත්තල",
+    "latin": "Wattala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හෝමාගම",
+    "latin": "Homagama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අවිස්සාවේල්ල",
+    "latin": "Avissawella",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කෑගල්ල",
+    "latin": "Kegalle",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වාරියපොල",
+    "latin": "Wariyapola",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "නිකවැරටිය",
+    "latin": "Nikaweratiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හිඟුරක්ගොඩ",
+    "latin": "Hingurakgoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හබරණ",
+    "latin": "Habarana",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "දඹුල්ල",
+    "latin": "Dambulla",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "සීගිරිය",
+    "latin": "Sigiriya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අම්බලන්ගොඩ",
+    "latin": "Ambalangoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කොලොන්නාව",
+    "latin": "Kolonnawa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කොට්ටාව",
+    "latin": "Kottawa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කැස්බෑව",
+    "latin": "Kesbewa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මහරගම",
+    "latin": "Maharagama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බොරලැස්ගමුව",
+    "latin": "Boralesgamuwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මුල්ලේරියාව",
+    "latin": "Mulleriyawa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බත්තරමුල්ල",
+    "latin": "Battaramulla",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "නුගේගොඩ",
+    "latin": "Nugegoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "දෙහිවල",
+    "latin": "Dehiwala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මවුන්ට් ලැවීනියා",
+    "latin": "Mount Lavinia",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "රාගම",
+    "latin": "Ragama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මීරිගම",
+    "latin": "Mirigama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වැලිසර",
+    "latin": "Welissara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කඩුවෙල",
+    "latin": "Kaduwela",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අංගොඩ",
+    "latin": "Angoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කොලොන්නාව",
+    "latin": "Kolonnawa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මුල්ලේරියාව",
+    "latin": "Mulleriyawa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බත්තරමුල්ල",
+    "latin": "Battaramulla",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කොට්ටාව",
+    "latin": "Kottawa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මහරගම",
+    "latin": "Maharagama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බොරලැස්ගමුව",
+    "latin": "Boralesgamuwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මොරටුව",
+    "latin": "Moratuwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කැස්බෑව",
+    "latin": "Kesbewa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පන්නිපිටිය",
+    "latin": "Pannipitiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මාලබේ",
+    "latin": "Malabe",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තලවතුගොඩ",
+    "latin": "Thalawathugoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පිළියන්දල",
+    "latin": "Piliyandala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කහතුඩුව",
+    "latin": "Kahathuduwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ඩෙල්ගොඩ",
+    "latin": "Delgoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වත්තල",
+    "latin": "Wattala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "සීදුව",
+    "latin": "Seeduwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ජා-ඇල",
+    "latin": "Ja-Ela",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බොරලැස්ගමුව",
+    "latin": "Boralesgamuwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හංවැල්ල",
+    "latin": "Hanwella",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තැල්ලවත්ත",
+    "latin": "Thalawaththa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හැටන්",
+    "latin": "Hatton",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "දික්ඔය",
+    "latin": "Dikoya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ගම්පොල",
+    "latin": "Gampola",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "නාවලපිටිය",
+    "latin": "Nawalapitiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මාතලේ",
+    "latin": "Matale",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "දඹුල්ල",
+    "latin": "Dambulla",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "සීගිරිය",
+    "latin": "Sigiriya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පොළොන්නරුව",
+    "latin": "Polonnaruwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මිහින්තලේ",
+    "latin": "Mihintale",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අනුරාධපුර",
+    "latin": "Anuradhapura",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මන්නාරම",
+    "latin": "Mannar",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වාවුනියා",
+    "latin": "Vavuniya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ත්‍රිකුණාමලය",
+    "latin": "Trincomalee",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බට්ටිකලෝව",
+    "latin": "Batticaloa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අම්පාර",
+    "latin": "Ampara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කල්මුනේ",
+    "latin": "Kalmunai",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මඩකලපුව",
+    "latin": "Batticaloa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කෑගල්ල",
+    "latin": "Kegalle",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පීලිය",
+    "latin": "Pilimathalawa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මාවනැල්ල",
+    "latin": "Mawanella",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "රත්නපුර",
+    "latin": "Ratnapura",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බලංගොඩ",
+    "latin": "Balangoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ඇඹිලිපිටිය",
+    "latin": "Embilipitiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හම්බන්තොට",
+    "latin": "Hambantota",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තංගල්ල",
+    "latin": "Tangalle",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බෙලිඅත්ත",
+    "latin": "Beliatta",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මාතර",
+    "latin": "Matara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වැලිගම",
+    "latin": "Weligama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අහුන්ගල්ල",
+    "latin": "Ahungalla",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බෙන්තොට",
+    "latin": "Bentota",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අලුත්ගම",
+    "latin": "Aluthgama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බේරුවල",
+    "latin": "Beruwala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කළුතර",
+    "latin": "Kalutara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පාදුක්ක",
+    "latin": "Padukka",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ඉංගිරිය",
+    "latin": "Ingiriya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හොරණ",
+    "latin": "Horana",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කිලිනොච්චි",
+    "latin": "Kilinochchi",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මුලතිව්",
+    "latin": "Mullaitivu",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තිස්සමහාරාමය",
+    "latin": "Tissamaharama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කතරගම",
+    "latin": "Kataragama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අකුරැස්ස",
+    "latin": "Akurassa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බූස්ස",
+    "latin": "Boossa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "උණවටුන",
+    "latin": "Unawatuna",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වැල්ලවත්ත",
+    "latin": "Wellawatte",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බම්බලපිටිය",
+    "latin": "Bambalapitiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "රත්මලාන",
+    "latin": "Ratmalana",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කැලණිය",
+    "latin": "Kelaniya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කටාන",
+    "latin": "Katana",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කොච්චිකඩේ",
+    "latin": "Kochchikade",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මාදම්පේ",
+    "latin": "Madampe",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අනමඩුව",
+    "latin": "Anamaduwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වෙන්නප්පුව",
+    "latin": "Wennappuwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තලවකැලේ",
+    "latin": "Talawakele",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මහියංගනය",
+    "latin": "Mahiyanganaya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බණ්ඩාරවෙල",
+    "latin": "Bandarawela",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හපුතලේ",
+    "latin": "Haputale",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "දියතලාව",
+    "latin": "Diyathalawa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ඇල්ල",
+    "latin": "Ella",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පස්සර",
+    "latin": "Passara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ලුණුගල",
+    "latin": "Lunugala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මොනරාගල",
+    "latin": "Monaragala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බිබිල",
+    "latin": "Bibila",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බුත්තල",
+    "latin": "Buttala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තණමල්විල",
+    "latin": "Tanamalwila",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වැල්ලවාය",
+    "latin": "Wellawaya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කුලියාපිටිය",
+    "latin": "Kuliyapitiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "නාරම්මල",
+    "latin": "Narammala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අරණායක",
+    "latin": "Aranayaka",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "දැරනියගල",
+    "latin": "Deraniyagala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බුලත්කොහුපිටිය",
+    "latin": "Bulatekohupitiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මීගමුව",
+    "latin": "Meeamuwa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තිඹිරිගස්තැන්න",
+    "latin": "Thimbirigasyaya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බොරැල්ල",
+    "latin": "Borella",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මරදාන",
+    "latin": "Maradana",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හුණුපිටිය",
+    "latin": "Hunupitiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පේලියගොඩ",
+    "latin": "Peliyagoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වැලිකඩ",
+    "latin": "Wellikada",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කිරුලපන",
+    "latin": "Kirulapana",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "නාරාහේන්පිට",
+    "latin": "Narahenpita",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තුන්මුල්ල",
+    "latin": "Thunmulla",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ගල්කිස්ස",
+    "latin": "Galkissa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ලුණුව",
+    "latin": "Lunuva",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කැරවලපිටිය",
+    "latin": "Kerawalapitiya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "හෙන්දල",
+    "latin": "Hendala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වේල්සර",
+    "latin": "Wellsara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පයාගල",
+    "latin": "Payagala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මගොන",
+    "latin": "Magona",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මතුගම",
+    "latin": "Mathugama",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අගලවත්ත",
+    "latin": "Agalawatta",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බුලත්සිංහල",
+    "latin": "Bulathsinhala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මිල්ලනිය",
+    "latin": "Millaniya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "යාගොඩ",
+    "latin": "Yagoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කිරිඇල්ල",
+    "latin": "Kiriella",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "නිවිතිගල",
+    "latin": "Nivitigala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කලවාන",
+    "latin": "Kalowana",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කුඩාව",
+    "latin": "Kudawa",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ඇහැළියගොඩ",
+    "latin": "Ehaliyagoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කොටහේන",
+    "latin": "Kotahena",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ග්‍රෑන්ඩ්පාස්",
+    "latin": "Grandpass",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මාලිගාවත්ත",
+    "latin": "Maligawatta",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ඩෙමටගොඩ",
+    "latin": "Dematagoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කිරිබත්ගොඩ",
+    "latin": "Kiribathgoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ගොනාපොල",
+    "latin": "Gonapola",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කැකුණාවල",
+    "latin": "Kekunawala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වැලිවේරිය",
+    "latin": "Weliweriya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "උතුරු කුරුණෑගල",
+    "latin": "Urugu Kurunegala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "බින්නලුන්න",
+    "latin": "Binnnalunna",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "අබන්දල",
+    "latin": "Abandala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "නාවින්න",
+    "latin": "Navinna",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මහාබෝධි",
+    "latin": "Mahabodhi",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ලියනගල",
+    "latin": "Liyanagala",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තෙල්දෙණිය",
+    "latin": "Teldeniya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "උඩුපිල්ල",
+    "latin": "Udapilla",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "මිණිපේ",
+    "latin": "Minipay",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "තලාතුඔය",
+    "latin": "Talatuoya",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "පැල්ලගොඩ",
+    "latin": "Pellagoda",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "දෙවිනුවර",
+    "latin": "Devinuvara",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "වලස්මුල්ල",
+    "latin": "Walasmulla",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කුඹුක්ක",
+    "latin": "Kumbukka",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "ගින්තොට",
+    "latin": "Ginthota",
+    "country": "Sri_Lanka"
+  },
+  {
+    "native": "කොබ්බෑකඩුව",
+    "latin": "Kobbekaduwa",
+    "country": "Sri_Lanka"
+  }
 ]

@@ -1,141 +1,1582 @@
 [
-  {"native":"Москва","latin":"Moscow"},
-  {"native":"Санкт-Петербург","latin":"Saint Petersburg"},
-  {"native":"Новосибирск","latin":"Novosibirsk"},
-  {"native":"Екатеринбург","latin":"Yekaterinburg"},
-  {"native":"Казань","latin":"Kazan"},
-  {"native":"Нижний Новгород","latin":"Nizhny Novgorod"},
-  {"native":"Челябинск","latin":"Chelyabinsk"},
-  {"native":"Самара","latin":"Samara"},
-  {"native":"Омск","latin":"Omsk"},
-  {"native":"Ростов-на-Дону","latin":"Rostov-on-Don"},
-  {"native":"Уфа","latin":"Ufa"},
-  {"native":"Красноярск","latin":"Krasnoyarsk"},
-  {"native":"Воронеж","latin":"Voronezh"},
-  {"native":"Пермь","latin":"Perm"},
-  {"native":"Волгоград","latin":"Volgograd"},
-  {"native":"Краснодар","latin":"Krasnodar"},
-  {"native":"Саратов","latin":"Saratov"},
-  {"native":"Тюмень","latin":"Tyumen"},
-  {"native":"Тольятти","latin":"Tolyatti"},
-  {"native":"Ижевск","latin":"Izhevsk"},
-  {"native":"Барнаул","latin":"Barnaul"},
-  {"native":"Ульяновск","latin":"Ulyanovsk"},
-  {"native":"Иркутск","latin":"Irkutsk"},
-  {"native":"Хабаровск","latin":"Khabarovsk"},
-  {"native":"Ярославль","latin":"Yaroslavl"},
-  {"native":"Владивосток","latin":"Vladivostok"},
-  {"native":"Махачкала","latin":"Makhachkala"},
-  {"native":"Томск","latin":"Tomsk"},
-  {"native":"Оренбург","latin":"Orenburg"},
-  {"native":"Кемерово","latin":"Kemerovo"},
-  {"native":"Новокузнецк","latin":"Novokuznetsk"},
-  {"native":"Рязань","latin":"Ryazan"},
-  {"native":"Астрахань","latin":"Astrakhan"},
-  {"native":"Пенза","latin":"Penza"},
-  {"native":"Липецк","latin":"Lipetsk"},
-  {"native":"Тула","latin":"Tula"},
-  {"native":"Киров","latin":"Kirov"},
-  {"native":"Чебоксары","latin":"Cheboksary"},
-  {"native":"Калининград","latin":"Kaliningrad"},
-  {"native":"Курск","latin":"Kursk"},
-  {"native":"Улан-Удэ","latin":"Ulan-Ude"},
-  {"native":"Ставрополь","latin":"Stavropol"},
-  {"native":"Тверь","latin":"Tver"},
-  {"native":"Магнитогорск","latin":"Magnitogorsk"},
-  {"native":"Иваново","latin":"Ivanovo"},
-  {"native":"Брянск","latin":"Bryansk"},
-  {"native":"Белгород","latin":"Belgorod"},
-  {"native":"Сочи","latin":"Sochi"},
-  {"native":"Нижний Тагил","latin":"Nizhny Tagil"},
-  {"native":"Владимир","latin":"Vladimir"},
-  {"native":"Архангельск","latin":"Arkhangelsk"},
-  {"native":"Смоленск","latin":"Smolensk"},
-  {"native":"Чита","latin":"Chita"},
-  {"native":"Калуга","latin":"Kaluga"},
-  {"native":"Саранск","latin":"Saransk"},
-  {"native":"Мурманск","latin":"Murmansk"},
-  {"native":"Кострома","latin":"Kostroma"},
-  {"native":"Вологда","latin":"Vologda"},
-  {"native":"Тамбов","latin":"Tambov"},
-  {"native":"Владикавказ","latin":"Vladikavkaz"},
-  {"native":"Грозный","latin":"Grozny"},
-  {"native":"Петрозаводск","latin":"Petrozavodsk"},
-  {"native":"Йошкар-Ола","latin":"Yoshkar-Ola"},
-  {"native":"Сыктывкар","latin":"Syktyvkar"},
-  {"native":"Ханты-Мансийск","latin":"Khanty-Mansiysk"},
-  {"native":"Салехард","latin":"Salekhard"},
-  {"native":"Псков","latin":"Pskov"},
-  {"native":"Великий Новгород","latin":"Veliky Novgorod"},
-  {"native":"Нарьян-Мар","latin":"Naryan-Mar"},
-  {"native":"Благовещенск","latin":"Blagoveshchensk"},
-  {"native":"Якутск","latin":"Yakutsk"},
-  {"native":"Южно-Сахалинск","latin":"Yuzhno-Sakhalinsk"},
-  {"native":"Петропавловск-Камчатский","latin":"Petropavlovsk-Kamchatsky"},
-  {"native":"Магадан","latin":"Magadan"},
-  {"native":"Биробиджан","latin":"Birobidzhan"},
-  {"native":"Анадырь","latin":"Anadyr"},
-  {"native":"Кызыл","latin":"Kyzyl"},
-  {"native":"Горно-Алтайск","latin":"Gorno-Altaysk"},
-  {"native":"Абакан","latin":"Abakan"},
-  {"native":"Майкоп","latin":"Maykop"},
-  {"native":"Черкесск","latin":"Cherkessk"},
-  {"native":"Нальчик","latin":"Nalchik"},
-  {"native":"Элиста","latin":"Elista"},
-  {"native":"Симферополь","latin":"Simferopol"},
-  {"native":"Севастополь","latin":"Sevastopol"},
-  {"native":"Керчь","latin":"Kerch"},
-  {"native":"Евпатория","latin":"Yevpatoria"},
-  {"native":"Феодосия","latin":"Feodosia"},
-  {"native":"Ялта","latin":"Yalta"},
-  {"native":"Дербент","latin":"Derbent"},
-  {"native":"Назрань","latin":"Nazran"},
-  {"native":"Магас","latin":"Magas"},
-  {"native":"Черкесск","latin":"Cherkessk"},
-  {"native":"Нальчик","latin":"Nalchik"},
-  {"native":"Владикавказ","latin":"Vladikavkaz"},
-  {"native":"Грозный","latin":"Grozny"},
-  {"native":"Махачкала","latin":"Makhachkala"},
-  {"native":"Хасавюрт","latin":"Khasavyurt"},
-  {"native":"Каспийск","latin":"Kaspiysk"},
-  {"native":"Избербаш","latin":"Izberbash"},
-  {"native":"Дербент","latin":"Derbent"},
-  {"native":"Кизляр","latin":"Kizlyar"},
-  {"native":"Буйнакск","latin":"Buynaksk"},
-  {"native":"Элиста","latin":"Elista"},
-  {"native":"Астрахань","latin":"Astrakhan"},
-  {"native":"Волгоград","latin":"Volgograd"},
-  {"native":"Волжский","latin":"Volzhsky"},
-  {"native":"Камышин","latin":"Kamyshin"},
-  {"native":"Михайловка","latin":"Mikhaylovka"},
-  {"native":"Урюпинск","latin":"Uryupinsk"},
-  {"native":"Фролово","latin":"Frolovo"},
-  {"native":"Калач-на-Дону","latin":"Kalach-na-Donu"},
-  {"native":"Котельниково","latin":"Kotelnikovo"},
-  {"native":"Суровикино","latin":"Surovikino"},
-  {"native":"Ростов-на-Дону","latin":"Rostov-on-Don"},
-  {"native":"Таганрог","latin":"Taganrog"},
-  {"native":"Шахты","latin":"Shakhty"},
-  {"native":"Новочеркасск","latin":"Novocherkassk"},
-  {"native":"Волгодонск","latin":"Volgodonsk"},
-  {"native":"Новошахтинск","latin":"Novoshakhtinsk"},
-  {"native":"Батайск","latin":"Bataysk"},
-  {"native":"Белая Калитва","latin":"Belaya Kalitva"},
-  {"native":"Миллерово","latin":"Millerovo"},
-  {"native":"Азов","latin":"Azov"},
-  {"native":"Сальск","latin":"Salsk"},
-  {"native":"Краснодар","latin":"Krasnodar"},
-  {"native":"Сочи","latin":"Sochi"},
-  {"native":"Новороссийск","latin":"Novorossiysk"},
-  {"native":"Армавир","latin":"Armavir"},
-  {"native":"Майкоп","latin":"Maykop"},
-  {"native":"Туапсе","latin":"Tuapse"},
-  {"native":"Геленджик","latin":"Gelendzhik"},
-  {"native":"Анапа","latin":"Anapa"},
-  {"native":"Кропоткин","latin":"Kropotkin"},
-  {"native":"Тихорецк","latin":"Tikhoretsk"},
-  {"native":"Лабинск","latin":"Labinsk"},
-  {"native":"Крымск","latin":"Krymsk"},
-  {"native":"Тимашёвск","latin":"Timashyovsk"},
-  {"native":"Ейск","latin":"Yeysk"}
+  {
+    "native": "Москва",
+    "latin": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "native": "Санкт-Петербург",
+    "latin": "Saint Petersburg",
+    "country": "Russia"
+  },
+  {
+    "native": "Новосибирск",
+    "latin": "Novosibirsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Екатеринбург",
+    "latin": "Yekaterinburg",
+    "country": "Russia"
+  },
+  {
+    "native": "Казань",
+    "latin": "Kazan",
+    "country": "Russia"
+  },
+  {
+    "native": "Нижний Новгород",
+    "latin": "Nizhny Novgorod",
+    "country": "Russia"
+  },
+  {
+    "native": "Челябинск",
+    "latin": "Chelyabinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Самара",
+    "latin": "Samara",
+    "country": "Russia"
+  },
+  {
+    "native": "Омск",
+    "latin": "Omsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Ростов-на-Дону",
+    "latin": "Rostov-on-Don",
+    "country": "Russia"
+  },
+  {
+    "native": "Уфа",
+    "latin": "Ufa",
+    "country": "Russia"
+  },
+  {
+    "native": "Красноярск",
+    "latin": "Krasnoyarsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Воронеж",
+    "latin": "Voronezh",
+    "country": "Russia"
+  },
+  {
+    "native": "Пермь",
+    "latin": "Perm",
+    "country": "Russia"
+  },
+  {
+    "native": "Волгоград",
+    "latin": "Volgograd",
+    "country": "Russia"
+  },
+  {
+    "native": "Краснодар",
+    "latin": "Krasnodar",
+    "country": "Russia"
+  },
+  {
+    "native": "Саратов",
+    "latin": "Saratov",
+    "country": "Russia"
+  },
+  {
+    "native": "Тюмень",
+    "latin": "Tyumen",
+    "country": "Russia"
+  },
+  {
+    "native": "Тольятти",
+    "latin": "Tolyatti",
+    "country": "Russia"
+  },
+  {
+    "native": "Ижевск",
+    "latin": "Izhevsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Барнаул",
+    "latin": "Barnaul",
+    "country": "Russia"
+  },
+  {
+    "native": "Ульяновск",
+    "latin": "Ulyanovsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Иркутск",
+    "latin": "Irkutsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Хабаровск",
+    "latin": "Khabarovsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Ярославль",
+    "latin": "Yaroslavl",
+    "country": "Russia"
+  },
+  {
+    "native": "Владивосток",
+    "latin": "Vladivostok",
+    "country": "Russia"
+  },
+  {
+    "native": "Махачкала",
+    "latin": "Makhachkala",
+    "country": "Russia"
+  },
+  {
+    "native": "Томск",
+    "latin": "Tomsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Оренбург",
+    "latin": "Orenburg",
+    "country": "Russia"
+  },
+  {
+    "native": "Кемерово",
+    "latin": "Kemerovo",
+    "country": "Russia"
+  },
+  {
+    "native": "Новокузнецк",
+    "latin": "Novokuznetsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Рязань",
+    "latin": "Ryazan",
+    "country": "Russia"
+  },
+  {
+    "native": "Астрахань",
+    "latin": "Astrakhan",
+    "country": "Russia"
+  },
+  {
+    "native": "Пенза",
+    "latin": "Penza",
+    "country": "Russia"
+  },
+  {
+    "native": "Липецк",
+    "latin": "Lipetsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Тула",
+    "latin": "Tula",
+    "country": "Russia"
+  },
+  {
+    "native": "Киров",
+    "latin": "Kirov",
+    "country": "Russia"
+  },
+  {
+    "native": "Чебоксары",
+    "latin": "Cheboksary",
+    "country": "Russia"
+  },
+  {
+    "native": "Калининград",
+    "latin": "Kaliningrad",
+    "country": "Russia"
+  },
+  {
+    "native": "Курск",
+    "latin": "Kursk",
+    "country": "Russia"
+  },
+  {
+    "native": "Улан-Удэ",
+    "latin": "Ulan-Ude",
+    "country": "Russia"
+  },
+  {
+    "native": "Ставрополь",
+    "latin": "Stavropol",
+    "country": "Russia"
+  },
+  {
+    "native": "Тверь",
+    "latin": "Tver",
+    "country": "Russia"
+  },
+  {
+    "native": "Магнитогорск",
+    "latin": "Magnitogorsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Иваново",
+    "latin": "Ivanovo",
+    "country": "Russia"
+  },
+  {
+    "native": "Брянск",
+    "latin": "Bryansk",
+    "country": "Russia"
+  },
+  {
+    "native": "Белгород",
+    "latin": "Belgorod",
+    "country": "Russia"
+  },
+  {
+    "native": "Сочи",
+    "latin": "Sochi",
+    "country": "Russia"
+  },
+  {
+    "native": "Нижний Тагил",
+    "latin": "Nizhny Tagil",
+    "country": "Russia"
+  },
+  {
+    "native": "Владимир",
+    "latin": "Vladimir",
+    "country": "Russia"
+  },
+  {
+    "native": "Архангельск",
+    "latin": "Arkhangelsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Смоленск",
+    "latin": "Smolensk",
+    "country": "Russia"
+  },
+  {
+    "native": "Чита",
+    "latin": "Chita",
+    "country": "Russia"
+  },
+  {
+    "native": "Калуга",
+    "latin": "Kaluga",
+    "country": "Russia"
+  },
+  {
+    "native": "Саранск",
+    "latin": "Saransk",
+    "country": "Russia"
+  },
+  {
+    "native": "Мурманск",
+    "latin": "Murmansk",
+    "country": "Russia"
+  },
+  {
+    "native": "Кострома",
+    "latin": "Kostroma",
+    "country": "Russia"
+  },
+  {
+    "native": "Вологда",
+    "latin": "Vologda",
+    "country": "Russia"
+  },
+  {
+    "native": "Тамбов",
+    "latin": "Tambov",
+    "country": "Russia"
+  },
+  {
+    "native": "Владикавказ",
+    "latin": "Vladikavkaz",
+    "country": "Russia"
+  },
+  {
+    "native": "Грозный",
+    "latin": "Grozny",
+    "country": "Russia"
+  },
+  {
+    "native": "Петрозаводск",
+    "latin": "Petrozavodsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Йошкар-Ола",
+    "latin": "Yoshkar-Ola",
+    "country": "Russia"
+  },
+  {
+    "native": "Сыктывкар",
+    "latin": "Syktyvkar",
+    "country": "Russia"
+  },
+  {
+    "native": "Ханты-Мансийск",
+    "latin": "Khanty-Mansiysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Салехард",
+    "latin": "Salekhard",
+    "country": "Russia"
+  },
+  {
+    "native": "Псков",
+    "latin": "Pskov",
+    "country": "Russia"
+  },
+  {
+    "native": "Великий Новгород",
+    "latin": "Veliky Novgorod",
+    "country": "Russia"
+  },
+  {
+    "native": "Нарьян-Мар",
+    "latin": "Naryan-Mar",
+    "country": "Russia"
+  },
+  {
+    "native": "Благовещенск",
+    "latin": "Blagoveshchensk",
+    "country": "Russia"
+  },
+  {
+    "native": "Якутск",
+    "latin": "Yakutsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Южно-Сахалинск",
+    "latin": "Yuzhno-Sakhalinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Петропавловск-Камчатский",
+    "latin": "Petropavlovsk-Kamchatsky",
+    "country": "Russia"
+  },
+  {
+    "native": "Магадан",
+    "latin": "Magadan",
+    "country": "Russia"
+  },
+  {
+    "native": "Биробиджан",
+    "latin": "Birobidzhan",
+    "country": "Russia"
+  },
+  {
+    "native": "Анадырь",
+    "latin": "Anadyr",
+    "country": "Russia"
+  },
+  {
+    "native": "Кызыл",
+    "latin": "Kyzyl",
+    "country": "Russia"
+  },
+  {
+    "native": "Горно-Алтайск",
+    "latin": "Gorno-Altaysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Абакан",
+    "latin": "Abakan",
+    "country": "Russia"
+  },
+  {
+    "native": "Майкоп",
+    "latin": "Maykop",
+    "country": "Russia"
+  },
+  {
+    "native": "Черкесск",
+    "latin": "Cherkessk",
+    "country": "Russia"
+  },
+  {
+    "native": "Нальчик",
+    "latin": "Nalchik",
+    "country": "Russia"
+  },
+  {
+    "native": "Элиста",
+    "latin": "Elista",
+    "country": "Russia"
+  },
+  {
+    "native": "Симферополь",
+    "latin": "Simferopol",
+    "country": "Russia"
+  },
+  {
+    "native": "Севастополь",
+    "latin": "Sevastopol",
+    "country": "Russia"
+  },
+  {
+    "native": "Керчь",
+    "latin": "Kerch",
+    "country": "Russia"
+  },
+  {
+    "native": "Евпатория",
+    "latin": "Yevpatoria",
+    "country": "Russia"
+  },
+  {
+    "native": "Феодосия",
+    "latin": "Feodosia",
+    "country": "Russia"
+  },
+  {
+    "native": "Ялта",
+    "latin": "Yalta",
+    "country": "Russia"
+  },
+  {
+    "native": "Дербент",
+    "latin": "Derbent",
+    "country": "Russia"
+  },
+  {
+    "native": "Назрань",
+    "latin": "Nazran",
+    "country": "Russia"
+  },
+  {
+    "native": "Магас",
+    "latin": "Magas",
+    "country": "Russia"
+  },
+  {
+    "native": "Черкесск",
+    "latin": "Cherkessk",
+    "country": "Russia"
+  },
+  {
+    "native": "Нальчик",
+    "latin": "Nalchik",
+    "country": "Russia"
+  },
+  {
+    "native": "Владикавказ",
+    "latin": "Vladikavkaz",
+    "country": "Russia"
+  },
+  {
+    "native": "Грозный",
+    "latin": "Grozny",
+    "country": "Russia"
+  },
+  {
+    "native": "Махачкала",
+    "latin": "Makhachkala",
+    "country": "Russia"
+  },
+  {
+    "native": "Хасавюрт",
+    "latin": "Khasavyurt",
+    "country": "Russia"
+  },
+  {
+    "native": "Каспийск",
+    "latin": "Kaspiysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Избербаш",
+    "latin": "Izberbash",
+    "country": "Russia"
+  },
+  {
+    "native": "Дербент",
+    "latin": "Derbent",
+    "country": "Russia"
+  },
+  {
+    "native": "Кизляр",
+    "latin": "Kizlyar",
+    "country": "Russia"
+  },
+  {
+    "native": "Буйнакск",
+    "latin": "Buynaksk",
+    "country": "Russia"
+  },
+  {
+    "native": "Элиста",
+    "latin": "Elista",
+    "country": "Russia"
+  },
+  {
+    "native": "Астрахань",
+    "latin": "Astrakhan",
+    "country": "Russia"
+  },
+  {
+    "native": "Волгоград",
+    "latin": "Volgograd",
+    "country": "Russia"
+  },
+  {
+    "native": "Волжский",
+    "latin": "Volzhsky",
+    "country": "Russia"
+  },
+  {
+    "native": "Камышин",
+    "latin": "Kamyshin",
+    "country": "Russia"
+  },
+  {
+    "native": "Михайловка",
+    "latin": "Mikhaylovka",
+    "country": "Russia"
+  },
+  {
+    "native": "Урюпинск",
+    "latin": "Uryupinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Фролово",
+    "latin": "Frolovo",
+    "country": "Russia"
+  },
+  {
+    "native": "Калач-на-Дону",
+    "latin": "Kalach-na-Donu",
+    "country": "Russia"
+  },
+  {
+    "native": "Котельниково",
+    "latin": "Kotelnikovo",
+    "country": "Russia"
+  },
+  {
+    "native": "Суровикино",
+    "latin": "Surovikino",
+    "country": "Russia"
+  },
+  {
+    "native": "Ростов-на-Дону",
+    "latin": "Rostov-on-Don",
+    "country": "Russia"
+  },
+  {
+    "native": "Таганрог",
+    "latin": "Taganrog",
+    "country": "Russia"
+  },
+  {
+    "native": "Шахты",
+    "latin": "Shakhty",
+    "country": "Russia"
+  },
+  {
+    "native": "Новочеркасск",
+    "latin": "Novocherkassk",
+    "country": "Russia"
+  },
+  {
+    "native": "Волгодонск",
+    "latin": "Volgodonsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Новошахтинск",
+    "latin": "Novoshakhtinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Батайск",
+    "latin": "Bataysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Белая Калитва",
+    "latin": "Belaya Kalitva",
+    "country": "Russia"
+  },
+  {
+    "native": "Миллерово",
+    "latin": "Millerovo",
+    "country": "Russia"
+  },
+  {
+    "native": "Азов",
+    "latin": "Azov",
+    "country": "Russia"
+  },
+  {
+    "native": "Сальск",
+    "latin": "Salsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Краснодар",
+    "latin": "Krasnodar",
+    "country": "Russia"
+  },
+  {
+    "native": "Сочи",
+    "latin": "Sochi",
+    "country": "Russia"
+  },
+  {
+    "native": "Новороссийск",
+    "latin": "Novorossiysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Армавир",
+    "latin": "Armavir",
+    "country": "Russia"
+  },
+  {
+    "native": "Майкоп",
+    "latin": "Maykop",
+    "country": "Russia"
+  },
+  {
+    "native": "Туапсе",
+    "latin": "Tuapse",
+    "country": "Russia"
+  },
+  {
+    "native": "Геленджик",
+    "latin": "Gelendzhik",
+    "country": "Russia"
+  },
+  {
+    "native": "Анапа",
+    "latin": "Anapa",
+    "country": "Russia"
+  },
+  {
+    "native": "Кропоткин",
+    "latin": "Kropotkin",
+    "country": "Russia"
+  },
+  {
+    "native": "Тихорецк",
+    "latin": "Tikhoretsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Лабинск",
+    "latin": "Labinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Крымск",
+    "latin": "Krymsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Тимашёвск",
+    "latin": "Timashyovsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Ейск",
+    "latin": "Yeysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Москва",
+    "latin": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "native": "Санкт-Петербург",
+    "latin": "Saint Petersburg",
+    "country": "Russia"
+  },
+  {
+    "native": "Новосибирск",
+    "latin": "Novosibirsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Екатеринбург",
+    "latin": "Yekaterinburg",
+    "country": "Russia"
+  },
+  {
+    "native": "Нижний Новгород",
+    "latin": "Nizhny Novgorod",
+    "country": "Russia"
+  },
+  {
+    "native": "Казань",
+    "latin": "Kazan",
+    "country": "Russia"
+  },
+  {
+    "native": "Челябинск",
+    "latin": "Chelyabinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Омск",
+    "latin": "Omsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Самара",
+    "latin": "Samara",
+    "country": "Russia"
+  },
+  {
+    "native": "Ростов-на-Дону",
+    "latin": "Rostov-on-Don",
+    "country": "Russia"
+  },
+  {
+    "native": "Уфа",
+    "latin": "Ufa",
+    "country": "Russia"
+  },
+  {
+    "native": "Красноярск",
+    "latin": "Krasnoyarsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Воронеж",
+    "latin": "Voronezh",
+    "country": "Russia"
+  },
+  {
+    "native": "Пермь",
+    "latin": "Perm",
+    "country": "Russia"
+  },
+  {
+    "native": "Волгоград",
+    "latin": "Volgograd",
+    "country": "Russia"
+  },
+  {
+    "native": "Краснодар",
+    "latin": "Krasnodar",
+    "country": "Russia"
+  },
+  {
+    "native": "Саратов",
+    "latin": "Saratov",
+    "country": "Russia"
+  },
+  {
+    "native": "Тюмень",
+    "latin": "Tyumen",
+    "country": "Russia"
+  },
+  {
+    "native": "Тольятти",
+    "latin": "Tolyatti",
+    "country": "Russia"
+  },
+  {
+    "native": "Ижевск",
+    "latin": "Izhevsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Барнаул",
+    "latin": "Barnaul",
+    "country": "Russia"
+  },
+  {
+    "native": "Ульяновск",
+    "latin": "Ulyanovsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Иркутск",
+    "latin": "Irkutsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Хабаровск",
+    "latin": "Khabarovsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Ярославль",
+    "latin": "Yaroslavl",
+    "country": "Russia"
+  },
+  {
+    "native": "Владивосток",
+    "latin": "Vladivostok",
+    "country": "Russia"
+  },
+  {
+    "native": "Махачкала",
+    "latin": "Makhachkala",
+    "country": "Russia"
+  },
+  {
+    "native": "Томск",
+    "latin": "Tomsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Оренбург",
+    "latin": "Orenburg",
+    "country": "Russia"
+  },
+  {
+    "native": "Кемерово",
+    "latin": "Kemerovo",
+    "country": "Russia"
+  },
+  {
+    "native": "Новокузнецк",
+    "latin": "Novokuznetsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Рязань",
+    "latin": "Ryazan",
+    "country": "Russia"
+  },
+  {
+    "native": "Астрахань",
+    "latin": "Astrakhan",
+    "country": "Russia"
+  },
+  {
+    "native": "Пенза",
+    "latin": "Penza",
+    "country": "Russia"
+  },
+  {
+    "native": "Липецк",
+    "latin": "Lipetsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Тула",
+    "latin": "Tula",
+    "country": "Russia"
+  },
+  {
+    "native": "Киров",
+    "latin": "Kirov",
+    "country": "Russia"
+  },
+  {
+    "native": "Чебоксары",
+    "latin": "Cheboksary",
+    "country": "Russia"
+  },
+  {
+    "native": "Калининград",
+    "latin": "Kaliningrad",
+    "country": "Russia"
+  },
+  {
+    "native": "Курск",
+    "latin": "Kursk",
+    "country": "Russia"
+  },
+  {
+    "native": "Улан-Удэ",
+    "latin": "Ulan-Ude",
+    "country": "Russia"
+  },
+  {
+    "native": "Ставрополь",
+    "latin": "Stavropol",
+    "country": "Russia"
+  },
+  {
+    "native": "Тверь",
+    "latin": "Tver",
+    "country": "Russia"
+  },
+  {
+    "native": "Магнитогорск",
+    "latin": "Magnitogorsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Иваново",
+    "latin": "Ivanovo",
+    "country": "Russia"
+  },
+  {
+    "native": "Брянск",
+    "latin": "Bryansk",
+    "country": "Russia"
+  },
+  {
+    "native": "Белгород",
+    "latin": "Belgorod",
+    "country": "Russia"
+  },
+  {
+    "native": "Сочи",
+    "latin": "Sochi",
+    "country": "Russia"
+  },
+  {
+    "native": "Нижний Тагил",
+    "latin": "Nizhny Tagil",
+    "country": "Russia"
+  },
+  {
+    "native": "Владимир",
+    "latin": "Vladimir",
+    "country": "Russia"
+  },
+  {
+    "native": "Архангельск",
+    "latin": "Arkhangelsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Сургут",
+    "latin": "Surgut",
+    "country": "Russia"
+  },
+  {
+    "native": "Смоленск",
+    "latin": "Smolensk",
+    "country": "Russia"
+  },
+  {
+    "native": "Чита",
+    "latin": "Chita",
+    "country": "Russia"
+  },
+  {
+    "native": "Калуга",
+    "latin": "Kaluga",
+    "country": "Russia"
+  },
+  {
+    "native": "Орёл",
+    "latin": "Oryol",
+    "country": "Russia"
+  },
+  {
+    "native": "Волжский",
+    "latin": "Volzhsky",
+    "country": "Russia"
+  },
+  {
+    "native": "Мурманск",
+    "latin": "Murmansk",
+    "country": "Russia"
+  },
+  {
+    "native": "Кострома",
+    "latin": "Kostroma",
+    "country": "Russia"
+  },
+  {
+    "native": "Тамбов",
+    "latin": "Tambov",
+    "country": "Russia"
+  },
+  {
+    "native": "Саранск",
+    "latin": "Saransk",
+    "country": "Russia"
+  },
+  {
+    "native": "Грозный",
+    "latin": "Grozny",
+    "country": "Russia"
+  },
+  {
+    "native": "Вологda",
+    "latin": "Vologda",
+    "country": "Russia"
+  },
+  {
+    "native": "Петрозаводск",
+    "latin": "Petrozavodsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Йошкар-Ола",
+    "latin": "Yoshkar-Ola",
+    "country": "Russia"
+  },
+  {
+    "native": "Нальчик",
+    "latin": "Nalchik",
+    "country": "Russia"
+  },
+  {
+    "native": "Стерлитамак",
+    "latin": "Sterlitamak",
+    "country": "Russia"
+  },
+  {
+    "native": "Таганрог",
+    "latin": "Taganrog",
+    "country": "Russia"
+  },
+  {
+    "native": "Псков",
+    "latin": "Pskov",
+    "country": "Russia"
+  },
+  {
+    "native": "Благовещенск",
+    "latin": "Blagoveshchensk",
+    "country": "Russia"
+  },
+  {
+    "native": "Комсомольск-на-Амуре",
+    "latin": "Komsomolsk-on-Amur",
+    "country": "Russia"
+  },
+  {
+    "native": "Рыбинск",
+    "latin": "Rybinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Прокопьевск",
+    "latin": "Prokopyevsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Нижневартовск",
+    "latin": "Nizhnevartovsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Новороссийск",
+    "latin": "Novorossiysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Великий Новгород",
+    "latin": "Veliky Novgorod",
+    "country": "Russia"
+  },
+  {
+    "native": "Ангарск",
+    "latin": "Angarsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Сыктывкар",
+    "latin": "Syktyvkar",
+    "country": "Russia"
+  },
+  {
+    "native": "Бийск",
+    "latin": "Biysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Курган",
+    "latin": "Kurgan",
+    "country": "Russia"
+  },
+  {
+    "native": "Армавир",
+    "latin": "Armavir",
+    "country": "Russia"
+  },
+  {
+    "native": "Новошахтинск",
+    "latin": "Novoshakhtinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Дзержинск",
+    "latin": "Dzerzhinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Братск",
+    "latin": "Bratsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Орск",
+    "latin": "Orsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Химки",
+    "latin": "Khimki",
+    "country": "Russia"
+  },
+  {
+    "native": "Подольск",
+    "latin": "Podolsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Королёв",
+    "latin": "Korolyov",
+    "country": "Russia"
+  },
+  {
+    "native": "Мытищи",
+    "latin": "Mytishchi",
+    "country": "Russia"
+  },
+  {
+    "native": "Люберцы",
+    "latin": "Lyubertsy",
+    "country": "Russia"
+  },
+  {
+    "native": "Коломна",
+    "latin": "Kolomna",
+    "country": "Russia"
+  },
+  {
+    "native": "Электросталь",
+    "latin": "Elektrostal",
+    "country": "Russia"
+  },
+  {
+    "native": "Одинцово",
+    "latin": "Odintsovo",
+    "country": "Russia"
+  },
+  {
+    "native": "Жуковский",
+    "latin": "Zhukovsky",
+    "country": "Russia"
+  },
+  {
+    "native": "Серпухов",
+    "latin": "Serpukhov",
+    "country": "Russia"
+  },
+  {
+    "native": "Щёлково",
+    "latin": "Shchyolkovo",
+    "country": "Russia"
+  },
+  {
+    "native": "Пушкино",
+    "latin": "Pushkino",
+    "country": "Russia"
+  },
+  {
+    "native": "Орехово-Зуево",
+    "latin": "Orekhovo-Zuyevo",
+    "country": "Russia"
+  },
+  {
+    "native": "Ногинск",
+    "latin": "Noginsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Ступино",
+    "latin": "Stupino",
+    "country": "Russia"
+  },
+  {
+    "native": "Ессентуки",
+    "latin": "Yessentuki",
+    "country": "Russia"
+  },
+  {
+    "native": "Кисловодск",
+    "latin": "Kislovodsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Пятигорск",
+    "latin": "Pyatigorsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Минеральные Воды",
+    "latin": "Mineralnye Vody",
+    "country": "Russia"
+  },
+  {
+    "native": "Геленджик",
+    "latin": "Gelendzhik",
+    "country": "Russia"
+  },
+  {
+    "native": "Туапсе",
+    "latin": "Tuapse",
+    "country": "Russia"
+  },
+  {
+    "native": "Анапа",
+    "latin": "Anapa",
+    "country": "Russia"
+  },
+  {
+    "native": "Лабинск",
+    "latin": "Labinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Кропоткин",
+    "latin": "Kropotkin",
+    "country": "Russia"
+  },
+  {
+    "native": "Тихорецк",
+    "latin": "Tikhoretsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Ейск",
+    "latin": "Yeysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Славянск-на-Кубани",
+    "latin": "Slavyansk-on-Kuban",
+    "country": "Russia"
+  },
+  {
+    "native": "Белореченск",
+    "latin": "Belorechensk",
+    "country": "Russia"
+  },
+  {
+    "native": "Крымск",
+    "latin": "Krymsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Тимашёвск",
+    "latin": "Timashyovsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Гулькевичи",
+    "latin": "Gulkevichi",
+    "country": "Russia"
+  },
+  {
+    "native": "Приморско-Ахтарск",
+    "latin": "Primorsko-Akhtarsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Кореновск",
+    "latin": "Korenovsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Абинск",
+    "latin": "Abinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Курганинск",
+    "latin": "Kurganinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Усть-Лабинск",
+    "latin": "Ust-Labinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Темрюк",
+    "latin": "Temryuk",
+    "country": "Russia"
+  },
+  {
+    "native": "Горячий Ключ",
+    "latin": "Goryachy Klyuch",
+    "country": "Russia"
+  },
+  {
+    "native": "Ханты-Мансийск",
+    "latin": "Khanty-Mansiysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Салехард",
+    "latin": "Salekhard",
+    "country": "Russia"
+  },
+  {
+    "native": "Нарьян-Мар",
+    "latin": "Naryan-Mar",
+    "country": "Russia"
+  },
+  {
+    "native": "Анадырь",
+    "latin": "Anadyr",
+    "country": "Russia"
+  },
+  {
+    "native": "Магадан",
+    "latin": "Magadan",
+    "country": "Russia"
+  },
+  {
+    "native": "Петропавловск-Камчатский",
+    "latin": "Petropavlovsk-Kamchatsky",
+    "country": "Russia"
+  },
+  {
+    "native": "Южно-Сахалинск",
+    "latin": "Yuzhno-Sakhalinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Владикавказ",
+    "latin": "Vladikavkaz",
+    "country": "Russia"
+  },
+  {
+    "native": "Черкесск",
+    "latin": "Cherkessk",
+    "country": "Russia"
+  },
+  {
+    "native": "Майкоп",
+    "latin": "Maykop",
+    "country": "Russia"
+  },
+  {
+    "native": "Элиста",
+    "latin": "Elista",
+    "country": "Russia"
+  },
+  {
+    "native": "Кызыл",
+    "latin": "Kyzyl",
+    "country": "Russia"
+  },
+  {
+    "native": "Горно-Алтайск",
+    "latin": "Gorno-Altaysk",
+    "country": "Russia"
+  },
+  {
+    "native": "Абакан",
+    "latin": "Abakan",
+    "country": "Russia"
+  },
+  {
+    "native": "Норильск",
+    "latin": "Norilsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Новый Уренгой",
+    "latin": "Novy Urengoy",
+    "country": "Russia"
+  },
+  {
+    "native": "Ноябрьск",
+    "latin": "Noyabrsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Муравленко",
+    "latin": "Muravlenko",
+    "country": "Russia"
+  },
+  {
+    "native": "Губкинский",
+    "latin": "Gubkinsky",
+    "country": "Russia"
+  },
+  {
+    "native": "Лабытнанги",
+    "latin": "Labytnangi",
+    "country": "Russia"
+  },
+  {
+    "native": "Салехард",
+    "latin": "Salekhard",
+    "country": "Russia"
+  },
+  {
+    "native": "Воркута",
+    "latin": "Vorkuta",
+    "country": "Russia"
+  },
+  {
+    "native": "Ухта",
+    "latin": "Ukhta",
+    "country": "Russia"
+  },
+  {
+    "native": "Печора",
+    "latin": "Pechora",
+    "country": "Russia"
+  },
+  {
+    "native": "Усинск",
+    "latin": "Usinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Инта",
+    "latin": "Inta",
+    "country": "Russia"
+  },
+  {
+    "native": "Вуктыл",
+    "latin": "Vuktyl",
+    "country": "Russia"
+  },
+  {
+    "native": "Нарьян-Мар",
+    "latin": "Naryan-Mar",
+    "country": "Russia"
+  },
+  {
+    "native": "Северодвинск",
+    "latin": "Severodvinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Котлас",
+    "latin": "Kotlas",
+    "country": "Russia"
+  },
+  {
+    "native": "Коряжма",
+    "latin": "Koryazhma",
+    "country": "Russia"
+  },
+  {
+    "native": "Новодвинск",
+    "latin": "Novodvinsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Мирный",
+    "latin": "Mirny",
+    "country": "Russia"
+  },
+  {
+    "native": "Вельск",
+    "latin": "Velsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Шенкурск",
+    "latin": "Shenkursk",
+    "country": "Russia"
+  },
+  {
+    "native": "Онега",
+    "latin": "Onega",
+    "country": "Russia"
+  },
+  {
+    "native": "Каргополь",
+    "latin": "Kargopol",
+    "country": "Russia"
+  },
+  {
+    "native": "Няндома",
+    "latin": "Nyandoma",
+    "country": "Russia"
+  },
+  {
+    "native": "Плесецк",
+    "latin": "Plesetsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Апатиты",
+    "latin": "Apatity",
+    "country": "Russia"
+  },
+  {
+    "native": "Мончегорск",
+    "latin": "Monchegorsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Кандалакша",
+    "latin": "Kandalaksha",
+    "country": "Russia"
+  },
+  {
+    "native": "Кировск",
+    "latin": "Kirovsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Оленегорск",
+    "latin": "Olenegorsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Полярные Зори",
+    "latin": "Polyarnye Zori",
+    "country": "Russia"
+  },
+  {
+    "native": "Заозёрск",
+    "latin": "Zaozyorsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Гаджиево",
+    "latin": "Gadzhiyevo",
+    "country": "Russia"
+  },
+  {
+    "native": "Полярный",
+    "latin": "Polyarny",
+    "country": "Russia"
+  },
+  {
+    "native": "Снежногорск",
+    "latin": "Snezhnogorsk",
+    "country": "Russia"
+  },
+  {
+    "native": "Видяево",
+    "latin": "Vidyayevo",
+    "country": "Russia"
+  },
+  {
+    "native": "Заполярный",
+    "latin": "Zapolyarny",
+    "country": "Russia"
+  },
+  {
+    "native": "Никель",
+    "latin": "Nikel",
+    "country": "Russia"
+  },
+  {
+    "native": "Ковдор",
+    "latin": "Kovdor",
+    "country": "Russia"
+  },
+  {
+    "native": "Североморск",
+    "latin": "Severomorsk",
+    "country": "Russia"
+  }
 ]

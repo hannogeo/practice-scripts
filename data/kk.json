@@ -1,100 +1,1002 @@
 [
-  {"native":"Астана","latin":"Astana"},
-  {"native":"Алматы","latin":"Almaty"},
-  {"native":"Шымкент","latin":"Shymkent"},
-  {"native":"Қарағанды","latin":"Karagandy"},
-  {"native":"Ақтөбе","latin":"Aktobe"},
-  {"native":"Тараз","latin":"Taraz"},
-  {"native":"Павлодар","latin":"Pavlodar"},
-  {"native":"Өскемен","latin":"Oskemen"},
-  {"native":"Семей","latin":"Semey"},
-  {"native":"Орал","latin":"Oral"},
-  {"native":"Қостанай","latin":"Kostanay"},
-  {"native":"Қызылорда","latin":"Kyzylorda"},
-  {"native":"Атырау","latin":"Atyrau"},
-  {"native":"Петропавл","latin":"Petropavl"},
-  {"native":"Ақтау","latin":"Aktau"},
-  {"native":"Теміртау","latin":"Temirtau"},
-  {"native":"Түркістан","latin":"Turkistan"},
-  {"native":"Көкшетау","latin":"Kokshetau"},
-  {"native":"Екібастұз","latin":"Ekibastuz"},
-  {"native":"Рудный","latin":"Rudny"},
-  {"native":"Жаңаөзен","latin":"Zhanaozen"},
-  {"native":"Жезқазған","latin":"Zhezkazgan"},
-  {"native":"Балқаш","latin":"Balkhash"},
-  {"native":"Сатпаев","latin":"Satpayev"},
-  {"native":"Қапшағай","latin":"Kapshagay"},
-  {"native":"Саран","latin":"Saran"},
-  {"native":"Шахтинск","latin":"Shakhtinsk"},
-  {"native":"Абай","latin":"Abay"},
-  {"native":"Арыс","latin":"Arys"},
-  {"native":"Текелі","latin":"Tekeli"},
-  {"native":"Кентау","latin":"Kentau"},
-  {"native":"Шу","latin":"Shu"},
-  {"native":"Қандыағаш","latin":"Kandyagash"},
-  {"native":"Хромтау","latin":"Khromtau"},
-  {"native":"Алға","latin":"Alga"},
-  {"native":"Жем","latin":"Zhem"},
-  {"native":"Құлсары","latin":"Kulsary"},
-  {"native":"Шалқар","latin":"Shalkar"},
-  {"native":"Ерейментау","latin":"Yerementau"},
-  {"native":"Степногорск","latin":"Stepnogorsk"},
-  {"native":"Аксу","latin":"Aksu"},
-  {"native":"Қазалы","latin":"Kazaly"},
-  {"native":"Байқоңыр","latin":"Baikonur"},
-  {"native":"Сарқант","latin":"Sarkant"},
-  {"native":"Талдықорған","latin":"Taldykorgan"},
-  {"native":"Үшарал","latin":"Usharal"},
-  {"native":"Есік","latin":"Esik"},
-  {"native":"Қаскелең","latin":"Kaskelen"},
-  {"native":"Сарқан","latin":"Sarkan"},
-  {"native":"Риддер","latin":"Ridder"},
-  {"native":"Зайсан","latin":"Zaysan"},
-  {"native":"Аягөз","latin":"Ayagoz"},
-  {"native":"Шемонаиха","latin":"Shemonaikha"},
-  {"native":"Құрчатов","latin":"Kurchatov"},
-  {"native":"Ақкөл","latin":"Akkol"},
-  {"native":"Макинск","latin":"Makinsk"},
-  {"native":"Степногорск","latin":"Stepnogorsk"},
-  {"native":"Ерейментау","latin":"Yereymentau"},
-  {"native":"Атбасар","latin":"Atbasar"},
-  {"native":"Жарқайың","latin":"Zharkain"},
-  {"native":"Есіл","latin":"Esil"},
-  {"native":"Жақсы","latin":"Zhaksy"},
-  {"native":"Жезказған","latin":"Zhezkazgan"},
-  {"native":"Сәтбаев","latin":"Satbayev"},
-  {"native":"Қаражал","latin":"Karazhal"},
-  {"native":"Ұлытау","latin":"Ulytau"},
-  {"native":"Жаңаарқа","latin":"Zhanaarka"},
-  {"native":"Қарқаралы","latin":"Karkaraly"},
-  {"native":"Шет","latin":"Shet"},
-  {"native":"Ақтоғай","latin":"Aktogay"},
-  {"native":"Балқаш","latin":"Balkash"},
-  {"native":"Саран","latin":"Saran"},
-  {"native":"Абай","latin":"Abai"},
-  {"native":"Шахтинск","latin":"Shahtinsk"},
-  {"native":"Осакаровка","latin":"Osakarovka"},
-  {"native":"Бұқар жырау","latin":"Bukhar Zhyrau"},
-  {"native":"Нұра","latin":"Nura"},
-  {"native":"Ақадыр","latin":"Akadyr"},
-  {"native":"Қазалы","latin":"Kazaly"},
-  {"native":"Арал","latin":"Aral"},
-  {"native":"Шиелі","latin":"Shieli"},
-  {"native":"Жаңақорған","latin":"Zhanakorgan"},
-  {"native":"Тереңөзек","latin":"Terenozek"},
-  {"native":"Сырдария","latin":"Syrdariya"},
-  {"native":"Қармақшы","latin":"Karmakshy"},
-  {"native":"Бәйдібек","latin":"Baydibek"},
-  {"native":"Түлкібас","latin":"Tulkibas"},
-  {"native":"Созақ","latin":"Suzak"},
-  {"native":"Шымкент","latin":"Shymkent"},
-  {"native":"Сарыағаш","latin":"Saryagash"},
-  {"native":"Келес","latin":"Keles"},
-  {"native":"Қазығұрт","latin":"Kazygurt"},
-  {"native":"Жетісай","latin":"Zhetisay"},
-  {"native":"Мақтаарал","latin":"Maktaaral"},
-  {"native":"Арыс","latin":"Arys"},
-  {"native":"Отырар","latin":"Otyrar"},
-  {"native":"Шардара","latin":"Shardara"},
-  {"native":"Сауран","latin":"Sauran"}
+  {
+    "native": "Астана",
+    "latin": "Astana",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Алматы",
+    "latin": "Almaty",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шымкент",
+    "latin": "Shymkent",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қарағанды",
+    "latin": "Karagandy",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ақтөбе",
+    "latin": "Aktobe",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Тараз",
+    "latin": "Taraz",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Павлодар",
+    "latin": "Pavlodar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Өскемен",
+    "latin": "Oskemen",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Семей",
+    "latin": "Semey",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Орал",
+    "latin": "Oral",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қостанай",
+    "latin": "Kostanay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қызылорда",
+    "latin": "Kyzylorda",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Атырау",
+    "latin": "Atyrau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Петропавл",
+    "latin": "Petropavl",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ақтау",
+    "latin": "Aktau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Теміртау",
+    "latin": "Temirtau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Түркістан",
+    "latin": "Turkistan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Көкшетау",
+    "latin": "Kokshetau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Екібастұз",
+    "latin": "Ekibastuz",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Рудный",
+    "latin": "Rudny",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жаңаөзен",
+    "latin": "Zhanaozen",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жезқазған",
+    "latin": "Zhezkazgan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Балқаш",
+    "latin": "Balkhash",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сатпаев",
+    "latin": "Satpayev",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қапшағай",
+    "latin": "Kapshagay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Саран",
+    "latin": "Saran",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шахтинск",
+    "latin": "Shakhtinsk",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Абай",
+    "latin": "Abay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Арыс",
+    "latin": "Arys",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Текелі",
+    "latin": "Tekeli",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Кентау",
+    "latin": "Kentau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шу",
+    "latin": "Shu",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қандыағаш",
+    "latin": "Kandyagash",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Хромтау",
+    "latin": "Khromtau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Алға",
+    "latin": "Alga",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жем",
+    "latin": "Zhem",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Құлсары",
+    "latin": "Kulsary",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шалқар",
+    "latin": "Shalkar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ерейментау",
+    "latin": "Yerementau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Степногорск",
+    "latin": "Stepnogorsk",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Аксу",
+    "latin": "Aksu",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қазалы",
+    "latin": "Kazaly",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Байқоңыр",
+    "latin": "Baikonur",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сарқант",
+    "latin": "Sarkant",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Талдықорған",
+    "latin": "Taldykorgan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Үшарал",
+    "latin": "Usharal",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Есік",
+    "latin": "Esik",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қаскелең",
+    "latin": "Kaskelen",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сарқан",
+    "latin": "Sarkan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Риддер",
+    "latin": "Ridder",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Зайсан",
+    "latin": "Zaysan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Аягөз",
+    "latin": "Ayagoz",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шемонаиха",
+    "latin": "Shemonaikha",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Құрчатов",
+    "latin": "Kurchatov",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ақкөл",
+    "latin": "Akkol",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Макинск",
+    "latin": "Makinsk",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Степногорск",
+    "latin": "Stepnogorsk",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ерейментау",
+    "latin": "Yereymentau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Атбасар",
+    "latin": "Atbasar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жарқайың",
+    "latin": "Zharkain",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Есіл",
+    "latin": "Esil",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жақсы",
+    "latin": "Zhaksy",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жезказған",
+    "latin": "Zhezkazgan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сәтбаев",
+    "latin": "Satbayev",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қаражал",
+    "latin": "Karazhal",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ұлытау",
+    "latin": "Ulytau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жаңаарқа",
+    "latin": "Zhanaarka",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қарқаралы",
+    "latin": "Karkaraly",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шет",
+    "latin": "Shet",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ақтоғай",
+    "latin": "Aktogay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Балқаш",
+    "latin": "Balkash",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Саран",
+    "latin": "Saran",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Абай",
+    "latin": "Abai",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шахтинск",
+    "latin": "Shahtinsk",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Осакаровка",
+    "latin": "Osakarovka",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Бұқар жырау",
+    "latin": "Bukhar Zhyrau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Нұра",
+    "latin": "Nura",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ақадыр",
+    "latin": "Akadyr",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қазалы",
+    "latin": "Kazaly",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Арал",
+    "latin": "Aral",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шиелі",
+    "latin": "Shieli",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жаңақорған",
+    "latin": "Zhanakorgan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Тереңөзек",
+    "latin": "Terenozek",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сырдария",
+    "latin": "Syrdariya",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қармақшы",
+    "latin": "Karmakshy",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Бәйдібек",
+    "latin": "Baydibek",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Түлкібас",
+    "latin": "Tulkibas",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Созақ",
+    "latin": "Suzak",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шымкент",
+    "latin": "Shymkent",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сарыағаш",
+    "latin": "Saryagash",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Келес",
+    "latin": "Keles",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қазығұрт",
+    "latin": "Kazygurt",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жетісай",
+    "latin": "Zhetisay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Мақтаарал",
+    "latin": "Maktaaral",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Арыс",
+    "latin": "Arys",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Отырар",
+    "latin": "Otyrar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шардара",
+    "latin": "Shardara",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сауран",
+    "latin": "Sauran",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ақсу",
+    "latin": "Aksu",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Есік",
+    "latin": "Yesik",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Талғар",
+    "latin": "Talgar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ұзынағаш",
+    "latin": "Uzynagash",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шелек",
+    "latin": "Shelek",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Боралдай",
+    "latin": "Boraldai",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Түрген",
+    "latin": "Turgen",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Кеген",
+    "latin": "Kegen",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Нарынқол",
+    "latin": "Narynkol",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жаркент",
+    "latin": "Zharkent",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шонжы",
+    "latin": "Shonzhy",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Көктал",
+    "latin": "Koktal",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қапшағай",
+    "latin": "Kapshagay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сарыөзек",
+    "latin": "Saryozek",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ұшарал",
+    "latin": "Usharal",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Достық",
+    "latin": "Dostyk",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Алакөл",
+    "latin": "Alakol",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Үржар",
+    "latin": "Urzhar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Аякөз",
+    "latin": "Ayakoz",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жарма",
+    "latin": "Zharma",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Бородулиха",
+    "latin": "Borodulikha",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шар",
+    "latin": "Shar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Бесқарағай",
+    "latin": "Beskaragay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Көкпекті",
+    "latin": "Kokpekti",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Катонқарағай",
+    "latin": "Katonkaragay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Үлкен Нарын",
+    "latin": "Ulken Naryn",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Зырян",
+    "latin": "Zyryan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Бөкей",
+    "latin": "Bokey",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жанібек",
+    "latin": "Zhanibek",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Казталовка",
+    "latin": "Kaztalovka",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шыңғырлау",
+    "latin": "Shyngyrlau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Бөрлі",
+    "latin": "Borli",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ақжайық",
+    "latin": "Akzhayik",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Теректі",
+    "latin": "Terekti",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Каратөбе",
+    "latin": "Karatobe",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сырым",
+    "latin": "Syrym",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Тайпақ",
+    "latin": "Taipak",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Махамбет",
+    "latin": "Makhambet",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Исатай",
+    "latin": "Isatay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қызылқоға",
+    "latin": "Kyzylkoga",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Құрманғазы",
+    "latin": "Kurmangazy",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Мақат",
+    "latin": "Makat",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Бейнеу",
+    "latin": "Beyneu",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қарақия",
+    "latin": "Karakiya",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Маңғыстау",
+    "latin": "Mangystau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Форт-Шевченко",
+    "latin": "Fort-Shevchenko",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жетібай",
+    "latin": "Zhetibay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Мұнайшы",
+    "latin": "Munaishy",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жылыой",
+    "latin": "Zhylyoi",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қызылкөл",
+    "latin": "Kyzylkol",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Тегісжол",
+    "latin": "Tegiszhol",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шалқар",
+    "latin": "Shalkar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ырғыз",
+    "latin": "Yrgyz",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Байғанин",
+    "latin": "Bayganin",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қобда",
+    "latin": "Kobda",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Мартөк",
+    "latin": "Martok",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Хобда",
+    "latin": "Khabda",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қарауыл",
+    "latin": "Karaul",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жезді",
+    "latin": "Zhezdi",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ұлытау",
+    "latin": "Ulytau",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жаңаарқа",
+    "latin": "Zhanaarka",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ақтоғай",
+    "latin": "Aktogay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қарқаралы",
+    "latin": "Karkaraly",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Осакаровка",
+    "latin": "Osakarovka",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Нұра",
+    "latin": "Nura",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ботақара",
+    "latin": "Botakara",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ақадыр",
+    "latin": "Akadyr",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Атасу",
+    "latin": "Atasu",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қайнар",
+    "latin": "Kaynar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Балқаш",
+    "latin": "Balkhash",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шет",
+    "latin": "Shet",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Бескөл",
+    "latin": "Beskol",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жамбыл",
+    "latin": "Zhambyl",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Байзақ",
+    "latin": "Bayzak",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қордай",
+    "latin": "Korday",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Меркі",
+    "latin": "Mergi",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жуалы",
+    "latin": "Zhuwaly",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Темірлан",
+    "latin": "Temirlan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қажығұрт",
+    "latin": "Kazhygurt",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Төле би",
+    "latin": "Tole Bi",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сайрам",
+    "latin": "Sayram",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Мақтаарал",
+    "latin": "Maktaaral",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Асықата",
+    "latin": "Asykata",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шардара",
+    "latin": "Shardara",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Отырар",
+    "latin": "Otyrar",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Созақ",
+    "latin": "Suzak",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Арыстан",
+    "latin": "Arystan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Хантағы",
+    "latin": "Khantagy",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сарыағаш",
+    "latin": "Saryagash",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жетісай",
+    "latin": "Zhetisay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Ұзынкөл",
+    "latin": "Uzynkol",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сарыкөл",
+    "latin": "Sarykol",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Қарасу",
+    "latin": "Karasu",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Амангелді",
+    "latin": "Amangeldy",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жангелді",
+    "latin": "Zhangeldi",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Аулиекөл",
+    "latin": "Auliekol",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Абай",
+    "latin": "Abai",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шымкент",
+    "latin": "Shymkent",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Талдықорған",
+    "latin": "Taldykorgan",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Сарыағаш",
+    "latin": "Saryagash",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Жетісай",
+    "latin": "Zhetisay",
+    "country": "Kazakhstan"
+  },
+  {
+    "native": "Шардара",
+    "latin": "Shardara",
+    "country": "Kazakhstan"
+  }
 ]

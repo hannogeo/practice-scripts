@@ -1,107 +1,1002 @@
 [
-  {"native":"Улаанбаатар","latin":"Ulaanbaatar"},
-  {"native":"Эрдэнэт","latin":"Erdenet"},
-  {"native":"Дархан","latin":"Darkhan"},
-  {"native":"Чойбалсан","latin":"Choibalsan"},
-  {"native":"Мөрөн","latin":"Mörön"},
-  {"native":"Налайх","latin":"Nalaikh"},
-  {"native":"Ховд","latin":"Khovd"},
-  {"native":"Өлгий","latin":"Ölgii"},
-  {"native":"Баянхонгор","latin":"Bayankhongor"},
-  {"native":"Улиастай","latin":"Uliastai"},
-  {"native":"Сүхбаатар","latin":"Sükhbaatar"},
-  {"native":"Зуунмод","latin":"Zuunmod"},
-  {"native":"Арвайхээр","latin":"Arvaikheer"},
-  {"native":"Алтай","latin":"Altai"},
-  {"native":"Даланзадгад","latin":"Dalanzadgad"},
-  {"native":"Сайншанд","latin":"Sainshand"},
-  {"native":"Баруун-Урт","latin":"Baruun-Urt"},
-  {"native":"Ундерхаан","latin":"Öndörkhaan"},
-  {"native":"Тосонцэнгэл","latin":"Tosontsengel"},
-  {"native":"Тэс","latin":"Tes"},
-  {"native":"Баян-Өлгий","latin":"Bayan-Ölgii"},
-  {"native":"Булган","latin":"Bulgan"},
-  {"native":"Хархорин","latin":"Kharakhorin"},
-  {"native":"Мандалговь","latin":"Mandalgovi"},
-  {"native":"Зүүнхараа","latin":"Züünkharaa"},
-  {"native":"Бор-Өндөр","latin":"Bor-Öndör"},
-  {"native":"Шарын Гол","latin":"Sharyn Gol"},
-  {"native":"Хүрхрээ","latin":"Khurkhree"},
-  {"native":"Хатгал","latin":"Khatgal"},
-  {"native":"Цэцэрлэг","latin":"Tsetserleg"},
-  {"native":"Халиун","latin":"Khaliun"},
-  {"native":"Булган","latin":"Bulgan"},
-  {"native":"Эрдэнэсант","latin":"Erdenesant"},
-  {"native":"Чойр","latin":"Choir"},
-  {"native":"Баянтүмэн","latin":"Bayantümen"},
-  {"native":"Түмэнцогт","latin":"Tümentsogt"},
-  {"native":"Хэрлэн","latin":"Kherlen"},
-  {"native":"Багахангай","latin":"Bagakhangai"},
-  {"native":"Баганоур","latin":"Baganuur"},
-  {"native":"Сэлэнгэ","latin":"Selenge"},
-  {"native":"Сүхбаатар дүүрэг","latin":"Sükhbaatar District"},
-  {"native":"Хан-Уул","latin":"Khan-Uul"},
-  {"native":"Баянзүрх","latin":"Bayanzürkh"},
-  {"native":"Сонгинохайрхан","latin":"Songinokhairkhan"},
-  {"native":"Чингэлтэй","latin":"Chingeltei"},
-  {"native":"Дархан сум","latin":"Darkhan Sum"},
-  {"native":"Хонгор","latin":"Khongor"},
-  {"native":"Хэрлэн сум","latin":"Kherlen Sum"},
-  {"native":"Галуут","latin":"Galuut"},
-  {"native":"Баянбулаг","latin":"Bayanbulag"},
-  {"native":"Баянговь","latin":"Bayangovi"},
-  {"native":"Баянлиг","latin":"Bayanlig"},
-  {"native":"Гурванбүрэн","latin":"Gurvanbüren"},
-  {"native":"Завхан","latin":"Zavkhan"},
-  {"native":"Говь-Алтай","latin":"Govi-Altai"},
-  {"native":"Алтай","latin":"Altai"},
-  {"native":"Есөнбулаг","latin":"Yesönbulag"},
-  {"native":"Халиун","latin":"Khaliun"},
-  {"native":"Дарви","latin":"Darvi"},
-  {"native":"Тонхил","latin":"Tonkhil"},
-  {"native":"Дөлгөөн","latin":"Dölgöön"},
-  {"native":"Буянт","latin":"Buyant"},
-  {"native":"Чандмань","latin":"Chandmani"},
-  {"native":"Эрдэнэ","latin":"Erdene"},
-  {"native":"Жаргалан","latin":"Jargalan"},
-  {"native":"Баян-Өлгий","latin":"Bayan-Ölgii"},
-  {"native":"Өлгий","latin":"Ölgii"},
-  {"native":"Алтанцөгц","latin":"Altantsögts"},
-  {"native":"Бугат","latin":"Bugat"},
-  {"native":"Булган","latin":"Bulan"},
-  {"native":"Хөшөөт","latin":"Khöshööt"},
-  {"native":"Цагааннуур","latin":"Tsagaannuur"},
-  {"native":"Булган","latin":"Bulgan"},
-  {"native":"Дашинчилэн","latin":"Dashinchilen"},
-  {"native":"Гурванбулаг","latin":"Gurvanbulag"},
-  {"native":"Могод","latin":"Mogod"},
-  {"native":"Сэлэнгэ","latin":"Selenge"},
-  {"native":"Хялганат","latin":"Khyalganat"},
-  {"native":"Хутаг-Өндөр","latin":"Khutag-Öndör"},
-  {"native":"Бүрэнхаан","latin":"Bürenkhaan"},
-  {"native":"Тэшиг","latin":"Teshig"},
-  {"native":"Сэргэлэн","latin":"Sergelen"},
-  {"native":"Мөнгөнморьт","latin":"Möngönmort"},
-  {"native":"Баянгол","latin":"Bayangol"},
-  {"native":"Налайх","latin":"Nalaikh"},
-  {"native":"Багануур","latin":"Baganuur"},
-  {"native":"Баруун-Урт","latin":"Baruun-Urt"},
-  {"native":"Асгат","latin":"Asgat"},
-  {"native":"Дарьганга","latin":"Dariganga"},
-  {"native":"Баяндэлгэр","latin":"Bayandelger"},
-  {"native":"Өлзийт","latin":"Ölziit"},
-  {"native":"Түмэнцогт","latin":"Tumentsogt"},
-  {"native":"Эрдэнэцагаан","latin":"Erdenetsagaan"},
-  {"native":"Улхан","latin":"Ulkhan"},
-  {"native":"Мөрөн","latin":"Mörön"},
-  {"native":"Цэцэрлэг","latin":"Tsetserleg"},
-  {"native":"Булган","latin":"Bulgan"},
-  {"native":"Өмнө-Говь","latin":"Ömnö-Govi"},
-  {"native":"Дунд-Говь","latin":"Dund-Govi"},
-  {"native":"Дорнод","latin":"Dornod"},
-  {"native":"Хэнтий","latin":"Khentii"},
-  {"native":"Төв","latin":"Töv"},
-  {"native":"Орхон","latin":"Orkhon"},
-  {"native":"Дархан-Уул","latin":"Darkhan-Uul"},
-  {"native":"Говьсүмбэр","latin":"Govisümber"}
+  {
+    "native": "Улаанбаатар",
+    "latin": "Ulaanbaatar",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Эрдэнэт",
+    "latin": "Erdenet",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дархан",
+    "latin": "Darkhan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Чойбалсан",
+    "latin": "Choibalsan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Мөрөн",
+    "latin": "Mörön",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Налайх",
+    "latin": "Nalaikh",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Ховд",
+    "latin": "Khovd",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Өлгий",
+    "latin": "Ölgii",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянхонгор",
+    "latin": "Bayankhongor",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Улиастай",
+    "latin": "Uliastai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сүхбаатар",
+    "latin": "Sükhbaatar",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Зуунмод",
+    "latin": "Zuunmod",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Арвайхээр",
+    "latin": "Arvaikheer",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Алтай",
+    "latin": "Altai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Даланзадгад",
+    "latin": "Dalanzadgad",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сайншанд",
+    "latin": "Sainshand",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баруун-Урт",
+    "latin": "Baruun-Urt",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Ундерхаан",
+    "latin": "Öndörkhaan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Тосонцэнгэл",
+    "latin": "Tosontsengel",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Тэс",
+    "latin": "Tes",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баян-Өлгий",
+    "latin": "Bayan-Ölgii",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Булган",
+    "latin": "Bulgan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хархорин",
+    "latin": "Kharakhorin",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Мандалговь",
+    "latin": "Mandalgovi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Зүүнхараа",
+    "latin": "Züünkharaa",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Бор-Өндөр",
+    "latin": "Bor-Öndör",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Шарын Гол",
+    "latin": "Sharyn Gol",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хүрхрээ",
+    "latin": "Khurkhree",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хатгал",
+    "latin": "Khatgal",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Цэцэрлэг",
+    "latin": "Tsetserleg",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Халиун",
+    "latin": "Khaliun",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Булган",
+    "latin": "Bulgan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Эрдэнэсант",
+    "latin": "Erdenesant",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Чойр",
+    "latin": "Choir",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянтүмэн",
+    "latin": "Bayantümen",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Түмэнцогт",
+    "latin": "Tümentsogt",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хэрлэн",
+    "latin": "Kherlen",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Багахангай",
+    "latin": "Bagakhangai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баганоур",
+    "latin": "Baganuur",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сэлэнгэ",
+    "latin": "Selenge",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сүхбаатар дүүрэг",
+    "latin": "Sükhbaatar District",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хан-Уул",
+    "latin": "Khan-Uul",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянзүрх",
+    "latin": "Bayanzürkh",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сонгинохайрхан",
+    "latin": "Songinokhairkhan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Чингэлтэй",
+    "latin": "Chingeltei",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дархан сум",
+    "latin": "Darkhan Sum",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хонгор",
+    "latin": "Khongor",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хэрлэн сум",
+    "latin": "Kherlen Sum",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Галуут",
+    "latin": "Galuut",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянбулаг",
+    "latin": "Bayanbulag",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянговь",
+    "latin": "Bayangovi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянлиг",
+    "latin": "Bayanlig",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Гурванбүрэн",
+    "latin": "Gurvanbüren",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Завхан",
+    "latin": "Zavkhan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Говь-Алтай",
+    "latin": "Govi-Altai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Алтай",
+    "latin": "Altai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Есөнбулаг",
+    "latin": "Yesönbulag",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Халиун",
+    "latin": "Khaliun",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дарви",
+    "latin": "Darvi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Тонхил",
+    "latin": "Tonkhil",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дөлгөөн",
+    "latin": "Dölgöön",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Буянт",
+    "latin": "Buyant",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Чандмань",
+    "latin": "Chandmani",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Эрдэнэ",
+    "latin": "Erdene",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Жаргалан",
+    "latin": "Jargalan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баян-Өлгий",
+    "latin": "Bayan-Ölgii",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Өлгий",
+    "latin": "Ölgii",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Алтанцөгц",
+    "latin": "Altantsögts",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Бугат",
+    "latin": "Bugat",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Булган",
+    "latin": "Bulan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хөшөөт",
+    "latin": "Khöshööt",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Цагааннуур",
+    "latin": "Tsagaannuur",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Булган",
+    "latin": "Bulgan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дашинчилэн",
+    "latin": "Dashinchilen",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Гурванбулаг",
+    "latin": "Gurvanbulag",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Могод",
+    "latin": "Mogod",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сэлэнгэ",
+    "latin": "Selenge",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хялганат",
+    "latin": "Khyalganat",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хутаг-Өндөр",
+    "latin": "Khutag-Öndör",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Бүрэнхаан",
+    "latin": "Bürenkhaan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Тэшиг",
+    "latin": "Teshig",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сэргэлэн",
+    "latin": "Sergelen",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Мөнгөнморьт",
+    "latin": "Möngönmort",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянгол",
+    "latin": "Bayangol",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Налайх",
+    "latin": "Nalaikh",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Багануур",
+    "latin": "Baganuur",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баруун-Урт",
+    "latin": "Baruun-Urt",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Асгат",
+    "latin": "Asgat",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дарьганга",
+    "latin": "Dariganga",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баяндэлгэр",
+    "latin": "Bayandelger",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Өлзийт",
+    "latin": "Ölziit",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Түмэнцогт",
+    "latin": "Tumentsogt",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Эрдэнэцагаан",
+    "latin": "Erdenetsagaan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Улхан",
+    "latin": "Ulkhan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Мөрөн",
+    "latin": "Mörön",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Цэцэрлэг",
+    "latin": "Tsetserleg",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Булган",
+    "latin": "Bulgan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Өмнө-Говь",
+    "latin": "Ömnö-Govi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дунд-Говь",
+    "latin": "Dund-Govi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дорнод",
+    "latin": "Dornod",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хэнтий",
+    "latin": "Khentii",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Төв",
+    "latin": "Töv",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Орхон",
+    "latin": "Orkhon",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дархан-Уул",
+    "latin": "Darkhan-Uul",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Говьсүмбэр",
+    "latin": "Govisümber",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баян-Өлгий",
+    "latin": "Bayan-Ölgii",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Булган",
+    "latin": "Bulgan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Говь-Алтай",
+    "latin": "Govi-Altai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дорноговь",
+    "latin": "Dornogovi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дорнод",
+    "latin": "Dornod",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дундговь",
+    "latin": "Dundgovi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Завхан",
+    "latin": "Zavkhan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Өвөрхангай",
+    "latin": "Övörkhangai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Өмнөговь",
+    "latin": "Ömnögovi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сүхбаатар",
+    "latin": "Sükhbaatar",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сэлэнгэ",
+    "latin": "Selenge",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Төв",
+    "latin": "Töv",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Увс",
+    "latin": "Uvs",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Ховд",
+    "latin": "Khovd",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хөвсгөл",
+    "latin": "Khövsgöl",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хэнтий",
+    "latin": "Khentii",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянбулаг",
+    "latin": "Bayanbulag",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянговь",
+    "latin": "Bayangovi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянлиг",
+    "latin": "Bayanlig",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянхангай",
+    "latin": "Bayankhangai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянцагаан",
+    "latin": "Bayantsagaan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Бөхмөрөн",
+    "latin": "Böhmörön",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Гурванбүрэн",
+    "latin": "Gurvanbüren",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Давст",
+    "latin": "Davst",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Зүүнговь",
+    "latin": "Züüngovi",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Зүүнхангай",
+    "latin": "Züünkhangai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Малчин",
+    "latin": "Malchin",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Наранбулаг",
+    "latin": "Naranbulag",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сагил",
+    "latin": "Sagil",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Түргэн",
+    "latin": "Türgen",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баяннуур",
+    "latin": "Bayannuur",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Бугат",
+    "latin": "Bugat",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дэлүүн",
+    "latin": "Delüün",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Ноён",
+    "latin": "Noyon",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Төгрөг",
+    "latin": "Tögrug",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Тонхил",
+    "latin": "Tonkhil",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Цэцэг",
+    "latin": "Tsetseg",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баян-Уул",
+    "latin": "Bayan-Uul",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Биндэр",
+    "latin": "Binder",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дашбалбар",
+    "latin": "Dashbalbar",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Матад",
+    "latin": "Matad",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сэргэлэн",
+    "latin": "Sergelen",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Халхгол",
+    "latin": "Khalkhgol",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хөлөнбуйр",
+    "latin": "Kholönbuir",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Чулуунхороот",
+    "latin": "Chuluunkhoroot",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянжаргалан",
+    "latin": "Bayanjargalan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Говь-Угтаал",
+    "latin": "Govi-Ugtaal",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Гурвансайхан",
+    "latin": "Gurvansaikhan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дэлгэрхангай",
+    "latin": "Delgerkhangai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Луус",
+    "latin": "Luus",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Өлзийт",
+    "latin": "Ölziit",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сайхан-Овоо",
+    "latin": "Saikhan-Ovoo",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хулд",
+    "latin": "Khuld",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Цагаандэлгэр",
+    "latin": "Tsagaandelger",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Эрдэнэдалай",
+    "latin": "Erdenedalai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Адарга",
+    "latin": "Adarga",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Батширээт",
+    "latin": "Batshireet",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баян-Адарга",
+    "latin": "Bayan-Adarga",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянмөнх",
+    "latin": "Bayanmönkh",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баян-Овоо",
+    "latin": "Bayan-Ovoo",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянхутаг",
+    "latin": "Bayankhutag",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Галшир",
+    "latin": "Galshir",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дадал",
+    "latin": "Dadai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дэлгэрхаан",
+    "latin": "Delgerkhaan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Жаргалтхаан",
+    "latin": "Jargaltkhaan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Норовлин",
+    "latin": "Norovlin",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Өмнөдэлгэр",
+    "latin": "Ömnödelger",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Цэнхэрмандал",
+    "latin": "Tsenkhermandal",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Алдархаан",
+    "latin": "Aldarkhaan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянтэс",
+    "latin": "Bayantes",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дөрвөлжин",
+    "latin": "Dörvöljin",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Завханмандал",
+    "latin": "Zavkhanmandal",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Идэр",
+    "latin": "Ider",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Их-Уул",
+    "latin": "Ikh-Uul",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Нөмрөг",
+    "latin": "Nömrög",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Отгон",
+    "latin": "Otgon",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сантмаргац",
+    "latin": "Santmargats",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Сүнж",
+    "latin": "Sünj",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Түдэвтэй",
+    "latin": "Tüdevtei",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Ургамал",
+    "latin": "Urgamal",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Цагаанхайрхан",
+    "latin": "Tsagaankhairkhan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Цэцэн-Уул",
+    "latin": "Tsetsen-Uul",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Шилүүстэй",
+    "latin": "Shilüüstei",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Эрдэнэхайрхан",
+    "latin": "Erdenekhairkhan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Яруу",
+    "latin": "Yaruu",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Алтанбулаг",
+    "latin": "Altanbulag",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баруунбүрэн",
+    "latin": "Baruunbüren",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Мандал",
+    "latin": "Mandal",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Дуут",
+    "latin": "Duut",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Баянхайрхан",
+    "latin": "Bayankhairkhan",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Хяргас",
+    "latin": "Khyargas",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Өндөрхангай",
+    "latin": "Öndörkhangai",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Даланзадгад",
+    "latin": "Dalanzadgad",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Мурэн",
+    "latin": "Murun",
+    "country": "Mongolia"
+  },
+  {
+    "native": "Улиастай",
+    "latin": "Uliastai",
+    "country": "Mongolia"
+  }
 ]

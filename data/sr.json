@@ -1,154 +1,1002 @@
 [
-  {"native":"Београд","latin":"Belgrade"},
-  {"native":"Нови Сад","latin":"Novi Sad"},
-  {"native":"Ниш","latin":"Niš"},
-  {"native":"Крагујевац","latin":"Kragujevac"},
-  {"native":"Суботица","latin":"Subotica"},
-  {"native":"Зрењанин","latin":"Zrenjanin"},
-  {"native":"Панчево","latin":"Pančevo"},
-  {"native":"Чачак","latin":"Čačak"},
-  {"native":"Смедерево","latin":"Smederevo"},
-  {"native":"Краљево","latin":"Kraljevo"},
-  {"native":"Ваљево","latin":"Valjevo"},
-  {"native":"Нови Пазар","latin":"Novi Pazar"},
-  {"native":"Шабац","latin":"Šabac"},
-  {"native":"Сомбор","latin":"Sombor"},
-  {"native":"Пожаревац","latin":"Požarevac"},
-  {"native":"Ужице","latin":"Užice"},
-  {"native":"Врање","latin":"Vranje"},
-  {"native":"Лесковац","latin":"Leskovac"},
-  {"native":"Пирот","latin":"Pirot"},
-  {"native":"Зајечар","latin":"Zaječar"},
-  {"native":"Бор","latin":"Bor"},
-  {"native":"Крушевац","latin":"Kruševac"},
-  {"native":"Јагодина","latin":"Jagodina"},
-  {"native":"Ћуприја","latin":"Ćuprija"},
-  {"native":"Параћин","latin":"Paraćin"},
-  {"native":"Алексинац","latin":"Aleksinac"},
-  {"native":"Прокупље","latin":"Prokuplje"},
-  {"native":"Власотинце","latin":"Vlasotince"},
-  {"native":"Сурдулица","latin":"Surdulica"},
-  {"native":"Бујановац","latin":"Bujanovac"},
-  {"native":"Прешево","latin":"Preševo"},
-  {"native":"Сјеница","latin":"Sjenica"},
-  {"native":"Тутин","latin":"Tutin"},
-  {"native":"Прибој","latin":"Priboj"},
-  {"native":"Пријепоље","latin":"Prijepolje"},
-  {"native":"Нова Варош","latin":"Nova Varoš"},
-  {"native":"Бајина Башта","latin":"Bajina Bašta"},
-  {"native":"Лозница","latin":"Loznica"},
-  {"native":"Шид","latin":"Šid"},
-  {"native":"Рума","latin":"Ruma"},
-  {"native":"Сремска Митровица","latin":"Sremska Mitrovica"},
-  {"native":"Инђија","latin":"Inđija"},
-  {"native":"Стара Пазова","latin":"Stara Pazova"},
-  {"native":"Пећинци","latin":"Pećinci"},
-  {"native":"Врбас","latin":"Vrbas"},
-  {"native":"Кула","latin":"Kula"},
-  {"native":"Апатин","latin":"Apatin"},
-  {"native":"Оџаци","latin":"Odžaci"},
-  {"native":"Бачка Паланка","latin":"Bačka Palanka"},
-  {"native":"Бечеј","latin":"Bečej"},
-  {"native":"Сента","latin":"Senta"},
-  {"native":"Кањижа","latin":"Kanjiža"},
-  {"native":"Чока","latin":"Čoka"},
-  {"native":"Кикинда","latin":"Kikinda"},
-  {"native":"Нови Бечеј","latin":"Novi Bečej"},
-  {"native":"Вршац","latin":"Vršac"},
-  {"native":"Бела Црква","latin":"Bela Crkva"},
-  {"native":"Ковин","latin":"Kovin"},
-  {"native":"Ковиљ","latin":"Kovilj"},
-  {"native":"Тител","latin":"Titel"},
-  {"native":"Жабаљ","latin":"Žabalj"},
-  {"native":"Србобран","latin":"Srbobran"},
-  {"native":"Мали Иђош","latin":"Mali Iđoš"},
-  {"native":"Бачка Топола","latin":"Bačka Topola"},
-  {"native":"Кула","latin":"Kula"},
-  {"native":"Врбас","latin":"Vrbas"},
-  {"native":"Бечеј","latin":"Bečej"},
-  {"native":"Сента","latin":"Senta"},
-  {"native":"Ада","latin":"Ada"},
-  {"native":"Чока","latin":"Čoka"},
-  {"native":"Кањижа","latin":"Kanjiža"},
-  {"native":"Суботица","latin":"Subotica"},
-  {"native":"Бачка Паланка","latin":"Bačka Palanka"},
-  {"native":"Бачки Петровац","latin":"Bački Petrovac"},
-  {"native":"Темерин","latin":"Temerin"},
-  {"native":"Врбас","latin":"Vrbas"},
-  {"native":"Пећинци","latin":"Pećinci"},
-  {"native":"Рума","latin":"Ruma"},
-  {"native":"Ириг","latin":"Irig"},
-  {"native":"Инђија","latin":"Inđija"},
-  {"native":"Стара Пазова","latin":"Stara Pazova"},
-  {"native":"Сремски Карловци","latin":"Sremski Karlovci"},
-  {"native":"Сремска Митровица","latin":"Sremska Mitrovica"},
-  {"native":"Шид","latin":"Šid"},
-  {"native":"Смедерево","latin":"Smederevo"},
-  {"native":"Смедеревска Паланка","latin":"Smederevska Palanka"},
-  {"native":"Велика Плана","latin":"Velika Plana"},
-  {"native":"Младеновац","latin":"Mladenovac"},
-  {"native":"Лазаревац","latin":"Lazarevac"},
-  {"native":"Обреновац","latin":"Obrenovac"},
-  {"native":"Барајево","latin":"Barajevo"},
-  {"native":"Сопот","latin":"Sopot"},
-  {"native":"Гроцка","latin":"Grocka"},
-  {"native":"Палилула","latin":"Palilula"},
-  {"native":"Звездара","latin":"Zvezdara"},
-  {"native":"Вождовац","latin":"Voždovac"},
-  {"native":"Чукарица","latin":"Čukarica"},
-  {"native":"Нови Београд","latin":"Novi Beograd"},
-  {"native":"Земун","latin":"Zemun"},
-  {"native":"Сурчин","latin":"Surčin"},
-  {"native":"Панчево","latin":"Pančevo"},
-  {"native":"Аранђеловац","latin":"Aranđelovac"},
-  {"native":"Топола","latin":"Topola"},
-  {"native":"Рача","latin":"Rača"},
-  {"native":"Баточина","latin":"Batočina"},
-  {"native":"Кнић","latin":"Knić"},
-  {"native":"Крагујевац","latin":"Kragujevac"},
-  {"native":"Параћин","latin":"Paraćin"},
-  {"native":"Ћуприја","latin":"Ćuprija"},
-  {"native":"Деспотовац","latin":"Despotovac"},
-  {"native":"Свилајнац","latin":"Svilajnac"},
-  {"native":"Рековац","latin":"Rekovac"},
-  {"native":"Бојник","latin":"Bojnik"},
-  {"native":"Лебане","latin":"Lebane"},
-  {"native":"Медвеђа","latin":"Medveđa"},
-  {"native":"Власотинце","latin":"Vlasotince"},
-  {"native":"Црна Трава","latin":"Crna Trava"},
-  {"native":"Сурдулица","latin":"Surdulica"},
-  {"native":"Босилеград","latin":"Bosilegrad"},
-  {"native":"Трговиште","latin":"Trgovište"},
-  {"native":"Бујановац","latin":"Bujanovac"},
-  {"native":"Прешево","latin":"Preševo"},
-  {"native":"Врање","latin":"Vranje"},
-  {"native":"Лесковац","latin":"Leskovac"},
-  {"native":"Ниш","latin":"Niš"},
-  {"native":"Пирот","latin":"Pirot"},
-  {"native":"Бела Паланка","latin":"Bela Palanka"},
-  {"native":"Гаџин Хан","latin":"Gadžin Han"},
-  {"native":"Сврљиг","latin":"Svrljig"},
-  {"native":"Алексинац","latin":"Aleksinac"},
-  {"native":"Крушевац","latin":"Kruševac"},
-  {"native":"Трстеник","latin":"Trstenik"},
-  {"native":"Врњачка Бања","latin":"Vrnjačka Banja"},
-  {"native":"Рашка","latin":"Raška"},
-  {"native":"Нови Пазар","latin":"Novi Pazar"},
-  {"native":"Тутин","latin":"Tutin"},
-  {"native":"Сјеница","latin":"Sjenica"},
-  {"native":"Пријепоље","latin":"Prijepolje"},
-  {"native":"Нова Варош","latin":"Nova Varoš"},
-  {"native":"Прибој","latin":"Priboj"},
-  {"native":"Бајина Башта","latin":"Bajina Bašta"},
-  {"native":"Ужице","latin":"Užice"},
-  {"native":"Пожега","latin":"Požega"},
-  {"native":"Косјерић","latin":"Kosjerić"},
-  {"native":"Чајетина","latin":"Čajetina"},
-  {"native":"Ариље","latin":"Arilje"},
-  {"native":"Лучани","latin":"Lučani"},
-  {"native":"Горњи Милановац","latin":"Gornji Milanovac"},
-  {"native":"Јагодина","latin":"Jagodina"},
-  {"native":"Ћуприја","latin":"Ćuprija"},
-  {"native":"Зајечар","latin":"Zaječar"},
-  {"native":"Кладово","latin":"Kladovo"}
+  {
+    "native": "Београд",
+    "latin": "Belgrade",
+    "country": "Serbia"
+  },
+  {
+    "native": "Нови Сад",
+    "latin": "Novi Sad",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ниш",
+    "latin": "Niš",
+    "country": "Serbia"
+  },
+  {
+    "native": "Крагујевац",
+    "latin": "Kragujevac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Суботица",
+    "latin": "Subotica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Зрењанин",
+    "latin": "Zrenjanin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Панчево",
+    "latin": "Pančevo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Чачак",
+    "latin": "Čačak",
+    "country": "Serbia"
+  },
+  {
+    "native": "Смедерево",
+    "latin": "Smederevo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Краљево",
+    "latin": "Kraljevo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ваљево",
+    "latin": "Valjevo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Нови Пазар",
+    "latin": "Novi Pazar",
+    "country": "Serbia"
+  },
+  {
+    "native": "Шабац",
+    "latin": "Šabac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сомбор",
+    "latin": "Sombor",
+    "country": "Serbia"
+  },
+  {
+    "native": "Пожаревац",
+    "latin": "Požarevac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ужице",
+    "latin": "Užice",
+    "country": "Serbia"
+  },
+  {
+    "native": "Врање",
+    "latin": "Vranje",
+    "country": "Serbia"
+  },
+  {
+    "native": "Лесковац",
+    "latin": "Leskovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Пирот",
+    "latin": "Pirot",
+    "country": "Serbia"
+  },
+  {
+    "native": "Зајечар",
+    "latin": "Zaječar",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бор",
+    "latin": "Bor",
+    "country": "Serbia"
+  },
+  {
+    "native": "Крушевац",
+    "latin": "Kruševac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Јагодина",
+    "latin": "Jagodina",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ћуприја",
+    "latin": "Ćuprija",
+    "country": "Serbia"
+  },
+  {
+    "native": "Параћин",
+    "latin": "Paraćin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Алексинац",
+    "latin": "Aleksinac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Прокупље",
+    "latin": "Prokuplje",
+    "country": "Serbia"
+  },
+  {
+    "native": "Власотинце",
+    "latin": "Vlasotince",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сурдулица",
+    "latin": "Surdulica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бујановац",
+    "latin": "Bujanovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Прешево",
+    "latin": "Preševo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сјеница",
+    "latin": "Sjenica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Тутин",
+    "latin": "Tutin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Прибој",
+    "latin": "Priboj",
+    "country": "Serbia"
+  },
+  {
+    "native": "Пријепоље",
+    "latin": "Prijepolje",
+    "country": "Serbia"
+  },
+  {
+    "native": "Нова Варош",
+    "latin": "Nova Varoš",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бајина Башта",
+    "latin": "Bajina Bašta",
+    "country": "Serbia"
+  },
+  {
+    "native": "Лозница",
+    "latin": "Loznica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Шид",
+    "latin": "Šid",
+    "country": "Serbia"
+  },
+  {
+    "native": "Рума",
+    "latin": "Ruma",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сремска Митровица",
+    "latin": "Sremska Mitrovica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Инђија",
+    "latin": "Inđija",
+    "country": "Serbia"
+  },
+  {
+    "native": "Стара Пазова",
+    "latin": "Stara Pazova",
+    "country": "Serbia"
+  },
+  {
+    "native": "Пећинци",
+    "latin": "Pećinci",
+    "country": "Serbia"
+  },
+  {
+    "native": "Врбас",
+    "latin": "Vrbas",
+    "country": "Serbia"
+  },
+  {
+    "native": "Кула",
+    "latin": "Kula",
+    "country": "Serbia"
+  },
+  {
+    "native": "Апатин",
+    "latin": "Apatin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Оџаци",
+    "latin": "Odžaci",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бачка Паланка",
+    "latin": "Bačka Palanka",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бечеј",
+    "latin": "Bečej",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сента",
+    "latin": "Senta",
+    "country": "Serbia"
+  },
+  {
+    "native": "Кањижа",
+    "latin": "Kanjiža",
+    "country": "Serbia"
+  },
+  {
+    "native": "Чока",
+    "latin": "Čoka",
+    "country": "Serbia"
+  },
+  {
+    "native": "Кикинда",
+    "latin": "Kikinda",
+    "country": "Serbia"
+  },
+  {
+    "native": "Нови Бечеј",
+    "latin": "Novi Bečej",
+    "country": "Serbia"
+  },
+  {
+    "native": "Вршац",
+    "latin": "Vršac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бела Црква",
+    "latin": "Bela Crkva",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ковин",
+    "latin": "Kovin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ковиљ",
+    "latin": "Kovilj",
+    "country": "Serbia"
+  },
+  {
+    "native": "Тител",
+    "latin": "Titel",
+    "country": "Serbia"
+  },
+  {
+    "native": "Жабаљ",
+    "latin": "Žabalj",
+    "country": "Serbia"
+  },
+  {
+    "native": "Србобран",
+    "latin": "Srbobran",
+    "country": "Serbia"
+  },
+  {
+    "native": "Мали Иђош",
+    "latin": "Mali Iđoš",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бачка Топола",
+    "latin": "Bačka Topola",
+    "country": "Serbia"
+  },
+  {
+    "native": "Кула",
+    "latin": "Kula",
+    "country": "Serbia"
+  },
+  {
+    "native": "Врбас",
+    "latin": "Vrbas",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бечеј",
+    "latin": "Bečej",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сента",
+    "latin": "Senta",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ада",
+    "latin": "Ada",
+    "country": "Serbia"
+  },
+  {
+    "native": "Чока",
+    "latin": "Čoka",
+    "country": "Serbia"
+  },
+  {
+    "native": "Кањижа",
+    "latin": "Kanjiža",
+    "country": "Serbia"
+  },
+  {
+    "native": "Суботица",
+    "latin": "Subotica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бачка Паланка",
+    "latin": "Bačka Palanka",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бачки Петровац",
+    "latin": "Bački Petrovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Темерин",
+    "latin": "Temerin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Врбас",
+    "latin": "Vrbas",
+    "country": "Serbia"
+  },
+  {
+    "native": "Пећинци",
+    "latin": "Pećinci",
+    "country": "Serbia"
+  },
+  {
+    "native": "Рума",
+    "latin": "Ruma",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ириг",
+    "latin": "Irig",
+    "country": "Serbia"
+  },
+  {
+    "native": "Инђија",
+    "latin": "Inđija",
+    "country": "Serbia"
+  },
+  {
+    "native": "Стара Пазова",
+    "latin": "Stara Pazova",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сремски Карловци",
+    "latin": "Sremski Karlovci",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сремска Митровица",
+    "latin": "Sremska Mitrovica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Шид",
+    "latin": "Šid",
+    "country": "Serbia"
+  },
+  {
+    "native": "Смедерево",
+    "latin": "Smederevo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Смедеревска Паланка",
+    "latin": "Smederevska Palanka",
+    "country": "Serbia"
+  },
+  {
+    "native": "Велика Плана",
+    "latin": "Velika Plana",
+    "country": "Serbia"
+  },
+  {
+    "native": "Младеновац",
+    "latin": "Mladenovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Лазаревац",
+    "latin": "Lazarevac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Обреновац",
+    "latin": "Obrenovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Барајево",
+    "latin": "Barajevo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сопот",
+    "latin": "Sopot",
+    "country": "Serbia"
+  },
+  {
+    "native": "Гроцка",
+    "latin": "Grocka",
+    "country": "Serbia"
+  },
+  {
+    "native": "Палилула",
+    "latin": "Palilula",
+    "country": "Serbia"
+  },
+  {
+    "native": "Звездара",
+    "latin": "Zvezdara",
+    "country": "Serbia"
+  },
+  {
+    "native": "Вождовац",
+    "latin": "Voždovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Чукарица",
+    "latin": "Čukarica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Нови Београд",
+    "latin": "Novi Beograd",
+    "country": "Serbia"
+  },
+  {
+    "native": "Земун",
+    "latin": "Zemun",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сурчин",
+    "latin": "Surčin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Панчево",
+    "latin": "Pančevo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Аранђеловац",
+    "latin": "Aranđelovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Топола",
+    "latin": "Topola",
+    "country": "Serbia"
+  },
+  {
+    "native": "Рача",
+    "latin": "Rača",
+    "country": "Serbia"
+  },
+  {
+    "native": "Баточина",
+    "latin": "Batočina",
+    "country": "Serbia"
+  },
+  {
+    "native": "Кнић",
+    "latin": "Knić",
+    "country": "Serbia"
+  },
+  {
+    "native": "Крагујевац",
+    "latin": "Kragujevac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Параћин",
+    "latin": "Paraćin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ћуприја",
+    "latin": "Ćuprija",
+    "country": "Serbia"
+  },
+  {
+    "native": "Деспотовац",
+    "latin": "Despotovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Свилајнац",
+    "latin": "Svilajnac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Рековац",
+    "latin": "Rekovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бојник",
+    "latin": "Bojnik",
+    "country": "Serbia"
+  },
+  {
+    "native": "Лебане",
+    "latin": "Lebane",
+    "country": "Serbia"
+  },
+  {
+    "native": "Медвеђа",
+    "latin": "Medveđa",
+    "country": "Serbia"
+  },
+  {
+    "native": "Власотинце",
+    "latin": "Vlasotince",
+    "country": "Serbia"
+  },
+  {
+    "native": "Црна Трава",
+    "latin": "Crna Trava",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сурдулица",
+    "latin": "Surdulica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Босилеград",
+    "latin": "Bosilegrad",
+    "country": "Serbia"
+  },
+  {
+    "native": "Трговиште",
+    "latin": "Trgovište",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бујановац",
+    "latin": "Bujanovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Прешево",
+    "latin": "Preševo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Врање",
+    "latin": "Vranje",
+    "country": "Serbia"
+  },
+  {
+    "native": "Лесковац",
+    "latin": "Leskovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ниш",
+    "latin": "Niš",
+    "country": "Serbia"
+  },
+  {
+    "native": "Пирот",
+    "latin": "Pirot",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бела Паланка",
+    "latin": "Bela Palanka",
+    "country": "Serbia"
+  },
+  {
+    "native": "Гаџин Хан",
+    "latin": "Gadžin Han",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сврљиг",
+    "latin": "Svrljig",
+    "country": "Serbia"
+  },
+  {
+    "native": "Алексинац",
+    "latin": "Aleksinac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Крушевац",
+    "latin": "Kruševac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Трстеник",
+    "latin": "Trstenik",
+    "country": "Serbia"
+  },
+  {
+    "native": "Врњачка Бања",
+    "latin": "Vrnjačka Banja",
+    "country": "Serbia"
+  },
+  {
+    "native": "Рашка",
+    "latin": "Raška",
+    "country": "Serbia"
+  },
+  {
+    "native": "Нови Пазар",
+    "latin": "Novi Pazar",
+    "country": "Serbia"
+  },
+  {
+    "native": "Тутин",
+    "latin": "Tutin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сјеница",
+    "latin": "Sjenica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Пријепоље",
+    "latin": "Prijepolje",
+    "country": "Serbia"
+  },
+  {
+    "native": "Нова Варош",
+    "latin": "Nova Varoš",
+    "country": "Serbia"
+  },
+  {
+    "native": "Прибој",
+    "latin": "Priboj",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бајина Башта",
+    "latin": "Bajina Bašta",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ужице",
+    "latin": "Užice",
+    "country": "Serbia"
+  },
+  {
+    "native": "Пожега",
+    "latin": "Požega",
+    "country": "Serbia"
+  },
+  {
+    "native": "Косјерић",
+    "latin": "Kosjerić",
+    "country": "Serbia"
+  },
+  {
+    "native": "Чајетина",
+    "latin": "Čajetina",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ариље",
+    "latin": "Arilje",
+    "country": "Serbia"
+  },
+  {
+    "native": "Лучани",
+    "latin": "Lučani",
+    "country": "Serbia"
+  },
+  {
+    "native": "Горњи Милановац",
+    "latin": "Gornji Milanovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Јагодина",
+    "latin": "Jagodina",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ћуприја",
+    "latin": "Ćuprija",
+    "country": "Serbia"
+  },
+  {
+    "native": "Зајечар",
+    "latin": "Zaječar",
+    "country": "Serbia"
+  },
+  {
+    "native": "Кладово",
+    "latin": "Kladovo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Велико Градиште",
+    "latin": "Veliko Gradište",
+    "country": "Serbia"
+  },
+  {
+    "native": "Голубац",
+    "latin": "Golubac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Кучево",
+    "latin": "Kučevo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Мајданпек",
+    "latin": "Majdanpek",
+    "country": "Serbia"
+  },
+  {
+    "native": "Неготин",
+    "latin": "Negotin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Костолац",
+    "latin": "Kostolac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ражањ",
+    "latin": "Ražanj",
+    "country": "Serbia"
+  },
+  {
+    "native": "Мерошина",
+    "latin": "Merošina",
+    "country": "Serbia"
+  },
+  {
+    "native": "Дољевац",
+    "latin": "Doljevac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сокобања",
+    "latin": "Sokobanja",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бољевац",
+    "latin": "Boljevac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Књажевац",
+    "latin": "Knjaževac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Брус",
+    "latin": "Brus",
+    "country": "Serbia"
+  },
+  {
+    "native": "Александровац",
+    "latin": "Aleksandrovac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Варварин",
+    "latin": "Varvarin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ћићевац",
+    "latin": "Ćićevac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ковачица",
+    "latin": "Kovačica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Житиште",
+    "latin": "Žitište",
+    "country": "Serbia"
+  },
+  {
+    "native": "Сечањ",
+    "latin": "Sečanj",
+    "country": "Serbia"
+  },
+  {
+    "native": "Нови Кнежевац",
+    "latin": "Novi Kneževac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Мол",
+    "latin": "Mol",
+    "country": "Serbia"
+  },
+  {
+    "native": "Хоргош",
+    "latin": "Horgoš",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бач",
+    "latin": "Bač",
+    "country": "Serbia"
+  },
+  {
+    "native": "Дероње",
+    "latin": "Deronje",
+    "country": "Serbia"
+  },
+  {
+    "native": "Куцура",
+    "latin": "Kucura",
+    "country": "Serbia"
+  },
+  {
+    "native": "Савски Венац",
+    "latin": "Savski Venac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Врачар",
+    "latin": "Vračar",
+    "country": "Serbia"
+  },
+  {
+    "native": "Стари Град",
+    "latin": "Stari Grad",
+    "country": "Serbia"
+  },
+  {
+    "native": "Беочин",
+    "latin": "Beočin",
+    "country": "Serbia"
+  },
+  {
+    "native": "Футог",
+    "latin": "Futog",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ветерник",
+    "latin": "Veternik",
+    "country": "Serbia"
+  },
+  {
+    "native": "Каћ",
+    "latin": "Kać",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бачки Јарак",
+    "latin": "Bački Jarak",
+    "country": "Serbia"
+  },
+  {
+    "native": "Железник",
+    "latin": "Železnik",
+    "country": "Serbia"
+  },
+  {
+    "native": "Алибунар",
+    "latin": "Alibunar",
+    "country": "Serbia"
+  },
+  {
+    "native": "Пландиште",
+    "latin": "Plandište",
+    "country": "Serbia"
+  },
+  {
+    "native": "Опово",
+    "latin": "Opovo",
+    "country": "Serbia"
+  },
+  {
+    "native": "Иланџа",
+    "latin": "Ilandža",
+    "country": "Serbia"
+  },
+  {
+    "native": "Димитровград",
+    "latin": "Dimitrovgrad",
+    "country": "Serbia"
+  },
+  {
+    "native": "Бабушница",
+    "latin": "Babušnica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Владичин Хан",
+    "latin": "Vladičin Han",
+    "country": "Serbia"
+  },
+  {
+    "native": "Грделица",
+    "latin": "Grdelica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Ореовица",
+    "latin": "Oreovica",
+    "country": "Serbia"
+  },
+  {
+    "native": "Мокра Гора",
+    "latin": "Mokra Gora",
+    "country": "Serbia"
+  },
+  {
+    "native": "Стрелац",
+    "latin": "Strelac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Трн",
+    "latin": "Trn",
+    "country": "Serbia"
+  },
+  {
+    "native": "Драгинац",
+    "latin": "Draginac",
+    "country": "Serbia"
+  },
+  {
+    "native": "Печењевце",
+    "latin": "Pečenjevce",
+    "country": "Serbia"
+  }
 ]

@@ -603,5 +603,900 @@
     "native": "দক্ষিণ দিনাজপুর",
     "latin": "Dakshin Dinajpur",
     "country": "India"
+  },
+  {
+    "native": "সুনামগঞ্জ",
+    "latin": "Sunamganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বান্দরবান",
+    "latin": "Bandarban",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "খাগড়াছড়ি",
+    "latin": "Khagrachari",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "রাঙ্গামাটি",
+    "latin": "Rangamati",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নোয়াখালী",
+    "latin": "Noakhali",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "লক্ষ্মীপুর",
+    "latin": "Lakshmipur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "চাঁদপুর",
+    "latin": "Chandpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বরগুনা",
+    "latin": "Barguna",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পটুয়াখালী",
+    "latin": "Patuakhali",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ভোলা",
+    "latin": "Bhola",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পিরোজপুর",
+    "latin": "Pirojpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ঝালকাঠি",
+    "latin": "Jhalokati",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কিশোরগঞ্জ",
+    "latin": "Kishoreganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মানিকগঞ্জ",
+    "latin": "Manikganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মুন্সিগঞ্জ",
+    "latin": "Munshiganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নরসিংদী",
+    "latin": "Narsingdi",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "টাঙ্গাইল",
+    "latin": "Tangail",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "শরীয়তপুর",
+    "latin": "Shariatpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মাদারীপুর",
+    "latin": "Madaripur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "গোপালগঞ্জ",
+    "latin": "Gopalganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নড়াইল",
+    "latin": "Narail",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মাগুরা",
+    "latin": "Magura",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "চুয়াডাঙ্গা",
+    "latin": "Chuadanga",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মেহেরপুর",
+    "latin": "Meherpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পঞ্চগড়",
+    "latin": "Panchagarh",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ঠাকুরগাঁও",
+    "latin": "Thakurgaon",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নীলফামারী",
+    "latin": "Nilphamari",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কুড়িগ্রাম",
+    "latin": "Kurigram",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "জয়পুরহাট",
+    "latin": "Joypurhat",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নওগাঁ",
+    "latin": "Naogaon",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সিরাজগঞ্জ",
+    "latin": "Sirajganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নাটোর",
+    "latin": "Natore",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "চাঁপাইনবাবগঞ্জ",
+    "latin": "Chapainawabganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বিরামপুর",
+    "latin": "Birampur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কালিয়াকৈর",
+    "latin": "Kaliakair",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "টেকনাফ",
+    "latin": "Teknaf",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "চকরিয়া",
+    "latin": "Chakaria",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "রামু",
+    "latin": "Ramu",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "উখিয়া",
+    "latin": "Ukhia",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বেনাপোল",
+    "latin": "Benapole",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "দর্শনা",
+    "latin": "Darshana",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ধামরাই",
+    "latin": "Dhamrai",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কালীগঞ্জ",
+    "latin": "Kaliganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নবাবগঞ্জ",
+    "latin": "Nawabganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সোনারগাঁও",
+    "latin": "Sonargaon",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "আড়াইহাজার",
+    "latin": "Araihazar",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "রায়পুরা",
+    "latin": "Raipura",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "দাউদকান্দি",
+    "latin": "Daudkandi",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কচুয়া",
+    "latin": "Kachua",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "শাহরাস্তি",
+    "latin": "Shahrasti",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "লাকসাম",
+    "latin": "Laksham",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বোয়ালমারী",
+    "latin": "Boalmari",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "আলফাডাঙ্গা",
+    "latin": "Alfadanga",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ভাঙ্গা",
+    "latin": "Bhanga",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নগরকান্দা",
+    "latin": "Nagarkanda",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সালথা",
+    "latin": "Saltha",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মির্জাগঞ্জ",
+    "latin": "Mirzaganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কলাপাড়া",
+    "latin": "Kalapara",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পাথরঘাটা",
+    "latin": "Patharghata",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বামনা",
+    "latin": "Bamna",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বানারীপাড়া",
+    "latin": "Banaripara",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নাজিরপুর",
+    "latin": "Nazirpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নেছারাবাদ",
+    "latin": "Nesarabad",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মঠবাড়িয়া",
+    "latin": "Mathbaria",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বাউফল",
+    "latin": "Baufal",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "দশমিনা",
+    "latin": "Dashmina",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "তালতলী",
+    "latin": "Taltali",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "চরফ্যাশন",
+    "latin": "Char Fasson",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "চরফ্যাশন",
+    "latin": "Char Fasson",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মনপুরা",
+    "latin": "Monpura",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "লালমোহন",
+    "latin": "Lalmohan",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "তজুমদ্দিন",
+    "latin": "Tazumuddin",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সাকুইয়া",
+    "latin": "Sakhuia",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পেকুয়া",
+    "latin": "Pekua",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কুতুবদিয়া",
+    "latin": "Kutubdia",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মহেশখালী",
+    "latin": "Maheshkhali",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সন্দ্বীপ",
+    "latin": "Sandwip",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "হাটিয়া",
+    "latin": "Hatiya",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "রাঙ্গাবালী",
+    "latin": "Rangabali",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "গলাচিপা",
+    "latin": "Galachipa",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "দুমকি",
+    "latin": "Dumki",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কাউখালী",
+    "latin": "Kaukhali",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বড়াইগ্রাম",
+    "latin": "Baraigram",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "লালপুর",
+    "latin": "Lalpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বাগাতিপাড়া",
+    "latin": "Bagatipara",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পুঠিয়া",
+    "latin": "Puthia",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "দুর্গাপুর",
+    "latin": "Durgapur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মোহনপুর",
+    "latin": "Mohanpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সিংড়া",
+    "latin": "Singra",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "আত্রাই",
+    "latin": "Atrai",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "গুরুদাসপুর",
+    "latin": "Gurudaspur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বারেন্দ্র",
+    "latin": "Barendra",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "রণিনগর",
+    "latin": "Raninagar",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নান্দন",
+    "latin": "Nandan",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পান্না",
+    "latin": "Panna",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নিয়ামতপুর",
+    "latin": "Niamatpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সাপাহার",
+    "latin": "Sapahar",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পোরশা",
+    "latin": "Porsha",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বদলগাছি",
+    "latin": "Badalgachhi",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পত্নীতলা",
+    "latin": "Patnitala",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ধামইরহাট",
+    "latin": "Dhamoirhat",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মহাদেবপুর",
+    "latin": "Mahadevpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মান্দা",
+    "latin": "Manda",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বোদা",
+    "latin": "Boda",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "দেবীগঞ্জ",
+    "latin": "Debiganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "তেতুলিয়া",
+    "latin": "Tetulia",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বীরগঞ্জ",
+    "latin": "Birganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বোচাগঞ্জ",
+    "latin": "Bochaganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কাহারোল",
+    "latin": "Kaharol",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ফুলবাড়ী",
+    "latin": "Phulbari",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "গোবিন্দগঞ্জ",
+    "latin": "Gobindaganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "পলাশবাড়ী",
+    "latin": "Palashbari",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সাদুল্লাপুর",
+    "latin": "Sadullapur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ঘোড়াঘাট",
+    "latin": "Ghoraghat",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "নবাবগঞ্জ",
+    "latin": "Nawabganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বিরামপুর",
+    "latin": "Birampur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "হাকিমপুর",
+    "latin": "Hakimpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ফুলছড়ি",
+    "latin": "Fullchhari",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সাঘাটা",
+    "latin": "Saghata",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "সুন্দরগঞ্জ",
+    "latin": "Sundarganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ইংরেজবাজার",
+    "latin": "English Bazar",
+    "country": "India"
+  },
+  {
+    "native": "সিউড়ি",
+    "latin": "Suri",
+    "country": "India"
+  },
+  {
+    "native": "বোলপুর",
+    "latin": "Bolpur",
+    "country": "India"
+  },
+  {
+    "native": "রামপুরহাট",
+    "latin": "Rampurhat",
+    "country": "India"
+  },
+  {
+    "native": "কাটোয়া",
+    "latin": "Katwa",
+    "country": "India"
+  },
+  {
+    "native": "কালনা",
+    "latin": "Kalna",
+    "country": "India"
+  },
+  {
+    "native": "চন্দননগর",
+    "latin": "Chandannagar",
+    "country": "India"
+  },
+  {
+    "native": "শ্রীরামপুর",
+    "latin": "Srirampur",
+    "country": "India"
+  },
+  {
+    "native": "বাঁশবেড়িয়া",
+    "latin": "Bansberia",
+    "country": "India"
+  },
+  {
+    "native": "হুগলি-চুঁচুড়া",
+    "latin": "Hugli-Chuchura",
+    "country": "India"
+  },
+  {
+    "native": "আরামবাগ",
+    "latin": "Arambagh",
+    "country": "India"
+  },
+  {
+    "native": "খড়গপুর",
+    "latin": "Kharagpur",
+    "country": "India"
+  },
+  {
+    "native": "গুলবাড়িয়া",
+    "latin": "Gulbariya",
+    "country": "India"
+  },
+  {
+    "native": "বনগাঁ",
+    "latin": "Bangaon",
+    "country": "India"
+  },
+  {
+    "native": "বসিরহাট",
+    "latin": "Basirhat",
+    "country": "India"
+  },
+  {
+    "native": "ব্যারাকপুর",
+    "latin": "Barrackpore",
+    "country": "India"
+  },
+  {
+    "native": "টিটাগড়",
+    "latin": "Titagarh",
+    "country": "India"
+  },
+  {
+    "native": "দমদম",
+    "latin": "Dum Dum",
+    "country": "India"
+  },
+  {
+    "native": "কামারহাটি",
+    "latin": "Kamarhati",
+    "country": "India"
+  },
+  {
+    "native": "শিবপুর",
+    "latin": "Shibpur",
+    "country": "India"
+  },
+  {
+    "native": "হাওড়া",
+    "latin": "Howrah",
+    "country": "India"
+  },
+  {
+    "native": "উলুবেড়িয়া",
+    "latin": "Uluberia",
+    "country": "India"
+  },
+  {
+    "native": "দক্ষিণেশ্বর",
+    "latin": "Dakshineswar",
+    "country": "India"
+  },
+  {
+    "native": "বালি",
+    "latin": "Bally",
+    "country": "India"
+  },
+  {
+    "native": "বারানগর",
+    "latin": "Baranagar",
+    "country": "India"
+  },
+  {
+    "native": "পানিহাটি",
+    "latin": "Panihati",
+    "country": "India"
+  },
+  {
+    "native": "খড়দহ",
+    "latin": "Khardaha",
+    "country": "India"
+  },
+  {
+    "native": "দক্ষিণ দমদম",
+    "latin": "South Dum Dum",
+    "country": "India"
+  },
+  {
+    "native": "উত্তর দমদম",
+    "latin": "North Dum Dum",
+    "country": "India"
+  },
+  {
+    "native": "রাজারহাট",
+    "latin": "Rajarhat",
+    "country": "India"
+  },
+  {
+    "native": "বিধাননগর",
+    "latin": "Bidhannagar",
+    "country": "India"
+  },
+  {
+    "native": "কালিকাপুর",
+    "latin": "Kalikapur",
+    "country": "India"
+  },
+  {
+    "native": "সোদপুর",
+    "latin": "Sodepur",
+    "country": "India"
+  },
+  {
+    "native": "মধ্যমগ্রাম",
+    "latin": "Madhyamgram",
+    "country": "India"
+  },
+  {
+    "native": "বড়ানগর",
+    "latin": "Baranagar",
+    "country": "India"
+  },
+  {
+    "native": "নৈহাটি",
+    "latin": "Naihati",
+    "country": "India"
+  },
+  {
+    "native": "হালিশহর",
+    "latin": "Halisahar",
+    "country": "India"
+  },
+  {
+    "native": "কাঁচরাপাড়া",
+    "latin": "Kanchrapara",
+    "country": "India"
+  },
+  {
+    "native": "কানাইঘাট",
+    "latin": "Kanai Ghat",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "জকিগঞ্জ",
+    "latin": "Zakiganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বিশ্বম্ভরপুর",
+    "latin": "Bishwamvarpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ছাতক",
+    "latin": "Chatak",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "দোয়ারাবাজার",
+    "latin": "Dowarabazar",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ধর্মপাশা",
+    "latin": "Dharampasha",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "জামালগঞ্জ",
+    "latin": "Jamalganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "তাহিরপুর",
+    "latin": "Tahirpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "দিরাই",
+    "latin": "Derai",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "মদন",
+    "latin": "Madan",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বিশ্বম্ভরপুর",
+    "latin": "Bishwamvarpur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বানুগাছ",
+    "latin": "Banugach",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কুলাউড়া",
+    "latin": "Kulaura",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কমলগঞ্জ",
+    "latin": "Kamalganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "ফেঞ্চুগঞ্জ",
+    "latin": "Fenchuganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বালাগঞ্জ",
+    "latin": "Balaganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "বিয়ানীবাজার",
+    "latin": "Beanibazar",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "গোলাপগঞ্জ",
+    "latin": "Golapganj",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "জৈন্তাপুর",
+    "latin": "Jaintiapur",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "কানাighাট",
+    "latin": "Kanaighat",
+    "country": "Bangladesh"
+  },
+  {
+    "native": "জকিগঞ্জ",
+    "latin": "Zakiganj",
+    "country": "Bangladesh"
   }
 ]

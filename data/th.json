@@ -1,196 +1,1712 @@
 [
-  {"native":"กรุงเทพมหานคร","latin":"Bangkok"},
-  {"native":"เชียงใหม่","latin":"Chiang Mai"},
-  {"native":"ภูเก็ต","latin":"Phuket"},
-  {"native":"พัทยา","latin":"Pattaya"},
-  {"native":"นนทบุรี","latin":"Nonthaburi"},
-  {"native":"หาดใหญ่","latin":"Hat Yai"},
-  {"native":"ชลบุรี","latin":"Chonburi"},
-  {"native":"นครราชสีมา","latin":"Nakhon Ratchasima"},
-  {"native":"ขอนแก่น","latin":"Khon Kaen"},
-  {"native":"อุดรธานี","latin":"Udon Thani"},
-  {"native":"อุบลราชธานี","latin":"Ubon Ratchathani"},
-  {"native":"นครศรีธรรมราช","latin":"Nakhon Si Thammarat"},
-  {"native":"สมุทรปราการ","latin":"Samut Prakan"},
-  {"native":"สุราษฎร์ธานี","latin":"Surat Thani"},
-  {"native":"เชียงราย","latin":"Chiang Rai"},
-  {"native":"พระนครศรีอยุธยา","latin":"Ayutthaya"},
-  {"native":"สุโขทัย","latin":"Sukhothai"},
-  {"native":"พิษณุโลก","latin":"Phitsanulok"},
-  {"native":"ตรัง","latin":"Trang"},
-  {"native":"กระบี่","latin":"Krabi"},
-  {"native":"ระยอง","latin":"Rayong"},
-  {"native":"จันทบุรี","latin":"Chanthaburi"},
-  {"native":"สระบุรี","latin":"Saraburi"},
-  {"native":"ลพบุรี","latin":"Lopburi"},
-  {"native":"ราชบุรี","latin":"Ratchaburi"},
-  {"native":"กาญจนบุรี","latin":"Kanchanaburi"},
-  {"native":"เพชรบุรี","latin":"Phetchaburi"},
-  {"native":"ประจวบคีรีขันธ์","latin":"Prachuap Khiri Khan"},
-  {"native":"ชุมพร","latin":"Chumphon"},
-  {"native":"นครสวรรค์","latin":"Nakhon Sawan"},
-  {"native":"พิจิตร","latin":"Phichit"},
-  {"native":"กำแพงเพชร","latin":"Kamphaeng Phet"},
-  {"native":"ตาก","latin":"Tak"},
-  {"native":"แม่ฮ่องสอน","latin":"Mae Hong Son"},
-  {"native":"ลำปาง","latin":"Lampang"},
-  {"native":"ลำพูน","latin":"Lamphun"},
-  {"native":"แพร่","latin":"Phrae"},
-  {"native":"น่าน","latin":"Nan"},
-  {"native":"ปราจีนบุรี","latin":"Prachinburi"},
-  {"native":"ฉะเชิงเทรา","latin":"Chachoengsao"},
-  {"native":"นครนายก","latin":"Nakhon Nayok"},
-  {"native":"สกลนคร","latin":"Sakon Nakhon"},
-  {"native":"นครพนม","latin":"Nakhon Phanom"},
-  {"native":"มุกดาหาร","latin":"Mukdahan"},
-  {"native":"เลย","latin":"Loei"},
-  {"native":"หนองคาย","latin":"Nong Khai"},
-  {"native":"หนองบัวลำภู","latin":"Nong Bua Lamphu"},
-  {"native":"อำนาจเจริญ","latin":"Amnat Charoen"},
-  {"native":"ศรีสะเกษ","latin":"Sisaket"},
-  {"native":"สุรินทร์","latin":"Surin"},
-  {"native":"บุรีรัมย์","latin":"Buriram"},
-  {"native":"ร้อยเอ็ด","latin":"Roi Et"},
-  {"native":"มหาสารคาม","latin":"Maha Sarakham"},
-  {"native":"กาฬสินธุ์","latin":"Kalasin"},
-  {"native":"พะเยา","latin":"Phayao"},
-  {"native":"อุตรดิตถ์","latin":"Uttaradit"},
-  {"native":"เพชรบูรณ์","latin":"Phetchabun"},
-  {"native":"ชัยภูมิ","latin":"Chaiyaphum"},
-  {"native":"สิงห์บุรี","latin":"Sing Buri"},
-  {"native":"อ่างทอง","latin":"Ang Thong"},
-  {"native":"สุพรรณบุรี","latin":"Suphan Buri"},
-  {"native":"สมุทรสาคร","latin":"Samut Sakhon"},
-  {"native":"สมุทรสงคราม","latin":"Samut Songkhram"},
-  {"native":"ปทุมธานี","latin":"Pathum Thani"},
-  {"native":"ระนอง","latin":"Ranong"},
-  {"native":"พังงา","latin":"Phang Nga"},
-  {"native":"สตูล","latin":"Satun"},
-  {"native":"ปัตตานี","latin":"Pattani"},
-  {"native":"ยะลา","latin":"Yala"},
-  {"native":"นราธิวาส","latin":"Narathiwat"},
-  {"native":"บึงกาฬ","latin":"Bueng Kan"},
-  {"native":"เกาะสมุย","latin":"Ko Samui"},
-  {"native":"เกาะพะงัน","latin":"Ko Pha Ngan"},
-  {"native":"หัวหิน","latin":"Hua Hin"},
-  {"native":"ท่ามะเขือ","latin":"Tha Makham"},
-  {"native":"บ้านบึง","latin":"Ban Bueng"},
-  {"native":"ปลวกแดง","latin":"Pluak Daeng"},
-  {"native":"ศรีราชา","latin":"Si Racha"},
-  {"native":"บางละมุง","latin":"Bang Lamung"},
-  {"native":"สัตหีบ","latin":"Sattahip"},
-  {"native":"บ้านฉาง","latin":"Ban Chang"},
-  {"native":"แกลง","latin":"Klaeng"},
-  {"native":"เขาย้อย","latin":"Khao Yoi"},
-  {"native":"ท่ายาง","latin":"Tha Yang"},
-  {"native":"ชะอำ","latin":"Cha Am"},
-  {"native":"หัวหิน","latin":"Hua Hin"},
-  {"native":"ปราณบุรี","latin":"Pran Buri"},
-  {"native":"สวี","latin":"Sawi"},
-  {"native":"หลังสวน","latin":"Lang Suan"},
-  {"native":"ท่าแซะ","latin":"Tha Sae"},
-  {"native":"เมืองพล","latin":"Phon"},
-  {"native":"บ้านไผ่","latin":"Ban Phai"},
-  {"native":"ชุมแพ","latin":"Chum Phae"},
-  {"native":"สีคิ้ว","latin":"Sikhio"},
-  {"native":"ปากช่อง","latin":"Pak Chong"},
-  {"native":"วังน้ำเขียว","latin":"Wang Nam Khiao"},
-  {"native":"ท่าตูม","latin":"Tha Tum"},
-  {"native":"รัตนบุรี","latin":"Rattanaburi"},
-  {"native":"ประโคนชัย","latin":"Prakhon Chai"},
-  {"native":"นางรอง","latin":"Nang Rong"},
-  {"native":"ละหานทราย","latin":"Lahan Sai"},
-  {"native":"บ้านกรวด","latin":"Ban Kruat"},
-  {"native":"พุทไธสง","latin":"Phutthaisong"},
-  {"native":"คูเมือง","latin":"Khu Mueang"},
-  {"native":"สตึก","latin":"Satuek"},
-  {"native":"ลำปลายมาศ","latin":"Lam Plai Mat"},
-  {"native":"หนองกี่","latin":"Nong Ki"},
-  {"native":"หนองหงส์","latin":"Nong Hong"},
-  {"native":"บ้านใหม่ไชยพจน์","latin":"Ban Mai Chaiyaphot"},
-  {"native":"ชัยภูมิ","latin":"Chaiyaphum"},
-  {"native":"ภูเขียว","latin":"Phu Khiao"},
-  {"native":"คอนสวรรค์","latin":"Khon Sawan"},
-  {"native":"เกษตรสมบูรณ์","latin":"Kaset Sombun"},
-  {"native":"หนองบัวแดง","latin":"Nong Bua Daeng"},
-  {"native":"จัตุรัส","latin":"Chatturat"},
-  {"native":"บ้านเขว้า","latin":"Ban Khwao"},
-  {"native":"คอนสาร","latin":"Khon San"},
-  {"native":"ภักดีชุมพล","latin":"Phakdi Chumphon"},
-  {"native":"เทพสถิต","latin":"Thep Sathit"},
-  {"native":"แก้งคร้อ","latin":"Kaeng Khro"},
-  {"native":"ซับใหญ่","latin":"Sap Yai"},
-  {"native":"ขอนแก่น","latin":"Khon Kaen"},
-  {"native":"บ้านไผ่","latin":"Ban Phai"},
-  {"native":"ชุมแพ","latin":"Chum Phae"},
-  {"native":"พล","latin":"Phon"},
-  {"native":"กระนวน","latin":"Kranuan"},
-  {"native":"หนองเรือ","latin":"Nong Ruea"},
-  {"native":"มัญจาคีรี","latin":"Mancha Khiri"},
-  {"native":"อุบลราชธานี","latin":"Ubon Ratchathani"},
-  {"native":"วารินชำราบ","latin":"Warin Chamrap"},
-  {"native":"เดชอุดม","latin":"Det Udom"},
-  {"native":"พิบูลมังสาหาร","latin":"Phibun Mangsahan"},
-  {"native":"ตระการพืชผล","latin":"Trakan Phuet Phon"},
-  {"native":"เขมราฐ","latin":"Khemarat"},
-  {"native":"ม่วงสามสิบ","latin":"Muang Sam Sip"},
-  {"native":"นาจะหลวย","latin":"Na Chaluai"},
-  {"native":"น้ำยืน","latin":"Nam Yuen"},
-  {"native":"ศรีเมืองใหม่","latin":"Si Mueang Mai"},
-  {"native":"เอราวัณ","latin":"Erawan"},
-  {"native":"สำโรง","latin":"Samrong"},
-  {"native":"นครราชสีมา","latin":"Nakhon Ratchasima"},
-  {"native":"พิมาย","latin":"Phimai"},
-  {"native":"โชคชัย","latin":"Chok Chai"},
-  {"native":"ด่านขุนทด","latin":"Dan Khun Thot"},
-  {"native":"โนนไทย","latin":"Non Thai"},
-  {"native":"สูงเนิน","latin":"Sung Noen"},
-  {"native":"จักราช","latin":"Chakkarat"},
-  {"native":"สีคิ้ว","latin":"Sikhio"},
-  {"native":"ปักธงชัย","latin":"Pak Thong Chai"},
-  {"native":"ชุมพวง","latin":"Chum Phuang"},
-  {"native":"บัวใหญ่","latin":"Bua Yai"},
-  {"native":"ประทาย","latin":"Prathai"},
-  {"native":"ครบุรี","latin":"Khon Buri"},
-  {"native":"หนองบุญมาก","latin":"Nong Bun Mak"},
-  {"native":"เทพารักษ์","latin":"Thepharak"},
-  {"native":"เชียงใหม่","latin":"Chiang Mai"},
-  {"native":"แม่ริม","latin":"Mae Rim"},
-  {"native":"สันกำแพง","latin":"San Kamphaeng"},
-  {"native":"สันทราย","latin":"San Sai"},
-  {"native":"หางดง","latin":"Hang Dong"},
-  {"native":"จอมทอง","latin":"Chom Thong"},
-  {"native":"ฝาง","latin":"Fang"},
-  {"native":"เชียงราย","latin":"Chiang Rai"},
-  {"native":"แม่สาย","latin":"Mae Sai"},
-  {"native":"เชียงแสน","latin":"Chiang Saen"},
-  {"native":"แม่จัน","latin":"Mae Chan"},
-  {"native":"พะเยา","latin":"Phayao"},
-  {"native":"ดอกคำใต้","latin":"Dok Kham Tai"},
-  {"native":"ลำปาง","latin":"Lampang"},
-  {"native":"ลำพูน","latin":"Lamphun"},
-  {"native":"แม่สอด","latin":"Mae Sot"},
-  {"native":"ตาก","latin":"Tak"},
-  {"native":"สุโขทัย","latin":"Sukhothai"},
-  {"native":"ศรีสัชนาลัย","latin":"Si Satchanalai"},
-  {"native":"พิษณุโลก","latin":"Phitsanulok"},
-  {"native":"นครสวรรค์","latin":"Nakhon Sawan"},
-  {"native":"อุทัยธานี","latin":"Uthai Thani"},
-  {"native":"กำแพงเพชร","latin":"Kamphaeng Phet"},
-  {"native":"เพชรบูรณ์","latin":"Phetchabun"},
-  {"native":"เลย","latin":"Loei"},
-  {"native":"หนองคาย","latin":"Nong Khai"},
-  {"native":"บึงกาฬ","latin":"Bueng Kan"},
-  {"native":"อุดรธานี","latin":"Udon Thani"},
-  {"native":"สกลนคร","latin":"Sakon Nakhon"},
-  {"native":"นครพนม","latin":"Nakhon Phanom"},
-  {"native":"มุกดาหาร","latin":"Mukdahan"},
-  {"native":"กาฬสินธุ์","latin":"Kalasin"},
-  {"native":"มหาสารคาม","latin":"Maha Sarakham"},
-  {"native":"ร้อยเอ็ด","latin":"Roi Et"},
-  {"native":"ยโสธร","latin":"Yasothon"},
-  {"native":"อำนาจเจริญ","latin":"Amnat Charoen"},
-  {"native":"ศรีสะเกษ","latin":"Si Sa Ket"},
-  {"native":"สุรินทร์","latin":"Surin"},
-  {"native":"บุรีรัมย์","latin":"Buri Ram"}
+  {
+    "native": "กรุงเทพมหานคร",
+    "latin": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "native": "เชียงใหม่",
+    "latin": "Chiang Mai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ภูเก็ต",
+    "latin": "Phuket",
+    "country": "Thailand"
+  },
+  {
+    "native": "พัทยา",
+    "latin": "Pattaya",
+    "country": "Thailand"
+  },
+  {
+    "native": "นนทบุรี",
+    "latin": "Nonthaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "หาดใหญ่",
+    "latin": "Hat Yai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชลบุรี",
+    "latin": "Chonburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครราชสีมา",
+    "latin": "Nakhon Ratchasima",
+    "country": "Thailand"
+  },
+  {
+    "native": "ขอนแก่น",
+    "latin": "Khon Kaen",
+    "country": "Thailand"
+  },
+  {
+    "native": "อุดรธานี",
+    "latin": "Udon Thani",
+    "country": "Thailand"
+  },
+  {
+    "native": "อุบลราชธานี",
+    "latin": "Ubon Ratchathani",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครศรีธรรมราช",
+    "latin": "Nakhon Si Thammarat",
+    "country": "Thailand"
+  },
+  {
+    "native": "สมุทรปราการ",
+    "latin": "Samut Prakan",
+    "country": "Thailand"
+  },
+  {
+    "native": "สุราษฎร์ธานี",
+    "latin": "Surat Thani",
+    "country": "Thailand"
+  },
+  {
+    "native": "เชียงราย",
+    "latin": "Chiang Rai",
+    "country": "Thailand"
+  },
+  {
+    "native": "พระนครศรีอยุธยา",
+    "latin": "Ayutthaya",
+    "country": "Thailand"
+  },
+  {
+    "native": "สุโขทัย",
+    "latin": "Sukhothai",
+    "country": "Thailand"
+  },
+  {
+    "native": "พิษณุโลก",
+    "latin": "Phitsanulok",
+    "country": "Thailand"
+  },
+  {
+    "native": "ตรัง",
+    "latin": "Trang",
+    "country": "Thailand"
+  },
+  {
+    "native": "กระบี่",
+    "latin": "Krabi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ระยอง",
+    "latin": "Rayong",
+    "country": "Thailand"
+  },
+  {
+    "native": "จันทบุรี",
+    "latin": "Chanthaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "สระบุรี",
+    "latin": "Saraburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลพบุรี",
+    "latin": "Lopburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ราชบุรี",
+    "latin": "Ratchaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "กาญจนบุรี",
+    "latin": "Kanchanaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "เพชรบุรี",
+    "latin": "Phetchaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ประจวบคีรีขันธ์",
+    "latin": "Prachuap Khiri Khan",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชุมพร",
+    "latin": "Chumphon",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครสวรรค์",
+    "latin": "Nakhon Sawan",
+    "country": "Thailand"
+  },
+  {
+    "native": "พิจิตร",
+    "latin": "Phichit",
+    "country": "Thailand"
+  },
+  {
+    "native": "กำแพงเพชร",
+    "latin": "Kamphaeng Phet",
+    "country": "Thailand"
+  },
+  {
+    "native": "ตาก",
+    "latin": "Tak",
+    "country": "Thailand"
+  },
+  {
+    "native": "แม่ฮ่องสอน",
+    "latin": "Mae Hong Son",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลำปาง",
+    "latin": "Lampang",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลำพูน",
+    "latin": "Lamphun",
+    "country": "Thailand"
+  },
+  {
+    "native": "แพร่",
+    "latin": "Phrae",
+    "country": "Thailand"
+  },
+  {
+    "native": "น่าน",
+    "latin": "Nan",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปราจีนบุรี",
+    "latin": "Prachinburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ฉะเชิงเทรา",
+    "latin": "Chachoengsao",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครนายก",
+    "latin": "Nakhon Nayok",
+    "country": "Thailand"
+  },
+  {
+    "native": "สกลนคร",
+    "latin": "Sakon Nakhon",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครพนม",
+    "latin": "Nakhon Phanom",
+    "country": "Thailand"
+  },
+  {
+    "native": "มุกดาหาร",
+    "latin": "Mukdahan",
+    "country": "Thailand"
+  },
+  {
+    "native": "เลย",
+    "latin": "Loei",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองคาย",
+    "latin": "Nong Khai",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองบัวลำภู",
+    "latin": "Nong Bua Lamphu",
+    "country": "Thailand"
+  },
+  {
+    "native": "อำนาจเจริญ",
+    "latin": "Amnat Charoen",
+    "country": "Thailand"
+  },
+  {
+    "native": "ศรีสะเกษ",
+    "latin": "Sisaket",
+    "country": "Thailand"
+  },
+  {
+    "native": "สุรินทร์",
+    "latin": "Surin",
+    "country": "Thailand"
+  },
+  {
+    "native": "บุรีรัมย์",
+    "latin": "Buriram",
+    "country": "Thailand"
+  },
+  {
+    "native": "ร้อยเอ็ด",
+    "latin": "Roi Et",
+    "country": "Thailand"
+  },
+  {
+    "native": "มหาสารคาม",
+    "latin": "Maha Sarakham",
+    "country": "Thailand"
+  },
+  {
+    "native": "กาฬสินธุ์",
+    "latin": "Kalasin",
+    "country": "Thailand"
+  },
+  {
+    "native": "พะเยา",
+    "latin": "Phayao",
+    "country": "Thailand"
+  },
+  {
+    "native": "อุตรดิตถ์",
+    "latin": "Uttaradit",
+    "country": "Thailand"
+  },
+  {
+    "native": "เพชรบูรณ์",
+    "latin": "Phetchabun",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชัยภูมิ",
+    "latin": "Chaiyaphum",
+    "country": "Thailand"
+  },
+  {
+    "native": "สิงห์บุรี",
+    "latin": "Sing Buri",
+    "country": "Thailand"
+  },
+  {
+    "native": "อ่างทอง",
+    "latin": "Ang Thong",
+    "country": "Thailand"
+  },
+  {
+    "native": "สุพรรณบุรี",
+    "latin": "Suphan Buri",
+    "country": "Thailand"
+  },
+  {
+    "native": "สมุทรสาคร",
+    "latin": "Samut Sakhon",
+    "country": "Thailand"
+  },
+  {
+    "native": "สมุทรสงคราม",
+    "latin": "Samut Songkhram",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปทุมธานี",
+    "latin": "Pathum Thani",
+    "country": "Thailand"
+  },
+  {
+    "native": "ระนอง",
+    "latin": "Ranong",
+    "country": "Thailand"
+  },
+  {
+    "native": "พังงา",
+    "latin": "Phang Nga",
+    "country": "Thailand"
+  },
+  {
+    "native": "สตูล",
+    "latin": "Satun",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปัตตานี",
+    "latin": "Pattani",
+    "country": "Thailand"
+  },
+  {
+    "native": "ยะลา",
+    "latin": "Yala",
+    "country": "Thailand"
+  },
+  {
+    "native": "นราธิวาส",
+    "latin": "Narathiwat",
+    "country": "Thailand"
+  },
+  {
+    "native": "บึงกาฬ",
+    "latin": "Bueng Kan",
+    "country": "Thailand"
+  },
+  {
+    "native": "เกาะสมุย",
+    "latin": "Ko Samui",
+    "country": "Thailand"
+  },
+  {
+    "native": "เกาะพะงัน",
+    "latin": "Ko Pha Ngan",
+    "country": "Thailand"
+  },
+  {
+    "native": "หัวหิน",
+    "latin": "Hua Hin",
+    "country": "Thailand"
+  },
+  {
+    "native": "ท่ามะเขือ",
+    "latin": "Tha Makham",
+    "country": "Thailand"
+  },
+  {
+    "native": "บ้านบึง",
+    "latin": "Ban Bueng",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปลวกแดง",
+    "latin": "Pluak Daeng",
+    "country": "Thailand"
+  },
+  {
+    "native": "ศรีราชา",
+    "latin": "Si Racha",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางละมุง",
+    "latin": "Bang Lamung",
+    "country": "Thailand"
+  },
+  {
+    "native": "สัตหีบ",
+    "latin": "Sattahip",
+    "country": "Thailand"
+  },
+  {
+    "native": "บ้านฉาง",
+    "latin": "Ban Chang",
+    "country": "Thailand"
+  },
+  {
+    "native": "แกลง",
+    "latin": "Klaeng",
+    "country": "Thailand"
+  },
+  {
+    "native": "เขาย้อย",
+    "latin": "Khao Yoi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ท่ายาง",
+    "latin": "Tha Yang",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชะอำ",
+    "latin": "Cha Am",
+    "country": "Thailand"
+  },
+  {
+    "native": "หัวหิน",
+    "latin": "Hua Hin",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปราณบุรี",
+    "latin": "Pran Buri",
+    "country": "Thailand"
+  },
+  {
+    "native": "สวี",
+    "latin": "Sawi",
+    "country": "Thailand"
+  },
+  {
+    "native": "หลังสวน",
+    "latin": "Lang Suan",
+    "country": "Thailand"
+  },
+  {
+    "native": "ท่าแซะ",
+    "latin": "Tha Sae",
+    "country": "Thailand"
+  },
+  {
+    "native": "เมืองพล",
+    "latin": "Phon",
+    "country": "Thailand"
+  },
+  {
+    "native": "บ้านไผ่",
+    "latin": "Ban Phai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชุมแพ",
+    "latin": "Chum Phae",
+    "country": "Thailand"
+  },
+  {
+    "native": "สีคิ้ว",
+    "latin": "Sikhio",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปากช่อง",
+    "latin": "Pak Chong",
+    "country": "Thailand"
+  },
+  {
+    "native": "วังน้ำเขียว",
+    "latin": "Wang Nam Khiao",
+    "country": "Thailand"
+  },
+  {
+    "native": "ท่าตูม",
+    "latin": "Tha Tum",
+    "country": "Thailand"
+  },
+  {
+    "native": "รัตนบุรี",
+    "latin": "Rattanaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ประโคนชัย",
+    "latin": "Prakhon Chai",
+    "country": "Thailand"
+  },
+  {
+    "native": "นางรอง",
+    "latin": "Nang Rong",
+    "country": "Thailand"
+  },
+  {
+    "native": "ละหานทราย",
+    "latin": "Lahan Sai",
+    "country": "Thailand"
+  },
+  {
+    "native": "บ้านกรวด",
+    "latin": "Ban Kruat",
+    "country": "Thailand"
+  },
+  {
+    "native": "พุทไธสง",
+    "latin": "Phutthaisong",
+    "country": "Thailand"
+  },
+  {
+    "native": "คูเมือง",
+    "latin": "Khu Mueang",
+    "country": "Thailand"
+  },
+  {
+    "native": "สตึก",
+    "latin": "Satuek",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลำปลายมาศ",
+    "latin": "Lam Plai Mat",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองกี่",
+    "latin": "Nong Ki",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองหงส์",
+    "latin": "Nong Hong",
+    "country": "Thailand"
+  },
+  {
+    "native": "บ้านใหม่ไชยพจน์",
+    "latin": "Ban Mai Chaiyaphot",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชัยภูมิ",
+    "latin": "Chaiyaphum",
+    "country": "Thailand"
+  },
+  {
+    "native": "ภูเขียว",
+    "latin": "Phu Khiao",
+    "country": "Thailand"
+  },
+  {
+    "native": "คอนสวรรค์",
+    "latin": "Khon Sawan",
+    "country": "Thailand"
+  },
+  {
+    "native": "เกษตรสมบูรณ์",
+    "latin": "Kaset Sombun",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองบัวแดง",
+    "latin": "Nong Bua Daeng",
+    "country": "Thailand"
+  },
+  {
+    "native": "จัตุรัส",
+    "latin": "Chatturat",
+    "country": "Thailand"
+  },
+  {
+    "native": "บ้านเขว้า",
+    "latin": "Ban Khwao",
+    "country": "Thailand"
+  },
+  {
+    "native": "คอนสาร",
+    "latin": "Khon San",
+    "country": "Thailand"
+  },
+  {
+    "native": "ภักดีชุมพล",
+    "latin": "Phakdi Chumphon",
+    "country": "Thailand"
+  },
+  {
+    "native": "เทพสถิต",
+    "latin": "Thep Sathit",
+    "country": "Thailand"
+  },
+  {
+    "native": "แก้งคร้อ",
+    "latin": "Kaeng Khro",
+    "country": "Thailand"
+  },
+  {
+    "native": "ซับใหญ่",
+    "latin": "Sap Yai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ขอนแก่น",
+    "latin": "Khon Kaen",
+    "country": "Thailand"
+  },
+  {
+    "native": "บ้านไผ่",
+    "latin": "Ban Phai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชุมแพ",
+    "latin": "Chum Phae",
+    "country": "Thailand"
+  },
+  {
+    "native": "พล",
+    "latin": "Phon",
+    "country": "Thailand"
+  },
+  {
+    "native": "กระนวน",
+    "latin": "Kranuan",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองเรือ",
+    "latin": "Nong Ruea",
+    "country": "Thailand"
+  },
+  {
+    "native": "มัญจาคีรี",
+    "latin": "Mancha Khiri",
+    "country": "Thailand"
+  },
+  {
+    "native": "อุบลราชธานี",
+    "latin": "Ubon Ratchathani",
+    "country": "Thailand"
+  },
+  {
+    "native": "วารินชำราบ",
+    "latin": "Warin Chamrap",
+    "country": "Thailand"
+  },
+  {
+    "native": "เดชอุดม",
+    "latin": "Det Udom",
+    "country": "Thailand"
+  },
+  {
+    "native": "พิบูลมังสาหาร",
+    "latin": "Phibun Mangsahan",
+    "country": "Thailand"
+  },
+  {
+    "native": "ตระการพืชผล",
+    "latin": "Trakan Phuet Phon",
+    "country": "Thailand"
+  },
+  {
+    "native": "เขมราฐ",
+    "latin": "Khemarat",
+    "country": "Thailand"
+  },
+  {
+    "native": "ม่วงสามสิบ",
+    "latin": "Muang Sam Sip",
+    "country": "Thailand"
+  },
+  {
+    "native": "นาจะหลวย",
+    "latin": "Na Chaluai",
+    "country": "Thailand"
+  },
+  {
+    "native": "น้ำยืน",
+    "latin": "Nam Yuen",
+    "country": "Thailand"
+  },
+  {
+    "native": "ศรีเมืองใหม่",
+    "latin": "Si Mueang Mai",
+    "country": "Thailand"
+  },
+  {
+    "native": "เอราวัณ",
+    "latin": "Erawan",
+    "country": "Thailand"
+  },
+  {
+    "native": "สำโรง",
+    "latin": "Samrong",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครราชสีมา",
+    "latin": "Nakhon Ratchasima",
+    "country": "Thailand"
+  },
+  {
+    "native": "พิมาย",
+    "latin": "Phimai",
+    "country": "Thailand"
+  },
+  {
+    "native": "โชคชัย",
+    "latin": "Chok Chai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ด่านขุนทด",
+    "latin": "Dan Khun Thot",
+    "country": "Thailand"
+  },
+  {
+    "native": "โนนไทย",
+    "latin": "Non Thai",
+    "country": "Thailand"
+  },
+  {
+    "native": "สูงเนิน",
+    "latin": "Sung Noen",
+    "country": "Thailand"
+  },
+  {
+    "native": "จักราช",
+    "latin": "Chakkarat",
+    "country": "Thailand"
+  },
+  {
+    "native": "สีคิ้ว",
+    "latin": "Sikhio",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปักธงชัย",
+    "latin": "Pak Thong Chai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชุมพวง",
+    "latin": "Chum Phuang",
+    "country": "Thailand"
+  },
+  {
+    "native": "บัวใหญ่",
+    "latin": "Bua Yai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ประทาย",
+    "latin": "Prathai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ครบุรี",
+    "latin": "Khon Buri",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองบุญมาก",
+    "latin": "Nong Bun Mak",
+    "country": "Thailand"
+  },
+  {
+    "native": "เทพารักษ์",
+    "latin": "Thepharak",
+    "country": "Thailand"
+  },
+  {
+    "native": "เชียงใหม่",
+    "latin": "Chiang Mai",
+    "country": "Thailand"
+  },
+  {
+    "native": "แม่ริม",
+    "latin": "Mae Rim",
+    "country": "Thailand"
+  },
+  {
+    "native": "สันกำแพง",
+    "latin": "San Kamphaeng",
+    "country": "Thailand"
+  },
+  {
+    "native": "สันทราย",
+    "latin": "San Sai",
+    "country": "Thailand"
+  },
+  {
+    "native": "หางดง",
+    "latin": "Hang Dong",
+    "country": "Thailand"
+  },
+  {
+    "native": "จอมทอง",
+    "latin": "Chom Thong",
+    "country": "Thailand"
+  },
+  {
+    "native": "ฝาง",
+    "latin": "Fang",
+    "country": "Thailand"
+  },
+  {
+    "native": "เชียงราย",
+    "latin": "Chiang Rai",
+    "country": "Thailand"
+  },
+  {
+    "native": "แม่สาย",
+    "latin": "Mae Sai",
+    "country": "Thailand"
+  },
+  {
+    "native": "เชียงแสน",
+    "latin": "Chiang Saen",
+    "country": "Thailand"
+  },
+  {
+    "native": "แม่จัน",
+    "latin": "Mae Chan",
+    "country": "Thailand"
+  },
+  {
+    "native": "พะเยา",
+    "latin": "Phayao",
+    "country": "Thailand"
+  },
+  {
+    "native": "ดอกคำใต้",
+    "latin": "Dok Kham Tai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลำปาง",
+    "latin": "Lampang",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลำพูน",
+    "latin": "Lamphun",
+    "country": "Thailand"
+  },
+  {
+    "native": "แม่สอด",
+    "latin": "Mae Sot",
+    "country": "Thailand"
+  },
+  {
+    "native": "ตาก",
+    "latin": "Tak",
+    "country": "Thailand"
+  },
+  {
+    "native": "สุโขทัย",
+    "latin": "Sukhothai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ศรีสัชนาลัย",
+    "latin": "Si Satchanalai",
+    "country": "Thailand"
+  },
+  {
+    "native": "พิษณุโลก",
+    "latin": "Phitsanulok",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครสวรรค์",
+    "latin": "Nakhon Sawan",
+    "country": "Thailand"
+  },
+  {
+    "native": "อุทัยธานี",
+    "latin": "Uthai Thani",
+    "country": "Thailand"
+  },
+  {
+    "native": "กำแพงเพชร",
+    "latin": "Kamphaeng Phet",
+    "country": "Thailand"
+  },
+  {
+    "native": "เพชรบูรณ์",
+    "latin": "Phetchabun",
+    "country": "Thailand"
+  },
+  {
+    "native": "เลย",
+    "latin": "Loei",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองคาย",
+    "latin": "Nong Khai",
+    "country": "Thailand"
+  },
+  {
+    "native": "บึงกาฬ",
+    "latin": "Bueng Kan",
+    "country": "Thailand"
+  },
+  {
+    "native": "อุดรธานี",
+    "latin": "Udon Thani",
+    "country": "Thailand"
+  },
+  {
+    "native": "สกลนคร",
+    "latin": "Sakon Nakhon",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครพนม",
+    "latin": "Nakhon Phanom",
+    "country": "Thailand"
+  },
+  {
+    "native": "มุกดาหาร",
+    "latin": "Mukdahan",
+    "country": "Thailand"
+  },
+  {
+    "native": "กาฬสินธุ์",
+    "latin": "Kalasin",
+    "country": "Thailand"
+  },
+  {
+    "native": "มหาสารคาม",
+    "latin": "Maha Sarakham",
+    "country": "Thailand"
+  },
+  {
+    "native": "ร้อยเอ็ด",
+    "latin": "Roi Et",
+    "country": "Thailand"
+  },
+  {
+    "native": "ยโสธร",
+    "latin": "Yasothon",
+    "country": "Thailand"
+  },
+  {
+    "native": "อำนาจเจริญ",
+    "latin": "Amnat Charoen",
+    "country": "Thailand"
+  },
+  {
+    "native": "ศรีสะเกษ",
+    "latin": "Si Sa Ket",
+    "country": "Thailand"
+  },
+  {
+    "native": "สุรินทร์",
+    "latin": "Surin",
+    "country": "Thailand"
+  },
+  {
+    "native": "บุรีรัมย์",
+    "latin": "Buri Ram",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครนายก",
+    "latin": "Nakhon Nayok",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครปฐม",
+    "latin": "Nakhon Pathom",
+    "country": "Thailand"
+  },
+  {
+    "native": "กาญจนบุรี",
+    "latin": "Kanchanaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ราชบุรี",
+    "latin": "Ratchaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "สุพรรณบุรี",
+    "latin": "Suphan Buri",
+    "country": "Thailand"
+  },
+  {
+    "native": "สมุทรสงคราม",
+    "latin": "Samut Songkhram",
+    "country": "Thailand"
+  },
+  {
+    "native": "สมุทรสาคร",
+    "latin": "Samut Sakhon",
+    "country": "Thailand"
+  },
+  {
+    "native": "เพชรบุรี",
+    "latin": "Phetchaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ประจวบคีรีขันธ์",
+    "latin": "Prachuap Khiri Khan",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชุมพร",
+    "latin": "Chumphon",
+    "country": "Thailand"
+  },
+  {
+    "native": "ระนอง",
+    "latin": "Ranong",
+    "country": "Thailand"
+  },
+  {
+    "native": "สุราษฎร์ธานี",
+    "latin": "Surat Thani",
+    "country": "Thailand"
+  },
+  {
+    "native": "พังงา",
+    "latin": "Phang Nga",
+    "country": "Thailand"
+  },
+  {
+    "native": "กระบี่",
+    "latin": "Krabi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ตรัง",
+    "latin": "Trang",
+    "country": "Thailand"
+  },
+  {
+    "native": "พัทลุง",
+    "latin": "Phatthalung",
+    "country": "Thailand"
+  },
+  {
+    "native": "สตูล",
+    "latin": "Satun",
+    "country": "Thailand"
+  },
+  {
+    "native": "สงขลา",
+    "latin": "Songkhla",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปัตตานี",
+    "latin": "Pattani",
+    "country": "Thailand"
+  },
+  {
+    "native": "ยะลา",
+    "latin": "Yala",
+    "country": "Thailand"
+  },
+  {
+    "native": "นราธิวาส",
+    "latin": "Narathiwat",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองคาย",
+    "latin": "Nong Khai",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองบัวลำภู",
+    "latin": "Nong Bua Lam Phu",
+    "country": "Thailand"
+  },
+  {
+    "native": "เลย",
+    "latin": "Loei",
+    "country": "Thailand"
+  },
+  {
+    "native": "อำนาจเจริญ",
+    "latin": "Amnat Charoen",
+    "country": "Thailand"
+  },
+  {
+    "native": "ยโสธร",
+    "latin": "Yasothon",
+    "country": "Thailand"
+  },
+  {
+    "native": "มุกดาหาร",
+    "latin": "Mukdahan",
+    "country": "Thailand"
+  },
+  {
+    "native": "บึงกาฬ",
+    "latin": "Bueng Kan",
+    "country": "Thailand"
+  },
+  {
+    "native": "สระแก้ว",
+    "latin": "Sa Kaeo",
+    "country": "Thailand"
+  },
+  {
+    "native": "จันทบุรี",
+    "latin": "Chanthaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ระยอง",
+    "latin": "Rayong",
+    "country": "Thailand"
+  },
+  {
+    "native": "ตราด",
+    "latin": "Trat",
+    "country": "Thailand"
+  },
+  {
+    "native": "ฉะเชิงเทรา",
+    "latin": "Chachoengsao",
+    "country": "Thailand"
+  },
+  {
+    "native": "แพร่",
+    "latin": "Phrae",
+    "country": "Thailand"
+  },
+  {
+    "native": "น่าน",
+    "latin": "Nan",
+    "country": "Thailand"
+  },
+  {
+    "native": "พะเยา",
+    "latin": "Phayao",
+    "country": "Thailand"
+  },
+  {
+    "native": "เชียงราย",
+    "latin": "Chiang Rai",
+    "country": "Thailand"
+  },
+  {
+    "native": "แม่ฮ่องสอน",
+    "latin": "Mae Hong Son",
+    "country": "Thailand"
+  },
+  {
+    "native": "ตาก",
+    "latin": "Tak",
+    "country": "Thailand"
+  },
+  {
+    "native": "กำแพงเพชร",
+    "latin": "Kamphaeng Phet",
+    "country": "Thailand"
+  },
+  {
+    "native": "พิจิตร",
+    "latin": "Phichit",
+    "country": "Thailand"
+  },
+  {
+    "native": "เพชรบูรณ์",
+    "latin": "Phetchabun",
+    "country": "Thailand"
+  },
+  {
+    "native": "สิงห์บุรี",
+    "latin": "Sing Buri",
+    "country": "Thailand"
+  },
+  {
+    "native": "อ่างทอง",
+    "latin": "Ang Thong",
+    "country": "Thailand"
+  },
+  {
+    "native": "อุทัยธานี",
+    "latin": "Uthai Thani",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองแขม",
+    "latin": "Nong Khaem",
+    "country": "Thailand"
+  },
+  {
+    "native": "ทุ่งครุ",
+    "latin": "Thung Khru",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางขุนเทียน",
+    "latin": "Bang Khun Thian",
+    "country": "Thailand"
+  },
+  {
+    "native": "ราษฎร์บูรณะ",
+    "latin": "Rat Burana",
+    "country": "Thailand"
+  },
+  {
+    "native": "ทวีวัฒนา",
+    "latin": "Thawi Watthana",
+    "country": "Thailand"
+  },
+  {
+    "native": "ตลิ่งชัน",
+    "latin": "Taling Chan",
+    "country": "Thailand"
+  },
+  {
+    "native": "ภาษีเจริญ",
+    "latin": "Phasi Charoen",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางแค",
+    "latin": "Bang Khae",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองจอก",
+    "latin": "Nong Chok",
+    "country": "Thailand"
+  },
+  {
+    "native": "คลองสามวา",
+    "latin": "Khlong Sam Wa",
+    "country": "Thailand"
+  },
+  {
+    "native": "มีนบุรี",
+    "latin": "Min Buri",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลาดกระบัง",
+    "latin": "Lat Krabang",
+    "country": "Thailand"
+  },
+  {
+    "native": "ประเวศ",
+    "latin": "Prawet",
+    "country": "Thailand"
+  },
+  {
+    "native": "สวนหลวง",
+    "latin": "Suan Luang",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางนา",
+    "latin": "Bang Na",
+    "country": "Thailand"
+  },
+  {
+    "native": "พระโขนง",
+    "latin": "Phra Khanong",
+    "country": "Thailand"
+  },
+  {
+    "native": "วัฒนา",
+    "latin": "Watthana",
+    "country": "Thailand"
+  },
+  {
+    "native": "คลองเตย",
+    "latin": "Khlong Toei",
+    "country": "Thailand"
+  },
+  {
+    "native": "ยานนาวา",
+    "latin": "Yan Nawa",
+    "country": "Thailand"
+  },
+  {
+    "native": "สาทร",
+    "latin": "Sathon",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางรัก",
+    "latin": "Bang Rak",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปทุมวัน",
+    "latin": "Pathum Wan",
+    "country": "Thailand"
+  },
+  {
+    "native": "ราชเทวี",
+    "latin": "Ratchathewi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ดินแดง",
+    "latin": "Din Daeng",
+    "country": "Thailand"
+  },
+  {
+    "native": "ห้วยขวาง",
+    "latin": "Huai Khwang",
+    "country": "Thailand"
+  },
+  {
+    "native": "พญาไท",
+    "latin": "Phaya Thai",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางซื่อ",
+    "latin": "Bang Sue",
+    "country": "Thailand"
+  },
+  {
+    "native": "ดุสิต",
+    "latin": "Dusit",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางกอกน้อย",
+    "latin": "Bangkok Noi",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางกอกใหญ่",
+    "latin": "Bangkok Yai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ธนบุรี",
+    "latin": "Thon Buri",
+    "country": "Thailand"
+  },
+  {
+    "native": "คลองสาน",
+    "latin": "Khlong San",
+    "country": "Thailand"
+  },
+  {
+    "native": "บึงกุ่ม",
+    "latin": "Bueng Kum",
+    "country": "Thailand"
+  },
+  {
+    "native": "คันนายาว",
+    "latin": "Kannayao",
+    "country": "Thailand"
+  },
+  {
+    "native": "สะพานสูง",
+    "latin": "Saphan Sung",
+    "country": "Thailand"
+  },
+  {
+    "native": "วังทองหลาง",
+    "latin": "Wang Thonglang",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลาดพร้าว",
+    "latin": "Lat Phrao",
+    "country": "Thailand"
+  },
+  {
+    "native": "จตุจักร",
+    "latin": "Chatuchak",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางเขน",
+    "latin": "Bang Khen",
+    "country": "Thailand"
+  },
+  {
+    "native": "สายไหม",
+    "latin": "Sai Mai",
+    "country": "Thailand"
+  },
+  {
+    "native": "หลักสี่",
+    "latin": "Lak Si",
+    "country": "Thailand"
+  },
+  {
+    "native": "ดอนเมือง",
+    "latin": "Don Mueang",
+    "country": "Thailand"
+  },
+  {
+    "native": "ทุ่งครุ",
+    "latin": "Thung Khru",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางบอน",
+    "latin": "Bang Bon",
+    "country": "Thailand"
+  },
+  {
+    "native": "คลองหลวง",
+    "latin": "Khlong Luang",
+    "country": "Thailand"
+  },
+  {
+    "native": "ธัญบุรี",
+    "latin": "Thanyaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลำลูกกา",
+    "latin": "Lam Luk Ka",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองเสือ",
+    "latin": "Nong Suea",
+    "country": "Thailand"
+  },
+  {
+    "native": "ลาดหลุมแก้ว",
+    "latin": "Lat Lum Kaeo",
+    "country": "Thailand"
+  },
+  {
+    "native": "สามโคก",
+    "latin": "Sam Khok",
+    "country": "Thailand"
+  },
+  {
+    "native": "เสนา",
+    "latin": "Sena",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางบาล",
+    "latin": "Bang Ban",
+    "country": "Thailand"
+  },
+  {
+    "native": "ผักไห่",
+    "latin": "Phak Hai",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางปะหัน",
+    "latin": "Bang Pahan",
+    "country": "Thailand"
+  },
+  {
+    "native": "มหาราช",
+    "latin": "Maha Rat",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางซ้าย",
+    "latin": "Bang Sai",
+    "country": "Thailand"
+  },
+  {
+    "native": "อุทัย",
+    "latin": "Uthai",
+    "country": "Thailand"
+  },
+  {
+    "native": "วังน้อย",
+    "latin": "Wang Noi",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองแค",
+    "latin": "Nong Khae",
+    "country": "Thailand"
+  },
+  {
+    "native": "วิหารแดง",
+    "latin": "Wihan Daeng",
+    "country": "Thailand"
+  },
+  {
+    "native": "มวกเหล็ก",
+    "latin": "Muak Lek",
+    "country": "Thailand"
+  },
+  {
+    "native": "แก่งคอย",
+    "latin": "Kaeng Khoi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ท่าเรือ",
+    "latin": "Tha Ruea",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครหลวง",
+    "latin": "Nakhon Luang",
+    "country": "Thailand"
+  },
+  {
+    "native": "พระนครศรีอยุธยา",
+    "latin": "Phra Nakhon Si Ayutthaya",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางปะอิน",
+    "latin": "Bang Pa In",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางไทร",
+    "latin": "Bang Sai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ไทรน้อย",
+    "latin": "Sai Noi",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางใหญ่",
+    "latin": "Bang Yai",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางกรวย",
+    "latin": "Bang Kruai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชัยนาท",
+    "latin": "Chainat",
+    "country": "Thailand"
+  },
+  {
+    "native": "วัดสิงห์",
+    "latin": "Wat Sing",
+    "country": "Thailand"
+  },
+  {
+    "native": "สรรคบุรี",
+    "latin": "Sankhaburi",
+    "country": "Thailand"
+  },
+  {
+    "native": "บ้านหมี่",
+    "latin": "Ban Mi",
+    "country": "Thailand"
+  },
+  {
+    "native": "โคกสำโรง",
+    "latin": "Khok Samrong",
+    "country": "Thailand"
+  },
+  {
+    "native": "ท่าวุ้ง",
+    "latin": "Tha Wung",
+    "country": "Thailand"
+  },
+  {
+    "native": "ศรีเทพ",
+    "latin": "Si Thep",
+    "country": "Thailand"
+  },
+  {
+    "native": "หล่มสัก",
+    "latin": "Lom Sak",
+    "country": "Thailand"
+  },
+  {
+    "native": "หล่มเก่า",
+    "latin": "Lom Kao",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชนแดน",
+    "latin": "Chon Daen",
+    "country": "Thailand"
+  },
+  {
+    "native": "หนองไผ่",
+    "latin": "Nong Phai",
+    "country": "Thailand"
+  },
+  {
+    "native": "บึงสามพัน",
+    "latin": "Bueng Sam Phan",
+    "country": "Thailand"
+  },
+  {
+    "native": "วิเชียรบุรี",
+    "latin": "Wichian Buri",
+    "country": "Thailand"
+  },
+  {
+    "native": "นครไทย",
+    "latin": "Nakhon Thai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ชาติตระการ",
+    "latin": "Chat Trakan",
+    "country": "Thailand"
+  },
+  {
+    "native": "วัดโบสถ์",
+    "latin": "Wat Bot",
+    "country": "Thailand"
+  },
+  {
+    "native": "พรหมพิราม",
+    "latin": "Phrom Phiram",
+    "country": "Thailand"
+  },
+  {
+    "native": "เนินมะปราง",
+    "latin": "Noen Maprang",
+    "country": "Thailand"
+  },
+  {
+    "native": "บางมะผ้า",
+    "latin": "Pang Mapha",
+    "country": "Thailand"
+  },
+  {
+    "native": "ปาย",
+    "latin": "Pai",
+    "country": "Thailand"
+  },
+  {
+    "native": "ขุนยวม",
+    "latin": "Khun Yuam",
+    "country": "Thailand"
+  },
+  {
+    "native": "แม่สะเรียง",
+    "latin": "Mae Sariang",
+    "country": "Thailand"
+  },
+  {
+    "native": "แม่ลาน้อย",
+    "latin": "Mae La Noi",
+    "country": "Thailand"
+  },
+  {
+    "native": "สบเมย",
+    "latin": "Sop Moei",
+    "country": "Thailand"
+  },
+  {
+    "native": "กัลยาณิวัฒนา",
+    "latin": "Galyani Vadhana",
+    "country": "Thailand"
+  },
+  {
+    "native": "ดอยเต่า",
+    "latin": "Doi Tao",
+    "country": "Thailand"
+  },
+  {
+    "native": "อมก๋อย",
+    "latin": "Omkoi",
+    "country": "Thailand"
+  },
+  {
+    "native": "ฮอด",
+    "latin": "Hot",
+    "country": "Thailand"
+  },
+  {
+    "native": "จอมทอง",
+    "latin": "Chom Thong",
+    "country": "Thailand"
+  },
+  {
+    "native": "แม่แจ่ม",
+    "latin": "Mae Chaem",
+    "country": "Thailand"
+  },
+  {
+    "native": "สะเมิง",
+    "latin": "Samoeng",
+    "country": "Thailand"
+  },
+  {
+    "native": "พร้าว",
+    "latin": "Phrao",
+    "country": "Thailand"
+  },
+  {
+    "native": "เวียงแหง",
+    "latin": "Wiang Haeng",
+    "country": "Thailand"
+  }
 ]

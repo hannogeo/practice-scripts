@@ -1,164 +1,1057 @@
 [
-  {"native":"臺北","latin":"Taipei"},
-  {"native":"高雄","latin":"Kaohsiung"},
-  {"native":"臺中","latin":"Taichung"},
-  {"native":"臺南","latin":"Tainan"},
-  {"native":"桃園","latin":"Taoyuan"},
-  {"native":"新北","latin":"New Taipei"},
-  {"native":"基隆","latin":"Keelung"},
-  {"native":"新竹","latin":"Hsinchu"},
-  {"native":"嘉義","latin":"Chiayi"},
-  {"native":"彰化","latin":"Changhua"},
-  {"native":"屏東","latin":"Pingtung"},
-  {"native":"花蓮","latin":"Hualien"},
-  {"native":"臺東","latin":"Taitung"},
-  {"native":"宜蘭","latin":"Yilan"},
-  {"native":"南投","latin":"Nantou"},
-  {"native":"雲林","latin":"Yunlin"},
-  {"native":"苗栗","latin":"Miaoli"},
-  {"native":"澎湖","latin":"Penghu"},
-  {"native":"金門","latin":"Kinmen"},
-  {"native":"連江","latin":"Lienchiang"},
-  {"native":"板橋","latin":"Banqiao"},
-  {"native":"三重","latin":"Sanchong"},
-  {"native":"中和","latin":"Zhonghe"},
-  {"native":"永和","latin":"Yonghe"},
-  {"native":"新莊","latin":"Xinzhuang"},
-  {"native":"新店","latin":"Xindian"},
-  {"native":"土城","latin":"Tucheng"},
-  {"native":"蘆洲","latin":"Luzhou"},
-  {"native":"汐止","latin":"Xizhi"},
-  {"native":"樹林","latin":"Shulin"},
-  {"native":"淡水","latin":"Tamsui"},
-  {"native":"三峽","latin":"Sanxia"},
-  {"native":"鶯歌","latin":"Yingge"},
-  {"native":"八里","latin":"Bali"},
-  {"native":"北投","latin":"Beitou"},
-  {"native":"天母","latin":"Tianmu"},
-  {"native":"東區","latin":"East District"},
-  {"native":"西門町","latin":"Ximending"},
-  {"native":"大安","latin":"Da'an"},
-  {"native":"信義","latin":"Xinyi"},
-  {"native":"松山","latin":"Songshan"},
-  {"native":"中山","latin":"Zhongshan"},
-  {"native":"中正","latin":"Zhongzheng"},
-  {"native":"大同","latin":"Datong"},
-  {"native":"萬華","latin":"Wanhua"},
-  {"native":"文山","latin":"Wenshan"},
-  {"native":"內湖","latin":"Neihu"},
-  {"native":"南港","latin":"Nangang"},
-  {"native":"士林","latin":"Shilin"},
-  {"native":"左營","latin":"Zuoying"},
-  {"native":"前金","latin":"Qianjin"},
-  {"native":"苓雅","latin":"Lingya"},
-  {"native":"鹽埕","latin":"Yancheng"},
-  {"native":"鼓山","latin":"Gushan"},
-  {"native":"三民","latin":"Sanmin"},
-  {"native":"新興","latin":"Xinxing"},
-  {"native":"前鎮","latin":"Qianzhen"},
-  {"native":"旗津","latin":"Qijin"},
-  {"native":"小港","latin":"Xiaogang"},
-  {"native":"鳳山","latin":"Fengshan"},
-  {"native":"大寮","latin":"Daliao"},
-  {"native":"林園","latin":"Linyuan"},
-  {"native":"仁武","latin":"Renwu"},
-  {"native":"大社","latin":"Dashe"},
-  {"native":"岡山","latin":"Gangshan"},
-  {"native":"路竹","latin":"Luzhu"},
-  {"native":"橋頭","latin":"Qiaotou"},
-  {"native":"梓官","latin":"Ziguan"},
-  {"native":"彌陀","latin":"Mituo"},
-  {"native":"永安","latin":"Yongan"},
-  {"native":"燕巢","latin":"Yanchao"},
-  {"native":"大樹","latin":"Dashu"},
-  {"native":"大武","latin":"Dawu"},
-  {"native":"太麻里","latin":"Taimali"},
-  {"native":"成功","latin":"Chenggong"},
-  {"native":"長濱","latin":"Changbin"},
-  {"native":"玉里","latin":"Yuli"},
-  {"native":"瑞穗","latin":"Ruisui"},
-  {"native":"光復","latin":"Guangfu"},
-  {"native":"鳳林","latin":"Fenglin"},
-  {"native":"壽豐","latin":"Shoufeng"},
-  {"native":"吉安","latin":"Ji'an"},
-  {"native":"新城","latin":"Xincheng"},
-  {"native":"秀林","latin":"Xiulin"},
-  {"native":"員林","latin":"Yuanlin"},
-  {"native":"鹿港","latin":"Lukang"},
-  {"native":"和美","latin":"Hemei"},
-  {"native":"溪湖","latin":"Xihu"},
-  {"native":"田中","latin":"Tianzhong"},
-  {"native":"二林","latin":"Erlin"},
-  {"native":"北斗","latin":"Beidou"},
-  {"native":"埔心","latin":"Puxin"},
-  {"native":"永靖","latin":"Yongjing"},
-  {"native":"社頭","latin":"Shetou"},
-  {"native":"田尾","latin":"Tianwei"},
-  {"native":"埤頭","latin":"Pitou"},
-  {"native":"大城","latin":"Dacheng"},
-  {"native":"竹山","latin":"Zhushan"},
-  {"native":"草屯","latin":"Caotun"},
-  {"native":"埔里","latin":"Puli"},
-  {"native":"集集","latin":"Jiji"},
-  {"native":"水里","latin":"Shuili"},
-  {"native":"魚池","latin":"Yuchi"},
-  {"native":"國姓","latin":"Guoxing"},
-  {"native":"中寮","latin":"Zhongliao"},
-  {"native":"仁愛","latin":"Ren'ai"},
-  {"native":"信義","latin":"Xinyi"},
-  {"native":"平和","latin":"Pinghe"},
-  {"native":"三星","latin":"Sanxing"},
-  {"native":"大同","latin":"Datong"},
-  {"native":"員山","latin":"Yuanshan"},
-  {"native":"冬山","latin":"Dongshan"},
-  {"native":"五結","latin":"Wujie"},
-  {"native":"壯圍","latin":"Zhuangwei"},
-  {"native":"礁溪","latin":"Jiaoxi"},
-  {"native":"頭城","latin":"Toucheng"},
-  {"native":"蘇澳","latin":"Su'ao"},
-  {"native":"羅東","latin":"Luodong"},
-  {"native":"花蓮市","latin":"Hualien City"},
-  {"native":"鳳林","latin":"Fenglin"},
-  {"native":"玉里","latin":"Yuli"},
-  {"native":"瑞穗","latin":"Ruisui"},
-  {"native":"吉安","latin":"Ji'an"},
-  {"native":"壽豐","latin":"Shoufeng"},
-  {"native":"光復","latin":"Guangfu"},
-  {"native":"豐濱","latin":"Fengbin"},
-  {"native":"秀林","latin":"Xiulin"},
-  {"native":"新城","latin":"Xincheng"},
-  {"native":"萬榮","latin":"Wanrong"},
-  {"native":"卓溪","latin":"Zhuoxi"},
-  {"native":"臺東市","latin":"Taitung City"},
-  {"native":"成功","latin":"Chenggong"},
-  {"native":"關山","latin":"Guanshan"},
-  {"native":"卑南","latin":"Beinan"},
-  {"native":"鹿野","latin":"Luye"},
-  {"native":"池上","latin":"Chishang"},
-  {"native":"東河","latin":"Donghe"},
-  {"native":"長濱","latin":"Changbin"},
-  {"native":"太麻里","latin":"Taimali"},
-  {"native":"大武","latin":"Dawu"},
-  {"native":"綠島","latin":"Ludao"},
-  {"native":"蘭嶼","latin":"Lanyu"},
-  {"native":"延平","latin":"Yanping"},
-  {"native":"海端","latin":"Haiduan"},
-  {"native":"達仁","latin":"Daren"},
-  {"native":"金峰","latin":"Jinfeng"},
-  {"native":"馬公","latin":"Magong"},
-  {"native":"湖西","latin":"Huxi"},
-  {"native":"白沙","latin":"Baisha"},
-  {"native":"西嶼","latin":"Xiyu"},
-  {"native":"望安","latin":"Wang'an"},
-  {"native":"七美","latin":"Qimei"},
-  {"native":"金城","latin":"Jincheng"},
-  {"native":"金湖","latin":"Jinhu"},
-  {"native":"金沙","latin":"Jinsha"},
-  {"native":"金寧","latin":"Jinning"},
-  {"native":"烈嶼","latin":"Lieyu"},
-  {"native":"烏坵","latin":"Wuqiu"},
-  {"native":"南竿","latin":"Nangan"},
-  {"native":"北竿","latin":"Beigan"},
-  {"native":"莒光","latin":"Juguang"},
-  {"native":"東引","latin":"Dongyin"}
+  {
+    "native": "臺北",
+    "latin": "Taipei",
+    "country": "China"
+  },
+  {
+    "native": "高雄",
+    "latin": "Kaohsiung",
+    "country": "China"
+  },
+  {
+    "native": "臺中",
+    "latin": "Taichung",
+    "country": "China"
+  },
+  {
+    "native": "臺南",
+    "latin": "Tainan",
+    "country": "China"
+  },
+  {
+    "native": "桃園",
+    "latin": "Taoyuan",
+    "country": "China"
+  },
+  {
+    "native": "新北",
+    "latin": "New Taipei",
+    "country": "China"
+  },
+  {
+    "native": "基隆",
+    "latin": "Keelung",
+    "country": "China"
+  },
+  {
+    "native": "新竹",
+    "latin": "Hsinchu",
+    "country": "China"
+  },
+  {
+    "native": "嘉義",
+    "latin": "Chiayi",
+    "country": "China"
+  },
+  {
+    "native": "彰化",
+    "latin": "Changhua",
+    "country": "China"
+  },
+  {
+    "native": "屏東",
+    "latin": "Pingtung",
+    "country": "China"
+  },
+  {
+    "native": "花蓮",
+    "latin": "Hualien",
+    "country": "China"
+  },
+  {
+    "native": "臺東",
+    "latin": "Taitung",
+    "country": "China"
+  },
+  {
+    "native": "宜蘭",
+    "latin": "Yilan",
+    "country": "China"
+  },
+  {
+    "native": "南投",
+    "latin": "Nantou",
+    "country": "China"
+  },
+  {
+    "native": "雲林",
+    "latin": "Yunlin",
+    "country": "China"
+  },
+  {
+    "native": "苗栗",
+    "latin": "Miaoli",
+    "country": "China"
+  },
+  {
+    "native": "澎湖",
+    "latin": "Penghu",
+    "country": "China"
+  },
+  {
+    "native": "金門",
+    "latin": "Kinmen",
+    "country": "China"
+  },
+  {
+    "native": "連江",
+    "latin": "Lienchiang",
+    "country": "China"
+  },
+  {
+    "native": "板橋",
+    "latin": "Banqiao",
+    "country": "China"
+  },
+  {
+    "native": "三重",
+    "latin": "Sanchong",
+    "country": "China"
+  },
+  {
+    "native": "中和",
+    "latin": "Zhonghe",
+    "country": "China"
+  },
+  {
+    "native": "永和",
+    "latin": "Yonghe",
+    "country": "China"
+  },
+  {
+    "native": "新莊",
+    "latin": "Xinzhuang",
+    "country": "China"
+  },
+  {
+    "native": "新店",
+    "latin": "Xindian",
+    "country": "China"
+  },
+  {
+    "native": "土城",
+    "latin": "Tucheng",
+    "country": "China"
+  },
+  {
+    "native": "蘆洲",
+    "latin": "Luzhou",
+    "country": "China"
+  },
+  {
+    "native": "汐止",
+    "latin": "Xizhi",
+    "country": "China"
+  },
+  {
+    "native": "樹林",
+    "latin": "Shulin",
+    "country": "China"
+  },
+  {
+    "native": "淡水",
+    "latin": "Tamsui",
+    "country": "China"
+  },
+  {
+    "native": "三峽",
+    "latin": "Sanxia",
+    "country": "China"
+  },
+  {
+    "native": "鶯歌",
+    "latin": "Yingge",
+    "country": "China"
+  },
+  {
+    "native": "八里",
+    "latin": "Bali",
+    "country": "China"
+  },
+  {
+    "native": "北投",
+    "latin": "Beitou",
+    "country": "China"
+  },
+  {
+    "native": "天母",
+    "latin": "Tianmu",
+    "country": "China"
+  },
+  {
+    "native": "東區",
+    "latin": "East District",
+    "country": "China"
+  },
+  {
+    "native": "西門町",
+    "latin": "Ximending",
+    "country": "China"
+  },
+  {
+    "native": "大安",
+    "latin": "Da'an",
+    "country": "China"
+  },
+  {
+    "native": "信義",
+    "latin": "Xinyi",
+    "country": "China"
+  },
+  {
+    "native": "松山",
+    "latin": "Songshan",
+    "country": "China"
+  },
+  {
+    "native": "中山",
+    "latin": "Zhongshan",
+    "country": "China"
+  },
+  {
+    "native": "中正",
+    "latin": "Zhongzheng",
+    "country": "China"
+  },
+  {
+    "native": "大同",
+    "latin": "Datong",
+    "country": "China"
+  },
+  {
+    "native": "萬華",
+    "latin": "Wanhua",
+    "country": "China"
+  },
+  {
+    "native": "文山",
+    "latin": "Wenshan",
+    "country": "China"
+  },
+  {
+    "native": "內湖",
+    "latin": "Neihu",
+    "country": "China"
+  },
+  {
+    "native": "南港",
+    "latin": "Nangang",
+    "country": "China"
+  },
+  {
+    "native": "士林",
+    "latin": "Shilin",
+    "country": "China"
+  },
+  {
+    "native": "左營",
+    "latin": "Zuoying",
+    "country": "China"
+  },
+  {
+    "native": "前金",
+    "latin": "Qianjin",
+    "country": "China"
+  },
+  {
+    "native": "苓雅",
+    "latin": "Lingya",
+    "country": "China"
+  },
+  {
+    "native": "鹽埕",
+    "latin": "Yancheng",
+    "country": "China"
+  },
+  {
+    "native": "鼓山",
+    "latin": "Gushan",
+    "country": "China"
+  },
+  {
+    "native": "三民",
+    "latin": "Sanmin",
+    "country": "China"
+  },
+  {
+    "native": "新興",
+    "latin": "Xinxing",
+    "country": "China"
+  },
+  {
+    "native": "前鎮",
+    "latin": "Qianzhen",
+    "country": "China"
+  },
+  {
+    "native": "旗津",
+    "latin": "Qijin",
+    "country": "China"
+  },
+  {
+    "native": "小港",
+    "latin": "Xiaogang",
+    "country": "China"
+  },
+  {
+    "native": "鳳山",
+    "latin": "Fengshan",
+    "country": "China"
+  },
+  {
+    "native": "大寮",
+    "latin": "Daliao",
+    "country": "China"
+  },
+  {
+    "native": "林園",
+    "latin": "Linyuan",
+    "country": "China"
+  },
+  {
+    "native": "仁武",
+    "latin": "Renwu",
+    "country": "China"
+  },
+  {
+    "native": "大社",
+    "latin": "Dashe",
+    "country": "China"
+  },
+  {
+    "native": "岡山",
+    "latin": "Gangshan",
+    "country": "China"
+  },
+  {
+    "native": "路竹",
+    "latin": "Luzhu",
+    "country": "China"
+  },
+  {
+    "native": "橋頭",
+    "latin": "Qiaotou",
+    "country": "China"
+  },
+  {
+    "native": "梓官",
+    "latin": "Ziguan",
+    "country": "China"
+  },
+  {
+    "native": "彌陀",
+    "latin": "Mituo",
+    "country": "China"
+  },
+  {
+    "native": "永安",
+    "latin": "Yongan",
+    "country": "China"
+  },
+  {
+    "native": "燕巢",
+    "latin": "Yanchao",
+    "country": "China"
+  },
+  {
+    "native": "大樹",
+    "latin": "Dashu",
+    "country": "China"
+  },
+  {
+    "native": "大武",
+    "latin": "Dawu",
+    "country": "China"
+  },
+  {
+    "native": "太麻里",
+    "latin": "Taimali",
+    "country": "China"
+  },
+  {
+    "native": "成功",
+    "latin": "Chenggong",
+    "country": "China"
+  },
+  {
+    "native": "長濱",
+    "latin": "Changbin",
+    "country": "China"
+  },
+  {
+    "native": "玉里",
+    "latin": "Yuli",
+    "country": "China"
+  },
+  {
+    "native": "瑞穗",
+    "latin": "Ruisui",
+    "country": "China"
+  },
+  {
+    "native": "光復",
+    "latin": "Guangfu",
+    "country": "China"
+  },
+  {
+    "native": "鳳林",
+    "latin": "Fenglin",
+    "country": "China"
+  },
+  {
+    "native": "壽豐",
+    "latin": "Shoufeng",
+    "country": "China"
+  },
+  {
+    "native": "吉安",
+    "latin": "Ji'an",
+    "country": "China"
+  },
+  {
+    "native": "新城",
+    "latin": "Xincheng",
+    "country": "China"
+  },
+  {
+    "native": "秀林",
+    "latin": "Xiulin",
+    "country": "China"
+  },
+  {
+    "native": "員林",
+    "latin": "Yuanlin",
+    "country": "China"
+  },
+  {
+    "native": "鹿港",
+    "latin": "Lukang",
+    "country": "China"
+  },
+  {
+    "native": "和美",
+    "latin": "Hemei",
+    "country": "China"
+  },
+  {
+    "native": "溪湖",
+    "latin": "Xihu",
+    "country": "China"
+  },
+  {
+    "native": "田中",
+    "latin": "Tianzhong",
+    "country": "China"
+  },
+  {
+    "native": "二林",
+    "latin": "Erlin",
+    "country": "China"
+  },
+  {
+    "native": "北斗",
+    "latin": "Beidou",
+    "country": "China"
+  },
+  {
+    "native": "埔心",
+    "latin": "Puxin",
+    "country": "China"
+  },
+  {
+    "native": "永靖",
+    "latin": "Yongjing",
+    "country": "China"
+  },
+  {
+    "native": "社頭",
+    "latin": "Shetou",
+    "country": "China"
+  },
+  {
+    "native": "田尾",
+    "latin": "Tianwei",
+    "country": "China"
+  },
+  {
+    "native": "埤頭",
+    "latin": "Pitou",
+    "country": "China"
+  },
+  {
+    "native": "大城",
+    "latin": "Dacheng",
+    "country": "China"
+  },
+  {
+    "native": "竹山",
+    "latin": "Zhushan",
+    "country": "China"
+  },
+  {
+    "native": "草屯",
+    "latin": "Caotun",
+    "country": "China"
+  },
+  {
+    "native": "埔里",
+    "latin": "Puli",
+    "country": "China"
+  },
+  {
+    "native": "集集",
+    "latin": "Jiji",
+    "country": "China"
+  },
+  {
+    "native": "水里",
+    "latin": "Shuili",
+    "country": "China"
+  },
+  {
+    "native": "魚池",
+    "latin": "Yuchi",
+    "country": "China"
+  },
+  {
+    "native": "國姓",
+    "latin": "Guoxing",
+    "country": "China"
+  },
+  {
+    "native": "中寮",
+    "latin": "Zhongliao",
+    "country": "China"
+  },
+  {
+    "native": "仁愛",
+    "latin": "Ren'ai",
+    "country": "China"
+  },
+  {
+    "native": "信義",
+    "latin": "Xinyi",
+    "country": "China"
+  },
+  {
+    "native": "平和",
+    "latin": "Pinghe",
+    "country": "China"
+  },
+  {
+    "native": "三星",
+    "latin": "Sanxing",
+    "country": "China"
+  },
+  {
+    "native": "大同",
+    "latin": "Datong",
+    "country": "China"
+  },
+  {
+    "native": "員山",
+    "latin": "Yuanshan",
+    "country": "China"
+  },
+  {
+    "native": "冬山",
+    "latin": "Dongshan",
+    "country": "China"
+  },
+  {
+    "native": "五結",
+    "latin": "Wujie",
+    "country": "China"
+  },
+  {
+    "native": "壯圍",
+    "latin": "Zhuangwei",
+    "country": "China"
+  },
+  {
+    "native": "礁溪",
+    "latin": "Jiaoxi",
+    "country": "China"
+  },
+  {
+    "native": "頭城",
+    "latin": "Toucheng",
+    "country": "China"
+  },
+  {
+    "native": "蘇澳",
+    "latin": "Su'ao",
+    "country": "China"
+  },
+  {
+    "native": "羅東",
+    "latin": "Luodong",
+    "country": "China"
+  },
+  {
+    "native": "花蓮市",
+    "latin": "Hualien City",
+    "country": "China"
+  },
+  {
+    "native": "鳳林",
+    "latin": "Fenglin",
+    "country": "China"
+  },
+  {
+    "native": "玉里",
+    "latin": "Yuli",
+    "country": "China"
+  },
+  {
+    "native": "瑞穗",
+    "latin": "Ruisui",
+    "country": "China"
+  },
+  {
+    "native": "吉安",
+    "latin": "Ji'an",
+    "country": "China"
+  },
+  {
+    "native": "壽豐",
+    "latin": "Shoufeng",
+    "country": "China"
+  },
+  {
+    "native": "光復",
+    "latin": "Guangfu",
+    "country": "China"
+  },
+  {
+    "native": "豐濱",
+    "latin": "Fengbin",
+    "country": "China"
+  },
+  {
+    "native": "秀林",
+    "latin": "Xiulin",
+    "country": "China"
+  },
+  {
+    "native": "新城",
+    "latin": "Xincheng",
+    "country": "China"
+  },
+  {
+    "native": "萬榮",
+    "latin": "Wanrong",
+    "country": "China"
+  },
+  {
+    "native": "卓溪",
+    "latin": "Zhuoxi",
+    "country": "China"
+  },
+  {
+    "native": "臺東市",
+    "latin": "Taitung City",
+    "country": "China"
+  },
+  {
+    "native": "成功",
+    "latin": "Chenggong",
+    "country": "China"
+  },
+  {
+    "native": "關山",
+    "latin": "Guanshan",
+    "country": "China"
+  },
+  {
+    "native": "卑南",
+    "latin": "Beinan",
+    "country": "China"
+  },
+  {
+    "native": "鹿野",
+    "latin": "Luye",
+    "country": "China"
+  },
+  {
+    "native": "池上",
+    "latin": "Chishang",
+    "country": "China"
+  },
+  {
+    "native": "東河",
+    "latin": "Donghe",
+    "country": "China"
+  },
+  {
+    "native": "長濱",
+    "latin": "Changbin",
+    "country": "China"
+  },
+  {
+    "native": "太麻里",
+    "latin": "Taimali",
+    "country": "China"
+  },
+  {
+    "native": "大武",
+    "latin": "Dawu",
+    "country": "China"
+  },
+  {
+    "native": "綠島",
+    "latin": "Ludao",
+    "country": "China"
+  },
+  {
+    "native": "蘭嶼",
+    "latin": "Lanyu",
+    "country": "China"
+  },
+  {
+    "native": "延平",
+    "latin": "Yanping",
+    "country": "China"
+  },
+  {
+    "native": "海端",
+    "latin": "Haiduan",
+    "country": "China"
+  },
+  {
+    "native": "達仁",
+    "latin": "Daren",
+    "country": "China"
+  },
+  {
+    "native": "金峰",
+    "latin": "Jinfeng",
+    "country": "China"
+  },
+  {
+    "native": "馬公",
+    "latin": "Magong",
+    "country": "China"
+  },
+  {
+    "native": "湖西",
+    "latin": "Huxi",
+    "country": "China"
+  },
+  {
+    "native": "白沙",
+    "latin": "Baisha",
+    "country": "China"
+  },
+  {
+    "native": "西嶼",
+    "latin": "Xiyu",
+    "country": "China"
+  },
+  {
+    "native": "望安",
+    "latin": "Wang'an",
+    "country": "China"
+  },
+  {
+    "native": "七美",
+    "latin": "Qimei",
+    "country": "China"
+  },
+  {
+    "native": "金城",
+    "latin": "Jincheng",
+    "country": "China"
+  },
+  {
+    "native": "金湖",
+    "latin": "Jinhu",
+    "country": "China"
+  },
+  {
+    "native": "金沙",
+    "latin": "Jinsha",
+    "country": "China"
+  },
+  {
+    "native": "金寧",
+    "latin": "Jinning",
+    "country": "China"
+  },
+  {
+    "native": "烈嶼",
+    "latin": "Lieyu",
+    "country": "China"
+  },
+  {
+    "native": "烏坵",
+    "latin": "Wuqiu",
+    "country": "China"
+  },
+  {
+    "native": "南竿",
+    "latin": "Nangan",
+    "country": "China"
+  },
+  {
+    "native": "北竿",
+    "latin": "Beigan",
+    "country": "China"
+  },
+  {
+    "native": "莒光",
+    "latin": "Juguang",
+    "country": "China"
+  },
+  {
+    "native": "東引",
+    "latin": "Dongyin",
+    "country": "China"
+  },
+  {
+    "native": "北京",
+    "latin": "Beijing",
+    "country": "China"
+  },
+  {
+    "native": "上海",
+    "latin": "Shanghai",
+    "country": "China"
+  },
+  {
+    "native": "广州",
+    "latin": "Guangzhou",
+    "country": "China"
+  },
+  {
+    "native": "深圳",
+    "latin": "Shenzhen",
+    "country": "China"
+  },
+  {
+    "native": "成都",
+    "latin": "Chengdu",
+    "country": "China"
+  },
+  {
+    "native": "杭州",
+    "latin": "Hangzhou",
+    "country": "China"
+  },
+  {
+    "native": "武汉",
+    "latin": "Wuhan",
+    "country": "China"
+  },
+  {
+    "native": "西安",
+    "latin": "Xi'an",
+    "country": "China"
+  },
+  {
+    "native": "南京",
+    "latin": "Nanjing",
+    "country": "China"
+  },
+  {
+    "native": "重庆",
+    "latin": "Chongqing",
+    "country": "China"
+  },
+  {
+    "native": "苏州",
+    "latin": "Suzhou",
+    "country": "China"
+  },
+  {
+    "native": "天津",
+    "latin": "Tianjin",
+    "country": "China"
+  },
+  {
+    "native": "长沙",
+    "latin": "Changsha",
+    "country": "China"
+  },
+  {
+    "native": "郑州",
+    "latin": "Zhengzhou",
+    "country": "China"
+  },
+  {
+    "native": "东莞",
+    "latin": "Dongguan",
+    "country": "China"
+  },
+  {
+    "native": "青岛",
+    "latin": "Qingdao",
+    "country": "China"
+  },
+  {
+    "native": "沈阳",
+    "latin": "Shenyang",
+    "country": "China"
+  },
+  {
+    "native": "宁波",
+    "latin": "Ningbo",
+    "country": "China"
+  },
+  {
+    "native": "昆明",
+    "latin": "Kunming",
+    "country": "China"
+  },
+  {
+    "native": "大连",
+    "latin": "Dalian",
+    "country": "China"
+  },
+  {
+    "native": "厦门",
+    "latin": "Xiamen",
+    "country": "China"
+  },
+  {
+    "native": "合肥",
+    "latin": "Hefei",
+    "country": "China"
+  },
+  {
+    "native": "佛山",
+    "latin": "Foshan",
+    "country": "China"
+  },
+  {
+    "native": "福州",
+    "latin": "Fuzhou",
+    "country": "China"
+  },
+  {
+    "native": "哈尔滨",
+    "latin": "Harbin",
+    "country": "China"
+  },
+  {
+    "native": "济南",
+    "latin": "Jinan",
+    "country": "China"
+  },
+  {
+    "native": "温州",
+    "latin": "Wenzhou",
+    "country": "China"
+  },
+  {
+    "native": "长春",
+    "latin": "Changchun",
+    "country": "China"
+  },
+  {
+    "native": "石家庄",
+    "latin": "Shijiazhuang",
+    "country": "China"
+  },
+  {
+    "native": "贵阳",
+    "latin": "Guiyang",
+    "country": "China"
+  },
+  {
+    "native": "南昌",
+    "latin": "Nanchang",
+    "country": "China"
+  },
+  {
+    "native": "乌鲁木齐",
+    "latin": "Urumqi",
+    "country": "China"
+  },
+  {
+    "native": "太原",
+    "latin": "Taiyuan",
+    "country": "China"
+  },
+  {
+    "native": "兰州",
+    "latin": "Lanzhou",
+    "country": "China"
+  },
+  {
+    "native": "南宁",
+    "latin": "Nanning",
+    "country": "China"
+  },
+  {
+    "native": "珠海",
+    "latin": "Zhuhai",
+    "country": "China"
+  },
+  {
+    "native": "海口",
+    "latin": "Haikou",
+    "country": "China"
+  },
+  {
+    "native": "呼和浩特",
+    "latin": "Hohhot",
+    "country": "China"
+  },
+  {
+    "native": "西宁",
+    "latin": "Xining",
+    "country": "China"
+  },
+  {
+    "native": "银川",
+    "latin": "Yinchuan",
+    "country": "China"
+  },
+  {
+    "native": "拉萨",
+    "latin": "Lhasa",
+    "country": "China"
+  },
+  {
+    "native": "洛阳",
+    "latin": "Luoyang",
+    "country": "China"
+  },
+  {
+    "native": "徐州",
+    "latin": "Xuzhou",
+    "country": "China"
+  },
+  {
+    "native": "绍兴",
+    "latin": "Shaoxing",
+    "country": "China"
+  },
+  {
+    "native": "芜湖",
+    "latin": "Wuhu",
+    "country": "China"
+  },
+  {
+    "native": "泉州",
+    "latin": "Quanzhou",
+    "country": "China"
+  },
+  {
+    "native": "扬州",
+    "latin": "Yangzhou",
+    "country": "China"
+  },
+  {
+    "native": "桂林",
+    "latin": "Guilin",
+    "country": "China"
+  },
+  {
+    "native": "遵义",
+    "latin": "Zunyi",
+    "country": "China"
+  }
 ]

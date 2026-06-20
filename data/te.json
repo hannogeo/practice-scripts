@@ -1,106 +1,1027 @@
 [
-  {"native":"హైదరాబాద్","latin":"Hyderabad"},
-  {"native":"విశాఖపట్నం","latin":"Visakhapatnam"},
-  {"native":"విజయవాడ","latin":"Vijayawada"},
-  {"native":"గుంటూరు","latin":"Guntur"},
-  {"native":"నెల్లూరు","latin":"Nellore"},
-  {"native":"కర్నూలు","latin":"Kurnool"},
-  {"native":"తిరుపతి","latin":"Tirupati"},
-  {"native":"రాజమండ్రి","latin":"Rajahmundry"},
-  {"native":"కాకినాడ","latin":"Kakinada"},
-  {"native":"అనంతపురం","latin":"Anantapur"},
-  {"native":"ఏలూరు","latin":"Eluru"},
-  {"native":"మచిలీపట్నం","latin":"Machilipatnam"},
-  {"native":"ఒంగోలు","latin":"Ongole"},
-  {"native":"చిత్తూరు","latin":"Chittoor"},
-  {"native":"కడప","latin":"Kadapa"},
-  {"native":"హిందూపురం","latin":"Hindupur"},
-  {"native":"ప్రొద్దుటూరు","latin":"Proddatur"},
-  {"native":"ఆదోని","latin":"Adoni"},
-  {"native":"తెనాలి","latin":"Tenali"},
-  {"native":"నరసరావుపేట","latin":"Narasaraopet"},
-  {"native":"మంగళగిరి","latin":"Mangalagiri"},
-  {"native":"గుడివాడ","latin":"Gudivada"},
-  {"native":"భీమవరం","latin":"Bhimavaram"},
-  {"native":"పాలకొల్లు","latin":"Palakollu"},
-  {"native":"తాడేపల్లిగూడెం","latin":"Tadepalligudem"},
-  {"native":"నరసాపురం","latin":"Narasapuram"},
-  {"native":"నూజివీడు","latin":"Nuzvid"},
-  {"native":"జగ్గయ్యపేట","latin":"Jaggayyapeta"},
-  {"native":"ఖమ్మం","latin":"Khammam"},
-  {"native":"మహబూబాబాద్","latin":"Mahabubabad"},
-  {"native":"మంచిర్యాల","latin":"Mancherial"},
-  {"native":"కరీంనగర్","latin":"Karimnagar"},
-  {"native":"నిజామాబాద్","latin":"Nizamabad"},
-  {"native":"ఆదిలాబాద్","latin":"Adilabad"},
-  {"native":"మెదక్","latin":"Medak"},
-  {"native":"సంగారెడ్డి","latin":"Sangareddy"},
-  {"native":"రామగుండం","latin":"Ramagundam"},
-  {"native":"వరంగల్","latin":"Warangal"},
-  {"native":"పాల్వంచ","latin":"Palwancha"},
-  {"native":"నంద్యాల","latin":"Nandyal"},
-  {"native":"గుంతకల్లు","latin":"Guntakal"},
-  {"native":"తాడిపత్రి","latin":"Tadipatri"},
-  {"native":"ధర్మవరం","latin":"Dharmavaram"},
-  {"native":"కదిరి","latin":"Kadiri"},
-  {"native":"మదనపల్లి","latin":"Madanapalle"},
-  {"native":"పుంగనూరు","latin":"Punganur"},
-  {"native":"శ్రీకాకుళం","latin":"Srikakulam"},
-  {"native":"పార్వతీపురం","latin":"Parvathipuram"},
-  {"native":"బొబ్బిలి","latin":"Bobbili"},
-  {"native":"విజయనగరం","latin":"Vizianagaram"},
-  {"native":"చోడవరం","latin":"Chodavaram"},
-  {"native":"అనకాపల్లి","latin":"Anakapalli"},
-  {"native":"భీమునిపట్నం","latin":"Bheemunipatnam"},
-  {"native":"పెద్దాపురం","latin":"Peddapuram"},
-  {"native":"సామర్లకోట","latin":"Samarlakota"},
-  {"native":"తుని","latin":"Tuni"},
-  {"native":"అమలాపురం","latin":"Amalapuram"},
-  {"native":"రాజన్న సిరిసిల్ల","latin":"Siricilla"},
-  {"native":"మెట్పల్లి","latin":"Metpally"},
-  {"native":"అదిలాబాద్","latin":"Adilabad"},
-  {"native":"కుమురం భీమ్","latin":"Kumuram Bheem"},
-  {"native":"మంచిర్యాల","latin":"Mancherial"},
-  {"native":"నిర్మల్","latin":"Nirmal"},
-  {"native":"జయశంకర్ భూపాలపల్లి","latin":"Jaya Shankar Bhupalpally"},
-  {"native":"పెద్దపల్లి","latin":"Peddapalli"},
-  {"native":"రాజన్న సిరిసిల్ల","latin":"Rajanna Sircilla"},
-  {"native":"కరీంనగర్","latin":"Karimnagar"},
-  {"native":"ములుగు","latin":"Mulugu"},
-  {"native":"భద్రాద్రి కొత్తగూడెం","latin":"Bhadradri Kothagudem"},
-  {"native":"మహబూబాబాద్","latin":"Mahabubabad"},
-  {"native":"వరంగల్","latin":"Warangal"},
-  {"native":"హనుమకొండ","latin":"Hanamkonda"},
-  {"native":"జనగామ","latin":"Jangaon"},
-  {"native":"సిద్దిపేట","latin":"Siddipet"},
-  {"native":"మెదక్","latin":"Medak"},
-  {"native":"సంగారెడ్డి","latin":"Sangareddy"},
-  {"native":"కామారెడ్డి","latin":"Kamareddy"},
-  {"native":"నిజామాబాద్","latin":"Nizamabad"},
-  {"native":"వికారాబాద్","latin":"Vikarabad"},
-  {"native":"రంగారెడ్డి","latin":"Ranga Reddy"},
-  {"native":"మహబూబ్ నగర్","latin":"Mahabubnagar"},
-  {"native":"నాగర్ కర్నూల్","latin":"Nagar Kurnool"},
-  {"native":"వనపర్తి","latin":"Wanaparthy"},
-  {"native":"జోగులాంబ గద్వాల","latin":"Jogulamba Gadwal"},
-  {"native":"నారాయణపేట","latin":"Narayanpet"},
-  {"native":"వైఎస్ఆర్ కడప","latin":"YSR Kadapa"},
-  {"native":"అన్నమయ్య","latin":"Annamayya"},
-  {"native":"శ్రీ సత్యసాయి","latin":"Sri Sathya Sai"},
-  {"native":"చిత్తూరు","latin":"Chittoor"},
-  {"native":"తిరుపతి","latin":"Tirupati"},
-  {"native":"కడప","latin":"Kadapa"},
-  {"native":"అనంతపురం","latin":"Anantapur"},
-  {"native":"కర్నూలు","latin":"Kurnool"},
-  {"native":"నంద్యాల","latin":"Nandyal"},
-  {"native":"పల్నాడు","latin":"Palnadu"},
-  {"native":"బాపట్ల","latin":"Bapatla"},
-  {"native":"గుంటూరు","latin":"Guntur"},
-  {"native":"ప్రకాశం","latin":"Prakasam"},
-  {"native":"శ్రీ పొట్టి శ్రీరాములు నెల్లూరు","latin":"Nellore"},
-  {"native":"అల్లూరి సీతారామరాజు","latin":"Alluri Sitharama Raju"},
-  {"native":"విశాఖపట్నం","latin":"Visakhapatnam"},
-  {"native":"పార్వతీపురం మన్యం","latin":"Parvathipuram Manyam"},
-  {"native":"శ్రీకాకుళం","latin":"Srikakulam"},
-  {"native":"విజయనగరం","latin":"Vizianagaram"}
+  {
+    "native": "హైదరాబాద్",
+    "latin": "Hyderabad",
+    "country": "India"
+  },
+  {
+    "native": "విశాఖపట్నం",
+    "latin": "Visakhapatnam",
+    "country": "India"
+  },
+  {
+    "native": "విజయవాడ",
+    "latin": "Vijayawada",
+    "country": "India"
+  },
+  {
+    "native": "గుంటూరు",
+    "latin": "Guntur",
+    "country": "India"
+  },
+  {
+    "native": "నెల్లూరు",
+    "latin": "Nellore",
+    "country": "India"
+  },
+  {
+    "native": "కర్నూలు",
+    "latin": "Kurnool",
+    "country": "India"
+  },
+  {
+    "native": "తిరుపతి",
+    "latin": "Tirupati",
+    "country": "India"
+  },
+  {
+    "native": "రాజమండ్రి",
+    "latin": "Rajahmundry",
+    "country": "India"
+  },
+  {
+    "native": "కాకినాడ",
+    "latin": "Kakinada",
+    "country": "India"
+  },
+  {
+    "native": "అనంతపురం",
+    "latin": "Anantapur",
+    "country": "India"
+  },
+  {
+    "native": "ఏలూరు",
+    "latin": "Eluru",
+    "country": "India"
+  },
+  {
+    "native": "మచిలీపట్నం",
+    "latin": "Machilipatnam",
+    "country": "India"
+  },
+  {
+    "native": "ఒంగోలు",
+    "latin": "Ongole",
+    "country": "India"
+  },
+  {
+    "native": "చిత్తూరు",
+    "latin": "Chittoor",
+    "country": "India"
+  },
+  {
+    "native": "కడప",
+    "latin": "Kadapa",
+    "country": "India"
+  },
+  {
+    "native": "హిందూపురం",
+    "latin": "Hindupur",
+    "country": "India"
+  },
+  {
+    "native": "ప్రొద్దుటూరు",
+    "latin": "Proddatur",
+    "country": "India"
+  },
+  {
+    "native": "ఆదోని",
+    "latin": "Adoni",
+    "country": "India"
+  },
+  {
+    "native": "తెనాలి",
+    "latin": "Tenali",
+    "country": "India"
+  },
+  {
+    "native": "నరసరావుపేట",
+    "latin": "Narasaraopet",
+    "country": "India"
+  },
+  {
+    "native": "మంగళగిరి",
+    "latin": "Mangalagiri",
+    "country": "India"
+  },
+  {
+    "native": "గుడివాడ",
+    "latin": "Gudivada",
+    "country": "India"
+  },
+  {
+    "native": "భీమవరం",
+    "latin": "Bhimavaram",
+    "country": "India"
+  },
+  {
+    "native": "పాలకొల్లు",
+    "latin": "Palakollu",
+    "country": "India"
+  },
+  {
+    "native": "తాడేపల్లిగూడెం",
+    "latin": "Tadepalligudem",
+    "country": "India"
+  },
+  {
+    "native": "నరసాపురం",
+    "latin": "Narasapuram",
+    "country": "India"
+  },
+  {
+    "native": "నూజివీడు",
+    "latin": "Nuzvid",
+    "country": "India"
+  },
+  {
+    "native": "జగ్గయ్యపేట",
+    "latin": "Jaggayyapeta",
+    "country": "India"
+  },
+  {
+    "native": "ఖమ్మం",
+    "latin": "Khammam",
+    "country": "India"
+  },
+  {
+    "native": "మహబూబాబాద్",
+    "latin": "Mahabubabad",
+    "country": "India"
+  },
+  {
+    "native": "మంచిర్యాల",
+    "latin": "Mancherial",
+    "country": "India"
+  },
+  {
+    "native": "కరీంనగర్",
+    "latin": "Karimnagar",
+    "country": "India"
+  },
+  {
+    "native": "నిజామాబాద్",
+    "latin": "Nizamabad",
+    "country": "India"
+  },
+  {
+    "native": "ఆదిలాబాద్",
+    "latin": "Adilabad",
+    "country": "India"
+  },
+  {
+    "native": "మెదక్",
+    "latin": "Medak",
+    "country": "India"
+  },
+  {
+    "native": "సంగారెడ్డి",
+    "latin": "Sangareddy",
+    "country": "India"
+  },
+  {
+    "native": "రామగుండం",
+    "latin": "Ramagundam",
+    "country": "India"
+  },
+  {
+    "native": "వరంగల్",
+    "latin": "Warangal",
+    "country": "India"
+  },
+  {
+    "native": "పాల్వంచ",
+    "latin": "Palwancha",
+    "country": "India"
+  },
+  {
+    "native": "నంద్యాల",
+    "latin": "Nandyal",
+    "country": "India"
+  },
+  {
+    "native": "గుంతకల్లు",
+    "latin": "Guntakal",
+    "country": "India"
+  },
+  {
+    "native": "తాడిపత్రి",
+    "latin": "Tadipatri",
+    "country": "India"
+  },
+  {
+    "native": "ధర్మవరం",
+    "latin": "Dharmavaram",
+    "country": "India"
+  },
+  {
+    "native": "కదిరి",
+    "latin": "Kadiri",
+    "country": "India"
+  },
+  {
+    "native": "మదనపల్లి",
+    "latin": "Madanapalle",
+    "country": "India"
+  },
+  {
+    "native": "పుంగనూరు",
+    "latin": "Punganur",
+    "country": "India"
+  },
+  {
+    "native": "శ్రీకాకుళం",
+    "latin": "Srikakulam",
+    "country": "India"
+  },
+  {
+    "native": "పార్వతీపురం",
+    "latin": "Parvathipuram",
+    "country": "India"
+  },
+  {
+    "native": "బొబ్బిలి",
+    "latin": "Bobbili",
+    "country": "India"
+  },
+  {
+    "native": "విజయనగరం",
+    "latin": "Vizianagaram",
+    "country": "India"
+  },
+  {
+    "native": "చోడవరం",
+    "latin": "Chodavaram",
+    "country": "India"
+  },
+  {
+    "native": "అనకాపల్లి",
+    "latin": "Anakapalli",
+    "country": "India"
+  },
+  {
+    "native": "భీమునిపట్నం",
+    "latin": "Bheemunipatnam",
+    "country": "India"
+  },
+  {
+    "native": "పెద్దాపురం",
+    "latin": "Peddapuram",
+    "country": "India"
+  },
+  {
+    "native": "సామర్లకోట",
+    "latin": "Samarlakota",
+    "country": "India"
+  },
+  {
+    "native": "తుని",
+    "latin": "Tuni",
+    "country": "India"
+  },
+  {
+    "native": "అమలాపురం",
+    "latin": "Amalapuram",
+    "country": "India"
+  },
+  {
+    "native": "రాజన్న సిరిసిల్ల",
+    "latin": "Siricilla",
+    "country": "India"
+  },
+  {
+    "native": "మెట్పల్లి",
+    "latin": "Metpally",
+    "country": "India"
+  },
+  {
+    "native": "అదిలాబాద్",
+    "latin": "Adilabad",
+    "country": "India"
+  },
+  {
+    "native": "కుమురం భీమ్",
+    "latin": "Kumuram Bheem",
+    "country": "India"
+  },
+  {
+    "native": "మంచిర్యాల",
+    "latin": "Mancherial",
+    "country": "India"
+  },
+  {
+    "native": "నిర్మల్",
+    "latin": "Nirmal",
+    "country": "India"
+  },
+  {
+    "native": "జయశంకర్ భూపాలపల్లి",
+    "latin": "Jaya Shankar Bhupalpally",
+    "country": "India"
+  },
+  {
+    "native": "పెద్దపల్లి",
+    "latin": "Peddapalli",
+    "country": "India"
+  },
+  {
+    "native": "రాజన్న సిరిసిల్ల",
+    "latin": "Rajanna Sircilla",
+    "country": "India"
+  },
+  {
+    "native": "కరీంనగర్",
+    "latin": "Karimnagar",
+    "country": "India"
+  },
+  {
+    "native": "ములుగు",
+    "latin": "Mulugu",
+    "country": "India"
+  },
+  {
+    "native": "భద్రాద్రి కొత్తగూడెం",
+    "latin": "Bhadradri Kothagudem",
+    "country": "India"
+  },
+  {
+    "native": "మహబూబాబాద్",
+    "latin": "Mahabubabad",
+    "country": "India"
+  },
+  {
+    "native": "వరంగల్",
+    "latin": "Warangal",
+    "country": "India"
+  },
+  {
+    "native": "హనుమకొండ",
+    "latin": "Hanamkonda",
+    "country": "India"
+  },
+  {
+    "native": "జనగామ",
+    "latin": "Jangaon",
+    "country": "India"
+  },
+  {
+    "native": "సిద్దిపేట",
+    "latin": "Siddipet",
+    "country": "India"
+  },
+  {
+    "native": "మెదక్",
+    "latin": "Medak",
+    "country": "India"
+  },
+  {
+    "native": "సంగారెడ్డి",
+    "latin": "Sangareddy",
+    "country": "India"
+  },
+  {
+    "native": "కామారెడ్డి",
+    "latin": "Kamareddy",
+    "country": "India"
+  },
+  {
+    "native": "నిజామాబాద్",
+    "latin": "Nizamabad",
+    "country": "India"
+  },
+  {
+    "native": "వికారాబాద్",
+    "latin": "Vikarabad",
+    "country": "India"
+  },
+  {
+    "native": "రంగారెడ్డి",
+    "latin": "Ranga Reddy",
+    "country": "India"
+  },
+  {
+    "native": "మహబూబ్ నగర్",
+    "latin": "Mahabubnagar",
+    "country": "India"
+  },
+  {
+    "native": "నాగర్ కర్నూల్",
+    "latin": "Nagar Kurnool",
+    "country": "India"
+  },
+  {
+    "native": "వనపర్తి",
+    "latin": "Wanaparthy",
+    "country": "India"
+  },
+  {
+    "native": "జోగులాంబ గద్వాల",
+    "latin": "Jogulamba Gadwal",
+    "country": "India"
+  },
+  {
+    "native": "నారాయణపేట",
+    "latin": "Narayanpet",
+    "country": "India"
+  },
+  {
+    "native": "వైఎస్ఆర్ కడప",
+    "latin": "YSR Kadapa",
+    "country": "India"
+  },
+  {
+    "native": "అన్నమయ్య",
+    "latin": "Annamayya",
+    "country": "India"
+  },
+  {
+    "native": "శ్రీ సత్యసాయి",
+    "latin": "Sri Sathya Sai",
+    "country": "India"
+  },
+  {
+    "native": "చిత్తూరు",
+    "latin": "Chittoor",
+    "country": "India"
+  },
+  {
+    "native": "తిరుపతి",
+    "latin": "Tirupati",
+    "country": "India"
+  },
+  {
+    "native": "కడప",
+    "latin": "Kadapa",
+    "country": "India"
+  },
+  {
+    "native": "అనంతపురం",
+    "latin": "Anantapur",
+    "country": "India"
+  },
+  {
+    "native": "కర్నూలు",
+    "latin": "Kurnool",
+    "country": "India"
+  },
+  {
+    "native": "నంద్యాల",
+    "latin": "Nandyal",
+    "country": "India"
+  },
+  {
+    "native": "పల్నాడు",
+    "latin": "Palnadu",
+    "country": "India"
+  },
+  {
+    "native": "బాపట్ల",
+    "latin": "Bapatla",
+    "country": "India"
+  },
+  {
+    "native": "గుంటూరు",
+    "latin": "Guntur",
+    "country": "India"
+  },
+  {
+    "native": "ప్రకాశం",
+    "latin": "Prakasam",
+    "country": "India"
+  },
+  {
+    "native": "శ్రీ పొట్టి శ్రీరాములు నెల్లూరు",
+    "latin": "Nellore",
+    "country": "India"
+  },
+  {
+    "native": "అల్లూరి సీతారామరాజు",
+    "latin": "Alluri Sitharama Raju",
+    "country": "India"
+  },
+  {
+    "native": "విశాఖపట్నం",
+    "latin": "Visakhapatnam",
+    "country": "India"
+  },
+  {
+    "native": "పార్వతీపురం మన్యం",
+    "latin": "Parvathipuram Manyam",
+    "country": "India"
+  },
+  {
+    "native": "శ్రీకాకుళం",
+    "latin": "Srikakulam",
+    "country": "India"
+  },
+  {
+    "native": "విజయనగరం",
+    "latin": "Vizianagaram",
+    "country": "India"
+  },
+  {
+    "native": "యానాం",
+    "latin": "Yanam",
+    "country": "India"
+  },
+  {
+    "native": "పిఠాపురం",
+    "latin": "Pithapuram",
+    "country": "India"
+  },
+  {
+    "native": "రాజోలు",
+    "latin": "Rajolu",
+    "country": "India"
+  },
+  {
+    "native": "ముమ్మిడివరం",
+    "latin": "Mummidivaram",
+    "country": "India"
+  },
+  {
+    "native": "రామచంద్రపురం",
+    "latin": "Ramachandrapuram",
+    "country": "India"
+  },
+  {
+    "native": "మండపేట",
+    "latin": "Mandapeta",
+    "country": "India"
+  },
+  {
+    "native": "కొత్తపేట",
+    "latin": "Kothapeta",
+    "country": "India"
+  },
+  {
+    "native": "గోకవరం",
+    "latin": "Gokavaram",
+    "country": "India"
+  },
+  {
+    "native": "చింతూరు",
+    "latin": "Chinturu",
+    "country": "India"
+  },
+  {
+    "native": "చింతలపూడి",
+    "latin": "Chintalapudi",
+    "country": "India"
+  },
+  {
+    "native": "కొవ్వూరు",
+    "latin": "Kovvuru",
+    "country": "India"
+  },
+  {
+    "native": "తిరువూరు",
+    "latin": "Tiruvuru",
+    "country": "India"
+  },
+  {
+    "native": "కల్లూరు",
+    "latin": "Kalluru",
+    "country": "India"
+  },
+  {
+    "native": "యల్లందు",
+    "latin": "Yellandu",
+    "country": "India"
+  },
+  {
+    "native": "భద్రాచలం",
+    "latin": "Bhadrachalam",
+    "country": "India"
+  },
+  {
+    "native": "కొత్తగూడెం",
+    "latin": "Kothagudem",
+    "country": "India"
+  },
+  {
+    "native": "మణుగూరు",
+    "latin": "Manuguru",
+    "country": "India"
+  },
+  {
+    "native": "ఆశ్వారావుపేట",
+    "latin": "Aswaraopeta",
+    "country": "India"
+  },
+  {
+    "native": "సూర్యాపేట",
+    "latin": "Suryapeta",
+    "country": "India"
+  },
+  {
+    "native": "కోదాడ",
+    "latin": "Kodada",
+    "country": "India"
+  },
+  {
+    "native": "మిర్యాలగూడ",
+    "latin": "Miryala Guda",
+    "country": "India"
+  },
+  {
+    "native": "నల్గొండ",
+    "latin": "Nalgonda",
+    "country": "India"
+  },
+  {
+    "native": "దేవరకొండ",
+    "latin": "Devarakonda",
+    "country": "India"
+  },
+  {
+    "native": "నాగార్జునసాగర్",
+    "latin": "Nagarjuna Sagar",
+    "country": "India"
+  },
+  {
+    "native": "గజ్వేల్",
+    "latin": "Gajwel",
+    "country": "India"
+  },
+  {
+    "native": "హజూర్ నగర్",
+    "latin": "Hajoor Nagar",
+    "country": "India"
+  },
+  {
+    "native": "దుబ్బాక",
+    "latin": "Dubbaka",
+    "country": "India"
+  },
+  {
+    "native": "ఘనపురం",
+    "latin": "Ghanapur",
+    "country": "India"
+  },
+  {
+    "native": "పార్కల్",
+    "latin": "Parkal",
+    "country": "India"
+  },
+  {
+    "native": "నర్సంపేట",
+    "latin": "Narsampeta",
+    "country": "India"
+  },
+  {
+    "native": "ఏటూరునగరం",
+    "latin": "Eturnagaram",
+    "country": "India"
+  },
+  {
+    "native": "హుజూరాబాద్",
+    "latin": "Huzurabad",
+    "country": "India"
+  },
+  {
+    "native": "జగిత్యాల",
+    "latin": "Jagtial",
+    "country": "India"
+  },
+  {
+    "native": "ఉట్నూరు",
+    "latin": "Utnoor",
+    "country": "India"
+  },
+  {
+    "native": "చెన్నూరు",
+    "latin": "Chennuru",
+    "country": "India"
+  },
+  {
+    "native": "బెల్లంపల్లి",
+    "latin": "Bellampalli",
+    "country": "India"
+  },
+  {
+    "native": "మందమర్రి",
+    "latin": "Mandamarri",
+    "country": "India"
+  },
+  {
+    "native": "గోదావరిఖని",
+    "latin": "Godavarikhani",
+    "country": "India"
+  },
+  {
+    "native": "సుల్తానాబాద్",
+    "latin": "Sultanabad",
+    "country": "India"
+  },
+  {
+    "native": "సిరిసిల్ల",
+    "latin": "Siricilla",
+    "country": "India"
+  },
+  {
+    "native": "బోధన్",
+    "latin": "Bodhan",
+    "country": "India"
+  },
+  {
+    "native": "మఖ్తల్",
+    "latin": "Makthal",
+    "country": "India"
+  },
+  {
+    "native": "గద్వాల",
+    "latin": "Gadwal",
+    "country": "India"
+  },
+  {
+    "native": "కల్వకుర్తి",
+    "latin": "Kalwakurthy",
+    "country": "India"
+  },
+  {
+    "native": "ఆచంపేట",
+    "latin": "Achampeta",
+    "country": "India"
+  },
+  {
+    "native": "కొల్లాపూర్",
+    "latin": "Kollapur",
+    "country": "India"
+  },
+  {
+    "native": "దేవరకద్ర",
+    "latin": "Devarakadra",
+    "country": "India"
+  },
+  {
+    "native": "తాండూరు",
+    "latin": "Tandur",
+    "country": "India"
+  },
+  {
+    "native": "పరిగి",
+    "latin": "Parigi",
+    "country": "India"
+  },
+  {
+    "native": "చేవెళ్ళ",
+    "latin": "Chevella",
+    "country": "India"
+  },
+  {
+    "native": "ఇబ్రహీంపట్నం",
+    "latin": "Ibrahimpatnam",
+    "country": "India"
+  },
+  {
+    "native": "శంషాబాద్",
+    "latin": "Shamshabad",
+    "country": "India"
+  },
+  {
+    "native": "రాజేంద్రనగర్",
+    "latin": "Rajendra Nagar",
+    "country": "India"
+  },
+  {
+    "native": "పటాన్చెరువు",
+    "latin": "Patancheruvu",
+    "country": "India"
+  },
+  {
+    "native": "జహీరాబాద్",
+    "latin": "Zaheerabad",
+    "country": "India"
+  },
+  {
+    "native": "మక్తల్",
+    "latin": "Makhtal",
+    "country": "India"
+  },
+  {
+    "native": "బీబీనగర్",
+    "latin": "Bibinagar",
+    "country": "India"
+  },
+  {
+    "native": "భువనగిరి",
+    "latin": "Bhongir",
+    "country": "India"
+  },
+  {
+    "native": "చౌటుప్పల్",
+    "latin": "Choutuppal",
+    "country": "India"
+  },
+  {
+    "native": "వలిగొండ",
+    "latin": "Valigonda",
+    "country": "India"
+  },
+  {
+    "native": "పెద్వ",
+    "latin": "Pedda",
+    "country": "India"
+  },
+  {
+    "native": "కోహెడ",
+    "latin": "Koheda",
+    "country": "India"
+  },
+  {
+    "native": "రాయికల్",
+    "latin": "Raikal",
+    "country": "India"
+  },
+  {
+    "native": "వేములవాడ",
+    "latin": "Vemulawada",
+    "country": "India"
+  },
+  {
+    "native": "చొప్పదండి",
+    "latin": "Choppadandi",
+    "country": "India"
+  },
+  {
+    "native": "కోరుట్ల",
+    "latin": "Korutla",
+    "country": "India"
+  },
+  {
+    "native": "జగిత్యాల",
+    "latin": "Jagtial",
+    "country": "India"
+  },
+  {
+    "native": "ధర్మపురి",
+    "latin": "Dharmapuri",
+    "country": "India"
+  },
+  {
+    "native": "చేర్యాల",
+    "latin": "Cheryal",
+    "country": "India"
+  },
+  {
+    "native": "పాలకుర్తి",
+    "latin": "Palakurthi",
+    "country": "India"
+  },
+  {
+    "native": "తొర్రూరు",
+    "latin": "Thorrur",
+    "country": "India"
+  },
+  {
+    "native": "స్టేషన్ ఘనపురం",
+    "latin": "Station Ghanpur",
+    "country": "India"
+  },
+  {
+    "native": "హన్మకొండ",
+    "latin": "Hanamkonda",
+    "country": "India"
+  },
+  {
+    "native": "కాజీపేట",
+    "latin": "Kazipet",
+    "country": "India"
+  },
+  {
+    "native": "మాడిపల్లి",
+    "latin": "Madipalli",
+    "country": "India"
+  },
+  {
+    "native": "కేసముద్రం",
+    "latin": "Kesamudram",
+    "country": "India"
+  },
+  {
+    "native": "నర్సంపేట",
+    "latin": "Narsampet",
+    "country": "India"
+  },
+  {
+    "native": "ఇందుకూరుపేట",
+    "latin": "Indukurupeta",
+    "country": "India"
+  },
+  {
+    "native": "గూడూరు",
+    "latin": "Guduru",
+    "country": "India"
+  },
+  {
+    "native": "కావలి",
+    "latin": "Kavali",
+    "country": "India"
+  },
+  {
+    "native": "బుచ్చిరెడ్డిపాలెం",
+    "latin": "Buchireddipalem",
+    "country": "India"
+  },
+  {
+    "native": "కండుకూరు",
+    "latin": "Kandukur",
+    "country": "India"
+  },
+  {
+    "native": "చీరాల",
+    "latin": "Chirala",
+    "country": "India"
+  },
+  {
+    "native": "వేటపాలెం",
+    "latin": "Vetapalem",
+    "country": "India"
+  },
+  {
+    "native": "అద్దంకి",
+    "latin": "Addanki",
+    "country": "India"
+  },
+  {
+    "native": "మార్కాపురం",
+    "latin": "Markapur",
+    "country": "India"
+  },
+  {
+    "native": "గిద్దలూరు",
+    "latin": "Giddaluru",
+    "country": "India"
+  },
+  {
+    "native": "బడ్వేలు",
+    "latin": "Badvelu",
+    "country": "India"
+  },
+  {
+    "native": "మైదుకూరు",
+    "latin": "Mydkuru",
+    "country": "India"
+  },
+  {
+    "native": "గూడూరు",
+    "latin": "Gudur",
+    "country": "India"
+  },
+  {
+    "native": "సర్వేపల్లి",
+    "latin": "Sarvepalli",
+    "country": "India"
+  },
+  {
+    "native": "సూళ్ళూరుపేట",
+    "latin": "Sullurupeta",
+    "country": "India"
+  },
+  {
+    "native": "శ్రీకాళహస్తి",
+    "latin": "Srikalahasti",
+    "country": "India"
+  },
+  {
+    "native": "పుత్తూరు",
+    "latin": "Puttur",
+    "country": "India"
+  },
+  {
+    "native": "సర్వాయపాలెం",
+    "latin": "Sarvayapalem",
+    "country": "India"
+  },
+  {
+    "native": "కనిగిరి",
+    "latin": "Kanigiri",
+    "country": "India"
+  },
+  {
+    "native": "పొదిలి",
+    "latin": "Podili",
+    "country": "India"
+  },
+  {
+    "native": "దర్శి",
+    "latin": "Darsi",
+    "country": "India"
+  },
+  {
+    "native": "చంద్రగిరి",
+    "latin": "Chandragiri",
+    "country": "India"
+  },
+  {
+    "native": "రేణిగుంట",
+    "latin": "Renigunta",
+    "country": "India"
+  },
+  {
+    "native": "గూడూరు",
+    "latin": "Guduru",
+    "country": "India"
+  }
 ]

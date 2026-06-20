@@ -608,5 +608,530 @@
     "native": "गोरखा",
     "latin": "Gorkha",
     "country": "Nepal"
+  },
+  {
+    "native": "भोजपुर",
+    "latin": "Bhojpur",
+    "country": "Nepal"
+  },
+  {
+    "native": "धनकुटा",
+    "latin": "Dhankuta",
+    "country": "Nepal"
+  },
+  {
+    "native": "तेह्रथुम",
+    "latin": "Tehrathum",
+    "country": "Nepal"
+  },
+  {
+    "native": "संखुवासभा",
+    "latin": "Sankhuwasabha",
+    "country": "Nepal"
+  },
+  {
+    "native": "ताप्लेजुङ",
+    "latin": "Taplejung",
+    "country": "Nepal"
+  },
+  {
+    "native": "पाँचथर",
+    "latin": "Panchthar",
+    "country": "Nepal"
+  },
+  {
+    "native": "इलाम",
+    "latin": "Ilam",
+    "country": "Nepal"
+  },
+  {
+    "native": "झापा",
+    "latin": "Jhapa",
+    "country": "Nepal"
+  },
+  {
+    "native": "मोरङ",
+    "latin": "Morang",
+    "country": "Nepal"
+  },
+  {
+    "native": "सुनसरी",
+    "latin": "Sunsari",
+    "country": "Nepal"
+  },
+  {
+    "native": "उदयपुर",
+    "latin": "Udayapur",
+    "country": "Nepal"
+  },
+  {
+    "native": "सप्तरी",
+    "latin": "Saptari",
+    "country": "Nepal"
+  },
+  {
+    "native": "सिराहा",
+    "latin": "Siraha",
+    "country": "Nepal"
+  },
+  {
+    "native": "धनुषा",
+    "latin": "Dhanusha",
+    "country": "Nepal"
+  },
+  {
+    "native": "महोत्तरी",
+    "latin": "Mahottari",
+    "country": "Nepal"
+  },
+  {
+    "native": "बारा",
+    "latin": "Bara",
+    "country": "Nepal"
+  },
+  {
+    "native": "पर्सा",
+    "latin": "Parsa",
+    "country": "Nepal"
+  },
+  {
+    "native": "चितवन",
+    "latin": "Chitwan",
+    "country": "Nepal"
+  },
+  {
+    "native": "मकवानपुर",
+    "latin": "Makwanpur",
+    "country": "Nepal"
+  },
+  {
+    "native": "भक्तपुर",
+    "latin": "Bhaktapur",
+    "country": "Nepal"
+  },
+  {
+    "native": "ललितपुर",
+    "latin": "Lalitpur",
+    "country": "Nepal"
+  },
+  {
+    "native": "काठमाडौं",
+    "latin": "Kathmandu",
+    "country": "Nepal"
+  },
+  {
+    "native": "नुवाकोट",
+    "latin": "Nuwakot",
+    "country": "Nepal"
+  },
+  {
+    "native": "रसुवा",
+    "latin": "Rasuwa",
+    "country": "Nepal"
+  },
+  {
+    "native": "धादिङ",
+    "latin": "Dhading",
+    "country": "Nepal"
+  },
+  {
+    "native": "गोरखा",
+    "latin": "Gorkha",
+    "country": "Nepal"
+  },
+  {
+    "native": "लमजुङ",
+    "latin": "Lamjung",
+    "country": "Nepal"
+  },
+  {
+    "native": "मनाङ",
+    "latin": "Manang",
+    "country": "Nepal"
+  },
+  {
+    "native": "मुस्ताङ",
+    "latin": "Mustang",
+    "country": "Nepal"
+  },
+  {
+    "native": "पर्वत",
+    "latin": "Parbat",
+    "country": "Nepal"
+  },
+  {
+    "native": "स्याङ्जा",
+    "latin": "Syangja",
+    "country": "Nepal"
+  },
+  {
+    "native": "गुल्मी",
+    "latin": "Gulmi",
+    "country": "Nepal"
+  },
+  {
+    "native": "अर्घाखाँची",
+    "latin": "Arghakhanchi",
+    "country": "Nepal"
+  },
+  {
+    "native": "पाल्पा",
+    "latin": "Palpa",
+    "country": "Nepal"
+  },
+  {
+    "native": "नवलपरासी",
+    "latin": "Nawalparasi",
+    "country": "Nepal"
+  },
+  {
+    "native": "रूपन्देही",
+    "latin": "Rupandehi",
+    "country": "Nepal"
+  },
+  {
+    "native": "कपिलवस्तु",
+    "latin": "Kapilvastu",
+    "country": "Nepal"
+  },
+  {
+    "native": "दाङ",
+    "latin": "Dang",
+    "country": "Nepal"
+  },
+  {
+    "native": "बाँके",
+    "latin": "Banke",
+    "country": "Nepal"
+  },
+  {
+    "native": "बर्दिया",
+    "latin": "Bardiya",
+    "country": "Nepal"
+  },
+  {
+    "native": "सुर्खेत",
+    "latin": "Surkhet",
+    "country": "Nepal"
+  },
+  {
+    "native": "दैलेख",
+    "latin": "Dailekh",
+    "country": "Nepal"
+  },
+  {
+    "native": "जाजरकोट",
+    "latin": "Jajarkot",
+    "country": "Nepal"
+  },
+  {
+    "native": "डोल्पा",
+    "latin": "Dolpa",
+    "country": "Nepal"
+  },
+  {
+    "native": "जुम्ला",
+    "latin": "Jumla",
+    "country": "Nepal"
+  },
+  {
+    "native": "हुम्ला",
+    "latin": "Humla",
+    "country": "Nepal"
+  },
+  {
+    "native": "मुगु",
+    "latin": "Mugu",
+    "country": "Nepal"
+  },
+  {
+    "native": "कालीकोट",
+    "latin": "Kalikot",
+    "country": "Nepal"
+  },
+  {
+    "native": "बाजुरा",
+    "latin": "Bajura",
+    "country": "Nepal"
+  },
+  {
+    "native": "बझाङ",
+    "latin": "Bajhang",
+    "country": "Nepal"
+  },
+  {
+    "native": "अछाम",
+    "latin": "Achham",
+    "country": "Nepal"
+  },
+  {
+    "native": "डोटी",
+    "latin": "Doti",
+    "country": "Nepal"
+  },
+  {
+    "native": "कैलाली",
+    "latin": "Kailali",
+    "country": "Nepal"
+  },
+  {
+    "native": "कञ्चनपुर",
+    "latin": "Kanchanpur",
+    "country": "Nepal"
+  },
+  {
+    "native": "डडेलधुरा",
+    "latin": "Dadeldhura",
+    "country": "Nepal"
+  },
+  {
+    "native": "बैतडी",
+    "latin": "Baitadi",
+    "country": "Nepal"
+  },
+  {
+    "native": "दार्चुला",
+    "latin": "Darchula",
+    "country": "Nepal"
+  },
+  {
+    "native": "बागलुङ",
+    "latin": "Baglung",
+    "country": "Nepal"
+  },
+  {
+    "native": "म्याग्दी",
+    "latin": "Myagdi",
+    "country": "Nepal"
+  },
+  {
+    "native": "प्युठान",
+    "latin": "Pyuthan",
+    "country": "Nepal"
+  },
+  {
+    "native": "रोल्पा",
+    "latin": "Rolpa",
+    "country": "Nepal"
+  },
+  {
+    "native": "रुकुम",
+    "latin": "Rukum",
+    "country": "Nepal"
+  },
+  {
+    "native": "सल्यान",
+    "latin": "Salyan",
+    "country": "Nepal"
+  },
+  {
+    "native": "जाजरकोट",
+    "latin": "Jajarkot",
+    "country": "Nepal"
+  },
+  {
+    "native": "दैलेख",
+    "latin": "Dailekh",
+    "country": "Nepal"
+  },
+  {
+    "native": "सुर्खेत",
+    "latin": "Surkhet",
+    "country": "Nepal"
+  },
+  {
+    "native": "बर्दिया",
+    "latin": "Bardiya",
+    "country": "Nepal"
+  },
+  {
+    "native": "बाँके",
+    "latin": "Banke",
+    "country": "Nepal"
+  },
+  {
+    "native": "दाङ",
+    "latin": "Dang",
+    "country": "Nepal"
+  },
+  {
+    "native": "नवलपुर",
+    "latin": "Nawalpur",
+    "country": "Nepal"
+  },
+  {
+    "native": "रामेछाप",
+    "latin": "Ramechhap",
+    "country": "Nepal"
+  },
+  {
+    "native": "सिन्धुली",
+    "latin": "Sindhuli",
+    "country": "Nepal"
+  },
+  {
+    "native": "ओखलढुङ्गा",
+    "latin": "Okhaldhunga",
+    "country": "Nepal"
+  },
+  {
+    "native": "खोटाङ",
+    "latin": "Khotang",
+    "country": "Nepal"
+  },
+  {
+    "native": "सोलुखुम्बु",
+    "latin": "Solukhumbu",
+    "country": "Nepal"
+  },
+  {
+    "native": "डोटी",
+    "latin": "Doti",
+    "country": "Nepal"
+  },
+  {
+    "native": "टीकापुर",
+    "latin": "Tikapur",
+    "country": "Nepal"
+  },
+  {
+    "native": "धनगढी",
+    "latin": "Dhangadhi",
+    "country": "Nepal"
+  },
+  {
+    "native": "भीमदत्त",
+    "latin": "Bhimdatta",
+    "country": "Nepal"
+  },
+  {
+    "native": "वडदशी",
+    "latin": "Badadashi",
+    "country": "Nepal"
+  },
+  {
+    "native": "गुलरिया",
+    "latin": "Gularia",
+    "country": "Nepal"
+  },
+  {
+    "native": "नेपालगञ्ज",
+    "latin": "Nepalgunj",
+    "country": "Nepal"
+  },
+  {
+    "native": "बुटवल",
+    "latin": "Butwal",
+    "country": "Nepal"
+  },
+  {
+    "native": "सिद्धार्थनगर",
+    "latin": "Siddharthanagar",
+    "country": "Nepal"
+  },
+  {
+    "native": "बेलहिया",
+    "latin": "Belahiya",
+    "country": "Nepal"
+  },
+  {
+    "native": "त्रिभुवननगर",
+    "latin": "Tribhuvannagar",
+    "country": "Nepal"
+  },
+  {
+    "native": "तौलिहवा",
+    "latin": "Taulihawa",
+    "country": "Nepal"
+  },
+  {
+    "native": "लुम्बिनी",
+    "latin": "Lumbini",
+    "country": "Nepal"
+  },
+  {
+    "native": "रामग्राम",
+    "latin": "Ramgram",
+    "country": "Nepal"
+  },
+  {
+    "native": "बर्दघाट",
+    "latin": "Bardaghat",
+    "country": "Nepal"
+  },
+  {
+    "native": "अमरगढी",
+    "latin": "Amargadhi",
+    "country": "Nepal"
+  },
+  {
+    "native": "दशरथचन्द",
+    "latin": "Dasharathchand",
+    "country": "Nepal"
+  },
+  {
+    "native": "पाटन",
+    "latin": "Patan",
+    "country": "Nepal"
+  },
+  {
+    "native": "जनकपुर",
+    "latin": "Janakpur",
+    "country": "Nepal"
+  },
+  {
+    "native": "बीरगञ्ज",
+    "latin": "Birgunj",
+    "country": "Nepal"
+  },
+  {
+    "native": "कलैया",
+    "latin": "Kalaiya",
+    "country": "Nepal"
+  },
+  {
+    "native": "गौर",
+    "latin": "Gaur",
+    "country": "Nepal"
+  },
+  {
+    "native": "राजविराज",
+    "latin": "Rajbiraj",
+    "country": "Nepal"
+  },
+  {
+    "native": "विराटनगर",
+    "latin": "Biratnagar",
+    "country": "Nepal"
+  },
+  {
+    "native": "इटहरी",
+    "latin": "Itahari",
+    "country": "Nepal"
+  },
+  {
+    "native": "धरान",
+    "latin": "Dharan",
+    "country": "Nepal"
+  },
+  {
+    "native": "दमक",
+    "latin": "Damak",
+    "country": "Nepal"
+  },
+  {
+    "native": "बिर्तामोड",
+    "latin": "Birtamod",
+    "country": "Nepal"
+  },
+  {
+    "native": "मेची",
+    "latin": "Mechi",
+    "country": "Nepal"
+  },
+  {
+    "native": "कन्काइ",
+    "latin": "Kankai",
+    "country": "Nepal"
   }
 ]

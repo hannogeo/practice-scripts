@@ -1,101 +1,1002 @@
 [
-  {"native":"Бишкек","latin":"Bishkek"},
-  {"native":"Ош","latin":"Osh"},
-  {"native":"Жалал-Абад","latin":"Jalal-Abad"},
-  {"native":"Каракол","latin":"Karakol"},
-  {"native":"Токмок","latin":"Tokmok"},
-  {"native":"Өзгөн","latin":"Ozgön"},
-  {"native":"Кызыл-Кыя","latin":"Kyzyl-Kyya"},
-  {"native":"Балыкчы","latin":"Balykchy"},
-  {"native":"Нарын","latin":"Naryn"},
-  {"native":"Талас","latin":"Talas"},
-  {"native":"Баткен","latin":"Batken"},
-  {"native":"Исфана","latin":"Isfana"},
-  {"native":"Кара-Балта","latin":"Kara-Balta"},
-  {"native":"Кант","latin":"Kant"},
-  {"native":"Сокулук","latin":"Sokuluk"},
-  {"native":"Кемин","latin":"Kemin"},
-  {"native":"Токтогул","latin":"Toktogul"},
-  {"native":"Кара-Көл","latin":"Kara-Köl"},
-  {"native":"Майлуу-Суу","latin":"Mailuu-Suu"},
-  {"native":"Таш-Көмүр","latin":"Tash-Kömür"},
-  {"native":"Шамалды-Сай","latin":"Shamaldy-Say"},
-  {"native":"Кочкор-Ата","latin":"Kochkor-Ata"},
-  {"native":"Сузак","latin":"Suzak"},
-  {"native":"Базар-Коргон","latin":"Bazar-Korgon"},
-  {"native":"Ноокат","latin":"Nookat"},
-  {"native":"Араван","latin":"Aravan"},
-  {"native":"Кара-Суу","latin":"Kara-Suu"},
-  {"native":"Узген","latin":"Uzgen"},
-  {"native":"Гүлчө","latin":"Gulcha"},
-  {"native":"Ала-Бука","latin":"Ala-Buka"},
-  {"native":"Кербен","latin":"Kerben"},
-  {"native":"Токмок","latin":"Tokmok"},
-  {"native":"Чолпон-Ата","latin":"Cholpon-Ata"},
-  {"native":"Бостери","latin":"Bosteri"},
-  {"native":"Кара-Ой","latin":"Kara-Oy"},
-  {"native":"Тамга","latin":"Tamga"},
-  {"native":"Жыргалаң","latin":"Jyrgalan"},
-  {"native":"Кажырт","latin":"Kazhyrt"},
-  {"native":"Үч-Коргон","latin":"Uch-Korgon"},
-  {"native":"Ат-Башы","latin":"At-Bashy"},
-  {"native":"Чаек","latin":"Chaek"},
-  {"native":"Мин-Куш","latin":"Min-Kush"},
-  {"native":"Ак-Талаа","latin":"Ak-Talaa"},
-  {"native":"Кочкор","latin":"Kochkor"},
-  {"native":"Орто-Токой","latin":"Orto-Tokoy"},
-  {"native":"Бөкөнбаев","latin":"Bökönbayev"},
-  {"native":"Сары-Булак","latin":"Sary-Bulak"},
-  {"native":"Покровка","latin":"Pokrovka"},
-  {"native":"Кировское","latin":"Kirovskoye"},
-  {"native":"Чүй","latin":"Chuy"},
-  {"native":"Ак-Суу","latin":"Ak-Suu"},
-  {"native":"Түп","latin":"Tup"},
-  {"native":"Барскоон","latin":"Barskoon"},
-  {"native":"Қызыл-Суу","latin":"Kyzyl-Suu"},
-  {"native":"Жети-Огүз","latin":"Jeti-Oguz"},
-  {"native":"Тон","latin":"Ton"},
-  {"native":"Ак-Талаа","latin":"Ak-Talaa"},
-  {"native":"Ат-Башы","latin":"At-Bashy"},
-  {"native":"Нарын","latin":"Naryn"},
-  {"native":"Кочкор","latin":"Kochkor"},
-  {"native":"Жумгал","latin":"Jumgal"},
-  {"native":"Баетов","latin":"Bayetov"},
-  {"native":"Ак-Талаа","latin":"Ak-Talaa"},
-  {"native":"Мин-Куш","latin":"Min-Kush"},
-  {"native":"Казарман","latin":"Kazarman"},
-  {"native":"Токтогул","latin":"Toktogul"},
-  {"native":"Кетмен-Төбө","latin":"Ketmen-Tobo"},
-  {"native":"Сүзак","latin":"Suzak"},
-  {"native":"Ала-Бука","latin":"Ala-Buka"},
-  {"native":"Базар-Коргон","latin":"Bazar-Korgon"},
-  {"native":"Ноокен","latin":"Nooken"},
-  {"native":"Аксый","latin":"Aksy"},
-  {"native":"Токтогул","latin":"Toktogul"},
-  {"native":"Кара-Кулжа","latin":"Kara-Kulja"},
-  {"native":"Алай","latin":"Alay"},
-  {"native":"Чоң-Алай","latin":"Chon-Alay"},
-  {"native":"Өзгөн","latin":"Ozgön"},
-  {"native":"Кара-Суу","latin":"Kara-Suu"},
-  {"native":"Араван","latin":"Aravan"},
-  {"native":"Наукат","latin":"Nookat"},
-  {"native":"Лейлек","latin":"Leilek"},
-  {"native":"Баткен","latin":"Batken"},
-  {"native":"Кадамжай","latin":"Kadamjay"},
-  {"native":"Бөзүм","latin":"Bozum"},
-  {"native":"Майдан","latin":"Maydan"},
-  {"native":"Кызыл-Кыя","latin":"Kyzyl-Kyya"},
-  {"native":"Көк-Таш","latin":"Kok-Tash"},
-  {"native":"Үч-Коргон","latin":"Uch-Korgon"},
-  {"native":"Ак-Суу","latin":"Ak-Suu"},
-  {"native":"Беловодск","latin":"Belovodsk"},
-  {"native":"Кемин","latin":"Kemin"},
-  {"native":"Панфилов","latin":"Panfilov"},
-  {"native":"Жайыл","latin":"Jayyl"},
-  {"native":"Москва","latin":"Moskva"},
-  {"native":"Сокулук","latin":"Sokuluk"},
-  {"native":"Аламүдүн","latin":"Alamudun"},
-  {"native":"Ысык-Ата","latin":"Ysyk-Ata"},
-  {"native":"Кант","latin":"Kant"},
-  {"native":"Токмок","latin":"Tokmok"}
+  {
+    "native": "Бишкек",
+    "latin": "Bishkek",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ош",
+    "latin": "Osh",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Жалал-Абад",
+    "latin": "Jalal-Abad",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Каракол",
+    "latin": "Karakol",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Токмок",
+    "latin": "Tokmok",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Өзгөн",
+    "latin": "Ozgön",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кызыл-Кыя",
+    "latin": "Kyzyl-Kyya",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Балыкчы",
+    "latin": "Balykchy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Нарын",
+    "latin": "Naryn",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Талас",
+    "latin": "Talas",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Баткен",
+    "latin": "Batken",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Исфана",
+    "latin": "Isfana",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Балта",
+    "latin": "Kara-Balta",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кант",
+    "latin": "Kant",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Сокулук",
+    "latin": "Sokuluk",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кемин",
+    "latin": "Kemin",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Токтогул",
+    "latin": "Toktogul",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Көл",
+    "latin": "Kara-Köl",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Майлуу-Суу",
+    "latin": "Mailuu-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Таш-Көмүр",
+    "latin": "Tash-Kömür",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Шамалды-Сай",
+    "latin": "Shamaldy-Say",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кочкор-Ата",
+    "latin": "Kochkor-Ata",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Сузак",
+    "latin": "Suzak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Базар-Коргон",
+    "latin": "Bazar-Korgon",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ноокат",
+    "latin": "Nookat",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Араван",
+    "latin": "Aravan",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Суу",
+    "latin": "Kara-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Узген",
+    "latin": "Uzgen",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Гүлчө",
+    "latin": "Gulcha",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ала-Бука",
+    "latin": "Ala-Buka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кербен",
+    "latin": "Kerben",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Токмок",
+    "latin": "Tokmok",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Чолпон-Ата",
+    "latin": "Cholpon-Ata",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Бостери",
+    "latin": "Bosteri",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Ой",
+    "latin": "Kara-Oy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Тамга",
+    "latin": "Tamga",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Жыргалаң",
+    "latin": "Jyrgalan",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кажырт",
+    "latin": "Kazhyrt",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Үч-Коргон",
+    "latin": "Uch-Korgon",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ат-Башы",
+    "latin": "At-Bashy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Чаек",
+    "latin": "Chaek",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Мин-Куш",
+    "latin": "Min-Kush",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ак-Талаа",
+    "latin": "Ak-Talaa",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кочкор",
+    "latin": "Kochkor",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Орто-Токой",
+    "latin": "Orto-Tokoy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Бөкөнбаев",
+    "latin": "Bökönbayev",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Сары-Булак",
+    "latin": "Sary-Bulak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Покровка",
+    "latin": "Pokrovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кировское",
+    "latin": "Kirovskoye",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Чүй",
+    "latin": "Chuy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ак-Суу",
+    "latin": "Ak-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Түп",
+    "latin": "Tup",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Барскоон",
+    "latin": "Barskoon",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Қызыл-Суу",
+    "latin": "Kyzyl-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Жети-Огүз",
+    "latin": "Jeti-Oguz",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Тон",
+    "latin": "Ton",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ак-Талаа",
+    "latin": "Ak-Talaa",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ат-Башы",
+    "latin": "At-Bashy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Нарын",
+    "latin": "Naryn",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кочкор",
+    "latin": "Kochkor",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Жумгал",
+    "latin": "Jumgal",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Баетов",
+    "latin": "Bayetov",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ак-Талаа",
+    "latin": "Ak-Talaa",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Мин-Куш",
+    "latin": "Min-Kush",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Казарман",
+    "latin": "Kazarman",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Токтогул",
+    "latin": "Toktogul",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кетмен-Төбө",
+    "latin": "Ketmen-Tobo",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Сүзак",
+    "latin": "Suzak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ала-Бука",
+    "latin": "Ala-Buka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Базар-Коргон",
+    "latin": "Bazar-Korgon",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ноокен",
+    "latin": "Nooken",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Аксый",
+    "latin": "Aksy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Токтогул",
+    "latin": "Toktogul",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Кулжа",
+    "latin": "Kara-Kulja",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Алай",
+    "latin": "Alay",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Чоң-Алай",
+    "latin": "Chon-Alay",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Өзгөн",
+    "latin": "Ozgön",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Суу",
+    "latin": "Kara-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Араван",
+    "latin": "Aravan",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Наукат",
+    "latin": "Nookat",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Лейлек",
+    "latin": "Leilek",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Баткен",
+    "latin": "Batken",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кадамжай",
+    "latin": "Kadamjay",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Бөзүм",
+    "latin": "Bozum",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Майдан",
+    "latin": "Maydan",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кызыл-Кыя",
+    "latin": "Kyzyl-Kyya",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Көк-Таш",
+    "latin": "Kok-Tash",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Үч-Коргон",
+    "latin": "Uch-Korgon",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ак-Суу",
+    "latin": "Ak-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Беловодск",
+    "latin": "Belovodsk",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кемин",
+    "latin": "Kemin",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Панфилов",
+    "latin": "Panfilov",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Жайыл",
+    "latin": "Jayyl",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Москва",
+    "latin": "Moskva",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Сокулук",
+    "latin": "Sokuluk",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Аламүдүн",
+    "latin": "Alamudun",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ысык-Ата",
+    "latin": "Ysyk-Ata",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кант",
+    "latin": "Kant",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Токмок",
+    "latin": "Tokmok",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Арашан",
+    "latin": "Arashan",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Боконбаев",
+    "latin": "Bokonbayev",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Көк-Мойнок",
+    "latin": "Kok-Moinok",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кызыл-Туу",
+    "latin": "Kyzyl-Tuu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Темир-Канат",
+    "latin": "Temir-Kanat",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Чырпыкты",
+    "latin": "Chyrpykty",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ысык-Көл",
+    "latin": "Ysyk-Kol",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ананьево",
+    "latin": "Ananyevo",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Григорьевка",
+    "latin": "Grigoryevka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Семеновка",
+    "latin": "Semyonovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Тамчы",
+    "latin": "Tamchy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ак-Суу",
+    "latin": "Ak-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Теплоключенка",
+    "latin": "Teploklyuchenka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Прожектор",
+    "latin": "Prozhektor",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кызыл-Суу",
+    "latin": "Kyzyl-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Нововознесеновка",
+    "latin": "Novovoznesenovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Жети-Огүз",
+    "latin": "Jeti-Oguz",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Тюп",
+    "latin": "Tyup",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ак-Булак",
+    "latin": "Ak-Bulak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Кыр",
+    "latin": "Kara-Kyr",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ынтымак",
+    "latin": "Yntymak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кызарт",
+    "latin": "Kyzart",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Актал",
+    "latin": "Aktal",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Байзак",
+    "latin": "Bayzak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Бурана",
+    "latin": "Burana",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Төмөнкү",
+    "latin": "Tomönkü",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Камышановка",
+    "latin": "Kamyshanovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Луговое",
+    "latin": "Lugovoye",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Алексеевка",
+    "latin": "Alekseyevka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Спартак",
+    "latin": "Spartak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Жаңы-Жол",
+    "latin": "Jany-Jol",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Буура",
+    "latin": "Kara-Buura",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Манас",
+    "latin": "Manas",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Таш-Кумыр",
+    "latin": "Tash-Kumyr",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кадамжай",
+    "latin": "Kadamjay",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Көк-Таш",
+    "latin": "Kok-Tash",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Күлдү",
+    "latin": "Küldü",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кызыл-Дыйкан",
+    "latin": "Kyzyl-Dyykan",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Айдаркен",
+    "latin": "Aydarken",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Хайдаркан",
+    "latin": "Khaidarkan",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Үч-Коргон",
+    "latin": "Uch-Korgon",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Эшбаш",
+    "latin": "Eshbash",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Сары-Таш",
+    "latin": "Sary-Tash",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Мургаб",
+    "latin": "Murgab",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Алтын-Бешик",
+    "latin": "Altyn-Beshik",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Гүлчө",
+    "latin": "Gulcha",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Таш-Арык",
+    "latin": "Tash-Aryk",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кожоке",
+    "latin": "Kozhoke",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кызыл-Октябрь",
+    "latin": "Kyzyl-Oktyabr",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Сүлүктү",
+    "latin": "Sülüktü",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Чалбар",
+    "latin": "Chalbar",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Беш-Буркан",
+    "latin": "Besh-Burkan",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ак-Ордо",
+    "latin": "Ak-Ordo",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ала-Арча",
+    "latin": "Ala-Archa",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Байтик",
+    "latin": "Baytik",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Дон-Арык",
+    "latin": "Don-Aryk",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Лебединовка",
+    "latin": "Lebedinovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Маймак",
+    "latin": "Maymak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Милианфан",
+    "latin": "Milianfan",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Нижне-Ивановка",
+    "latin": "Nizhne-Ivanovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Новопавловка",
+    "latin": "Novopavlovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Өрөө",
+    "latin": "Öröö",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Петровка",
+    "latin": "Petrovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Пригородное",
+    "latin": "Prigorodnoye",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Советское",
+    "latin": "Sovetskoye",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Шопоков",
+    "latin": "Shopokov",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Военно-Антоновка",
+    "latin": "Voyenno-Antonovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кош-Ала",
+    "latin": "Kosh-Ala",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Төлөйкөн",
+    "latin": "Tölöykön",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кале",
+    "latin": "Kale",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ак-Жар",
+    "latin": "Ak-Zhar",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Сосновка",
+    "latin": "Sosnovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Орловка",
+    "latin": "Orlovka",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Борду",
+    "latin": "Bordu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кызыл-Адыр",
+    "latin": "Kyzyl-Adyr",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Дөбө",
+    "latin": "Kara-Döbö",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Эски-Масы",
+    "latin": "Eski-Masy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Баш-Кууганды",
+    "latin": "Bash-Kuugandy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Нылды",
+    "latin": "Nyldy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Дөң",
+    "latin": "Dön",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Миң-Булак",
+    "latin": "Min-Bulak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Терек-Суу",
+    "latin": "Terek-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Чоң-Дөбө",
+    "latin": "Chon-Döbö",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Түз",
+    "latin": "Tüz",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ровное",
+    "latin": "Rovnoye",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Бакай-Ата",
+    "latin": "Bakay-Ata",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Көк-Ой",
+    "latin": "Kok-Oy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Чат-Базар",
+    "latin": "Chat-Bazar",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Талды-Булак",
+    "latin": "Taldy-Bulak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Булак",
+    "latin": "Kara-Bulak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кырк-Чоро",
+    "latin": "Kyrk-Choro",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Үч-Эмчек",
+    "latin": "Uch-Emchek",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Чоң-Арык",
+    "latin": "Chon-Aryk",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Төш-Булак",
+    "latin": "Tosh-Bulak",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кашка-Суу",
+    "latin": "Kashka-Suu",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кум-Бель",
+    "latin": "Kum-Bel",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Алай",
+    "latin": "Alay",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Ат-Башы",
+    "latin": "At-Bashy",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Көк-Жар",
+    "latin": "Kok-Zhar",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Талас",
+    "latin": "Talas",
+    "country": "Kyrgyzstan"
+  },
+  {
+    "native": "Кара-Кулжа",
+    "latin": "Kara-Kulzha",
+    "country": "Kyrgyzstan"
+  }
 ]

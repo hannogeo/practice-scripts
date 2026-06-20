@@ -558,5 +558,465 @@
     "native": "சென்னை",
     "latin": "Chennai",
     "country": "India"
+  },
+  {
+    "native": "கும்மிடிப்பூண்டி",
+    "latin": "Gummidipoondi",
+    "country": "India"
+  },
+  {
+    "native": "பொன்னேரி",
+    "latin": "Ponneri",
+    "country": "India"
+  },
+  {
+    "native": "திருத்தணி",
+    "latin": "Tiruttani",
+    "country": "India"
+  },
+  {
+    "native": "வேணியம்பாடி",
+    "latin": "Vaniyambadi",
+    "country": "India"
+  },
+  {
+    "native": "ஆம்பூர்",
+    "latin": "Ambur",
+    "country": "India"
+  },
+  {
+    "native": "ஓமலூர்",
+    "latin": "Omalur",
+    "country": "India"
+  },
+  {
+    "native": "மேட்டூர்",
+    "latin": "Mettur",
+    "country": "India"
+  },
+  {
+    "native": "ஏடப்பாடி",
+    "latin": "Edappadi",
+    "country": "India"
+  },
+  {
+    "native": "சங்ககிரி",
+    "latin": "Sankagiri",
+    "country": "India"
+  },
+  {
+    "native": "சென்னிமலை",
+    "latin": "Chennimalai",
+    "country": "India"
+  },
+  {
+    "native": "திருச்செங்கோடு",
+    "latin": "Tiruchengode",
+    "country": "India"
+  },
+  {
+    "native": "பல்லடம்",
+    "latin": "Palladam",
+    "country": "India"
+  },
+  {
+    "native": "காங்கேயம்",
+    "latin": "Kangayam",
+    "country": "India"
+  },
+  {
+    "native": "வெள்ளகோவில்",
+    "latin": "Vellakovil",
+    "country": "India"
+  },
+  {
+    "native": "கொடைக்கானல்",
+    "latin": "Kodaikanal",
+    "country": "India"
+  },
+  {
+    "native": "பட்டலகுண்டு",
+    "latin": "Battalagundu",
+    "country": "India"
+  },
+  {
+    "native": "பொடிநாயக்கனூர்",
+    "latin": "Bodinayakanur",
+    "country": "India"
+  },
+  {
+    "native": "கம்பம்",
+    "latin": "Cumbum",
+    "country": "India"
+  },
+  {
+    "native": "சிவகாசி",
+    "latin": "Sivakasi",
+    "country": "India"
+  },
+  {
+    "native": "ஸ்ரீவில்லிபுத்தூர்",
+    "latin": "Srivilliputhur",
+    "country": "India"
+  },
+  {
+    "native": "சாத்தூர்",
+    "latin": "Sattur",
+    "country": "India"
+  },
+  {
+    "native": "பரமக்குடி",
+    "latin": "Paramakudi",
+    "country": "India"
+  },
+  {
+    "native": "முதுகுளத்தூர்",
+    "latin": "Mudukulathur",
+    "country": "India"
+  },
+  {
+    "native": "இராமநாதபுரம்",
+    "latin": "Ramanathapuram",
+    "country": "India"
+  },
+  {
+    "native": "கீழக்கரை",
+    "latin": "Keelakarai",
+    "country": "India"
+  },
+  {
+    "native": "புலியங்குடி",
+    "latin": "Puliyangudi",
+    "country": "India"
+  },
+  {
+    "native": "சுரண்டை",
+    "latin": "Surandai",
+    "country": "India"
+  },
+  {
+    "native": "சேரன்மாதேவி",
+    "latin": "Cheranmadevi",
+    "country": "India"
+  },
+  {
+    "native": "திருச்சந்தூர்",
+    "latin": "Thiruchandur",
+    "country": "India"
+  },
+  {
+    "native": "குளச்சல்",
+    "latin": "Kulachal",
+    "country": "India"
+  },
+  {
+    "native": "தக்கலை",
+    "latin": "Thuckalay",
+    "country": "India"
+  },
+  {
+    "native": "பத்மநாபபுரம்",
+    "latin": "Padmanabhapuram",
+    "country": "India"
+  },
+  {
+    "native": "சித்தூர்",
+    "latin": "Chittoor",
+    "country": "India"
+  },
+  {
+    "native": "வாலாஜாபேட்டை",
+    "latin": "Walajapet",
+    "country": "India"
+  },
+  {
+    "native": "கேளம்பாக்கம்",
+    "latin": "Kelambakkam",
+    "country": "India"
+  },
+  {
+    "native": "மகேந்திரவாடி",
+    "latin": "Mahendravadi",
+    "country": "India"
+  },
+  {
+    "native": "திருக்கோவிலூர்",
+    "latin": "Tirukoilur",
+    "country": "India"
+  },
+  {
+    "native": "சேத்தூர்",
+    "latin": "Sethur",
+    "country": "India"
+  },
+  {
+    "native": "வண்டியூர்",
+    "latin": "Vandiyur",
+    "country": "India"
+  },
+  {
+    "native": "சின்னசேலம்",
+    "latin": "Chinnasalem",
+    "country": "India"
+  },
+  {
+    "native": "செஞ்சி",
+    "latin": "Gingee",
+    "country": "India"
+  },
+  {
+    "native": "திண்டிவனம்",
+    "latin": "Tindivanam",
+    "country": "India"
+  },
+  {
+    "native": "மரக்காணம்",
+    "latin": "Marakkanam",
+    "country": "India"
+  },
+  {
+    "native": "விக்ரவாண்டி",
+    "latin": "Vikravandi",
+    "country": "India"
+  },
+  {
+    "native": "திருவெண்ணைநல்லூர்",
+    "latin": "Thiruvannainallur",
+    "country": "India"
+  },
+  {
+    "native": "சங்கராபுரம்",
+    "latin": "Sankarapuram",
+    "country": "India"
+  },
+  {
+    "native": "உளுந்தூர்பேட்டை",
+    "latin": "Ulundurpettai",
+    "country": "India"
+  },
+  {
+    "native": "நெற்குன்றம்",
+    "latin": "Nerkunram",
+    "country": "India"
+  },
+  {
+    "native": "மாமல்லபுரம்",
+    "latin": "Mahabalipuram",
+    "country": "India"
+  },
+  {
+    "native": "திருப்போரூர்",
+    "latin": "Tiruporur",
+    "country": "India"
+  },
+  {
+    "native": "நந்தம்",
+    "latin": "Nandam",
+    "country": "India"
+  },
+  {
+    "native": "பல்லாவரம்",
+    "latin": "Pallavaram",
+    "country": "India"
+  },
+  {
+    "native": "பூவிருந்தவல்லி",
+    "latin": "Poovirundhavalli",
+    "country": "India"
+  },
+  {
+    "native": "குன்றத்தூர்",
+    "latin": "Kundrathur",
+    "country": "India"
+  },
+  {
+    "native": "மங்காடு",
+    "latin": "Mangadu",
+    "country": "India"
+  },
+  {
+    "native": "எண்ணூர்",
+    "latin": "Ennore",
+    "country": "India"
+  },
+  {
+    "native": "மாதவரம்",
+    "latin": "Madhavaram",
+    "country": "India"
+  },
+  {
+    "native": "திருவேற்காடு",
+    "latin": "Tiruvirkkadu",
+    "country": "India"
+  },
+  {
+    "native": "குன்னூர்",
+    "latin": "Coonoor",
+    "country": "India"
+  },
+  {
+    "native": "கோத்தகிரி",
+    "latin": "Kotagiri",
+    "country": "India"
+  },
+  {
+    "native": "எல்குன்னி",
+    "latin": "Elkunnil",
+    "country": "India"
+  },
+  {
+    "native": "குட்டம்",
+    "latin": "Guddam",
+    "country": "India"
+  },
+  {
+    "native": "பெரியகுளம்",
+    "latin": "Periyakulam",
+    "country": "India"
+  },
+  {
+    "native": "வத்தலகுண்டு",
+    "latin": "Vathalagundu",
+    "country": "India"
+  },
+  {
+    "native": "உசிலம்பட்டி",
+    "latin": "Usilampatti",
+    "country": "India"
+  },
+  {
+    "native": "திருபுவனம்",
+    "latin": "Thiruppuvanam",
+    "country": "India"
+  },
+  {
+    "native": "திருமங்கலம்",
+    "latin": "Thirumangalam",
+    "country": "India"
+  },
+  {
+    "native": "அருப்புக்கோட்டை",
+    "latin": "Aruppukkottai",
+    "country": "India"
+  },
+  {
+    "native": "திருவில்லிபுத்தூர்",
+    "latin": "Srivilliputhur",
+    "country": "India"
+  },
+  {
+    "native": "வத்திராயிருப்பு",
+    "latin": "Vattirairuppu",
+    "country": "India"
+  },
+  {
+    "native": "கமுதி",
+    "latin": "Kamuthi",
+    "country": "India"
+  },
+  {
+    "native": "சாயல்குடி",
+    "latin": "Sawalkudi",
+    "country": "India"
+  },
+  {
+    "native": "உப்பூர்",
+    "latin": "Uppoor",
+    "country": "India"
+  },
+  {
+    "native": "மணப்பாடு",
+    "latin": "Manappada",
+    "country": "India"
+  },
+  {
+    "native": "குமாரபுரம்",
+    "latin": "Kumarapuram",
+    "country": "India"
+  },
+  {
+    "native": "திங்கள்நகர்",
+    "latin": "Thingalnagar",
+    "country": "India"
+  },
+  {
+    "native": "குமரிமுத்தம்",
+    "latin": "Kumarimuttam",
+    "country": "India"
+  },
+  {
+    "native": "அகத்தீஸ்வரம்",
+    "latin": "Agastheeswaram",
+    "country": "India"
+  },
+  {
+    "native": "தெற்கு குமரி",
+    "latin": "Therakkumari",
+    "country": "India"
+  },
+  {
+    "native": "விஜயநாராயணம்",
+    "latin": "Vijayanarayanam",
+    "country": "India"
+  },
+  {
+    "native": "திருப்பரப்பு",
+    "latin": "Thirupparappu",
+    "country": "India"
+  },
+  {
+    "native": "தேவீபுரம்",
+    "latin": "Devipuram",
+    "country": "India"
+  },
+  {
+    "native": "குமரிக்கோடு",
+    "latin": "Kumarikkoddu",
+    "country": "India"
+  },
+  {
+    "native": "ஆசாரிப்பள்ளம்",
+    "latin": "Acharipallam",
+    "country": "India"
+  },
+  {
+    "native": "கண்டன்குளம்",
+    "latin": "Kandankulam",
+    "country": "India"
+  },
+  {
+    "native": "எத்தாபுரம்",
+    "latin": "Ettapuram",
+    "country": "India"
+  },
+  {
+    "native": "திருநெல்வேலி சந்தை",
+    "latin": "Tirunelveli Market",
+    "country": "India"
+  },
+  {
+    "native": "ஆவணம்",
+    "latin": "Avanam",
+    "country": "India"
+  },
+  {
+    "native": "கைக்கலன்குப்பம்",
+    "latin": "Kaikalankuppam",
+    "country": "India"
+  },
+  {
+    "native": "தேவதானம்",
+    "latin": "Devathanam",
+    "country": "India"
+  },
+  {
+    "native": "வடலூர்",
+    "latin": "Vadalur",
+    "country": "India"
+  },
+  {
+    "native": "காட்டுமன்னார்குடி",
+    "latin": "Kattumannaar Kuddi",
+    "country": "India"
   }
 ]

@@ -1,124 +1,1012 @@
 [
-  {"native":"ಬೆಂಗಳೂರು","latin":"Bengaluru"},
-  {"native":"ಮೈಸೂರು","latin":"Mysuru"},
-  {"native":"ಹುಬ್ಬಳ್ಳಿ","latin":"Hubballi"},
-  {"native":"ಮಂಗಳೂರು","latin":"Mangaluru"},
-  {"native":"ಬೆಳಗಾವಿ","latin":"Belagavi"},
-  {"native":"ದಾವಣಗೆರೆ","latin":"Davanagere"},
-  {"native":"ಕಲಬುರಗಿ","latin":"Kalaburagi"},
-  {"native":"ಶಿವಮೊಗ್ಗ","latin":"Shivamogga"},
-  {"native":"ತುಮಕೂರು","latin":"Tumakuru"},
-  {"native":"ಬಳ್ಳಾರಿ","latin":"Ballari"},
-  {"native":"ವಿಜಯಪುರ","latin":"Vijayapura"},
-  {"native":"ರಾಯಚೂರು","latin":"Raichur"},
-  {"native":"ಹಾವೇರಿ","latin":"Haveri"},
-  {"native":"ಬೀದರ್","latin":"Bidar"},
-  {"native":"ಚಿಕ್ಕಮಗಳೂರು","latin":"Chikkamagaluru"},
-  {"native":"ಹಾಸನ","latin":"Hassan"},
-  {"native":"ರಾಮನಗರ","latin":"Ramanagara"},
-  {"native":"ಕೋಲಾರ","latin":"Kolar"},
-  {"native":"ಚಿತ್ರದುರ್ಗ","latin":"Chitradurga"},
-  {"native":"ಕೊಪ್ಪಳ","latin":"Koppal"},
-  {"native":"ಯಾದಗಿರಿ","latin":"Yadgiri"},
-  {"native":"ಚಾಮರಾಜನಗರ","latin":"Chamarajanagara"},
-  {"native":"ಮಂಡ್ಯ","latin":"Mandya"},
-  {"native":"ಶಿವಮೊಗ್ಗ","latin":"Shivamogga"},
-  {"native":"ಕಾರವಾರ","latin":"Karwar"},
-  {"native":"ಉಡುಪಿ","latin":"Udupi"},
-  {"native":"ಕುಂದಾಪುರ","latin":"Kundapura"},
-  {"native":"ಪುತ್ತೂರು","latin":"Puttur"},
-  {"native":"ಬಂಟ್ವಾಳ","latin":"Bantwal"},
-  {"native":"ಶ್ರೀರಂಗಪಟ್ಟಣ","latin":"Srirangapatna"},
-  {"native":"ನಂಜನಗೂಡು","latin":"Nanjangud"},
-  {"native":"ಗುಂಡ್ಲುಪೇಟೆ","latin":"Gundlupete"},
-  {"native":"ಕೊಲ್ಹಾರ್","latin":"Kolhar"},
-  {"native":"ಗದಗ","latin":"Gadag"},
-  {"native":"ನರಗುಂದ","latin":"Nargund"},
-  {"native":"ರೋಣ","latin":"Rona"},
-  {"native":"ಶಿರಹಟ್ಟಿ","latin":"Shirahatti"},
-  {"native":"ಮುಂಡರಗಿ","latin":"Mundargi"},
-  {"native":"ಕೊಡ್ಲಿಪೇಟೆ","latin":"Kodlipete"},
-  {"native":"ಸೋಮವಾರಪೇಟೆ","latin":"Somwarpete"},
-  {"native":"ವಿರಾಜಪೇಟೆ","latin":"Virajpete"},
-  {"native":"ಮಡಿಕೇರಿ","latin":"Madikeri"},
-  {"native":"ಸಕಲೇಶಪುರ","latin":"Sakleshpur"},
-  {"native":"ಬೇಲೂರು","latin":"Belur"},
-  {"native":"ಹೊಸನಗರ","latin":"Hosanagara"},
-  {"native":"ಸಾಗರ","latin":"Sagara"},
-  {"native":"ಹೊನ್ನಾವರ","latin":"Honnavar"},
-  {"native":"ಕುಮಟಾ","latin":"Kumta"},
-  {"native":"ಅಂಕೋಲಾ","latin":"Ankola"},
-  {"native":"ಭಟ್ಕಳ","latin":"Bhatkal"},
-  {"native":"ಸಿದ್ದಾಪುರ","latin":"Siddapur"},
-  {"native":"ಯಲ್ಲಾಪುರ","latin":"Yellapur"},
-  {"native":"ಮುಂಡಗೋಡು","latin":"Mundagodu"},
-  {"native":"ಹಿರಿಯೂರು","latin":"Hiriyur"},
-  {"native":"ಹೊಸದುರ್ಗ","latin":"Hosadurga"},
-  {"native":"ಚಳ್ಳಕೆರೆ","latin":"Challakere"},
-  {"native":"ಮೊಳಕಾಲ್ಮೂರು","latin":"Molakalmuru"},
-  {"native":"ಬಾಗಲಕೋಟೆ","latin":"Bagalkote"},
-  {"native":"ವಿಜಯಪುರ","latin":"Vijayapura"},
-  {"native":"ಕಲಬುರಗಿ","latin":"Kalaburagi"},
-  {"native":"ಯಾದಗಿರಿ","latin":"Yadgiri"},
-  {"native":"ರಾಯಚೂರು","latin":"Raichur"},
-  {"native":"ಕೊಪ್ಪಳ","latin":"Koppal"},
-  {"native":"ಗದಗ","latin":"Gadag"},
-  {"native":"ಹಾವೇರಿ","latin":"Haveri"},
-  {"native":"ಬೆಳಗಾವಿ","latin":"Belagavi"},
-  {"native":"ಉತ್ತರ ಕನ್ನಡ","latin":"Uttara Kannada"},
-  {"native":"ಧಾರವಾಡ","latin":"Dharwad"},
-  {"native":"ಶಿವಮೊಗ್ಗ","latin":"Shivamogga"},
-  {"native":"ದಾವಣಗೆರೆ","latin":"Davanagere"},
-  {"native":"ಚಿತ್ರದುರ್ಗ","latin":"Chitradurga"},
-  {"native":"ತುಮಕೂರು","latin":"Tumakuru"},
-  {"native":"ಚಿಕ್ಕಮಗಳೂರು","latin":"Chikkamagaluru"},
-  {"native":"ಹಾಸನ","latin":"Hassan"},
-  {"native":"ಕೊಡಗು","latin":"Kodagu"},
-  {"native":"ಮೈಸೂರು","latin":"Mysuru"},
-  {"native":"ಚಾಮರಾಜನಗರ","latin":"Chamarajanagara"},
-  {"native":"ಮಂಡ್ಯ","latin":"Mandya"},
-  {"native":"ರಾಮನಗರ","latin":"Ramanagara"},
-  {"native":"ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ","latin":"Bengaluru Rural"},
-  {"native":"ಬೆಂಗಳೂರು ನಗರ","latin":"Bengaluru Urban"},
-  {"native":"ಕೋಲಾರ","latin":"Kolar"},
-  {"native":"ಚಿಕ್ಕಬಳ್ಳಾಪುರ","latin":"Chikkaballapura"},
-  {"native":"ದಕ್ಷಿಣ ಕನ್ನಡ","latin":"Dakshina Kannada"},
-  {"native":"ಉಡುಪಿ","latin":"Udupi"},
-  {"native":"ಬೀದರ್","latin":"Bidar"},
-  {"native":"ಬಳ್ಳಾರಿ","latin":"Ballari"},
-  {"native":"ಹೊಸಪೇಟೆ","latin":"Hospet"},
-  {"native":"ಕೊಪ್ಪಳ","latin":"Koppal"},
-  {"native":"ಗದಗ","latin":"Gadag"},
-  {"native":"ಹುಬ್ಬಳ್ಳಿ","latin":"Hubli"},
-  {"native":"ಧಾರವಾಡ","latin":"Dharwad"},
-  {"native":"ಬೆಳಗಾವಿ","latin":"Belagavi"},
-  {"native":"ಚಿಕ್ಕೋಡಿ","latin":"Chikkodi"},
-  {"native":"ಗೋಕಾಕ್","latin":"Gokak"},
-  {"native":"ರಾಯಚೂರು","latin":"Raichur"},
-  {"native":"ಸಿಂಧನೂರು","latin":"Sindhanur"},
-  {"native":"ಗಂಗಾವತಿ","latin":"Gangavati"},
-  {"native":"ಕಲಬುರಗಿ","latin":"Kalaburagi"},
-  {"native":"ಬೀದರ್","latin":"Bidar"},
-  {"native":"ಬಸವಕಲ್ಯಾಣ","latin":"Basavakalyan"},
-  {"native":"ಹುಮನಾಬಾದ್","latin":"Humnabad"},
-  {"native":"ಯಾದಗಿರಿ","latin":"Yadgiri"},
-  {"native":"ಶಹಾಪುರ","latin":"Shahapur"},
-  {"native":"ವಿಜಯಪುರ","latin":"Vijayapura"},
-  {"native":"ಬಾಗಲಕೋಟೆ","latin":"Bagalkote"},
-  {"native":"ಮುಧೋಳ","latin":"Mudhol"},
-  {"native":"ಜಮಖಂಡಿ","latin":"Jamkhandi"},
-  {"native":"ಬಾದಾಮಿ","latin":"Badami"},
-  {"native":"ಗುಳೇದಗುಡ್ಡ","latin":"Guledagudda"},
-  {"native":"ಇಳಕಲ್ಲು","latin":"Ilkal"},
-  {"native":"ಹೂವಿನಹಡಗಲಿ","latin":"Huvinahadagali"},
-  {"native":"ಹರಿಹರ","latin":"Harihara"},
-  {"native":"ಚಿತ್ರದುರ್ಗ","latin":"Chitradurga"},
-  {"native":"ತುಮಕೂರು","latin":"Tumakuru"},
-  {"native":"ಮಧುಗಿರಿ","latin":"Madhugiri"},
-  {"native":"ಪಾವಗಡ","latin":"Pavagada"},
-  {"native":"ಶಿರಾ","latin":"Sira"},
-  {"native":"ತಿಪಟೂರು","latin":"Tiptur"},
-  {"native":"ಅರಸೀಕೆರೆ","latin":"Arasikere"},
-  {"native":"ಕಡೂರು","latin":"Kadur"},
-  {"native":"ಚಿಕ್ಕಮಗಳೂರು","latin":"Chikkamagaluru"}
+  {
+    "native": "ಬೆಂಗಳೂರು",
+    "latin": "Bengaluru",
+    "country": "India"
+  },
+  {
+    "native": "ಮೈಸೂರು",
+    "latin": "Mysuru",
+    "country": "India"
+  },
+  {
+    "native": "ಹುಬ್ಬಳ್ಳಿ",
+    "latin": "Hubballi",
+    "country": "India"
+  },
+  {
+    "native": "ಮಂಗಳೂರು",
+    "latin": "Mangaluru",
+    "country": "India"
+  },
+  {
+    "native": "ಬೆಳಗಾವಿ",
+    "latin": "Belagavi",
+    "country": "India"
+  },
+  {
+    "native": "ದಾವಣಗೆರೆ",
+    "latin": "Davanagere",
+    "country": "India"
+  },
+  {
+    "native": "ಕಲಬುರಗಿ",
+    "latin": "Kalaburagi",
+    "country": "India"
+  },
+  {
+    "native": "ಶಿವಮೊಗ್ಗ",
+    "latin": "Shivamogga",
+    "country": "India"
+  },
+  {
+    "native": "ತುಮಕೂರು",
+    "latin": "Tumakuru",
+    "country": "India"
+  },
+  {
+    "native": "ಬಳ್ಳಾರಿ",
+    "latin": "Ballari",
+    "country": "India"
+  },
+  {
+    "native": "ವಿಜಯಪುರ",
+    "latin": "Vijayapura",
+    "country": "India"
+  },
+  {
+    "native": "ರಾಯಚೂರು",
+    "latin": "Raichur",
+    "country": "India"
+  },
+  {
+    "native": "ಹಾವೇರಿ",
+    "latin": "Haveri",
+    "country": "India"
+  },
+  {
+    "native": "ಬೀದರ್",
+    "latin": "Bidar",
+    "country": "India"
+  },
+  {
+    "native": "ಚಿಕ್ಕಮಗಳೂರು",
+    "latin": "Chikkamagaluru",
+    "country": "India"
+  },
+  {
+    "native": "ಹಾಸನ",
+    "latin": "Hassan",
+    "country": "India"
+  },
+  {
+    "native": "ರಾಮನಗರ",
+    "latin": "Ramanagara",
+    "country": "India"
+  },
+  {
+    "native": "ಕೋಲಾರ",
+    "latin": "Kolar",
+    "country": "India"
+  },
+  {
+    "native": "ಚಿತ್ರದುರ್ಗ",
+    "latin": "Chitradurga",
+    "country": "India"
+  },
+  {
+    "native": "ಕೊಪ್ಪಳ",
+    "latin": "Koppal",
+    "country": "India"
+  },
+  {
+    "native": "ಯಾದಗಿರಿ",
+    "latin": "Yadgiri",
+    "country": "India"
+  },
+  {
+    "native": "ಚಾಮರಾಜನಗರ",
+    "latin": "Chamarajanagara",
+    "country": "India"
+  },
+  {
+    "native": "ಮಂಡ್ಯ",
+    "latin": "Mandya",
+    "country": "India"
+  },
+  {
+    "native": "ಶಿವಮೊಗ್ಗ",
+    "latin": "Shivamogga",
+    "country": "India"
+  },
+  {
+    "native": "ಕಾರವಾರ",
+    "latin": "Karwar",
+    "country": "India"
+  },
+  {
+    "native": "ಉಡುಪಿ",
+    "latin": "Udupi",
+    "country": "India"
+  },
+  {
+    "native": "ಕುಂದಾಪುರ",
+    "latin": "Kundapura",
+    "country": "India"
+  },
+  {
+    "native": "ಪುತ್ತೂರು",
+    "latin": "Puttur",
+    "country": "India"
+  },
+  {
+    "native": "ಬಂಟ್ವಾಳ",
+    "latin": "Bantwal",
+    "country": "India"
+  },
+  {
+    "native": "ಶ್ರೀರಂಗಪಟ್ಟಣ",
+    "latin": "Srirangapatna",
+    "country": "India"
+  },
+  {
+    "native": "ನಂಜನಗೂಡು",
+    "latin": "Nanjangud",
+    "country": "India"
+  },
+  {
+    "native": "ಗುಂಡ್ಲುಪೇಟೆ",
+    "latin": "Gundlupete",
+    "country": "India"
+  },
+  {
+    "native": "ಕೊಲ್ಹಾರ್",
+    "latin": "Kolhar",
+    "country": "India"
+  },
+  {
+    "native": "ಗದಗ",
+    "latin": "Gadag",
+    "country": "India"
+  },
+  {
+    "native": "ನರಗುಂದ",
+    "latin": "Nargund",
+    "country": "India"
+  },
+  {
+    "native": "ರೋಣ",
+    "latin": "Rona",
+    "country": "India"
+  },
+  {
+    "native": "ಶಿರಹಟ್ಟಿ",
+    "latin": "Shirahatti",
+    "country": "India"
+  },
+  {
+    "native": "ಮುಂಡರಗಿ",
+    "latin": "Mundargi",
+    "country": "India"
+  },
+  {
+    "native": "ಕೊಡ್ಲಿಪೇಟೆ",
+    "latin": "Kodlipete",
+    "country": "India"
+  },
+  {
+    "native": "ಸೋಮವಾರಪೇಟೆ",
+    "latin": "Somwarpete",
+    "country": "India"
+  },
+  {
+    "native": "ವಿರಾಜಪೇಟೆ",
+    "latin": "Virajpete",
+    "country": "India"
+  },
+  {
+    "native": "ಮಡಿಕೇರಿ",
+    "latin": "Madikeri",
+    "country": "India"
+  },
+  {
+    "native": "ಸಕಲೇಶಪುರ",
+    "latin": "Sakleshpur",
+    "country": "India"
+  },
+  {
+    "native": "ಬೇಲೂರು",
+    "latin": "Belur",
+    "country": "India"
+  },
+  {
+    "native": "ಹೊಸನಗರ",
+    "latin": "Hosanagara",
+    "country": "India"
+  },
+  {
+    "native": "ಸಾಗರ",
+    "latin": "Sagara",
+    "country": "India"
+  },
+  {
+    "native": "ಹೊನ್ನಾವರ",
+    "latin": "Honnavar",
+    "country": "India"
+  },
+  {
+    "native": "ಕುಮಟಾ",
+    "latin": "Kumta",
+    "country": "India"
+  },
+  {
+    "native": "ಅಂಕೋಲಾ",
+    "latin": "Ankola",
+    "country": "India"
+  },
+  {
+    "native": "ಭಟ್ಕಳ",
+    "latin": "Bhatkal",
+    "country": "India"
+  },
+  {
+    "native": "ಸಿದ್ದಾಪುರ",
+    "latin": "Siddapur",
+    "country": "India"
+  },
+  {
+    "native": "ಯಲ್ಲಾಪುರ",
+    "latin": "Yellapur",
+    "country": "India"
+  },
+  {
+    "native": "ಮುಂಡಗೋಡು",
+    "latin": "Mundagodu",
+    "country": "India"
+  },
+  {
+    "native": "ಹಿರಿಯೂರು",
+    "latin": "Hiriyur",
+    "country": "India"
+  },
+  {
+    "native": "ಹೊಸದುರ್ಗ",
+    "latin": "Hosadurga",
+    "country": "India"
+  },
+  {
+    "native": "ಚಳ್ಳಕೆರೆ",
+    "latin": "Challakere",
+    "country": "India"
+  },
+  {
+    "native": "ಮೊಳಕಾಲ್ಮೂರು",
+    "latin": "Molakalmuru",
+    "country": "India"
+  },
+  {
+    "native": "ಬಾಗಲಕೋಟೆ",
+    "latin": "Bagalkote",
+    "country": "India"
+  },
+  {
+    "native": "ವಿಜಯಪುರ",
+    "latin": "Vijayapura",
+    "country": "India"
+  },
+  {
+    "native": "ಕಲಬುರಗಿ",
+    "latin": "Kalaburagi",
+    "country": "India"
+  },
+  {
+    "native": "ಯಾದಗಿರಿ",
+    "latin": "Yadgiri",
+    "country": "India"
+  },
+  {
+    "native": "ರಾಯಚೂರು",
+    "latin": "Raichur",
+    "country": "India"
+  },
+  {
+    "native": "ಕೊಪ್ಪಳ",
+    "latin": "Koppal",
+    "country": "India"
+  },
+  {
+    "native": "ಗದಗ",
+    "latin": "Gadag",
+    "country": "India"
+  },
+  {
+    "native": "ಹಾವೇರಿ",
+    "latin": "Haveri",
+    "country": "India"
+  },
+  {
+    "native": "ಬೆಳಗಾವಿ",
+    "latin": "Belagavi",
+    "country": "India"
+  },
+  {
+    "native": "ಉತ್ತರ ಕನ್ನಡ",
+    "latin": "Uttara Kannada",
+    "country": "India"
+  },
+  {
+    "native": "ಧಾರವಾಡ",
+    "latin": "Dharwad",
+    "country": "India"
+  },
+  {
+    "native": "ಶಿವಮೊಗ್ಗ",
+    "latin": "Shivamogga",
+    "country": "India"
+  },
+  {
+    "native": "ದಾವಣಗೆರೆ",
+    "latin": "Davanagere",
+    "country": "India"
+  },
+  {
+    "native": "ಚಿತ್ರದುರ್ಗ",
+    "latin": "Chitradurga",
+    "country": "India"
+  },
+  {
+    "native": "ತುಮಕೂರು",
+    "latin": "Tumakuru",
+    "country": "India"
+  },
+  {
+    "native": "ಚಿಕ್ಕಮಗಳೂರು",
+    "latin": "Chikkamagaluru",
+    "country": "India"
+  },
+  {
+    "native": "ಹಾಸನ",
+    "latin": "Hassan",
+    "country": "India"
+  },
+  {
+    "native": "ಕೊಡಗು",
+    "latin": "Kodagu",
+    "country": "India"
+  },
+  {
+    "native": "ಮೈಸೂರು",
+    "latin": "Mysuru",
+    "country": "India"
+  },
+  {
+    "native": "ಚಾಮರಾಜನಗರ",
+    "latin": "Chamarajanagara",
+    "country": "India"
+  },
+  {
+    "native": "ಮಂಡ್ಯ",
+    "latin": "Mandya",
+    "country": "India"
+  },
+  {
+    "native": "ರಾಮನಗರ",
+    "latin": "Ramanagara",
+    "country": "India"
+  },
+  {
+    "native": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+    "latin": "Bengaluru Rural",
+    "country": "India"
+  },
+  {
+    "native": "ಬೆಂಗಳೂರು ನಗರ",
+    "latin": "Bengaluru Urban",
+    "country": "India"
+  },
+  {
+    "native": "ಕೋಲಾರ",
+    "latin": "Kolar",
+    "country": "India"
+  },
+  {
+    "native": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+    "latin": "Chikkaballapura",
+    "country": "India"
+  },
+  {
+    "native": "ದಕ್ಷಿಣ ಕನ್ನಡ",
+    "latin": "Dakshina Kannada",
+    "country": "India"
+  },
+  {
+    "native": "ಉಡುಪಿ",
+    "latin": "Udupi",
+    "country": "India"
+  },
+  {
+    "native": "ಬೀದರ್",
+    "latin": "Bidar",
+    "country": "India"
+  },
+  {
+    "native": "ಬಳ್ಳಾರಿ",
+    "latin": "Ballari",
+    "country": "India"
+  },
+  {
+    "native": "ಹೊಸಪೇಟೆ",
+    "latin": "Hospet",
+    "country": "India"
+  },
+  {
+    "native": "ಕೊಪ್ಪಳ",
+    "latin": "Koppal",
+    "country": "India"
+  },
+  {
+    "native": "ಗದಗ",
+    "latin": "Gadag",
+    "country": "India"
+  },
+  {
+    "native": "ಹುಬ್ಬಳ್ಳಿ",
+    "latin": "Hubli",
+    "country": "India"
+  },
+  {
+    "native": "ಧಾರವಾಡ",
+    "latin": "Dharwad",
+    "country": "India"
+  },
+  {
+    "native": "ಬೆಳಗಾವಿ",
+    "latin": "Belagavi",
+    "country": "India"
+  },
+  {
+    "native": "ಚಿಕ್ಕೋಡಿ",
+    "latin": "Chikkodi",
+    "country": "India"
+  },
+  {
+    "native": "ಗೋಕಾಕ್",
+    "latin": "Gokak",
+    "country": "India"
+  },
+  {
+    "native": "ರಾಯಚೂರು",
+    "latin": "Raichur",
+    "country": "India"
+  },
+  {
+    "native": "ಸಿಂಧನೂರು",
+    "latin": "Sindhanur",
+    "country": "India"
+  },
+  {
+    "native": "ಗಂಗಾವತಿ",
+    "latin": "Gangavati",
+    "country": "India"
+  },
+  {
+    "native": "ಕಲಬುರಗಿ",
+    "latin": "Kalaburagi",
+    "country": "India"
+  },
+  {
+    "native": "ಬೀದರ್",
+    "latin": "Bidar",
+    "country": "India"
+  },
+  {
+    "native": "ಬಸವಕಲ್ಯಾಣ",
+    "latin": "Basavakalyan",
+    "country": "India"
+  },
+  {
+    "native": "ಹುಮನಾಬಾದ್",
+    "latin": "Humnabad",
+    "country": "India"
+  },
+  {
+    "native": "ಯಾದಗಿರಿ",
+    "latin": "Yadgiri",
+    "country": "India"
+  },
+  {
+    "native": "ಶಹಾಪುರ",
+    "latin": "Shahapur",
+    "country": "India"
+  },
+  {
+    "native": "ವಿಜಯಪುರ",
+    "latin": "Vijayapura",
+    "country": "India"
+  },
+  {
+    "native": "ಬಾಗಲಕೋಟೆ",
+    "latin": "Bagalkote",
+    "country": "India"
+  },
+  {
+    "native": "ಮುಧೋಳ",
+    "latin": "Mudhol",
+    "country": "India"
+  },
+  {
+    "native": "ಜಮಖಂಡಿ",
+    "latin": "Jamkhandi",
+    "country": "India"
+  },
+  {
+    "native": "ಬಾದಾಮಿ",
+    "latin": "Badami",
+    "country": "India"
+  },
+  {
+    "native": "ಗುಳೇದಗುಡ್ಡ",
+    "latin": "Guledagudda",
+    "country": "India"
+  },
+  {
+    "native": "ಇಳಕಲ್ಲು",
+    "latin": "Ilkal",
+    "country": "India"
+  },
+  {
+    "native": "ಹೂವಿನಹಡಗಲಿ",
+    "latin": "Huvinahadagali",
+    "country": "India"
+  },
+  {
+    "native": "ಹರಿಹರ",
+    "latin": "Harihara",
+    "country": "India"
+  },
+  {
+    "native": "ಚಿತ್ರದುರ್ಗ",
+    "latin": "Chitradurga",
+    "country": "India"
+  },
+  {
+    "native": "ತುಮಕೂರು",
+    "latin": "Tumakuru",
+    "country": "India"
+  },
+  {
+    "native": "ಮಧುಗಿರಿ",
+    "latin": "Madhugiri",
+    "country": "India"
+  },
+  {
+    "native": "ಪಾವಗಡ",
+    "latin": "Pavagada",
+    "country": "India"
+  },
+  {
+    "native": "ಶಿರಾ",
+    "latin": "Sira",
+    "country": "India"
+  },
+  {
+    "native": "ತಿಪಟೂರು",
+    "latin": "Tiptur",
+    "country": "India"
+  },
+  {
+    "native": "ಅರಸೀಕೆರೆ",
+    "latin": "Arasikere",
+    "country": "India"
+  },
+  {
+    "native": "ಕಡೂರು",
+    "latin": "Kadur",
+    "country": "India"
+  },
+  {
+    "native": "ಚಿಕ್ಕಮಗಳೂರು",
+    "latin": "Chikkamagaluru",
+    "country": "India"
+  },
+  {
+    "native": "ಸಿಂದಗಿ",
+    "latin": "Sindagi",
+    "country": "India"
+  },
+  {
+    "native": "ಹುಕ್ಕೇರಿ",
+    "latin": "Hukkeri",
+    "country": "India"
+  },
+  {
+    "native": "ಸಂಕೇಶ್ವರ",
+    "latin": "Sankeshwar",
+    "country": "India"
+  },
+  {
+    "native": "ರಾಮದುರ್ಗ",
+    "latin": "Ramadurga",
+    "country": "India"
+  },
+  {
+    "native": "ಕುಷ್ಟಗಿ",
+    "latin": "Kustagi",
+    "country": "India"
+  },
+  {
+    "native": "ಮಾನ್ವಿ",
+    "latin": "Manvi",
+    "country": "India"
+  },
+  {
+    "native": "ಕೂಡ್ಲಿಗಿ",
+    "latin": "Kudligi",
+    "country": "India"
+  },
+  {
+    "native": "ಜೇವರ್ಗಿ",
+    "latin": "Jewargi",
+    "country": "India"
+  },
+  {
+    "native": "ಸುರಪುರ",
+    "latin": "Surapura",
+    "country": "India"
+  },
+  {
+    "native": "ಲಿಂಗಸುಗೂರು",
+    "latin": "Lingasuguru",
+    "country": "India"
+  },
+  {
+    "native": "ಮುದ್ದೇಬಿಹಾಳ",
+    "latin": "Muddebihal",
+    "country": "India"
+  },
+  {
+    "native": "ದೇವದುರ್ಗ",
+    "latin": "Devadurga",
+    "country": "India"
+  },
+  {
+    "native": "ಮಸ್ಕಿ",
+    "latin": "Maski",
+    "country": "India"
+  },
+  {
+    "native": "ಹಗರಿಬೋಮ್ಮನಹಳ್ಳಿ",
+    "latin": "Hagari Bommanahalli",
+    "country": "India"
+  },
+  {
+    "native": "ಸಂಡೂರು",
+    "latin": "Sandur",
+    "country": "India"
+  },
+  {
+    "native": "ಶಿರುಗುಪ್ಪ",
+    "latin": "Shiruguppa",
+    "country": "India"
+  },
+  {
+    "native": "ತೆಕ್ಕಲಕೋಟೆ",
+    "latin": "Tekkalakote",
+    "country": "India"
+  },
+  {
+    "native": "ಸೊರಬ",
+    "latin": "Soraba",
+    "country": "India"
+  },
+  {
+    "native": "ಶಿಕಾರಿಪುರ",
+    "latin": "Shikaripur",
+    "country": "India"
+  },
+  {
+    "native": "ಶಿರಾಳಕೋಪ್ಪ",
+    "latin": "Shiralakoppa",
+    "country": "India"
+  },
+  {
+    "native": "ಭದ್ರಾವತಿ",
+    "latin": "Bhadravati",
+    "country": "India"
+  },
+  {
+    "native": "ತರೀಕೆರೆ",
+    "latin": "Tarikere",
+    "country": "India"
+  },
+  {
+    "native": "ಕೊಪ್ಪ",
+    "latin": "Koppa",
+    "country": "India"
+  },
+  {
+    "native": "ನರಸಿಂಹರಾಜಪುರ",
+    "latin": "Narasimharajapura",
+    "country": "India"
+  },
+  {
+    "native": "ಗೋಣಿಕೊಪ್ಪಲು",
+    "latin": "Gonikoppal",
+    "country": "India"
+  },
+  {
+    "native": "ಕುಶಾಲನಗರ",
+    "latin": "Kushalanagara",
+    "country": "India"
+  },
+  {
+    "native": "ಪೊನ್ನಂಪೇಟೆ",
+    "latin": "Ponnampete",
+    "country": "India"
+  },
+  {
+    "native": "ಅಯ್ಯಂಗೆರೆ",
+    "latin": "Ayvangere",
+    "country": "India"
+  },
+  {
+    "native": "ಹೊಸಕೋಟೆ",
+    "latin": "Hoskote",
+    "country": "India"
+  },
+  {
+    "native": "ದೇವನಹಳ್ಳಿ",
+    "latin": "Devanahalli",
+    "country": "India"
+  },
+  {
+    "native": "ನೆಲಮಂಗಲ",
+    "latin": "Nelamangala",
+    "country": "India"
+  },
+  {
+    "native": "ದೊಡ್ಡಬಳ್ಳಾಪುರ",
+    "latin": "Doddaballapura",
+    "country": "India"
+  },
+  {
+    "native": "ಹೂಳಿ",
+    "latin": "Huli",
+    "country": "India"
+  },
+  {
+    "native": "ಹಂಪಿ",
+    "latin": "Hampi",
+    "country": "India"
+  },
+  {
+    "native": "ಅನೆಗುಂದಿ",
+    "latin": "Anegundi",
+    "country": "India"
+  },
+  {
+    "native": "ಕಮಲಾಪುರ",
+    "latin": "Kamalapura",
+    "country": "India"
+  },
+  {
+    "native": "ಶ್ರೀನಿವಾಸಪುರ",
+    "latin": "Srinivasapura",
+    "country": "India"
+  },
+  {
+    "native": "ಮುಳಬಾಗಿಲು",
+    "latin": "Mulbagal",
+    "country": "India"
+  },
+  {
+    "native": "ಮಾಲೂರು",
+    "latin": "Malur",
+    "country": "India"
+  },
+  {
+    "native": "ಬಂಗಾರಪೇಟೆ",
+    "latin": "Bangarapete",
+    "country": "India"
+  },
+  {
+    "native": "ರಾಬರ್ಟ್ಸನ್ ಪೇಟೆ",
+    "latin": "Robertson Pet",
+    "country": "India"
+  },
+  {
+    "native": "ವಿಜಯಾಪುರ",
+    "latin": "Vijayapura",
+    "country": "India"
+  },
+  {
+    "native": "ನಾಗಮಂಗಲ",
+    "latin": "Nagamangala",
+    "country": "India"
+  },
+  {
+    "native": "ಕೃಷ್ಣರಾಜಪೇಟೆ",
+    "latin": "Krishnarajapete",
+    "country": "India"
+  },
+  {
+    "native": "ಯಳಹಂಕ",
+    "latin": "Yelahanka",
+    "country": "India"
+  },
+  {
+    "native": "ಬ್ಯಾಟರಾಯನಪುರ",
+    "latin": "Byatarayanapura",
+    "country": "India"
+  },
+  {
+    "native": "ಕೆಂಗೇರಿ",
+    "latin": "Kengeri",
+    "country": "India"
+  },
+  {
+    "native": "ಆಲೂರು",
+    "latin": "Alur",
+    "country": "India"
+  },
+  {
+    "native": "ಸೋಮನಾಥಪುರ",
+    "latin": "Somanathapura",
+    "country": "India"
+  },
+  {
+    "native": "ಕಿಕ್ಕೇರಿ",
+    "latin": "Kikkeri",
+    "country": "India"
+  },
+  {
+    "native": "ಶ್ರಾವಣಬೆಳಗೊಳ",
+    "latin": "Shravanabelagola",
+    "country": "India"
+  },
+  {
+    "native": "ಚನ್ನರಾಯಪಟ್ಟಣ",
+    "latin": "Channarayapatna",
+    "country": "India"
+  },
+  {
+    "native": "ಹೊಳೆನರಸೀಪುರ",
+    "latin": "Holenarasipura",
+    "country": "India"
+  },
+  {
+    "native": "ಪಿರಿಯಾಪಟ್ಟಣ",
+    "latin": "Piriyapatna",
+    "country": "India"
+  },
+  {
+    "native": "ಕೃಷ್ಣರಾಜನಗರ",
+    "latin": "Krishnarajanagara",
+    "country": "India"
+  },
+  {
+    "native": "ಹುಣಸೂರು",
+    "latin": "Hunsur",
+    "country": "India"
+  },
+  {
+    "native": "ಸರಗೂರು",
+    "latin": "Saraguru",
+    "country": "India"
+  },
+  {
+    "native": "ಹೆಗ್ಗಡದೇವನಕೋಟೆ",
+    "latin": "Heggadadevanakote",
+    "country": "India"
+  },
+  {
+    "native": "ಗುಂಡುಪೇಟೆ",
+    "latin": "Gundupete",
+    "country": "India"
+  },
+  {
+    "native": "ಮೇಲುಕೋಟೆ",
+    "latin": "Melukote",
+    "country": "India"
+  },
+  {
+    "native": "ಯಳಂದೂರು",
+    "latin": "Yallanduru",
+    "country": "India"
+  },
+  {
+    "native": "ಕೊಳ್ಳೇಗಾಲ",
+    "latin": "Kollegal",
+    "country": "India"
+  },
+  {
+    "native": "ಹನೂರು",
+    "latin": "Hanur",
+    "country": "India"
+  },
+  {
+    "native": "ಮಾಳವಳ್ಳಿ",
+    "latin": "Malavalli",
+    "country": "India"
+  },
+  {
+    "native": "ಬನ್ನೂರು",
+    "latin": "Bannur",
+    "country": "India"
+  },
+  {
+    "native": "ತಿರುಮಕೂಡಲು ನರಸೀಪುರ",
+    "latin": "T. Narasipura",
+    "country": "India"
+  },
+  {
+    "native": "ಸತ್ಯಮಂಗಲ",
+    "latin": "Satyamangala",
+    "country": "India"
+  },
+  {
+    "native": "ಬಿಳಿಚೋಡು",
+    "latin": "Bilichodu",
+    "country": "India"
+  },
+  {
+    "native": "ಚನ್ನಗಿರಿ",
+    "latin": "Channagiri",
+    "country": "India"
+  },
+  {
+    "native": "ಹೊನ್ನಾಳಿ",
+    "latin": "Honnali",
+    "country": "India"
+  },
+  {
+    "native": "ನ್ಯಾಮತಿ",
+    "latin": "Nyamati",
+    "country": "India"
+  },
+  {
+    "native": "ಹರಪನಹಳ್ಳಿ",
+    "latin": "Harihar",
+    "country": "India"
+  },
+  {
+    "native": "ಸಾಣೇಹಳ್ಳಿ",
+    "latin": "Sanehalli",
+    "country": "India"
+  },
+  {
+    "native": "ಮತ್ತೂರು",
+    "latin": "Mattur",
+    "country": "India"
+  },
+  {
+    "native": "ಬಾಳೆಹೊನ್ನೂರು",
+    "latin": "Balehonnur",
+    "country": "India"
+  },
+  {
+    "native": "ಸಾತನೂರು",
+    "latin": "Satanur",
+    "country": "India"
+  },
+  {
+    "native": "ಬೂದಿಕೋಟೆ",
+    "latin": "Budikote",
+    "country": "India"
+  },
+  {
+    "native": "ಗುಡಿಬಂಡೆ",
+    "latin": "Gudibande",
+    "country": "India"
+  },
+  {
+    "native": "ಸಿಡ್ಲಘಟ್ಟ",
+    "latin": "Sidlaghatta",
+    "country": "India"
+  },
+  {
+    "native": "ಬಾಗೇಪಲ್ಲಿ",
+    "latin": "Bagepalli",
+    "country": "India"
+  }
 ]

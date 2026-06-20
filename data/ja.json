@@ -1,168 +1,1602 @@
 [
-  {"native":"東京","latin":"Tokyo"},
-  {"native":"大阪","latin":"Osaka"},
-  {"native":"横浜","latin":"Yokohama"},
-  {"native":"名古屋","latin":"Nagoya"},
-  {"native":"札幌","latin":"Sapporo"},
-  {"native":"福岡","latin":"Fukuoka"},
-  {"native":"神戸","latin":"Kobe"},
-  {"native":"京都","latin":"Kyoto"},
-  {"native":"川崎","latin":"Kawasaki"},
-  {"native":"さいたま","latin":"Saitama"},
-  {"native":"広島","latin":"Hiroshima"},
-  {"native":"仙台","latin":"Sendai"},
-  {"native":"千葉","latin":"Chiba"},
-  {"native":"北九州","latin":"Kitakyushu"},
-  {"native":"堺","latin":"Sakai"},
-  {"native":"新潟","latin":"Niigata"},
-  {"native":"浜松","latin":"Hamamatsu"},
-  {"native":"熊本","latin":"Kumamoto"},
-  {"native":"相模原","latin":"Sagamihara"},
-  {"native":"岡山","latin":"Okayama"},
-  {"native":"静岡","latin":"Shizuoka"},
-  {"native":"船橋","latin":"Funabashi"},
-  {"native":"所沢","latin":"Tokorozawa"},
-  {"native":"鹿児島","latin":"Kagoshima"},
-  {"native":"八王子","latin":"Hachioji"},
-  {"native":"姫路","latin":"Himeji"},
-  {"native":"松山","latin":"Matsuyama"},
-  {"native":"東大阪","latin":"Higashiosaka"},
-  {"native":"川口","latin":"Kawaguchi"},
-  {"native":"宇都宮","latin":"Utsunomiya"},
-  {"native":"松戸","latin":"Matsudo"},
-  {"native":"奈良","latin":"Nara"},
-  {"native":"柏","latin":"Kashiwa"},
-  {"native":"大津","latin":"Otsu"},
-  {"native":"長崎","latin":"Nagasaki"},
-  {"native":"那覇","latin":"Naha"},
-  {"native":"豊田","latin":"Toyota"},
-  {"native":"長野","latin":"Nagano"},
-  {"native":"岐阜","latin":"Gifu"},
-  {"native":"豊橋","latin":"Toyohashi"},
-  {"native":"横須賀","latin":"Yokosuka"},
-  {"native":"金沢","latin":"Kanazawa"},
-  {"native":"高松","latin":"Takamatsu"},
-  {"native":"富山","latin":"Toyama"},
-  {"native":"福島","latin":"Fukushima"},
-  {"native":"和歌山","latin":"Wakayama"},
-  {"native":"秋田","latin":"Akita"},
-  {"native":"大分","latin":"Oita"},
-  {"native":"福山","latin":"Fukuyama"},
-  {"native":"宮崎","latin":"Miyazaki"},
-  {"native":"青森","latin":"Aomori"},
-  {"native":"盛岡","latin":"Morioka"},
-  {"native":"山形","latin":"Yamagata"},
-  {"native":"岐阜","latin":"Gifu"},
-  {"native":"高崎","latin":"Takasaki"},
-  {"native":"前橋","latin":"Maebashi"},
-  {"native":"郡山","latin":"Koriyama"},
-  {"native":"豊中","latin":"Toyonaka"},
-  {"native":"吹田","latin":"Suita"},
-  {"native":"いわき","latin":"Iwaki"},
-  {"native":"平塚","latin":"Hiratsuka"},
-  {"native":"旭川","latin":"Asahikawa"},
-  {"native":"四日市","latin":"Yokkaichi"},
-  {"native":"名古屋","latin":"Nagoya"},
-  {"native":"越谷","latin":"Koshigaya"},
-  {"native":"新宿","latin":"Shinjuku"},
-  {"native":"渋谷","latin":"Shibuya"},
-  {"native":"銀座","latin":"Ginza"},
-  {"native":"上野","latin":"Ueno"},
-  {"native":"浅草","latin":"Asakusa"},
-  {"native":"恵比寿","latin":"Ebisu"},
-  {"native":"品川","latin":"Shinagawa"},
-  {"native":"目黒","latin":"Meguro"},
-  {"native":"池袋","latin":"Ikebukuro"},
-  {"native":"赤坂","latin":"Akasaka"},
-  {"native":"六本木","latin":"Roppongi"},
-  {"native":"お台場","latin":"Odaiba"},
-  {"native":"原宿","latin":"Harajuku"},
-  {"native":"秋葉原","latin":"Akihabara"},
-  {"native":"横浜中華街","latin":"Yokohama Chinatown"},
-  {"native":"熱海","latin":"Atami"},
-  {"native":"箱根","latin":"Hakone"},
-  {"native":"日光","latin":"Nikko"},
-  {"native":"軽井沢","latin":"Karuizawa"},
-  {"native":"富士山","latin":"Mount Fuji"},
-  {"native":"白川郷","latin":"Shirakawago"},
-  {"native":"伊勢","latin":"Ise"},
-  {"native":"出雲","latin":"Izumo"},
-  {"native":"小樽","latin":"Otaru"},
-  {"native":"函館","latin":"Hakodate"},
-  {"native":"知床","latin":"Shiretoko"},
-  {"native":"美瑛","latin":"Biei"},
-  {"native":"富良野","latin":"Furano"},
-  {"native":"清水寺","latin":"Kiyomizudera"},
-  {"native":"金閣寺","latin":"Kinkakuji"},
-  {"native":"伏見稲荷","latin":"Fushimi Inari"},
-  {"native":"道後温泉","latin":"Dogo Onsen"},
-  {"native":"鎌倉","latin":"Kamakura"},
-  {"native":"長崎","latin":"Nagasaki"},
-  {"native":"別府","latin":"Beppu"},
-  {"native":"湯布院","latin":"Yufuin"},
-  {"native":"日田","latin":"Hita"},
-  {"native":"中津","latin":"Nakatsu"},
-  {"native":"宇佐","latin":"Usa"},
-  {"native":"佐伯","latin":"Saiki"},
-  {"native":"臼杵","latin":"Usuki"},
-  {"native":"津久見","latin":"Tsukumi"},
-  {"native":"竹田","latin":"Taketa"},
-  {"native":"豊後高田","latin":"Bungotakada"},
-  {"native":"杵築","latin":"Kitsuki"},
-  {"native":"国東","latin":"Kunisaki"},
-  {"native":"豊後大野","latin":"Bungo-ono"},
-  {"native":"由布","latin":"Yufu"},
-  {"native":"佐世保","latin":"Sasebo"},
-  {"native":"諫早","latin":"Isahaya"},
-  {"native":"大村","latin":"Omura"},
-  {"native":"平戸","latin":"Hirado"},
-  {"native":"松浦","latin":"Matsuura"},
-  {"native":"対馬","latin":"Tsushima"},
-  {"native":"壱岐","latin":"Iki"},
-  {"native":"五島","latin":"Goto"},
-  {"native":"西海","latin":"Saikai"},
-  {"native":"雲仙","latin":"Unzen"},
-  {"native":"南島原","latin":"Minamishimabara"},
-  {"native":"熊本","latin":"Kumamoto"},
-  {"native":"八代","latin":"Yatsushiro"},
-  {"native":"人吉","latin":"Hitoyoshi"},
-  {"native":"荒尾","latin":"Arao"},
-  {"native":"水俣","latin":"Minamata"},
-  {"native":"玉名","latin":"Tamana"},
-  {"native":"山鹿","latin":"Yamaga"},
-  {"native":"菊池","latin":"Kikuchi"},
-  {"native":"宇土","latin":"Uto"},
-  {"native":"上天草","latin":"Kamiamakusa"},
-  {"native":"天草","latin":"Amakusa"},
-  {"native":"合志","latin":"Koshi"},
-  {"native":"阿蘇","latin":"Aso"},
-  {"native":"宮崎","latin":"Miyazaki"},
-  {"native":"都城","latin":"Miyakonojo"},
-  {"native":"延岡","latin":"Nobeoka"},
-  {"native":"日南","latin":"Nichinan"},
-  {"native":"小林","latin":"Kobayashi"},
-  {"native":"日向","latin":"Hyuga"},
-  {"native":"串間","latin":"Kushima"},
-  {"native":"えびの","latin":"Ebino"},
-  {"native":"鹿児島","latin":"Kagoshima"},
-  {"native":"鹿屋","latin":"Kanoya"},
-  {"native":"枕崎","latin":"Makurazaki"},
-  {"native":"阿久根","latin":"Akune"},
-  {"native":"出水","latin":"Izumi"},
-  {"native":"指宿","latin":"Ibusuki"},
-  {"native":"西之表","latin":"Nishinoomote"},
-  {"native":"奄美","latin":"Amami"},
-  {"native":"南種子","latin":"Minamitane"},
-  {"native":"屋久島","latin":"Yakushima"},
-  {"native":"徳之島","latin":"Tokunoshima"},
-  {"native":"沖縄","latin":"Okinawa"},
-  {"native":"宜野湾","latin":"Ginowan"},
-  {"native":"石垣","latin":"Ishigaki"},
-  {"native":"浦添","latin":"Urasoe"},
-  {"native":"名護","latin":"Nago"},
-  {"native":"糸満","latin":"Itoman"},
-  {"native":"沖縄市","latin":"Okinawa City"},
-  {"native":"豊見城","latin":"Tomigusuku"},
-  {"native":"宮古島","latin":"Miyakojima"},
-  {"native":"南城","latin":"Nanjo"}
+  {
+    "native": "東京",
+    "latin": "Tokyo",
+    "country": "Japan"
+  },
+  {
+    "native": "大阪",
+    "latin": "Osaka",
+    "country": "Japan"
+  },
+  {
+    "native": "横浜",
+    "latin": "Yokohama",
+    "country": "Japan"
+  },
+  {
+    "native": "名古屋",
+    "latin": "Nagoya",
+    "country": "Japan"
+  },
+  {
+    "native": "札幌",
+    "latin": "Sapporo",
+    "country": "Japan"
+  },
+  {
+    "native": "福岡",
+    "latin": "Fukuoka",
+    "country": "Japan"
+  },
+  {
+    "native": "神戸",
+    "latin": "Kobe",
+    "country": "Japan"
+  },
+  {
+    "native": "京都",
+    "latin": "Kyoto",
+    "country": "Japan"
+  },
+  {
+    "native": "川崎",
+    "latin": "Kawasaki",
+    "country": "Japan"
+  },
+  {
+    "native": "さいたま",
+    "latin": "Saitama",
+    "country": "Japan"
+  },
+  {
+    "native": "広島",
+    "latin": "Hiroshima",
+    "country": "Japan"
+  },
+  {
+    "native": "仙台",
+    "latin": "Sendai",
+    "country": "Japan"
+  },
+  {
+    "native": "千葉",
+    "latin": "Chiba",
+    "country": "Japan"
+  },
+  {
+    "native": "北九州",
+    "latin": "Kitakyushu",
+    "country": "Japan"
+  },
+  {
+    "native": "堺",
+    "latin": "Sakai",
+    "country": "Japan"
+  },
+  {
+    "native": "新潟",
+    "latin": "Niigata",
+    "country": "Japan"
+  },
+  {
+    "native": "浜松",
+    "latin": "Hamamatsu",
+    "country": "Japan"
+  },
+  {
+    "native": "熊本",
+    "latin": "Kumamoto",
+    "country": "Japan"
+  },
+  {
+    "native": "相模原",
+    "latin": "Sagamihara",
+    "country": "Japan"
+  },
+  {
+    "native": "岡山",
+    "latin": "Okayama",
+    "country": "Japan"
+  },
+  {
+    "native": "静岡",
+    "latin": "Shizuoka",
+    "country": "Japan"
+  },
+  {
+    "native": "船橋",
+    "latin": "Funabashi",
+    "country": "Japan"
+  },
+  {
+    "native": "所沢",
+    "latin": "Tokorozawa",
+    "country": "Japan"
+  },
+  {
+    "native": "鹿児島",
+    "latin": "Kagoshima",
+    "country": "Japan"
+  },
+  {
+    "native": "八王子",
+    "latin": "Hachioji",
+    "country": "Japan"
+  },
+  {
+    "native": "姫路",
+    "latin": "Himeji",
+    "country": "Japan"
+  },
+  {
+    "native": "松山",
+    "latin": "Matsuyama",
+    "country": "Japan"
+  },
+  {
+    "native": "東大阪",
+    "latin": "Higashiosaka",
+    "country": "Japan"
+  },
+  {
+    "native": "川口",
+    "latin": "Kawaguchi",
+    "country": "Japan"
+  },
+  {
+    "native": "宇都宮",
+    "latin": "Utsunomiya",
+    "country": "Japan"
+  },
+  {
+    "native": "松戸",
+    "latin": "Matsudo",
+    "country": "Japan"
+  },
+  {
+    "native": "奈良",
+    "latin": "Nara",
+    "country": "Japan"
+  },
+  {
+    "native": "柏",
+    "latin": "Kashiwa",
+    "country": "Japan"
+  },
+  {
+    "native": "大津",
+    "latin": "Otsu",
+    "country": "Japan"
+  },
+  {
+    "native": "長崎",
+    "latin": "Nagasaki",
+    "country": "Japan"
+  },
+  {
+    "native": "那覇",
+    "latin": "Naha",
+    "country": "Japan"
+  },
+  {
+    "native": "豊田",
+    "latin": "Toyota",
+    "country": "Japan"
+  },
+  {
+    "native": "長野",
+    "latin": "Nagano",
+    "country": "Japan"
+  },
+  {
+    "native": "岐阜",
+    "latin": "Gifu",
+    "country": "Japan"
+  },
+  {
+    "native": "豊橋",
+    "latin": "Toyohashi",
+    "country": "Japan"
+  },
+  {
+    "native": "横須賀",
+    "latin": "Yokosuka",
+    "country": "Japan"
+  },
+  {
+    "native": "金沢",
+    "latin": "Kanazawa",
+    "country": "Japan"
+  },
+  {
+    "native": "高松",
+    "latin": "Takamatsu",
+    "country": "Japan"
+  },
+  {
+    "native": "富山",
+    "latin": "Toyama",
+    "country": "Japan"
+  },
+  {
+    "native": "福島",
+    "latin": "Fukushima",
+    "country": "Japan"
+  },
+  {
+    "native": "和歌山",
+    "latin": "Wakayama",
+    "country": "Japan"
+  },
+  {
+    "native": "秋田",
+    "latin": "Akita",
+    "country": "Japan"
+  },
+  {
+    "native": "大分",
+    "latin": "Oita",
+    "country": "Japan"
+  },
+  {
+    "native": "福山",
+    "latin": "Fukuyama",
+    "country": "Japan"
+  },
+  {
+    "native": "宮崎",
+    "latin": "Miyazaki",
+    "country": "Japan"
+  },
+  {
+    "native": "青森",
+    "latin": "Aomori",
+    "country": "Japan"
+  },
+  {
+    "native": "盛岡",
+    "latin": "Morioka",
+    "country": "Japan"
+  },
+  {
+    "native": "山形",
+    "latin": "Yamagata",
+    "country": "Japan"
+  },
+  {
+    "native": "岐阜",
+    "latin": "Gifu",
+    "country": "Japan"
+  },
+  {
+    "native": "高崎",
+    "latin": "Takasaki",
+    "country": "Japan"
+  },
+  {
+    "native": "前橋",
+    "latin": "Maebashi",
+    "country": "Japan"
+  },
+  {
+    "native": "郡山",
+    "latin": "Koriyama",
+    "country": "Japan"
+  },
+  {
+    "native": "豊中",
+    "latin": "Toyonaka",
+    "country": "Japan"
+  },
+  {
+    "native": "吹田",
+    "latin": "Suita",
+    "country": "Japan"
+  },
+  {
+    "native": "いわき",
+    "latin": "Iwaki",
+    "country": "Japan"
+  },
+  {
+    "native": "平塚",
+    "latin": "Hiratsuka",
+    "country": "Japan"
+  },
+  {
+    "native": "旭川",
+    "latin": "Asahikawa",
+    "country": "Japan"
+  },
+  {
+    "native": "四日市",
+    "latin": "Yokkaichi",
+    "country": "Japan"
+  },
+  {
+    "native": "名古屋",
+    "latin": "Nagoya",
+    "country": "Japan"
+  },
+  {
+    "native": "越谷",
+    "latin": "Koshigaya",
+    "country": "Japan"
+  },
+  {
+    "native": "新宿",
+    "latin": "Shinjuku",
+    "country": "Japan"
+  },
+  {
+    "native": "渋谷",
+    "latin": "Shibuya",
+    "country": "Japan"
+  },
+  {
+    "native": "銀座",
+    "latin": "Ginza",
+    "country": "Japan"
+  },
+  {
+    "native": "上野",
+    "latin": "Ueno",
+    "country": "Japan"
+  },
+  {
+    "native": "浅草",
+    "latin": "Asakusa",
+    "country": "Japan"
+  },
+  {
+    "native": "恵比寿",
+    "latin": "Ebisu",
+    "country": "Japan"
+  },
+  {
+    "native": "品川",
+    "latin": "Shinagawa",
+    "country": "Japan"
+  },
+  {
+    "native": "目黒",
+    "latin": "Meguro",
+    "country": "Japan"
+  },
+  {
+    "native": "池袋",
+    "latin": "Ikebukuro",
+    "country": "Japan"
+  },
+  {
+    "native": "赤坂",
+    "latin": "Akasaka",
+    "country": "Japan"
+  },
+  {
+    "native": "六本木",
+    "latin": "Roppongi",
+    "country": "Japan"
+  },
+  {
+    "native": "お台場",
+    "latin": "Odaiba",
+    "country": "Japan"
+  },
+  {
+    "native": "原宿",
+    "latin": "Harajuku",
+    "country": "Japan"
+  },
+  {
+    "native": "秋葉原",
+    "latin": "Akihabara",
+    "country": "Japan"
+  },
+  {
+    "native": "横浜中華街",
+    "latin": "Yokohama Chinatown",
+    "country": "Japan"
+  },
+  {
+    "native": "熱海",
+    "latin": "Atami",
+    "country": "Japan"
+  },
+  {
+    "native": "箱根",
+    "latin": "Hakone",
+    "country": "Japan"
+  },
+  {
+    "native": "日光",
+    "latin": "Nikko",
+    "country": "Japan"
+  },
+  {
+    "native": "軽井沢",
+    "latin": "Karuizawa",
+    "country": "Japan"
+  },
+  {
+    "native": "富士山",
+    "latin": "Mount Fuji",
+    "country": "Japan"
+  },
+  {
+    "native": "白川郷",
+    "latin": "Shirakawago",
+    "country": "Japan"
+  },
+  {
+    "native": "伊勢",
+    "latin": "Ise",
+    "country": "Japan"
+  },
+  {
+    "native": "出雲",
+    "latin": "Izumo",
+    "country": "Japan"
+  },
+  {
+    "native": "小樽",
+    "latin": "Otaru",
+    "country": "Japan"
+  },
+  {
+    "native": "函館",
+    "latin": "Hakodate",
+    "country": "Japan"
+  },
+  {
+    "native": "知床",
+    "latin": "Shiretoko",
+    "country": "Japan"
+  },
+  {
+    "native": "美瑛",
+    "latin": "Biei",
+    "country": "Japan"
+  },
+  {
+    "native": "富良野",
+    "latin": "Furano",
+    "country": "Japan"
+  },
+  {
+    "native": "清水寺",
+    "latin": "Kiyomizudera",
+    "country": "Japan"
+  },
+  {
+    "native": "金閣寺",
+    "latin": "Kinkakuji",
+    "country": "Japan"
+  },
+  {
+    "native": "伏見稲荷",
+    "latin": "Fushimi Inari",
+    "country": "Japan"
+  },
+  {
+    "native": "道後温泉",
+    "latin": "Dogo Onsen",
+    "country": "Japan"
+  },
+  {
+    "native": "鎌倉",
+    "latin": "Kamakura",
+    "country": "Japan"
+  },
+  {
+    "native": "長崎",
+    "latin": "Nagasaki",
+    "country": "Japan"
+  },
+  {
+    "native": "別府",
+    "latin": "Beppu",
+    "country": "Japan"
+  },
+  {
+    "native": "湯布院",
+    "latin": "Yufuin",
+    "country": "Japan"
+  },
+  {
+    "native": "日田",
+    "latin": "Hita",
+    "country": "Japan"
+  },
+  {
+    "native": "中津",
+    "latin": "Nakatsu",
+    "country": "Japan"
+  },
+  {
+    "native": "宇佐",
+    "latin": "Usa",
+    "country": "Japan"
+  },
+  {
+    "native": "佐伯",
+    "latin": "Saiki",
+    "country": "Japan"
+  },
+  {
+    "native": "臼杵",
+    "latin": "Usuki",
+    "country": "Japan"
+  },
+  {
+    "native": "津久見",
+    "latin": "Tsukumi",
+    "country": "Japan"
+  },
+  {
+    "native": "竹田",
+    "latin": "Taketa",
+    "country": "Japan"
+  },
+  {
+    "native": "豊後高田",
+    "latin": "Bungotakada",
+    "country": "Japan"
+  },
+  {
+    "native": "杵築",
+    "latin": "Kitsuki",
+    "country": "Japan"
+  },
+  {
+    "native": "国東",
+    "latin": "Kunisaki",
+    "country": "Japan"
+  },
+  {
+    "native": "豊後大野",
+    "latin": "Bungo-ono",
+    "country": "Japan"
+  },
+  {
+    "native": "由布",
+    "latin": "Yufu",
+    "country": "Japan"
+  },
+  {
+    "native": "佐世保",
+    "latin": "Sasebo",
+    "country": "Japan"
+  },
+  {
+    "native": "諫早",
+    "latin": "Isahaya",
+    "country": "Japan"
+  },
+  {
+    "native": "大村",
+    "latin": "Omura",
+    "country": "Japan"
+  },
+  {
+    "native": "平戸",
+    "latin": "Hirado",
+    "country": "Japan"
+  },
+  {
+    "native": "松浦",
+    "latin": "Matsuura",
+    "country": "Japan"
+  },
+  {
+    "native": "対馬",
+    "latin": "Tsushima",
+    "country": "Japan"
+  },
+  {
+    "native": "壱岐",
+    "latin": "Iki",
+    "country": "Japan"
+  },
+  {
+    "native": "五島",
+    "latin": "Goto",
+    "country": "Japan"
+  },
+  {
+    "native": "西海",
+    "latin": "Saikai",
+    "country": "Japan"
+  },
+  {
+    "native": "雲仙",
+    "latin": "Unzen",
+    "country": "Japan"
+  },
+  {
+    "native": "南島原",
+    "latin": "Minamishimabara",
+    "country": "Japan"
+  },
+  {
+    "native": "熊本",
+    "latin": "Kumamoto",
+    "country": "Japan"
+  },
+  {
+    "native": "八代",
+    "latin": "Yatsushiro",
+    "country": "Japan"
+  },
+  {
+    "native": "人吉",
+    "latin": "Hitoyoshi",
+    "country": "Japan"
+  },
+  {
+    "native": "荒尾",
+    "latin": "Arao",
+    "country": "Japan"
+  },
+  {
+    "native": "水俣",
+    "latin": "Minamata",
+    "country": "Japan"
+  },
+  {
+    "native": "玉名",
+    "latin": "Tamana",
+    "country": "Japan"
+  },
+  {
+    "native": "山鹿",
+    "latin": "Yamaga",
+    "country": "Japan"
+  },
+  {
+    "native": "菊池",
+    "latin": "Kikuchi",
+    "country": "Japan"
+  },
+  {
+    "native": "宇土",
+    "latin": "Uto",
+    "country": "Japan"
+  },
+  {
+    "native": "上天草",
+    "latin": "Kamiamakusa",
+    "country": "Japan"
+  },
+  {
+    "native": "天草",
+    "latin": "Amakusa",
+    "country": "Japan"
+  },
+  {
+    "native": "合志",
+    "latin": "Koshi",
+    "country": "Japan"
+  },
+  {
+    "native": "阿蘇",
+    "latin": "Aso",
+    "country": "Japan"
+  },
+  {
+    "native": "宮崎",
+    "latin": "Miyazaki",
+    "country": "Japan"
+  },
+  {
+    "native": "都城",
+    "latin": "Miyakonojo",
+    "country": "Japan"
+  },
+  {
+    "native": "延岡",
+    "latin": "Nobeoka",
+    "country": "Japan"
+  },
+  {
+    "native": "日南",
+    "latin": "Nichinan",
+    "country": "Japan"
+  },
+  {
+    "native": "小林",
+    "latin": "Kobayashi",
+    "country": "Japan"
+  },
+  {
+    "native": "日向",
+    "latin": "Hyuga",
+    "country": "Japan"
+  },
+  {
+    "native": "串間",
+    "latin": "Kushima",
+    "country": "Japan"
+  },
+  {
+    "native": "えびの",
+    "latin": "Ebino",
+    "country": "Japan"
+  },
+  {
+    "native": "鹿児島",
+    "latin": "Kagoshima",
+    "country": "Japan"
+  },
+  {
+    "native": "鹿屋",
+    "latin": "Kanoya",
+    "country": "Japan"
+  },
+  {
+    "native": "枕崎",
+    "latin": "Makurazaki",
+    "country": "Japan"
+  },
+  {
+    "native": "阿久根",
+    "latin": "Akune",
+    "country": "Japan"
+  },
+  {
+    "native": "出水",
+    "latin": "Izumi",
+    "country": "Japan"
+  },
+  {
+    "native": "指宿",
+    "latin": "Ibusuki",
+    "country": "Japan"
+  },
+  {
+    "native": "西之表",
+    "latin": "Nishinoomote",
+    "country": "Japan"
+  },
+  {
+    "native": "奄美",
+    "latin": "Amami",
+    "country": "Japan"
+  },
+  {
+    "native": "南種子",
+    "latin": "Minamitane",
+    "country": "Japan"
+  },
+  {
+    "native": "屋久島",
+    "latin": "Yakushima",
+    "country": "Japan"
+  },
+  {
+    "native": "徳之島",
+    "latin": "Tokunoshima",
+    "country": "Japan"
+  },
+  {
+    "native": "沖縄",
+    "latin": "Okinawa",
+    "country": "Japan"
+  },
+  {
+    "native": "宜野湾",
+    "latin": "Ginowan",
+    "country": "Japan"
+  },
+  {
+    "native": "石垣",
+    "latin": "Ishigaki",
+    "country": "Japan"
+  },
+  {
+    "native": "浦添",
+    "latin": "Urasoe",
+    "country": "Japan"
+  },
+  {
+    "native": "名護",
+    "latin": "Nago",
+    "country": "Japan"
+  },
+  {
+    "native": "糸満",
+    "latin": "Itoman",
+    "country": "Japan"
+  },
+  {
+    "native": "沖縄市",
+    "latin": "Okinawa City",
+    "country": "Japan"
+  },
+  {
+    "native": "豊見城",
+    "latin": "Tomigusuku",
+    "country": "Japan"
+  },
+  {
+    "native": "宮古島",
+    "latin": "Miyakojima",
+    "country": "Japan"
+  },
+  {
+    "native": "南城",
+    "latin": "Nanjo",
+    "country": "Japan"
+  },
+  {
+    "native": "厚木",
+    "latin": "Atsugi",
+    "country": "Japan"
+  },
+  {
+    "native": "相模原",
+    "latin": "Sagamihara",
+    "country": "Japan"
+  },
+  {
+    "native": "平塚",
+    "latin": "Hiratsuka",
+    "country": "Japan"
+  },
+  {
+    "native": "藤沢",
+    "latin": "Fujisawa",
+    "country": "Japan"
+  },
+  {
+    "native": "小田原",
+    "latin": "Odawara",
+    "country": "Japan"
+  },
+  {
+    "native": "茅ヶ崎",
+    "latin": "Chigasaki",
+    "country": "Japan"
+  },
+  {
+    "native": "大和",
+    "latin": "Yamato",
+    "country": "Japan"
+  },
+  {
+    "native": "鎌倉",
+    "latin": "Kamakura",
+    "country": "Japan"
+  },
+  {
+    "native": "逗子",
+    "latin": "Zushi",
+    "country": "Japan"
+  },
+  {
+    "native": "三浦",
+    "latin": "Miura",
+    "country": "Japan"
+  },
+  {
+    "native": "秦野",
+    "latin": "Hadano",
+    "country": "Japan"
+  },
+  {
+    "native": "伊勢原",
+    "latin": "Isehara",
+    "country": "Japan"
+  },
+  {
+    "native": "海老名",
+    "latin": "Ebina",
+    "country": "Japan"
+  },
+  {
+    "native": "座間",
+    "latin": "Zama",
+    "country": "Japan"
+  },
+  {
+    "native": "綾瀬",
+    "latin": "Ayase",
+    "country": "Japan"
+  },
+  {
+    "native": "笛吹",
+    "latin": "Fuefuki",
+    "country": "Japan"
+  },
+  {
+    "native": "山梨",
+    "latin": "Yamanashi",
+    "country": "Japan"
+  },
+  {
+    "native": "甲府",
+    "latin": "Kofu",
+    "country": "Japan"
+  },
+  {
+    "native": "韮崎",
+    "latin": "Nirasaki",
+    "country": "Japan"
+  },
+  {
+    "native": "南アルプス",
+    "latin": "Minami Alps",
+    "country": "Japan"
+  },
+  {
+    "native": "北杜",
+    "latin": "Hokuto",
+    "country": "Japan"
+  },
+  {
+    "native": "甲斐",
+    "latin": "Kai",
+    "country": "Japan"
+  },
+  {
+    "native": "富士吉田",
+    "latin": "Fujiyoshida",
+    "country": "Japan"
+  },
+  {
+    "native": "都留",
+    "latin": "Tsuru",
+    "country": "Japan"
+  },
+  {
+    "native": "大月",
+    "latin": "Otsuki",
+    "country": "Japan"
+  },
+  {
+    "native": "上野原",
+    "latin": "Uenohara",
+    "country": "Japan"
+  },
+  {
+    "native": "長野",
+    "latin": "Nagano",
+    "country": "Japan"
+  },
+  {
+    "native": "松本",
+    "latin": "Matsumoto",
+    "country": "Japan"
+  },
+  {
+    "native": "上田",
+    "latin": "Ueda",
+    "country": "Japan"
+  },
+  {
+    "native": "飯田",
+    "latin": "Iida",
+    "country": "Japan"
+  },
+  {
+    "native": "須坂",
+    "latin": "Suzaka",
+    "country": "Japan"
+  },
+  {
+    "native": "小諸",
+    "latin": "Komoro",
+    "country": "Japan"
+  },
+  {
+    "native": "中野",
+    "latin": "Nakano",
+    "country": "Japan"
+  },
+  {
+    "native": "大町",
+    "latin": "Omachi",
+    "country": "Japan"
+  },
+  {
+    "native": "千曲",
+    "latin": "Chikuma",
+    "country": "Japan"
+  },
+  {
+    "native": "佐久",
+    "latin": "Saku",
+    "country": "Japan"
+  },
+  {
+    "native": "軽井沢",
+    "latin": "Karuizawa",
+    "country": "Japan"
+  },
+  {
+    "native": "岡谷",
+    "latin": "Okaya",
+    "country": "Japan"
+  },
+  {
+    "native": "諏訪",
+    "latin": "Suwa",
+    "country": "Japan"
+  },
+  {
+    "native": "茅野",
+    "latin": "Chino",
+    "country": "Japan"
+  },
+  {
+    "native": "富士見",
+    "latin": "Fujimi",
+    "country": "Japan"
+  },
+  {
+    "native": "原村",
+    "latin": "Hara",
+    "country": "Japan"
+  },
+  {
+    "native": "伊那",
+    "latin": "Ina",
+    "country": "Japan"
+  },
+  {
+    "native": "駒ヶ根",
+    "latin": "Komagane",
+    "country": "Japan"
+  },
+  {
+    "native": "安曇野",
+    "latin": "Azumino",
+    "country": "Japan"
+  },
+  {
+    "native": "高山",
+    "latin": "Takayama",
+    "country": "Japan"
+  },
+  {
+    "native": "飛騨",
+    "latin": "Hida",
+    "country": "Japan"
+  },
+  {
+    "native": "岐阜",
+    "latin": "Gifu",
+    "country": "Japan"
+  },
+  {
+    "native": "大垣",
+    "latin": "Ogaki",
+    "country": "Japan"
+  },
+  {
+    "native": "各務原",
+    "latin": "Kakamigahara",
+    "country": "Japan"
+  },
+  {
+    "native": "可児",
+    "latin": "Kani",
+    "country": "Japan"
+  },
+  {
+    "native": "多治見",
+    "latin": "Tajimi",
+    "country": "Japan"
+  },
+  {
+    "native": "中津川",
+    "latin": "Nakatsugawa",
+    "country": "Japan"
+  },
+  {
+    "native": "美濃",
+    "latin": "Mino",
+    "country": "Japan"
+  },
+  {
+    "native": "瑞浪",
+    "latin": "Mizunami",
+    "country": "Japan"
+  },
+  {
+    "native": "恵那",
+    "latin": "Ena",
+    "country": "Japan"
+  },
+  {
+    "native": "郡上",
+    "latin": "Gujo",
+    "country": "Japan"
+  },
+  {
+    "native": "下呂",
+    "latin": "Gero",
+    "country": "Japan"
+  },
+  {
+    "native": "海津",
+    "latin": "Kaizu",
+    "country": "Japan"
+  },
+  {
+    "native": "羽島",
+    "latin": "Hashima",
+    "country": "Japan"
+  },
+  {
+    "native": "養老",
+    "latin": "Yoro",
+    "country": "Japan"
+  },
+  {
+    "native": "静岡",
+    "latin": "Shizuoka",
+    "country": "Japan"
+  },
+  {
+    "native": "浜松",
+    "latin": "Hamamatsu",
+    "country": "Japan"
+  },
+  {
+    "native": "沼津",
+    "latin": "Numazu",
+    "country": "Japan"
+  },
+  {
+    "native": "富士",
+    "latin": "Fuji",
+    "country": "Japan"
+  },
+  {
+    "native": "磐田",
+    "latin": "Iwata",
+    "country": "Japan"
+  },
+  {
+    "native": "焼津",
+    "latin": "Yaizu",
+    "country": "Japan"
+  },
+  {
+    "native": "掛川",
+    "latin": "Kakegawa",
+    "country": "Japan"
+  },
+  {
+    "native": "藤枝",
+    "latin": "Fujieda",
+    "country": "Japan"
+  },
+  {
+    "native": "御殿場",
+    "latin": "Gotenba",
+    "country": "Japan"
+  },
+  {
+    "native": "三島",
+    "latin": "Mishima",
+    "country": "Japan"
+  },
+  {
+    "native": "裾野",
+    "latin": "Susono",
+    "country": "Japan"
+  },
+  {
+    "native": "伊東",
+    "latin": "Ito",
+    "country": "Japan"
+  },
+  {
+    "native": "熱海",
+    "latin": "Atami",
+    "country": "Japan"
+  },
+  {
+    "native": "下田",
+    "latin": "Shimoda",
+    "country": "Japan"
+  },
+  {
+    "native": "伊豆",
+    "latin": "Izu",
+    "country": "Japan"
+  },
+  {
+    "native": "湖西",
+    "latin": "Kosai",
+    "country": "Japan"
+  },
+  {
+    "native": "牧之原",
+    "latin": "Makinohara",
+    "country": "Japan"
+  },
+  {
+    "native": "菊川",
+    "latin": "Kikugawa",
+    "country": "Japan"
+  },
+  {
+    "native": "吉田",
+    "latin": "Yoshida",
+    "country": "Japan"
+  },
+  {
+    "native": "名古屋",
+    "latin": "Nagoya",
+    "country": "Japan"
+  },
+  {
+    "native": "豊橋",
+    "latin": "Toyohashi",
+    "country": "Japan"
+  },
+  {
+    "native": "岡崎",
+    "latin": "Okazaki",
+    "country": "Japan"
+  },
+  {
+    "native": "一宮",
+    "latin": "Ichinomiya",
+    "country": "Japan"
+  },
+  {
+    "native": "春日井",
+    "latin": "Kasugai",
+    "country": "Japan"
+  },
+  {
+    "native": "豊田",
+    "latin": "Toyota",
+    "country": "Japan"
+  },
+  {
+    "native": "豊川",
+    "latin": "Toyokawa",
+    "country": "Japan"
+  },
+  {
+    "native": "瀬戸",
+    "latin": "Seto",
+    "country": "Japan"
+  },
+  {
+    "native": "半田",
+    "latin": "Handa",
+    "country": "Japan"
+  },
+  {
+    "native": "刈谷",
+    "latin": "Kariya",
+    "country": "Japan"
+  },
+  {
+    "native": "安城",
+    "latin": "Anjo",
+    "country": "Japan"
+  },
+  {
+    "native": "西尾",
+    "latin": "Nishio",
+    "country": "Japan"
+  },
+  {
+    "native": "小牧",
+    "latin": "Komaki",
+    "country": "Japan"
+  },
+  {
+    "native": "犬山",
+    "latin": "Inuyama",
+    "country": "Japan"
+  },
+  {
+    "native": "津島",
+    "latin": "Tsushima",
+    "country": "Japan"
+  },
+  {
+    "native": "江南",
+    "latin": "Konan",
+    "country": "Japan"
+  },
+  {
+    "native": "稲沢",
+    "latin": "Inazawa",
+    "country": "Japan"
+  },
+  {
+    "native": "尾張旭",
+    "latin": "Owariasahi",
+    "country": "Japan"
+  },
+  {
+    "native": "大府",
+    "latin": "Obu",
+    "country": "Japan"
+  },
+  {
+    "native": "知立",
+    "latin": "Chiryu",
+    "country": "Japan"
+  },
+  {
+    "native": "高浜",
+    "latin": "Takahama",
+    "country": "Japan"
+  },
+  {
+    "native": "碧南",
+    "latin": "Hekinan",
+    "country": "Japan"
+  },
+  {
+    "native": "東海",
+    "latin": "Tokai",
+    "country": "Japan"
+  },
+  {
+    "native": "弥富",
+    "latin": "Yatomi",
+    "country": "Japan"
+  },
+  {
+    "native": "みよし",
+    "latin": "Miyoshi",
+    "country": "Japan"
+  },
+  {
+    "native": "長久手",
+    "latin": "Nagakute",
+    "country": "Japan"
+  },
+  {
+    "native": "日進",
+    "latin": "Nisshin",
+    "country": "Japan"
+  },
+  {
+    "native": "北名古屋",
+    "latin": "Kitanagoya",
+    "country": "Japan"
+  },
+  {
+    "native": "知多",
+    "latin": "Chita",
+    "country": "Japan"
+  },
+  {
+    "native": "常滑",
+    "latin": "Tokoname",
+    "country": "Japan"
+  },
+  {
+    "native": "津",
+    "latin": "Tsu",
+    "country": "Japan"
+  },
+  {
+    "native": "四日市",
+    "latin": "Yokkaichi",
+    "country": "Japan"
+  },
+  {
+    "native": "鈴鹿",
+    "latin": "Suzuka",
+    "country": "Japan"
+  },
+  {
+    "native": "桑名",
+    "latin": "Kuwana",
+    "country": "Japan"
+  },
+  {
+    "native": "松阪",
+    "latin": "Matsusaka",
+    "country": "Japan"
+  },
+  {
+    "native": "伊勢",
+    "latin": "Ise",
+    "country": "Japan"
+  },
+  {
+    "native": "伊賀",
+    "latin": "Iga",
+    "country": "Japan"
+  },
+  {
+    "native": "尾鷲",
+    "latin": "Owase",
+    "country": "Japan"
+  },
+  {
+    "native": "熊野",
+    "latin": "Kumano",
+    "country": "Japan"
+  },
+  {
+    "native": "志摩",
+    "latin": "Shima",
+    "country": "Japan"
+  },
+  {
+    "native": "鳥羽",
+    "latin": "Toba",
+    "country": "Japan"
+  },
+  {
+    "native": "亀山",
+    "latin": "Kameyama",
+    "country": "Japan"
+  },
+  {
+    "native": "名張",
+    "latin": "Nabari",
+    "country": "Japan"
+  },
+  {
+    "native": "いなべ",
+    "latin": "Inabe",
+    "country": "Japan"
+  },
+  {
+    "native": "東員",
+    "latin": "Toin",
+    "country": "Japan"
+  },
+  {
+    "native": "菰野",
+    "latin": "Komono",
+    "country": "Japan"
+  },
+  {
+    "native": "朝日",
+    "latin": "Asahi",
+    "country": "Japan"
+  },
+  {
+    "native": "川越",
+    "latin": "Kawagoe",
+    "country": "Japan"
+  },
+  {
+    "native": "蕨",
+    "latin": "Warabi",
+    "country": "Japan"
+  },
+  {
+    "native": "所沢",
+    "latin": "Tokorozawa",
+    "country": "Japan"
+  },
+  {
+    "native": "狭山",
+    "latin": "Sayama",
+    "country": "Japan"
+  },
+  {
+    "native": "上尾",
+    "latin": "Ageo",
+    "country": "Japan"
+  },
+  {
+    "native": "草加",
+    "latin": "Soka",
+    "country": "Japan"
+  },
+  {
+    "native": "越谷",
+    "latin": "Koshigaya",
+    "country": "Japan"
+  },
+  {
+    "native": "戸田",
+    "latin": "Toda",
+    "country": "Japan"
+  },
+  {
+    "native": "入間",
+    "latin": "Iruma",
+    "country": "Japan"
+  },
+  {
+    "native": "朝霞",
+    "latin": "Asaka",
+    "country": "Japan"
+  },
+  {
+    "native": "志木",
+    "latin": "Shiki",
+    "country": "Japan"
+  },
+  {
+    "native": "和光",
+    "latin": "Wako",
+    "country": "Japan"
+  },
+  {
+    "native": "新座",
+    "latin": "Niiza",
+    "country": "Japan"
+  },
+  {
+    "native": "富士見",
+    "latin": "Fujimi",
+    "country": "Japan"
+  },
+  {
+    "native": "ふじみ野",
+    "latin": "Fujimino",
+    "country": "Japan"
+  },
+  {
+    "native": "坂戸",
+    "latin": "Sakado",
+    "country": "Japan"
+  },
+  {
+    "native": "鶴ヶ島",
+    "latin": "Tsurugashima",
+    "country": "Japan"
+  },
+  {
+    "native": "日高",
+    "latin": "Hidaka",
+    "country": "Japan"
+  },
+  {
+    "native": "飯能",
+    "latin": "Hanno",
+    "country": "Japan"
+  },
+  {
+    "native": "秩父",
+    "latin": "Chichibu",
+    "country": "Japan"
+  },
+  {
+    "native": "本庄",
+    "latin": "Honjo",
+    "country": "Japan"
+  },
+  {
+    "native": "深谷",
+    "latin": "Fukaya",
+    "country": "Japan"
+  },
+  {
+    "native": "熊谷",
+    "latin": "Kumagaya",
+    "country": "Japan"
+  },
+  {
+    "native": "行田",
+    "latin": "Gyoda",
+    "country": "Japan"
+  },
+  {
+    "native": "加須",
+    "latin": "Kazo",
+    "country": "Japan"
+  },
+  {
+    "native": "羽生",
+    "latin": "Hanyu",
+    "country": "Japan"
+  },
+  {
+    "native": "鴻巣",
+    "latin": "Konosu",
+    "country": "Japan"
+  }
 ]
